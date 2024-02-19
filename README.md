@@ -24,4 +24,4 @@ Se vuoi contribuire al nostro sito, puoi inviarci le tue pagine di diario, diari
 
 Grazie per aver visitato Beneinst, siamo felici di condividere con te questa avventura di scrittura e creatività.
 
-Gerardo D'Orrico | CEO, Beneinst.it# beneinst.it
+Gerardo D'Orrico | CEO, Beneinst
