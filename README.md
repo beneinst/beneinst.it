@@ -20,7 +20,7 @@ Siamo presenti su diverse piattaforme social, seguiteci per rimanere aggiornati 
 
 ## Come contribuire?
 
-Se vuoi contribuire al nostro sito, puoi inviarci le tue pagine di diario, diari interi, quadri, disegni o file audiolibri tramite il nostro modulo di contatto o via email. Ti chiediamo di rispettare le nostre linee guida editoriali, che puoi trovare qui: https://beneinst.it/linee-guida-editoriali/
+Se vuoi contribuire al nostro sito, puoi inviarci le tue pagine di diario, diari interi, quadri, disegni o file audiolibri tramite il nostro modulo di contatto o via email. Ti chiediamo di rispettare le nostre linee guida editoriali, che puoi trovare qui: https://beneinst.github.io/beneinst.it/invia-a-sed-etiam.html
 
 Grazie per aver visitato Beneinst, siamo felici di condividere con te questa avventura di scrittura e creatività.
 
