@@ -1,42 +1,42 @@
-@font-face {
+﻿@font-face {
   font-family: 'Averia Libre';
   font-style: italic;
   font-weight: 300;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/averialibre/v16/2V0HKIcMGZEnV6xygz7eNjESAJFhbXTu0pU.ttf) format('truetype');
+  src: url(s/averialibre/v16/2V0HKIcMGZEnV6xygz7eNjESAJFhbXTu0pU.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Averia Libre';
   font-style: italic;
   font-weight: 400;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/averialibre/v16/2V0EKIcMGZEnV6xygz7eNjESAJnKT2Q.ttf) format('truetype');
+  src: url(s/averialibre/v16/2V0EKIcMGZEnV6xygz7eNjESAJnKT2Q.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Averia Libre';
   font-style: italic;
   font-weight: 700;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/averialibre/v16/2V0HKIcMGZEnV6xygz7eNjESAJFxanTu0pU.ttf) format('truetype');
+  src: url(s/averialibre/v16/2V0HKIcMGZEnV6xygz7eNjESAJFxanTu0pU.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Averia Libre';
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/averialibre/v16/2V0FKIcMGZEnV6xygz7eNjEarovdaETp.ttf) format('truetype');
+  src: url(s/averialibre/v16/2V0FKIcMGZEnV6xygz7eNjEarovdaETp.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Averia Libre';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/averialibre/v16/2V0aKIcMGZEnV6xygz7eNjESBanN.ttf) format('truetype');
+  src: url(s/averialibre/v16/2V0aKIcMGZEnV6xygz7eNjESBanN.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Averia Libre';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/averialibre/v16/2V0FKIcMGZEnV6xygz7eNjEavozdaETp.ttf) format('truetype');
+  src: url(s/averialibre/v16/2V0FKIcMGZEnV6xygz7eNjEavozdaETp.ttf) format('truetype');
 }

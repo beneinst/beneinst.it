@@ -4070,7 +4070,7 @@ Uri: http://192.168.229.130/luigi-pirandello.html
 File Name: C:\Downloaded Web Sites\192.168.229.130\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.229.130/media/com_wrapper/js/iframe-height.min.js?44a609
+Uri: http://192.168.229.130/media/com_wrapper/js/iframe-height.min.js?44afa5
 File Name: C:\Downloaded Web Sites\192.168.229.130\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -4342,6 +4342,46 @@ Uri: http://fonts.googleapis.com/css?family=Homenaje:100,100i,200,200i,300,300i,
 File Name: C:\Downloaded Web Sites\192.168.229.130\css-2
 Content Type: text/css
 
+Uri: http://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3b2q7TUFMg.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3b2q7TUFMg-1.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3dGq7TUFMg.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3dGq7TUFMg-1.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-q7TUFMg.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-q7TUFMg-1.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-t7TUFMg.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-t7TUFMg-1.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Sat7TUFMg.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Sat7TUFMg-1.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3VGt7TUFMg.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3VGt7TUFMg-1.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Wit7TUFMg.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Wit7TUFMg-1.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-q7TUFMg.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-q7TUFMg-1.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-r7TUFMg.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-r7TUFMg-1.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/homenaje/v16/FwZY7-Q-xVAi_l-6Le6H6Mw.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\homenaje\v16\FwZY7-Q-xVAi_l-6Le6H6Mw.ttf
+Content Type: font/ttf
+
 Uri: https://fonts.googleapis.com/css?family=Alegreya:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
 File Name: C:\Downloaded Web Sites\192.168.229.130\css-1
 Content Type: text/css
@@ -4353,4 +4393,156 @@ Content Type: text/css
 Uri: https://fonts.googleapis.com/css?family=Big Shoulders Text:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
 File Name: C:\Downloaded Web Sites\192.168.229.130\css
 Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Biryani:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\192.168.229.130\css-5
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/alegreya/v35/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNG9hU4-6qm.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\alegreya\v35\4UacrEBBsBhlBjvfkQjt71kZfyBzPgNG9hU4-6qm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/alegreya/v35/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGdhI4-6qm.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\alegreya\v35\4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGdhI4-6qm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/alegreya/v35/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGERI4-6qm.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\alegreya\v35\4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGERI4-6qm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/alegreya/v35/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGKBI4-6qm.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\alegreya\v35\4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGKBI4-6qm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/alegreya/v35/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGxBU4-6qm.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\alegreya\v35\4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGxBU4-6qm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/alegreya/v35/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGXxI4-6qm.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\alegreya\v35\4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGXxI4-6qm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/alegreya/v35/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlbgv5qhmSA.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\alegreya\v35\4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlbgv5qhmSA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/alegreya/v35/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlbSv5qhmSA.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\alegreya\v35\4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlbSv5qhmSA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/alegreya/v35/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlY-uJqhmSA.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\alegreya\v35\4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlY-uJqhmSA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/alegreya/v35/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlYHuJqhmSA.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\alegreya\v35\4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlYHuJqhmSA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/alegreya/v35/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlZguJqhmSA.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\alegreya\v35\4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlZguJqhmSA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/alegreya/v35/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlZJuJqhmSA.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\alegreya\v35\4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlZJuJqhmSA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0aKIcMGZEnV6xygz7eNjESBanN.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\averialibre\v16\2V0aKIcMGZEnV6xygz7eNjESBanN.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0EKIcMGZEnV6xygz7eNjESAJnKT2Q.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\averialibre\v16\2V0EKIcMGZEnV6xygz7eNjESAJnKT2Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0FKIcMGZEnV6xygz7eNjEarovdaETp.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\averialibre\v16\2V0FKIcMGZEnV6xygz7eNjEarovdaETp.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0FKIcMGZEnV6xygz7eNjEavozdaETp.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\averialibre\v16\2V0FKIcMGZEnV6xygz7eNjEavozdaETp.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0HKIcMGZEnV6xygz7eNjESAJFhbXTu0pU.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\averialibre\v16\2V0HKIcMGZEnV6xygz7eNjESAJFhbXTu0pU.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0HKIcMGZEnV6xygz7eNjESAJFxanTu0pU.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\averialibre\v16\2V0HKIcMGZEnV6xygz7eNjESAJFxanTu0pU.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3b2q7TUFMg.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3b2q7TUFMg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3dGq7TUFMg.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3dGq7TUFMg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-q7TUFMg.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-q7TUFMg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-t7TUFMg.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-t7TUFMg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Sat7TUFMg.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Sat7TUFMg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3VGt7TUFMg.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3VGt7TUFMg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Wit7TUFMg.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Wit7TUFMg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-q7TUFMg.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-q7TUFMg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-r7TUFMg.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-r7TUFMg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84Yddcg0KTdYVw.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\biryani\v13\hv-TlzNxIFoO84Yddcg0KTdYVw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddeAxKTdYVw.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\biryani\v13\hv-TlzNxIFoO84YddeAxKTdYVw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84Yddew1KTdYVw.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\biryani\v13\hv-TlzNxIFoO84Yddew1KTdYVw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddfA2KTdYVw.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\biryani\v13\hv-TlzNxIFoO84YddfA2KTdYVw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddYQyKTdYVw.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\biryani\v13\hv-TlzNxIFoO84YddYQyKTdYVw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddZQ3KTdYVw.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\biryani\v13\hv-TlzNxIFoO84YddZQ3KTdYVw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/biryani/v13/hv-WlzNxIFoO84YdfUsTOQ.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\biryani\v13\hv-WlzNxIFoO84YdfUsTOQ.ttf
+Content Type: font/ttf
+
+Uri: https://gateway.pinata.cloud/ipfs/QmR4QaYQoywJCsyb7FgZZm3AZjcyBm4TSnBLJrLjBxpGah/Di Franco Bazzarelli.pdf
+File Name: C:\Downloaded Web Sites\192.168.229.130\ipfs\QmR4QaYQoywJCsyb7FgZZm3AZjcyBm4TSnBLJrLjBxpGah\Di Franco Bazzarelli.pdf
+Content Type: application/pdf
+
+Uri: https://static.copyrighted.com/badges/125x25/04_1_2x.png
+File Name: C:\Downloaded Web Sites\192.168.229.130\badges\125x25\04_1_2x.png
+Content Type: image/png
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-37P9KCN6WS
+File Name: C:\Downloaded Web Sites\192.168.229.130\gtag\js
+Content Type: application/javascript
 
