@@ -1958,6 +1958,10 @@ Uri: http://192.168.229.130/images/2024/02/14/sgonip2s.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.130\images\2024\02\14\sgonip2s.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.229.130/images/2024/02/27/planimetrie-ed-edificio.jpg
+File Name: C:\Downloaded Web Sites\192.168.229.130\images\2024\02\27\planimetrie-ed-edificio.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.229.130/images/Componenti/1ff.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.130\images\Componenti\1ff.jpg
 Content Type: image/jpeg
@@ -4066,7 +4070,7 @@ Uri: http://192.168.229.130/luigi-pirandello.html
 File Name: C:\Downloaded Web Sites\192.168.229.130\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.229.130/media/com_wrapper/js/iframe-height.min.js?961c57
+Uri: http://192.168.229.130/media/com_wrapper/js/iframe-height.min.js?873b16
 File Name: C:\Downloaded Web Sites\192.168.229.130\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
