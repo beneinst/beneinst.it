@@ -1,63 +1,7 @@
 ﻿@font-face {
-  font-family: 'Big Shoulders Text';
-  font-style: normal;
-  font-weight: 100;
-  font-display: swap;
-  src: url(s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-r7TUFMg-1.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Big Shoulders Text';
-  font-style: normal;
-  font-weight: 200;
-  font-display: swap;
-  src: url(s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-q7TUFMg-1.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Big Shoulders Text';
-  font-style: normal;
-  font-weight: 300;
-  font-display: swap;
-  src: url(s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3dGq7TUFMg-1.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Big Shoulders Text';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-q7TUFMg-1.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Big Shoulders Text';
-  font-style: normal;
-  font-weight: 500;
-  font-display: swap;
-  src: url(s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3b2q7TUFMg-1.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Big Shoulders Text';
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 600;
-  font-display: swap;
-  src: url(s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3VGt7TUFMg-1.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Big Shoulders Text';
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-  src: url(s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Wit7TUFMg-1.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Big Shoulders Text';
-  font-style: normal;
-  font-weight: 800;
-  font-display: swap;
-  src: url(s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-t7TUFMg-1.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Big Shoulders Text';
-  font-style: normal;
-  font-weight: 900;
-  font-display: swap;
-  src: url(s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Sat7TUFMg-1.ttf) format('truetype');
+  font-stretch: normal;
+  src: url(s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf) format('truetype');
 }
