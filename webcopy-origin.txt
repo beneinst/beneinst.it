@@ -2174,16 +2174,16 @@ Uri: http://192.168.229.130/images/Componenti/QR-CodeDiari/qr4-code.png
 File Name: C:\Downloaded Web Sites\192.168.229.130\images\Componenti\QR-CodeDiari\qr4-code.png
 Content Type: image/png
 
-Uri: http://192.168.229.130/images/Componenti/qwe1r.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.130\images\Componenti\qwe1r.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.229.130/images/Componenti/reply-all.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.130\images\Componenti\reply-all.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.130/images/Componenti/rounded-in-photoretrica-27.png
 File Name: C:\Downloaded Web Sites\192.168.229.130\images\Componenti\rounded-in-photoretrica-27.png
+Content Type: image/png
+
+Uri: http://192.168.229.130/images/Componenti/sfh3.png
+File Name: C:\Downloaded Web Sites\192.168.229.130\images\Componenti\sfh3.png
 Content Type: image/png
 
 Uri: http://192.168.229.130/images/Componenti/whatsapp--v1h.png
@@ -4090,7 +4090,7 @@ Uri: http://192.168.229.130/luigi-pirandello.html
 File Name: C:\Downloaded Web Sites\192.168.229.130\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.229.130/media/com_wrapper/js/iframe-height.min.js?dace7d
+Uri: http://192.168.229.130/media/com_wrapper/js/iframe-height.min.js?6b2547
 File Name: C:\Downloaded Web Sites\192.168.229.130\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -4370,7 +4370,7 @@ Uri: http://fonts.googleapis.com/css?family=Open+Sans:400
 File Name: C:\Downloaded Web Sites\192.168.229.130\css-2
 Content Type: text/css
 
-Uri: http://fonts.googleapis.com/css?family=Open+Sans:600
+Uri: http://fonts.googleapis.com/css?family=Open+Sans:500
 File Name: C:\Downloaded Web Sites\192.168.229.130\css-3
 Content Type: text/css
 
@@ -4414,8 +4414,8 @@ Uri: http://fonts.gstatic.com/s/homenaje/v16/FwZY7-Q-xVAi_l-6Le6H6Mw.ttf
 File Name: C:\Downloaded Web Sites\192.168.229.130\s\homenaje\v16\FwZY7-Q-xVAi_l-6Le6H6Mw.ttf
 Content Type: font/ttf
 
-Uri: http://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
-File Name: C:\Downloaded Web Sites\192.168.229.130\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Uri: http://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\192.168.229.130\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
