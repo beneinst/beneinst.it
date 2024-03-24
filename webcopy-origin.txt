@@ -1114,10 +1114,6 @@ Uri: http://192.168.229.130/images/2023/10/04/fileipfs3.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.130\images\2023\10\04\fileipfs3.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.229.130/images/2023/10/04/gerardo_dorrico-2021.jpg
-File Name: C:\Downloaded Web Sites\192.168.229.130\images\2023\10\04\gerardo_dorrico-2021.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.229.130/images/2023/10/04/gerardo_dorrico_2018-1.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.130\images\2023\10\04\gerardo_dorrico_2018-1.jpg
 Content Type: image/jpeg
@@ -1933,6 +1929,10 @@ Content Type: image/jpeg
 Uri: http://192.168.229.130/images/2024/02/27/planimetrie-ed-edificio.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.130\images\2024\02\27\planimetrie-ed-edificio.jpg
 Content Type: image/jpeg
+
+Uri: http://192.168.229.130/images/2024/03/24/rounded-in-photoretrica-50.png
+File Name: C:\Downloaded Web Sites\192.168.229.130\images\2024\03\24\rounded-in-photoretrica-50.png
+Content Type: image/png
 
 Uri: http://192.168.229.130/images/Componenti/1ff.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.130\images\Componenti\1ff.jpg
@@ -4661,10 +4661,6 @@ Content Type: font/ttf
 Uri: https://gateway.pinata.cloud/ipfs/QmR4QaYQoywJCsyb7FgZZm3AZjcyBm4TSnBLJrLjBxpGah/Di Franco Bazzarelli.pdf
 File Name: C:\Downloaded Web Sites\192.168.229.130\ipfs\QmR4QaYQoywJCsyb7FgZZm3AZjcyBm4TSnBLJrLjBxpGah\Di Franco Bazzarelli.pdf
 Content Type: application/pdf
-
-Uri: https://static.copyrighted.com/badges/125x25/04_1_2x.png
-File Name: C:\Downloaded Web Sites\192.168.229.130\badges\125x25\04_1_2x.png
-Content Type: image/png
 
 Uri: https://www.googletagmanager.com/gtag/js?id=G-37P9KCN6WS
 File Name: C:\Downloaded Web Sites\192.168.229.130\gtag\js
