@@ -1162,10 +1162,6 @@ Uri: http://192.168.229.130/images/2023/10/23/diarihp.png
 File Name: C:\Downloaded Web Sites\192.168.229.130\images\2023\10\23\diarihp.png
 Content Type: image/png
 
-Uri: http://192.168.229.130/images/2023/10/23/homep.png
-File Name: C:\Downloaded Web Sites\192.168.229.130\images\2023\10\23\homep.png
-Content Type: image/png
-
 Uri: http://192.168.229.130/images/2023/10/23/letterep.png
 File Name: C:\Downloaded Web Sites\192.168.229.130\images\2023\10\23\letterep.png
 Content Type: image/png
@@ -1934,6 +1930,10 @@ Uri: http://192.168.229.130/images/2024/03/24/rounded-in-photoretrica-50.png
 File Name: C:\Downloaded Web Sites\192.168.229.130\images\2024\03\24\rounded-in-photoretrica-50.png
 Content Type: image/png
 
+Uri: http://192.168.229.130/images/2024/03/26/homedishgh.png
+File Name: C:\Downloaded Web Sites\192.168.229.130\images\2024\03\26\homedishgh.png
+Content Type: image/png
+
 Uri: http://192.168.229.130/images/Componenti/1ff.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.130\images\Componenti\1ff.jpg
 Content Type: image/jpeg
@@ -2174,16 +2174,16 @@ Uri: http://192.168.229.130/images/Componenti/QR-CodeDiari/qr4-code.png
 File Name: C:\Downloaded Web Sites\192.168.229.130\images\Componenti\QR-CodeDiari\qr4-code.png
 Content Type: image/png
 
+Uri: http://192.168.229.130/images/Componenti/qwe1b.png
+File Name: C:\Downloaded Web Sites\192.168.229.130\images\Componenti\qwe1b.png
+Content Type: image/png
+
 Uri: http://192.168.229.130/images/Componenti/reply-all.jpg
 File Name: C:\Downloaded Web Sites\192.168.229.130\images\Componenti\reply-all.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.229.130/images/Componenti/rounded-in-photoretrica-27.png
 File Name: C:\Downloaded Web Sites\192.168.229.130\images\Componenti\rounded-in-photoretrica-27.png
-Content Type: image/png
-
-Uri: http://192.168.229.130/images/Componenti/sfh3.png
-File Name: C:\Downloaded Web Sites\192.168.229.130\images\Componenti\sfh3.png
 Content Type: image/png
 
 Uri: http://192.168.229.130/images/Componenti/whatsapp--v1h.png
@@ -4026,12 +4026,16 @@ Uri: http://192.168.229.130/luigi-pirandello.html
 File Name: C:\Downloaded Web Sites\192.168.229.130\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.229.130/media/com_wrapper/js/iframe-height.min.js?6b2547
+Uri: http://192.168.229.130/media/com_wrapper/js/iframe-height.min.js?886f8b
 File Name: C:\Downloaded Web Sites\192.168.229.130\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.229.130/media/legacy/js/jquery-noconflict.min.js?504da4
 File Name: C:\Downloaded Web Sites\192.168.229.130\media\legacy\js\jquery-noconflict.min.js
+Content Type: text/javascript
+
+Uri: http://192.168.229.130/media/plg_system_schedulerunner/js/run-schedule.min.js?6a6885
+File Name: C:\Downloaded Web Sites\192.168.229.130\media\plg_system_schedulerunner\js\run-schedule.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.229.130/media/system/js/core.min.js?83f2c9
