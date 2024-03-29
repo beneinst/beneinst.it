@@ -1998,10 +1998,6 @@ Uri: http://192.168.229.130/images/Componenti/Icone_Risorse_Home/autore.png
 File Name: C:\Downloaded Web Sites\192.168.229.130\images\Componenti\Icone_Risorse_Home\autore.png
 Content Type: image/png
 
-Uri: http://192.168.229.130/images/Componenti/Icone_Risorse_Home/beneinst.png
-File Name: C:\Downloaded Web Sites\192.168.229.130\images\Componenti\Icone_Risorse_Home\beneinst.png
-Content Type: image/png
-
 Uri: http://192.168.229.130/images/Componenti/Icone_Risorse_Home/diari.png
 File Name: C:\Downloaded Web Sites\192.168.229.130\images\Componenti\Icone_Risorse_Home\diari.png
 Content Type: image/png
@@ -2014,20 +2010,16 @@ Uri: http://192.168.229.130/images/Componenti/Icone_Risorse_Home/ebook.png
 File Name: C:\Downloaded Web Sites\192.168.229.130\images\Componenti\Icone_Risorse_Home\ebook.png
 Content Type: image/png
 
-Uri: http://192.168.229.130/images/Componenti/Icone_Risorse_Home/gdpoly.png
-File Name: C:\Downloaded Web Sites\192.168.229.130\images\Componenti\Icone_Risorse_Home\gdpoly.png
-Content Type: image/png
-
 Uri: http://192.168.229.130/images/Componenti/Icone_Risorse_Home/lettere.png
 File Name: C:\Downloaded Web Sites\192.168.229.130\images\Componenti\Icone_Risorse_Home\lettere.png
 Content Type: image/png
 
-Uri: http://192.168.229.130/images/Componenti/Icone_Risorse_Home/sedetiam.png
-File Name: C:\Downloaded Web Sites\192.168.229.130\images\Componenti\Icone_Risorse_Home\sedetiam.png
+Uri: http://192.168.229.130/images/Componenti/Icone_Risorse_Home/rounded-in-photoretrica-32.png
+File Name: C:\Downloaded Web Sites\192.168.229.130\images\Componenti\Icone_Risorse_Home\rounded-in-photoretrica-32.png
 Content Type: image/png
 
-Uri: http://192.168.229.130/images/Componenti/Icone_Risorse_Home/timeewarp.png
-File Name: C:\Downloaded Web Sites\192.168.229.130\images\Componenti\Icone_Risorse_Home\timeewarp.png
+Uri: http://192.168.229.130/images/Componenti/Icone_Risorse_Home/sedetiam.png
+File Name: C:\Downloaded Web Sites\192.168.229.130\images\Componenti\Icone_Risorse_Home\sedetiam.png
 Content Type: image/png
 
 Uri: http://192.168.229.130/images/Componenti/Icone_Social/1_6_fgYnisCa9V21mymySIvA.png
@@ -4032,10 +4024,6 @@ Content Type: text/javascript
 
 Uri: http://192.168.229.130/media/legacy/js/jquery-noconflict.min.js?504da4
 File Name: C:\Downloaded Web Sites\192.168.229.130\media\legacy\js\jquery-noconflict.min.js
-Content Type: text/javascript
-
-Uri: http://192.168.229.130/media/plg_system_schedulerunner/js/run-schedule.min.js?6a6885
-File Name: C:\Downloaded Web Sites\192.168.229.130\media\plg_system_schedulerunner\js\run-schedule.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.229.130/media/system/js/core.min.js?83f2c9
