@@ -4590,6 +4590,10 @@ Uri: https://gateway.pinata.cloud/ipfs/QmR4QaYQoywJCsyb7FgZZm3AZjcyBm4TSnBLJrLjB
 File Name: C:\Downloaded Web Sites\192.168.229.130\ipfs\QmR4QaYQoywJCsyb7FgZZm3AZjcyBm4TSnBLJrLjBxpGah\Di Franco Bazzarelli.pdf
 Content Type: application/pdf
 
+Uri: https://kit.fontawesome.com/ca444302db.js
+File Name: C:\Downloaded Web Sites\192.168.229.130\ca444302db.js
+Content Type: text/javascript
+
 Uri: https://www.googletagmanager.com/gtag/js?id=G-37P9KCN6WS
 File Name: C:\Downloaded Web Sites\192.168.229.130\gtag\js
 Content Type: application/javascript
