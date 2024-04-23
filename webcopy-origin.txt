@@ -134,7 +134,7 @@ Uri: http://192.168.229.130/charles-baudelaire.html
 File Name: C:\Downloaded Web Sites\192.168.229.130\charles-baudelaire.html
 Content Type: text/html
 
-Uri: http://192.168.229.130/components/com_sppagebuilder/assets/css/animate.min.css?217b811579be5321f877111c3a09a761
+Uri: http://192.168.229.130/components/com_sppagebuilder/assets/css/animate.min.css?b4349cf7232e6b66621e089f2b9beee5
 File Name: C:\Downloaded Web Sites\192.168.229.130\components\com_sppagebuilder\assets\css\animate.min.css
 Content Type: text/css
 
@@ -142,7 +142,7 @@ Uri: http://192.168.229.130/components/com_sppagebuilder/assets/css/magnific-pop
 File Name: C:\Downloaded Web Sites\192.168.229.130\components\com_sppagebuilder\assets\css\magnific-popup.css
 Content Type: text/css
 
-Uri: http://192.168.229.130/components/com_sppagebuilder/assets/css/sppagebuilder.css?217b811579be5321f877111c3a09a761
+Uri: http://192.168.229.130/components/com_sppagebuilder/assets/css/sppagebuilder.css?b4349cf7232e6b66621e089f2b9beee5
 File Name: C:\Downloaded Web Sites\192.168.229.130\components\com_sppagebuilder\assets\css\sppagebuilder.css
 Content Type: text/css
 
@@ -158,11 +158,11 @@ Uri: http://192.168.229.130/components/com_sppagebuilder/assets/js/jquery.magnif
 File Name: C:\Downloaded Web Sites\192.168.229.130\components\com_sppagebuilder\assets\js\jquery.magnific-popup.min.js
 Content Type: application/javascript
 
-Uri: http://192.168.229.130/components/com_sppagebuilder/assets/js/jquery.parallax.js?217b811579be5321f877111c3a09a761
+Uri: http://192.168.229.130/components/com_sppagebuilder/assets/js/jquery.parallax.js?b4349cf7232e6b66621e089f2b9beee5
 File Name: C:\Downloaded Web Sites\192.168.229.130\components\com_sppagebuilder\assets\js\jquery.parallax.js
 Content Type: application/javascript
 
-Uri: http://192.168.229.130/components/com_sppagebuilder/assets/js/sppagebuilder.js?217b811579be5321f877111c3a09a761
+Uri: http://192.168.229.130/components/com_sppagebuilder/assets/js/sppagebuilder.js?b4349cf7232e6b66621e089f2b9beee5
 File Name: C:\Downloaded Web Sites\192.168.229.130\components\com_sppagebuilder\assets\js\sppagebuilder.js
 Content Type: application/javascript
 
@@ -4018,7 +4018,7 @@ Uri: http://192.168.229.130/luigi-pirandello.html
 File Name: C:\Downloaded Web Sites\192.168.229.130\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.229.130/media/com_wrapper/js/iframe-height.min.js?886f8b
+Uri: http://192.168.229.130/media/com_wrapper/js/iframe-height.min.js?8feb61
 File Name: C:\Downloaded Web Sites\192.168.229.130\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -4082,27 +4082,27 @@ Uri: http://192.168.229.130/media/vendor/bootstrap/js/toast.min.js?5.3.2
 File Name: C:\Downloaded Web Sites\192.168.229.130\media\vendor\bootstrap\js\toast.min.js
 Content Type: text/javascript
 
-Uri: http://192.168.229.130/media/vendor/fontawesome-free/webfonts/fa-brands-400.ttf?v=bb8cd0
+Uri: http://192.168.229.130/media/vendor/fontawesome-free/webfonts/fa-brands-400.ttf?v=193142
 File Name: C:\Downloaded Web Sites\192.168.229.130\media\vendor\fontawesome-free\webfonts\fa-brands-400.ttf
 Content Type: font/ttf
 
-Uri: http://192.168.229.130/media/vendor/fontawesome-free/webfonts/fa-brands-400.woff2?v=005c9a
+Uri: http://192.168.229.130/media/vendor/fontawesome-free/webfonts/fa-brands-400.woff2?v=b6356c
 File Name: C:\Downloaded Web Sites\192.168.229.130\media\vendor\fontawesome-free\webfonts\fa-brands-400.woff2
 Content Type: font/woff2
 
-Uri: http://192.168.229.130/media/vendor/fontawesome-free/webfonts/fa-regular-400.ttf?v=675809
+Uri: http://192.168.229.130/media/vendor/fontawesome-free/webfonts/fa-regular-400.ttf?v=a0cc1c
 File Name: C:\Downloaded Web Sites\192.168.229.130\media\vendor\fontawesome-free\webfonts\fa-regular-400.ttf
 Content Type: font/ttf
 
-Uri: http://192.168.229.130/media/vendor/fontawesome-free/webfonts/fa-regular-400.woff2?v=747442
+Uri: http://192.168.229.130/media/vendor/fontawesome-free/webfonts/fa-regular-400.woff2?v=023a4a
 File Name: C:\Downloaded Web Sites\192.168.229.130\media\vendor\fontawesome-free\webfonts\fa-regular-400.woff2
 Content Type: font/woff2
 
-Uri: http://192.168.229.130/media/vendor/fontawesome-free/webfonts/fa-solid-900.ttf?v=0248ab
+Uri: http://192.168.229.130/media/vendor/fontawesome-free/webfonts/fa-solid-900.ttf?v=25914c
 File Name: C:\Downloaded Web Sites\192.168.229.130\media\vendor\fontawesome-free\webfonts\fa-solid-900.ttf
 Content Type: font/ttf
 
-Uri: http://192.168.229.130/media/vendor/fontawesome-free/webfonts/fa-solid-900.woff2?v=d5e647
+Uri: http://192.168.229.130/media/vendor/fontawesome-free/webfonts/fa-solid-900.woff2?v=6c4eee
 File Name: C:\Downloaded Web Sites\192.168.229.130\media\vendor\fontawesome-free\webfonts\fa-solid-900.woff2
 Content Type: font/woff2
 
