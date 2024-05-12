@@ -134,7 +134,7 @@ Uri: http://192.168.80.133/charles-baudelaire.html
 File Name: C:\Downloaded Web Sites\192.168.80.133\charles-baudelaire.html
 Content Type: text/html
 
-Uri: http://192.168.80.133/components/com_sppagebuilder/assets/css/animate.min.css?b4349cf7232e6b66621e089f2b9beee5
+Uri: http://192.168.80.133/components/com_sppagebuilder/assets/css/animate.min.css?a52d057774a957ffc5c4e3aabf79520a
 File Name: C:\Downloaded Web Sites\192.168.80.133\components\com_sppagebuilder\assets\css\animate.min.css
 Content Type: text/css
 
@@ -142,7 +142,7 @@ Uri: http://192.168.80.133/components/com_sppagebuilder/assets/css/magnific-popu
 File Name: C:\Downloaded Web Sites\192.168.80.133\components\com_sppagebuilder\assets\css\magnific-popup.css
 Content Type: text/css
 
-Uri: http://192.168.80.133/components/com_sppagebuilder/assets/css/sppagebuilder.css?b4349cf7232e6b66621e089f2b9beee5
+Uri: http://192.168.80.133/components/com_sppagebuilder/assets/css/sppagebuilder.css?a52d057774a957ffc5c4e3aabf79520a
 File Name: C:\Downloaded Web Sites\192.168.80.133\components\com_sppagebuilder\assets\css\sppagebuilder.css
 Content Type: text/css
 
@@ -158,11 +158,11 @@ Uri: http://192.168.80.133/components/com_sppagebuilder/assets/js/jquery.magnifi
 File Name: C:\Downloaded Web Sites\192.168.80.133\components\com_sppagebuilder\assets\js\jquery.magnific-popup.min.js
 Content Type: application/javascript
 
-Uri: http://192.168.80.133/components/com_sppagebuilder/assets/js/jquery.parallax.js?b4349cf7232e6b66621e089f2b9beee5
+Uri: http://192.168.80.133/components/com_sppagebuilder/assets/js/jquery.parallax.js?a52d057774a957ffc5c4e3aabf79520a
 File Name: C:\Downloaded Web Sites\192.168.80.133\components\com_sppagebuilder\assets\js\jquery.parallax.js
 Content Type: application/javascript
 
-Uri: http://192.168.80.133/components/com_sppagebuilder/assets/js/sppagebuilder.js?b4349cf7232e6b66621e089f2b9beee5
+Uri: http://192.168.80.133/components/com_sppagebuilder/assets/js/sppagebuilder.js?a52d057774a957ffc5c4e3aabf79520a
 File Name: C:\Downloaded Web Sites\192.168.80.133\components\com_sppagebuilder\assets\js\sppagebuilder.js
 Content Type: application/javascript
 
@@ -1082,10 +1082,6 @@ Uri: http://192.168.80.133/images/2023/10/03/Villon_Francois_2.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\2023\10\03\Villon_Francois_2.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.133/images/2023/10/04/11.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.133\images\2023\10\04\11.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.80.133/images/2023/10/04/2.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\2023\10\04\2.jpg
 Content Type: image/jpeg
@@ -1934,9 +1930,9 @@ Uri: http://192.168.80.133/images/2024/03/26/homedishgh.png
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\2024\03\26\homedishgh.png
 Content Type: image/png
 
-Uri: http://192.168.80.133/images/3.png
-File Name: C:\Downloaded Web Sites\192.168.80.133\images\3.png
-Content Type: image/png
+Uri: http://192.168.80.133/images/2024/05/12/ddtyrtre.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.133\images\2024\05\12\ddtyrtre.jpg
+Content Type: image/jpeg
 
 Uri: http://192.168.80.133/images/Componenti/1ff.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\Componenti\1ff.jpg
@@ -2022,8 +2018,8 @@ Uri: http://192.168.80.133/images/Componenti/Icone_Risorse_Home/lettere.png
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\Componenti\Icone_Risorse_Home\lettere.png
 Content Type: image/png
 
-Uri: http://192.168.80.133/images/Componenti/Icone_Risorse_Home/rounded-in-photoretrica-32.png
-File Name: C:\Downloaded Web Sites\192.168.80.133\images\Componenti\Icone_Risorse_Home\rounded-in-photoretrica-32.png
+Uri: http://192.168.80.133/images/Componenti/Icone_Risorse_Home/rounded-in-photoretrica 54.png
+File Name: C:\Downloaded Web Sites\192.168.80.133\images\Componenti\Icone_Risorse_Home\rounded-in-photoretrica 54.png
 Content Type: image/png
 
 Uri: http://192.168.80.133/images/Componenti/Icone_Risorse_Home/sedetiam.png
@@ -2185,6 +2181,10 @@ Content Type: image/png
 Uri: http://192.168.80.133/images/Componenti/whatsapp--v1h.png
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\Componenti\whatsapp--v1h.png
 Content Type: image/png
+
+Uri: http://192.168.80.133/images/copertina-di-facebook776.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.133\images\copertina-di-facebook776.jpg
+Content Type: image/jpeg
 
 Uri: http://192.168.80.133/images/Copertine/10.png
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\Copertine\10.png
@@ -3946,7 +3946,7 @@ Uri: http://192.168.80.133/luigi-pirandello.html
 File Name: C:\Downloaded Web Sites\192.168.80.133\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.80.133/media/com_wrapper/js/iframe-height.min.js?ecdfbc
+Uri: http://192.168.80.133/media/com_wrapper/js/iframe-height.min.js?df1a6e
 File Name: C:\Downloaded Web Sites\192.168.80.133\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
