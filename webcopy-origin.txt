@@ -134,7 +134,7 @@ Uri: http://192.168.80.133/charles-baudelaire.html
 File Name: C:\Downloaded Web Sites\192.168.80.133\charles-baudelaire.html
 Content Type: text/html
 
-Uri: http://192.168.80.133/components/com_sppagebuilder/assets/css/animate.min.css?a52d057774a957ffc5c4e3aabf79520a
+Uri: http://192.168.80.133/components/com_sppagebuilder/assets/css/animate.min.css?f0e5a433315546f965c8eafdf01f63c5
 File Name: C:\Downloaded Web Sites\192.168.80.133\components\com_sppagebuilder\assets\css\animate.min.css
 Content Type: text/css
 
@@ -142,9 +142,13 @@ Uri: http://192.168.80.133/components/com_sppagebuilder/assets/css/magnific-popu
 File Name: C:\Downloaded Web Sites\192.168.80.133\components\com_sppagebuilder\assets\css\magnific-popup.css
 Content Type: text/css
 
-Uri: http://192.168.80.133/components/com_sppagebuilder/assets/css/sppagebuilder.css?a52d057774a957ffc5c4e3aabf79520a
+Uri: http://192.168.80.133/components/com_sppagebuilder/assets/css/sppagebuilder.css?f0e5a433315546f965c8eafdf01f63c5
 File Name: C:\Downloaded Web Sites\192.168.80.133\components\com_sppagebuilder\assets\css\sppagebuilder.css
 Content Type: text/css
+
+Uri: http://192.168.80.133/components/com_sppagebuilder/assets/js/addons/image.js
+File Name: C:\Downloaded Web Sites\192.168.80.133\components\com_sppagebuilder\assets\js\addons\image.js
+Content Type: application/javascript
 
 Uri: http://192.168.80.133/components/com_sppagebuilder/assets/js/addons/text_block.js
 File Name: C:\Downloaded Web Sites\192.168.80.133\components\com_sppagebuilder\assets\js\addons\text_block.js
@@ -158,11 +162,11 @@ Uri: http://192.168.80.133/components/com_sppagebuilder/assets/js/jquery.magnifi
 File Name: C:\Downloaded Web Sites\192.168.80.133\components\com_sppagebuilder\assets\js\jquery.magnific-popup.min.js
 Content Type: application/javascript
 
-Uri: http://192.168.80.133/components/com_sppagebuilder/assets/js/jquery.parallax.js?a52d057774a957ffc5c4e3aabf79520a
+Uri: http://192.168.80.133/components/com_sppagebuilder/assets/js/jquery.parallax.js?f0e5a433315546f965c8eafdf01f63c5
 File Name: C:\Downloaded Web Sites\192.168.80.133\components\com_sppagebuilder\assets\js\jquery.parallax.js
 Content Type: application/javascript
 
-Uri: http://192.168.80.133/components/com_sppagebuilder/assets/js/sppagebuilder.js?a52d057774a957ffc5c4e3aabf79520a
+Uri: http://192.168.80.133/components/com_sppagebuilder/assets/js/sppagebuilder.js?f0e5a433315546f965c8eafdf01f63c5
 File Name: C:\Downloaded Web Sites\192.168.80.133\components\com_sppagebuilder\assets\js\sppagebuilder.js
 Content Type: application/javascript
 
@@ -1933,6 +1937,10 @@ Content Type: image/png
 Uri: http://192.168.80.133/images/2024/05/12/ddtyrtre.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\2024\05\12\ddtyrtre.jpg
 Content Type: image/jpeg
+
+Uri: http://192.168.80.133/images/2024/06/20/sfondo2titolopg3.png
+File Name: C:\Downloaded Web Sites\192.168.80.133\images\2024\06\20\sfondo2titolopg3.png
+Content Type: image/png
 
 Uri: http://192.168.80.133/images/Componenti/1ff.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\Componenti\1ff.jpg
@@ -3946,7 +3954,7 @@ Uri: http://192.168.80.133/luigi-pirandello.html
 File Name: C:\Downloaded Web Sites\192.168.80.133\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.80.133/media/com_wrapper/js/iframe-height.min.js?df1a6e
+Uri: http://192.168.80.133/media/com_wrapper/js/iframe-height.min.js?301829
 File Name: C:\Downloaded Web Sites\192.168.80.133\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
