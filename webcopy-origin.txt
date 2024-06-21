@@ -1122,10 +1122,6 @@ Uri: http://192.168.80.133/images/2023/10/04/image03.png
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\2023\10\04\image03.png
 Content Type: image/png
 
-Uri: http://192.168.80.133/images/2023/10/04/invio1.png
-File Name: C:\Downloaded Web Sites\192.168.80.133\images\2023\10\04\invio1.png
-Content Type: image/png
-
 Uri: http://192.168.80.133/images/2023/10/04/ipfsl.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\2023\10\04\ipfsl.jpg
 Content Type: image/jpeg
@@ -1137,10 +1133,6 @@ Content Type: image/jpeg
 Uri: http://192.168.80.133/images/2023/10/04/larte-e-dentro-di-te_autore.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\2023\10\04\larte-e-dentro-di-te_autore.jpg
 Content Type: image/jpeg
-
-Uri: http://192.168.80.133/images/2023/10/04/oicok.png
-File Name: C:\Downloaded Web Sites\192.168.80.133\images\2023\10\04\oicok.png
-Content Type: image/png
 
 Uri: http://192.168.80.133/images/2023/10/04/rounded-in-photoretrica-8.png
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\2023\10\04\rounded-in-photoretrica-8.png
@@ -1941,6 +1933,14 @@ Content Type: image/jpeg
 Uri: http://192.168.80.133/images/2024/06/20/sfondo2titolopg3.png
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\2024\06\20\sfondo2titolopg3.png
 Content Type: image/png
+
+Uri: http://192.168.80.133/images/2024/06/21/th-5.jpeg
+File Name: C:\Downloaded Web Sites\192.168.80.133\images\2024\06\21\th-5.jpeg
+Content Type: image/jpeg
+
+Uri: http://192.168.80.133/images/2024/06/21/thq.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.133\images\2024\06\21\thq.jpg
+Content Type: image/jpeg
 
 Uri: http://192.168.80.133/images/Componenti/1ff.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\Componenti\1ff.jpg
