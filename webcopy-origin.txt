@@ -1918,10 +1918,6 @@ Uri: http://192.168.80.133/images/2024/02/27/planimetrie-ed-edificio.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\2024\02\27\planimetrie-ed-edificio.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.133/images/2024/03/24/rounded-in-photoretrica-50.png
-File Name: C:\Downloaded Web Sites\192.168.80.133\images\2024\03\24\rounded-in-photoretrica-50.png
-Content Type: image/png
-
 Uri: http://192.168.80.133/images/2024/03/26/homedishgh.png
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\2024\03\26\homedishgh.png
 Content Type: image/png
@@ -3066,10 +3062,6 @@ Uri: http://192.168.80.133/images/Files/SedE-Poesie/Di Salvatore Messina.pdf
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\Files\SedE-Poesie\Di Salvatore Messina.pdf
 Content Type: application/pdf
 
-Uri: http://192.168.80.133/images/iof3ws.png
-File Name: C:\Downloaded Web Sites\192.168.80.133\images\iof3ws.png
-Content Type: image/png
-
 Uri: http://192.168.80.133/images/logos1caeu.png
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\logos1caeu.png
 Content Type: image/png
@@ -3674,6 +3666,10 @@ Uri: http://192.168.80.133/images/speasyimagegallery/albums/9/images/9-new_thumb
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\speasyimagegallery\albums\9\images\9-new_thumb.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.80.133/images/th.jpeg
+File Name: C:\Downloaded Web Sites\192.168.80.133\images\th.jpeg
+Content Type: image/jpeg
+
 Uri: http://192.168.80.133/in-english/dreams-time.html
 File Name: C:\Downloaded Web Sites\192.168.80.133\in-english\dreams-time.html
 Content Type: text/html
@@ -3900,6 +3896,10 @@ Content Type: text/html
 
 Uri: http://192.168.80.133/index.php/sedetiam-main
 File Name: C:\Downloaded Web Sites\192.168.80.133\index.php\sedetiam-main.html
+Content Type: text/html
+
+Uri: http://192.168.80.133/index.php?option=com_sppagebuilder&view=page&id=3
+File Name: C:\Downloaded Web Sites\192.168.80.133\index.php-1.html
 Content Type: text/html
 
 Uri: http://192.168.80.133/invia-a-sed-etiam.html
