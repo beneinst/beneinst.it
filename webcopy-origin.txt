@@ -1926,6 +1926,10 @@ Uri: http://192.168.80.133/images/2024/05/12/ddtyrtre.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\2024\05\12\ddtyrtre.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.80.133/images/2024/06/20/7x_2023.jpg
+File Name: C:\Downloaded Web Sites\192.168.80.133\images\2024\06\20\7x_2023.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.80.133/images/2024/06/20/sfondo2titolopg3.png
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\2024\06\20\sfondo2titolopg3.png
 Content Type: image/png
@@ -3954,7 +3958,7 @@ Uri: http://192.168.80.133/luigi-pirandello.html
 File Name: C:\Downloaded Web Sites\192.168.80.133\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.80.133/media/com_wrapper/js/iframe-height.min.js?53486a
+Uri: http://192.168.80.133/media/com_wrapper/js/iframe-height.min.js?a3b732
 File Name: C:\Downloaded Web Sites\192.168.80.133\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
