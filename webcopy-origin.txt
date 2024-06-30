@@ -606,30 +606,6 @@ Uri: http://192.168.80.133/edgar-allan-poe.html
 File Name: C:\Downloaded Web Sites\192.168.80.133\edgar-allan-poe.html
 Content Type: text/html
 
-Uri: http://192.168.80.133/elenco-dalla-a-alla-c.html
-File Name: C:\Downloaded Web Sites\192.168.80.133\elenco-dalla-a-alla-c.html
-Content Type: text/html
-
-Uri: http://192.168.80.133/elenco-dalla-d-alla-f.html
-File Name: C:\Downloaded Web Sites\192.168.80.133\elenco-dalla-d-alla-f.html
-Content Type: text/html
-
-Uri: http://192.168.80.133/elenco-dalla-g-alla-h.html
-File Name: C:\Downloaded Web Sites\192.168.80.133\elenco-dalla-g-alla-h.html
-Content Type: text/html
-
-Uri: http://192.168.80.133/elenco-dalla-i-alla-l.html
-File Name: C:\Downloaded Web Sites\192.168.80.133\elenco-dalla-i-alla-l.html
-Content Type: text/html
-
-Uri: http://192.168.80.133/elenco-dalla-m-alla-r.html
-File Name: C:\Downloaded Web Sites\192.168.80.133\elenco-dalla-m-alla-r.html
-Content Type: text/html
-
-Uri: http://192.168.80.133/elenco-dalla-s-alla-w.html
-File Name: C:\Downloaded Web Sites\192.168.80.133\elenco-dalla-s-alla-w.html
-Content Type: text/html
-
 Uri: http://192.168.80.133/en-espanol/accion-de-reciclar.html
 File Name: C:\Downloaded Web Sites\192.168.80.133\en-espanol\accion-de-reciclar.html
 Content Type: text/html
@@ -1232,30 +1208,6 @@ Content Type: image/jpeg
 
 Uri: http://192.168.80.133/images/2024/01/28/7bf.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\2024\01\28\7bf.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.133/images/2024/01/28/OIG1-(2)p.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.133\images\2024\01\28\OIG1-(2)p.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.133/images/2024/01/28/OIG1-(2)p1.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.133\images\2024\01\28\OIG1-(2)p1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.133/images/2024/01/28/OIG1-(3).jpg
-File Name: C:\Downloaded Web Sites\192.168.80.133\images\2024\01\28\OIG1-(3).jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.133/images/2024/01/28/OIG1-(3)1.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.133\images\2024\01\28\OIG1-(3)1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.133/images/2024/01/28/OIG1-(4).jpg
-File Name: C:\Downloaded Web Sites\192.168.80.133\images\2024\01\28\OIG1-(4).jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.133/images/2024/01/28/OIG1-(5)1.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.133\images\2024\01\28\OIG1-(5)1.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.80.133/images/2024/01/30/OIG1-(6)q.png
@@ -2094,10 +2046,6 @@ Uri: http://192.168.80.133/images/Componenti/Ipfs/5.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\Componenti\Ipfs\5.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.133/images/Componenti/Ipfs/6.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.133\images\Componenti\Ipfs\6.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.80.133/images/Componenti/Ipfs/7.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\Componenti\Ipfs\7.jpg
 Content Type: image/jpeg
@@ -2230,16 +2178,8 @@ Uri: http://192.168.80.133/images/Copertine/AudioCop/1.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\Copertine\AudioCop\1.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.133/images/Copertine/AudioCop/12.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.133\images\Copertine\AudioCop\12.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.80.133/images/Copertine/AudioCop/13.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\Copertine\AudioCop\13.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.133/images/Copertine/AudioCop/2.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.133\images\Copertine\AudioCop\2.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.80.133/images/Copertine/AudioCop/3.jpg
@@ -2248,10 +2188,6 @@ Content Type: image/jpeg
 
 Uri: http://192.168.80.133/images/Copertine/AudioCop/4.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\Copertine\AudioCop\4.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.80.133/images/Copertine/AudioCop/5.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.133\images\Copertine\AudioCop\5.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.80.133/images/Copertine/AudioCop/6.jpg
@@ -2278,24 +2214,12 @@ Uri: http://192.168.80.133/images/Files/AnteprimeAudio/12.AzionediRiciclo-2.mp3
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\Files\AnteprimeAudio\12.AzionediRiciclo-2.mp3
 Content Type: audio/mpeg
 
-Uri: http://192.168.80.133/images/Files/AnteprimeAudio/ab_1920.mp3
-File Name: C:\Downloaded Web Sites\192.168.80.133\images\Files\AnteprimeAudio\ab_1920.mp3
-Content Type: audio/mpeg
-
-Uri: http://192.168.80.133/images/Files/AnteprimeAudio/ab_1983_2_18848.mp3
-File Name: C:\Downloaded Web Sites\192.168.80.133\images\Files\AnteprimeAudio\ab_1983_2_18848.mp3
-Content Type: audio/mpeg
-
 Uri: http://192.168.80.133/images/Files/AnteprimeAudio/An Ash Ceiling Diary - Remain unparalleled.mp3
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\Files\AnteprimeAudio\An Ash Ceiling Diary - Remain unparalleled.mp3
 Content Type: audio/mpeg
 
 Uri: http://192.168.80.133/images/Files/AnteprimeAudio/Dillo tu te stesso Diario - Per ch sempre.mp3
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\Files\AnteprimeAudio\Dillo tu te stesso Diario - Per ch sempre.mp3
-Content Type: audio/mpeg
-
-Uri: http://192.168.80.133/images/Files/AnteprimeAudio/El bien y el mal memorias Diario - Yo tengo muchas creencias.mp3
-File Name: C:\Downloaded Web Sites\192.168.80.133\images\Files\AnteprimeAudio\El bien y el mal memorias Diario - Yo tengo muchas creencias.mp3
 Content Type: audio/mpeg
 
 Uri: http://192.168.80.133/images/Files/AnteprimeAudio/Good and Evil Memories Diary - Show me that you love me.mp3
@@ -3064,6 +2988,10 @@ Content Type: application/pdf
 
 Uri: http://192.168.80.133/images/logos1caeu.png
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\logos1caeu.png
+Content Type: image/png
+
+Uri: http://192.168.80.133/images/rounded-in-photoretrica-32.png
+File Name: C:\Downloaded Web Sites\192.168.80.133\images\rounded-in-photoretrica-32.png
 Content Type: image/png
 
 Uri: http://192.168.80.133/images/speasyimagegallery/albums/1/images/1.png
@@ -3886,6 +3814,10 @@ Uri: http://192.168.80.133/index.php/lettere-main
 File Name: C:\Downloaded Web Sites\192.168.80.133\index.php\lettere-main.html
 Content Type: text/html
 
+Uri: http://192.168.80.133/index.php/lettere-main.html
+File Name: C:\Downloaded Web Sites\192.168.80.133\index.php\lettere-main-1.html
+Content Type: text/html
+
 Uri: http://192.168.80.133/index.php/poesie-arturo-pistocchi
 File Name: C:\Downloaded Web Sites\192.168.80.133\index.php\poesie-arturo-pistocchi.html
 Content Type: text/html
@@ -3954,12 +3886,16 @@ Uri: http://192.168.80.133/luigi-pirandello.html
 File Name: C:\Downloaded Web Sites\192.168.80.133\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.80.133/media/com_wrapper/js/iframe-height.min.js?070cb2
+Uri: http://192.168.80.133/media/com_wrapper/js/iframe-height.min.js?b2874e
 File Name: C:\Downloaded Web Sites\192.168.80.133\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.80.133/media/legacy/js/jquery-noconflict.min.js?504da4
 File Name: C:\Downloaded Web Sites\192.168.80.133\media\legacy\js\jquery-noconflict.min.js
+Content Type: text/javascript
+
+Uri: http://192.168.80.133/media/plg_system_schedulerunner/js/run-schedule.min.js?6a6885
+File Name: C:\Downloaded Web Sites\192.168.80.133\media\plg_system_schedulerunner\js\run-schedule.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.80.133/media/system/js/core.min.js?83f2c9
