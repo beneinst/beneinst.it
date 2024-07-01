@@ -1878,10 +1878,6 @@ Uri: http://192.168.80.133/images/2024/05/12/ddtyrtre.jpg
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\2024\05\12\ddtyrtre.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.80.133/images/2024/06/20/7x_2023.jpg
-File Name: C:\Downloaded Web Sites\192.168.80.133\images\2024\06\20\7x_2023.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.80.133/images/2024/06/20/sfondo2titolopg3.png
 File Name: C:\Downloaded Web Sites\192.168.80.133\images\2024\06\20\sfondo2titolopg3.png
 Content Type: image/png
@@ -3886,16 +3882,12 @@ Uri: http://192.168.80.133/luigi-pirandello.html
 File Name: C:\Downloaded Web Sites\192.168.80.133\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.80.133/media/com_wrapper/js/iframe-height.min.js?b2874e
+Uri: http://192.168.80.133/media/com_wrapper/js/iframe-height.min.js?2974fa
 File Name: C:\Downloaded Web Sites\192.168.80.133\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.80.133/media/legacy/js/jquery-noconflict.min.js?504da4
 File Name: C:\Downloaded Web Sites\192.168.80.133\media\legacy\js\jquery-noconflict.min.js
-Content Type: text/javascript
-
-Uri: http://192.168.80.133/media/plg_system_schedulerunner/js/run-schedule.min.js?6a6885
-File Name: C:\Downloaded Web Sites\192.168.80.133\media\plg_system_schedulerunner\js\run-schedule.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.80.133/media/system/js/core.min.js?83f2c9
