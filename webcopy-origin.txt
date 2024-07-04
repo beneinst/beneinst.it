@@ -3691,7 +3691,7 @@ File Name: C:\Downloaded Web Sites\192.168.80.133\in-italiano\te-lo-colorerei.ht
 Content Type: text/html
 
 Uri: http://192.168.80.133/index.php
-File Name: C:\Downloaded Web Sites\192.168.80.133\index.php.html
+File Name: C:\Downloaded Web Sites\192.168.80.133\index.php-1.html
 Content Type: text/html
 
 Uri: http://192.168.80.133/index.php/anteprime-audio
@@ -3827,7 +3827,7 @@ File Name: C:\Downloaded Web Sites\192.168.80.133\index.php\sedetiam-main.html
 Content Type: text/html
 
 Uri: http://192.168.80.133/index.php?option=com_sppagebuilder&view=page&id=3
-File Name: C:\Downloaded Web Sites\192.168.80.133\index.php-1.html
+File Name: C:\Downloaded Web Sites\192.168.80.133\index.php.html
 Content Type: text/html
 
 Uri: http://192.168.80.133/invia-a-sed-etiam.html
@@ -3882,7 +3882,7 @@ Uri: http://192.168.80.133/luigi-pirandello.html
 File Name: C:\Downloaded Web Sites\192.168.80.133\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.80.133/media/com_wrapper/js/iframe-height.min.js?5d31ae
+Uri: http://192.168.80.133/media/com_wrapper/js/iframe-height.min.js?fdddf1
 File Name: C:\Downloaded Web Sites\192.168.80.133\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -4385,6 +4385,10 @@ Content Type: application/pdf
 Uri: https://blush-wide-urial-202.mypinata.cloud/ipfs/QmatTVXvK2gQtw9KyxNxXY52i7hBhUPZWQEaR4KEZLdwHP/flaubert_madame_bovary.pdf
 File Name: C:\Downloaded Web Sites\192.168.80.133\ipfs\QmatTVXvK2gQtw9KyxNxXY52i7hBhUPZWQEaR4KEZLdwHP\flaubert_madame_bovary.pdf
 Content Type: application/pdf
+
+Uri: https://cdn.gtranslate.net/widgets/latest/fc.js
+File Name: C:\Downloaded Web Sites\192.168.80.133\widgets\latest\fc.js
+Content Type: application/javascript
 
 Uri: https://cs.iubenda.com/autoblocking/3512692.js
 File Name: C:\Downloaded Web Sites\192.168.80.133\autoblocking\3512692.js
