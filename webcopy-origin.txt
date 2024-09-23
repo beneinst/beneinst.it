@@ -3882,7 +3882,7 @@ Uri: http://192.168.175.134/luigi-pirandello.html
 File Name: C:\Downloaded Web Sites\192.168.175.134\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.175.134/media/com_wrapper/js/iframe-height.min.js?15e2ad
+Uri: http://192.168.175.134/media/com_wrapper/js/iframe-height.min.js?f80679
 File Name: C:\Downloaded Web Sites\192.168.175.134\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -4146,6 +4146,10 @@ Uri: http://192.168.175.134/william-shakespeare.html
 File Name: C:\Downloaded Web Sites\192.168.175.134\william-shakespeare.html
 Content Type: text/html
 
+Uri: http://cdn.iubenda.com/cs/gpp/stub.js
+File Name: C:\Downloaded Web Sites\192.168.175.134\cs\gpp\stub.js
+Content Type: application/javascript
+
 Uri: http://cdn.iubenda.com/cs/iubenda_cs.js
 File Name: C:\Downloaded Web Sites\192.168.175.134\cs\iubenda_cs.js
 Content Type: application/javascript
@@ -4380,10 +4384,6 @@ Content Type: application/pdf
 
 Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/In English/What changes.pdf
 File Name: C:\Downloaded Web Sites\192.168.175.134\In English\What changes.pdf
-Content Type: application/pdf
-
-Uri: https://blush-wide-urial-202.mypinata.cloud/ipfs/QmatTVXvK2gQtw9KyxNxXY52i7hBhUPZWQEaR4KEZLdwHP/flaubert_madame_bovary.pdf
-File Name: C:\Downloaded Web Sites\192.168.175.134\ipfs\QmatTVXvK2gQtw9KyxNxXY52i7hBhUPZWQEaR4KEZLdwHP\flaubert_madame_bovary.pdf
 Content Type: application/pdf
 
 Uri: https://cdn.gtranslate.net/widgets/latest/fc.js
