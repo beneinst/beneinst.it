@@ -19,7 +19,7 @@ _iub.csConfiguration = {
     "lang": "it",
     "banner": {
         "acceptButtonCaptionColor": "#FFFFFF",
-        "acceptButtonColor": "#0073CE",
+        "acceptButtonColor": "#4db6ac",  // Nuovo colore pulsante "Accetta tutto"
         "acceptButtonDisplay": true,
         "backgroundColor": "#FFFFFF",
         "closeButtonDisplay": false,
@@ -31,7 +31,7 @@ _iub.csConfiguration = {
         "ownerName": "www.beneinst.eu",
         "position": "float-bottom-center",
         "rejectButtonCaptionColor": "#FFFFFF",
-        "rejectButtonColor": "#0073CE",
+        "rejectButtonColor": "#4db6ac",  // Nuovo colore pulsante "Rifiuta tutto"
         "rejectButtonDisplay": true,
         "showPurposesToggles": true,
         "showTitle": false,
@@ -46,6 +46,17 @@ _iub.csConfiguration = {
 <script type="text/javascript" src="autoblocking/3512692.js" charset="UTF-8"></script>
 <script type="text/javascript" src="cs/gpp/stub.js"></script>
 <script type="text/javascript" src="cs/iubenda_cs.js" charset="UTF-8" async=""></script>
+
+<!-- Aggiungi lo stile per l'hover -->
+<style>
+  .iubenda-cs-accept-btn:hover {
+    background-color: #e57373 !important; /* Hover per "Accetta tutto" */
+  }
+  
+  .iubenda-cs-reject-btn:hover {
+    background-color: #e57373 !important; /* Hover per "Rifiuta tutto" */
+  }
+</style>
 		
 			<!-- add google analytics -->
 			<!-- Global site tag (gtag.js) - Google Analytics -->
@@ -155,7 +166,7 @@ a:hover {
 	<style>#sp-bottom{ background-image:url("images/copertina-di-facebook7763.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:0 0; }</style>
 	<style>#sp-footer{ background-image:url("images/copertina-di-facebook7763.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:0 0; }</style>
 	<style>#mod-speasyimagegallery-128 .speasyimagegallery-row {margin: -10px;}#mod-speasyimagegallery-128 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 10px;}@media only screen and (max-width : 992px) {#mod-speasyimagegallery-128 .speasyimagegallery-row {margin: -7.5px;}#mod-speasyimagegallery-128 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 7.5px;}}@media only screen and (max-width : 768px) {#mod-speasyimagegallery-128 .speasyimagegallery-row {margin: -5px;}#mod-speasyimagegallery-128 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 5px;}}</style>
-<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.175.134/","base":"","baseFull":"http://192.168.175.134/"},"csrf.token":"6f2f1e15868e884b26bcdab27465269c"}</script>
+<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.175.134/","base":"","baseFull":"http://192.168.175.134/"},"csrf.token":"75bdbd141cd383d4f1260016097dc85c"}</script>
 	<script src="media/system/js/core.min.js?e20992"></script>
 	<script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?504da4"></script>
@@ -564,16 +575,6 @@ blockquote {
 }
 
   </style>
-
-<!-- Google tag (gtag.js) -->
-<script async="" src="gtag/js?id=G-37P9KCN6WS"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-37P9KCN6WS');
-</script>
 			</head>
 	<body class="site helix-ultimate hu com_sppagebuilder com-sppagebuilder view-page layout-default task-none itemid-463 it-it ltr sticky-header layout-fluid offcanvas-init offcanvs-position-left">
 
@@ -672,7 +673,7 @@ _iub.csConfiguration = {
     "lang": "it",
     "banner": {
         "acceptButtonCaptionColor": "#FFFFFF",
-        "acceptButtonColor": "#0073CE",
+        "acceptButtonColor": "#4db6ac",  // Nuovo colore pulsante "Accetta tutto"
         "acceptButtonDisplay": true,
         "backgroundColor": "#FFFFFF",
         "closeButtonDisplay": false,
@@ -684,7 +685,7 @@ _iub.csConfiguration = {
         "ownerName": "www.beneinst.eu",
         "position": "float-bottom-center",
         "rejectButtonCaptionColor": "#FFFFFF",
-        "rejectButtonColor": "#0073CE",
+        "rejectButtonColor": "#4db6ac",  // Nuovo colore pulsante "Rifiuta tutto"
         "rejectButtonDisplay": true,
         "showPurposesToggles": true,
         "showTitle": false,
@@ -699,6 +700,17 @@ _iub.csConfiguration = {
 <script type="text/javascript" src="autoblocking/3512692.js" charset="UTF-8"></script>
 <script type="text/javascript" src="cs/gpp/stub.js"></script>
 <script type="text/javascript" src="cs/iubenda_cs.js" charset="UTF-8" async=""></script>
+
+<!-- Aggiungi lo stile per l'hover -->
+<style>
+  .iubenda-cs-accept-btn:hover {
+    background-color: #e57373 !important; /* Hover per "Accetta tutto" */
+  }
+  
+  .iubenda-cs-reject-btn:hover {
+    background-color: #e57373 !important; /* Hover per "Rifiuta tutto" */
+  }
+</style>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
@@ -771,7 +783,7 @@ _iub.csConfiguration = {
     "lang": "it",
     "banner": {
         "acceptButtonCaptionColor": "#FFFFFF",
-        "acceptButtonColor": "#0073CE",
+        "acceptButtonColor": "#4db6ac",  // Nuovo colore pulsante "Accetta tutto"
         "acceptButtonDisplay": true,
         "backgroundColor": "#FFFFFF",
         "closeButtonDisplay": false,
@@ -783,7 +795,7 @@ _iub.csConfiguration = {
         "ownerName": "www.beneinst.eu",
         "position": "float-bottom-center",
         "rejectButtonCaptionColor": "#FFFFFF",
-        "rejectButtonColor": "#0073CE",
+        "rejectButtonColor": "#4db6ac",  // Nuovo colore pulsante "Rifiuta tutto"
         "rejectButtonDisplay": true,
         "showPurposesToggles": true,
         "showTitle": false,
@@ -798,6 +810,17 @@ _iub.csConfiguration = {
 <script type="text/javascript" src="autoblocking/3512692.js" charset="UTF-8"></script>
 <script type="text/javascript" src="cs/gpp/stub.js"></script>
 <script type="text/javascript" src="cs/iubenda_cs.js" charset="UTF-8" async=""></script>
+
+<!-- Aggiungi lo stile per l'hover -->
+<style>
+  .iubenda-cs-accept-btn:hover {
+    background-color: #e57373 !important; /* Hover per "Accetta tutto" */
+  }
+  
+  .iubenda-cs-reject-btn:hover {
+    background-color: #e57373 !important; /* Hover per "Rifiuta tutto" */
+  }
+</style>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
@@ -869,7 +892,7 @@ _iub.csConfiguration = {
     "lang": "it",
     "banner": {
         "acceptButtonCaptionColor": "#FFFFFF",
-        "acceptButtonColor": "#0073CE",
+        "acceptButtonColor": "#4db6ac",  // Nuovo colore pulsante "Accetta tutto"
         "acceptButtonDisplay": true,
         "backgroundColor": "#FFFFFF",
         "closeButtonDisplay": false,
@@ -881,7 +904,7 @@ _iub.csConfiguration = {
         "ownerName": "www.beneinst.eu",
         "position": "float-bottom-center",
         "rejectButtonCaptionColor": "#FFFFFF",
-        "rejectButtonColor": "#0073CE",
+        "rejectButtonColor": "#4db6ac",  // Nuovo colore pulsante "Rifiuta tutto"
         "rejectButtonDisplay": true,
         "showPurposesToggles": true,
         "showTitle": false,
@@ -896,6 +919,17 @@ _iub.csConfiguration = {
 <script type="text/javascript" src="autoblocking/3512692.js" charset="UTF-8"></script>
 <script type="text/javascript" src="cs/gpp/stub.js"></script>
 <script type="text/javascript" src="cs/iubenda_cs.js" charset="UTF-8" async=""></script>
+
+<!-- Aggiungi lo stile per l'hover -->
+<style>
+  .iubenda-cs-accept-btn:hover {
+    background-color: #e57373 !important; /* Hover per "Accetta tutto" */
+  }
+  
+  .iubenda-cs-reject-btn:hover {
+    background-color: #e57373 !important; /* Hover per "Rifiuta tutto" */
+  }
+</style>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>

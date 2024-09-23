@@ -19,7 +19,7 @@ _iub.csConfiguration = {
     "lang": "it",
     "banner": {
         "acceptButtonCaptionColor": "#FFFFFF",
-        "acceptButtonColor": "#0073CE",
+        "acceptButtonColor": "#4db6ac",  // Nuovo colore pulsante "Accetta tutto"
         "acceptButtonDisplay": true,
         "backgroundColor": "#FFFFFF",
         "closeButtonDisplay": false,
@@ -31,7 +31,7 @@ _iub.csConfiguration = {
         "ownerName": "www.beneinst.eu",
         "position": "float-bottom-center",
         "rejectButtonCaptionColor": "#FFFFFF",
-        "rejectButtonColor": "#0073CE",
+        "rejectButtonColor": "#4db6ac",  // Nuovo colore pulsante "Rifiuta tutto"
         "rejectButtonDisplay": true,
         "showPurposesToggles": true,
         "showTitle": false,
@@ -46,6 +46,17 @@ _iub.csConfiguration = {
 <script type="text/javascript" src="autoblocking/3512692.js" charset="UTF-8"></script>
 <script type="text/javascript" src="cs/gpp/stub.js"></script>
 <script type="text/javascript" src="cs/iubenda_cs.js" charset="UTF-8" async=""></script>
+
+<!-- Aggiungi lo stile per l'hover -->
+<style>
+  .iubenda-cs-accept-btn:hover {
+    background-color: #e57373 !important; /* Hover per "Accetta tutto" */
+  }
+  
+  .iubenda-cs-reject-btn:hover {
+    background-color: #e57373 !important; /* Hover per "Rifiuta tutto" */
+  }
+</style>
 		
 			<!-- add google analytics -->
 			<!-- Global site tag (gtag.js) - Google Analytics -->
@@ -152,7 +163,7 @@ a:hover {
 	<style>#mod-speasyimagegallery-128 .speasyimagegallery-row {margin: -10px;}#mod-speasyimagegallery-128 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 10px;}@media only screen and (max-width : 992px) {#mod-speasyimagegallery-128 .speasyimagegallery-row {margin: -7.5px;}#mod-speasyimagegallery-128 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 7.5px;}}@media only screen and (max-width : 768px) {#mod-speasyimagegallery-128 .speasyimagegallery-row {margin: -5px;}#mod-speasyimagegallery-128 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 5px;}}</style>
 <script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?504da4"></script>
-	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.175.134/","base":"","baseFull":"http://192.168.175.134/"},"csrf.token":"6f2f1e15868e884b26bcdab27465269c"}</script>
+	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.175.134/","base":"","baseFull":"http://192.168.175.134/"},"csrf.token":"75bdbd141cd383d4f1260016097dc85c"}</script>
 	<script src="media/system/js/core.min.js?e20992"></script>
 	<script src="media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
 	<script src="media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
@@ -169,7 +180,7 @@ a:hover {
 	<script src="media/system/js/messages.min.js?7a5169" type="module"></script>
 	<script src="widgets/latest/fc.js" data-gt-orig-url="/leonardo-sciascia.html" data-gt-orig-domain="192.168.175.134" data-gt-widget-id="413" defer=""></script>
 	<script src="cache/com_templates/templates/shaper_helixultimate/52e02b7e15860e95371ad08a847bdc1b.js"></script>
-	<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://192.168.175.134/#/schema/Organization/base","name":"Beneinst","url":"http://192.168.175.134/"},{"@type":"WebSite","@id":"http://192.168.175.134/#/schema/WebSite/base","url":"http://192.168.175.134/","name":"Beneinst","publisher":{"@id":"http://192.168.175.134/#/schema/Organization/base"}},{"@type":"WebPage","@id":"http://192.168.175.134/#/schema/WebPage/base","url":"http://192.168.175.134/leonardo-sciascia.html","name":"Leonardo Sciascia","description":"Esplora diari, memorie e storie umane su un sito pubblico. Condividi le tue pagine di diari e connettiti con altri.","isPartOf":{"@id":"http://192.168.175.134/#/schema/WebSite/base"},"about":{"@id":"http://192.168.175.134/#/schema/Organization/base"},"inLanguage":"it-IT"},{"@type":"Article","@id":"http://192.168.175.134/#/schema/com_content/article/108","name":"Leonardo Sciascia","headline":"Leonardo Sciascia","inLanguage":"it-IT","dateCreated":"2023-10-03T06:27:02+00:00","interactionStatistic":{"@type":"InteractionCounter","userInteractionCount":215},"isPartOf":{"@id":"http://192.168.175.134/#/schema/WebPage/base"}}]}</script>
+	<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://192.168.175.134/#/schema/Organization/base","name":"Beneinst","url":"http://192.168.175.134/"},{"@type":"WebSite","@id":"http://192.168.175.134/#/schema/WebSite/base","url":"http://192.168.175.134/","name":"Beneinst","publisher":{"@id":"http://192.168.175.134/#/schema/Organization/base"}},{"@type":"WebPage","@id":"http://192.168.175.134/#/schema/WebPage/base","url":"http://192.168.175.134/leonardo-sciascia.html","name":"Leonardo Sciascia","description":"Esplora diari, memorie e storie umane su un sito pubblico. Condividi le tue pagine di diari e connettiti con altri.","isPartOf":{"@id":"http://192.168.175.134/#/schema/WebSite/base"},"about":{"@id":"http://192.168.175.134/#/schema/Organization/base"},"inLanguage":"it-IT"},{"@type":"Article","@id":"http://192.168.175.134/#/schema/com_content/article/108","name":"Leonardo Sciascia","headline":"Leonardo Sciascia","inLanguage":"it-IT","dateCreated":"2023-10-03T06:27:02+00:00","interactionStatistic":{"@type":"InteractionCounter","userInteractionCount":217},"isPartOf":{"@id":"http://192.168.175.134/#/schema/WebPage/base"}}]}</script>
 	<script>const ipfsClient = require('ipfs-http-client')
 const ipfs = ipfsClient('localhost', '5001')
 
@@ -449,16 +460,6 @@ blockquote {
 }
 
   </style>
-
-<!-- Google tag (gtag.js) -->
-<script async="" src="gtag/js?id=G-37P9KCN6WS"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-37P9KCN6WS');
-</script>
 			</head>
 	<body class="site helix-ultimate hu com_content com-content view-article layout-default task-none itemid-430 it-it ltr sticky-header layout-fluid offcanvas-init offcanvs-position-left">
 
@@ -545,8 +546,8 @@ blockquote {
 			
 		
 					<span class="hits">
-	<meta itemprop="interactionCount" content="UserPageVisits:216">
-	Visite: 216</span>
+	<meta itemprop="interactionCount" content="UserPageVisits:218">
+	Visite: 218</span>
 				
 			</div>
 		
@@ -809,7 +810,7 @@ _iub.csConfiguration = {
     "lang": "it",
     "banner": {
         "acceptButtonCaptionColor": "#FFFFFF",
-        "acceptButtonColor": "#0073CE",
+        "acceptButtonColor": "#4db6ac",  // Nuovo colore pulsante "Accetta tutto"
         "acceptButtonDisplay": true,
         "backgroundColor": "#FFFFFF",
         "closeButtonDisplay": false,
@@ -821,7 +822,7 @@ _iub.csConfiguration = {
         "ownerName": "www.beneinst.eu",
         "position": "float-bottom-center",
         "rejectButtonCaptionColor": "#FFFFFF",
-        "rejectButtonColor": "#0073CE",
+        "rejectButtonColor": "#4db6ac",  // Nuovo colore pulsante "Rifiuta tutto"
         "rejectButtonDisplay": true,
         "showPurposesToggles": true,
         "showTitle": false,
@@ -836,6 +837,17 @@ _iub.csConfiguration = {
 <script type="text/javascript" src="autoblocking/3512692.js" charset="UTF-8"></script>
 <script type="text/javascript" src="cs/gpp/stub.js"></script>
 <script type="text/javascript" src="cs/iubenda_cs.js" charset="UTF-8" async=""></script>
+
+<!-- Aggiungi lo stile per l'hover -->
+<style>
+  .iubenda-cs-accept-btn:hover {
+    background-color: #e57373 !important; /* Hover per "Accetta tutto" */
+  }
+  
+  .iubenda-cs-reject-btn:hover {
+    background-color: #e57373 !important; /* Hover per "Rifiuta tutto" */
+  }
+</style>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
@@ -909,7 +921,7 @@ _iub.csConfiguration = {
     "lang": "it",
     "banner": {
         "acceptButtonCaptionColor": "#FFFFFF",
-        "acceptButtonColor": "#0073CE",
+        "acceptButtonColor": "#4db6ac",  // Nuovo colore pulsante "Accetta tutto"
         "acceptButtonDisplay": true,
         "backgroundColor": "#FFFFFF",
         "closeButtonDisplay": false,
@@ -921,7 +933,7 @@ _iub.csConfiguration = {
         "ownerName": "www.beneinst.eu",
         "position": "float-bottom-center",
         "rejectButtonCaptionColor": "#FFFFFF",
-        "rejectButtonColor": "#0073CE",
+        "rejectButtonColor": "#4db6ac",  // Nuovo colore pulsante "Rifiuta tutto"
         "rejectButtonDisplay": true,
         "showPurposesToggles": true,
         "showTitle": false,
@@ -936,6 +948,17 @@ _iub.csConfiguration = {
 <script type="text/javascript" src="autoblocking/3512692.js" charset="UTF-8"></script>
 <script type="text/javascript" src="cs/gpp/stub.js"></script>
 <script type="text/javascript" src="cs/iubenda_cs.js" charset="UTF-8" async=""></script>
+
+<!-- Aggiungi lo stile per l'hover -->
+<style>
+  .iubenda-cs-accept-btn:hover {
+    background-color: #e57373 !important; /* Hover per "Accetta tutto" */
+  }
+  
+  .iubenda-cs-reject-btn:hover {
+    background-color: #e57373 !important; /* Hover per "Rifiuta tutto" */
+  }
+</style>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
@@ -1007,7 +1030,7 @@ _iub.csConfiguration = {
     "lang": "it",
     "banner": {
         "acceptButtonCaptionColor": "#FFFFFF",
-        "acceptButtonColor": "#0073CE",
+        "acceptButtonColor": "#4db6ac",  // Nuovo colore pulsante "Accetta tutto"
         "acceptButtonDisplay": true,
         "backgroundColor": "#FFFFFF",
         "closeButtonDisplay": false,
@@ -1019,7 +1042,7 @@ _iub.csConfiguration = {
         "ownerName": "www.beneinst.eu",
         "position": "float-bottom-center",
         "rejectButtonCaptionColor": "#FFFFFF",
-        "rejectButtonColor": "#0073CE",
+        "rejectButtonColor": "#4db6ac",  // Nuovo colore pulsante "Rifiuta tutto"
         "rejectButtonDisplay": true,
         "showPurposesToggles": true,
         "showTitle": false,
@@ -1034,6 +1057,17 @@ _iub.csConfiguration = {
 <script type="text/javascript" src="autoblocking/3512692.js" charset="UTF-8"></script>
 <script type="text/javascript" src="cs/gpp/stub.js"></script>
 <script type="text/javascript" src="cs/iubenda_cs.js" charset="UTF-8" async=""></script>
+
+<!-- Aggiungi lo stile per l'hover -->
+<style>
+  .iubenda-cs-accept-btn:hover {
+    background-color: #e57373 !important; /* Hover per "Accetta tutto" */
+  }
+  
+  .iubenda-cs-reject-btn:hover {
+    background-color: #e57373 !important; /* Hover per "Rifiuta tutto" */
+  }
+</style>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
