@@ -4154,10 +4154,6 @@ Uri: http://192.168.175.134/william-shakespeare.html
 File Name: C:\Downloaded Web Sites\192.168.175.134\william-shakespeare.html
 Content Type: text/html
 
-Uri: http://cdn.iubenda.com/cs/gpp/stub.js
-File Name: C:\Downloaded Web Sites\192.168.175.134\cs\gpp\stub.js
-Content Type: application/javascript
-
 Uri: http://cdn.iubenda.com/cs/iubenda_cs.js
 File Name: C:\Downloaded Web Sites\192.168.175.134\cs\iubenda_cs.js
 Content Type: application/javascript
