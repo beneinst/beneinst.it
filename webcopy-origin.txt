@@ -1062,10 +1062,6 @@ Uri: http://192.168.175.134/images/2023/10/03/Villon_Francois_2.jpg
 File Name: C:\Downloaded Web Sites\192.168.175.134\images\2023\10\03\Villon_Francois_2.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.175.134/images/2023/10/04/2.jpg
-File Name: C:\Downloaded Web Sites\192.168.175.134\images\2023\10\04\2.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.175.134/images/2023/10/04/4.jpg
 File Name: C:\Downloaded Web Sites\192.168.175.134\images\2023\10\04\4.jpg
 Content Type: image/jpeg
@@ -1898,6 +1894,14 @@ Uri: http://192.168.175.134/images/2024/09/23/sfondo2titolopg34.jpg
 File Name: C:\Downloaded Web Sites\192.168.175.134\images\2024\09\23\sfondo2titolopg34.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.175.134/images/2024/09/24/22.jpg
+File Name: C:\Downloaded Web Sites\192.168.175.134\images\2024\09\24\22.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.175.134/images/2024/09/24/larte-e-dentro-di-te_autore2.jpg
+File Name: C:\Downloaded Web Sites\192.168.175.134\images\2024\09\24\larte-e-dentro-di-te_autore2.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.175.134/images/Componenti/1ff.jpg
 File Name: C:\Downloaded Web Sites\192.168.175.134\images\Componenti\1ff.jpg
 Content Type: image/jpeg
@@ -2146,37 +2150,37 @@ Uri: http://192.168.175.134/images/copertina-di-facebook7763.jpg
 File Name: C:\Downloaded Web Sites\192.168.175.134\images\copertina-di-facebook7763.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.175.134/images/Copertine/10.png
-File Name: C:\Downloaded Web Sites\192.168.175.134\images\Copertine\10.png
-Content Type: image/png
+Uri: http://192.168.175.134/images/Copertine/103.jpg
+File Name: C:\Downloaded Web Sites\192.168.175.134\images\Copertine\103.jpg
+Content Type: image/jpeg
 
-Uri: http://192.168.175.134/images/Copertine/17.png
-File Name: C:\Downloaded Web Sites\192.168.175.134\images\Copertine\17.png
-Content Type: image/png
+Uri: http://192.168.175.134/images/Copertine/173.jpg
+File Name: C:\Downloaded Web Sites\192.168.175.134\images\Copertine\173.jpg
+Content Type: image/jpeg
 
-Uri: http://192.168.175.134/images/Copertine/2.png
-File Name: C:\Downloaded Web Sites\192.168.175.134\images\Copertine\2.png
-Content Type: image/png
+Uri: http://192.168.175.134/images/Copertine/213.jpg
+File Name: C:\Downloaded Web Sites\192.168.175.134\images\Copertine\213.jpg
+Content Type: image/jpeg
 
-Uri: http://192.168.175.134/images/Copertine/21.png
-File Name: C:\Downloaded Web Sites\192.168.175.134\images\Copertine\21.png
-Content Type: image/png
+Uri: http://192.168.175.134/images/Copertine/23.jpg
+File Name: C:\Downloaded Web Sites\192.168.175.134\images\Copertine\23.jpg
+Content Type: image/jpeg
 
-Uri: http://192.168.175.134/images/Copertine/24.png
-File Name: C:\Downloaded Web Sites\192.168.175.134\images\Copertine\24.png
-Content Type: image/png
+Uri: http://192.168.175.134/images/Copertine/243.jpg
+File Name: C:\Downloaded Web Sites\192.168.175.134\images\Copertine\243.jpg
+Content Type: image/jpeg
 
-Uri: http://192.168.175.134/images/Copertine/4.png
-File Name: C:\Downloaded Web Sites\192.168.175.134\images\Copertine\4.png
-Content Type: image/png
+Uri: http://192.168.175.134/images/Copertine/43.jpg
+File Name: C:\Downloaded Web Sites\192.168.175.134\images\Copertine\43.jpg
+Content Type: image/jpeg
 
-Uri: http://192.168.175.134/images/Copertine/6.png
-File Name: C:\Downloaded Web Sites\192.168.175.134\images\Copertine\6.png
-Content Type: image/png
+Uri: http://192.168.175.134/images/Copertine/63.jpg
+File Name: C:\Downloaded Web Sites\192.168.175.134\images\Copertine\63.jpg
+Content Type: image/jpeg
 
-Uri: http://192.168.175.134/images/Copertine/9.png
-File Name: C:\Downloaded Web Sites\192.168.175.134\images\Copertine\9.png
-Content Type: image/png
+Uri: http://192.168.175.134/images/Copertine/93.jpg
+File Name: C:\Downloaded Web Sites\192.168.175.134\images\Copertine\93.jpg
+Content Type: image/jpeg
 
 Uri: http://192.168.175.134/images/Copertine/AudioCop/1.jpg
 File Name: C:\Downloaded Web Sites\192.168.175.134\images\Copertine\AudioCop\1.jpg
