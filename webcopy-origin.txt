@@ -1062,10 +1062,6 @@ Uri: http://192.168.109.129/images/2023/10/03/Villon_Francois_2.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.129\images\2023\10\03\Villon_Francois_2.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.109.129/images/2023/10/04/4.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.129\images\2023\10\04\4.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.109.129/images/2023/10/04/audiob1.png
 File Name: C:\Downloaded Web Sites\192.168.109.129\images\2023\10\04\audiob1.png
 Content Type: image/png
@@ -1074,41 +1070,17 @@ Uri: http://192.168.109.129/images/2023/10/04/ebook-tit.png
 File Name: C:\Downloaded Web Sites\192.168.109.129\images\2023\10\04\ebook-tit.png
 Content Type: image/png
 
-Uri: http://192.168.109.129/images/2023/10/04/fav-bgs1g2.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.129\images\2023\10\04\fav-bgs1g2.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.129/images/2023/10/04/fileipfs3.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.129\images\2023\10\04\fileipfs3.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.109.129/images/2023/10/04/gerardo_dorrico_2018-1.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.129\images\2023\10\04\gerardo_dorrico_2018-1.jpg
 Content Type: image/jpeg
-
-Uri: http://192.168.109.129/images/2023/10/04/image03.png
-File Name: C:\Downloaded Web Sites\192.168.109.129\images\2023\10\04\image03.png
-Content Type: image/png
 
 Uri: http://192.168.109.129/images/2023/10/04/ipfsl.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.129\images\2023\10\04\ipfsl.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.109.129/images/2023/10/04/larte-e-dentro-di-te.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.129\images\2023\10\04\larte-e-dentro-di-te.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.129/images/2023/10/04/larte-e-dentro-di-te_autore.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.129\images\2023\10\04\larte-e-dentro-di-te_autore.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.109.129/images/2023/10/04/rounded-in-photoretrica-8.png
 File Name: C:\Downloaded Web Sites\192.168.109.129\images\2023\10\04\rounded-in-photoretrica-8.png
 Content Type: image/png
-
-Uri: http://192.168.109.129/images/2023/10/04/samuel-zeller-250029-unsplash.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.129\images\2023\10\04\samuel-zeller-250029-unsplash.jpg
-Content Type: image/jpeg
 
 Uri: http://192.168.109.129/images/2023/10/04/sfrt.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.129\images\2023\10\04\sfrt.jpg
@@ -1128,10 +1100,6 @@ Content Type: image/png
 
 Uri: http://192.168.109.129/images/2023/10/23/sedp.png
 File Name: C:\Downloaded Web Sites\192.168.109.129\images\2023\10\23\sedp.png
-Content Type: image/png
-
-Uri: http://192.168.109.129/images/2023/11/05/rounded-in-photoretrica-32.png
-File Name: C:\Downloaded Web Sites\192.168.109.129\images\2023\11\05\rounded-in-photoretrica-32.png
 Content Type: image/png
 
 Uri: http://192.168.109.129/images/2024/01/27/1.png
@@ -1854,17 +1822,9 @@ Uri: http://192.168.109.129/images/2024/02/14/OIG2.png
 File Name: C:\Downloaded Web Sites\192.168.109.129\images\2024\02\14\OIG2.png
 Content Type: image/png
 
-Uri: http://192.168.109.129/images/2024/02/14/sgonip2s.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.129\images\2024\02\14\sgonip2s.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.109.129/images/2024/02/27/planimetrie-ed-edificio.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.129\images\2024\02\27\planimetrie-ed-edificio.jpg
 Content Type: image/jpeg
-
-Uri: http://192.168.109.129/images/2024/06/20/sfondo2titolopg3.png
-File Name: C:\Downloaded Web Sites\192.168.109.129\images\2024\06\20\sfondo2titolopg3.png
-Content Type: image/png
 
 Uri: http://192.168.109.129/images/2024/06/21/th-3.jpeg
 File Name: C:\Downloaded Web Sites\192.168.109.129\images\2024\06\21\th-3.jpeg
@@ -1876,14 +1836,6 @@ Content Type: image/jpeg
 
 Uri: http://192.168.109.129/images/2024/06/21/thq.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.129\images\2024\06\21\thq.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.129/images/2024/09/24/22.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.129\images\2024\09\24\22.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.129/images/2024/09/24/larte-e-dentro-di-te_autore2.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.129\images\2024\09\24\larte-e-dentro-di-te_autore2.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.109.129/images/Componenti/1ff.jpg
@@ -2134,8 +2086,8 @@ Uri: http://192.168.109.129/images/Componenti/whatsapp--v1h.png
 File Name: C:\Downloaded Web Sites\192.168.109.129\images\Componenti\whatsapp--v1h.png
 Content Type: image/png
 
-Uri: http://192.168.109.129/images/copertina-di-facebook7763.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.129\images\copertina-di-facebook7763.jpg
+Uri: http://192.168.109.129/images/copertina-di-facebook776s.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.129\images\copertina-di-facebook776s.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.109.129/images/Copertine/103.jpg
@@ -2832,18 +2784,6 @@ Content Type: application/pdf
 
 Uri: http://192.168.109.129/images/Files/Lettere-DE-gd/Zeig mir dass du mich liebst.pdf
 File Name: C:\Downloaded Web Sites\192.168.109.129\images\Files\Lettere-DE-gd\Zeig mir dass du mich liebst.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.109.129/images/Files/Lettere-EN-gd/Real justifications.pdf
-File Name: C:\Downloaded Web Sites\192.168.109.129\images\Files\Lettere-EN-gd\Real justifications.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.109.129/images/Files/Lettere-ES-gd/Jupiter el sol mas grande.pdf
-File Name: C:\Downloaded Web Sites\192.168.109.129\images\Files\Lettere-ES-gd\Jupiter el sol mas grande.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.109.129/images/Files/Lettere-FR-gd/Le vrai poids des choses.pdf
-File Name: C:\Downloaded Web Sites\192.168.109.129\images\Files\Lettere-FR-gd\Le vrai poids des choses.pdf
 Content Type: application/pdf
 
 Uri: http://192.168.109.129/images/Files/Lettere-ITA-2024/Codici Enigmatici Equilibri Oscillanti.pdf
@@ -3691,7 +3631,7 @@ File Name: C:\Downloaded Web Sites\192.168.109.129\in-italiano\te-lo-colorerei.h
 Content Type: text/html
 
 Uri: http://192.168.109.129/index.php
-File Name: C:\Downloaded Web Sites\192.168.109.129\index.php-1.html
+File Name: C:\Downloaded Web Sites\192.168.109.129\index.php.html
 Content Type: text/html
 
 Uri: http://192.168.109.129/index.php/anteprime-audio
@@ -3827,7 +3767,7 @@ File Name: C:\Downloaded Web Sites\192.168.109.129\index.php\sedetiam-main.html
 Content Type: text/html
 
 Uri: http://192.168.109.129/index.php?option=com_sppagebuilder&view=page&id=3
-File Name: C:\Downloaded Web Sites\192.168.109.129\index.php.html
+File Name: C:\Downloaded Web Sites\192.168.109.129\index.php-1.html
 Content Type: text/html
 
 Uri: http://192.168.109.129/invia-a-sed-etiam.html
@@ -3882,7 +3822,7 @@ Uri: http://192.168.109.129/luigi-pirandello.html
 File Name: C:\Downloaded Web Sites\192.168.109.129\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.109.129/media/com_wrapper/js/iframe-height.min.js?9c1e0d
+Uri: http://192.168.109.129/media/com_wrapper/js/iframe-height.min.js?e3c403
 File Name: C:\Downloaded Web Sites\192.168.109.129\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -4541,10 +4481,6 @@ Content Type: font/ttf
 Uri: https://fonts.gstatic.com/s/biryani/v13/hv-WlzNxIFoO84YdfUsTOQ.ttf
 File Name: C:\Downloaded Web Sites\192.168.109.129\s\biryani\v13\hv-WlzNxIFoO84YdfUsTOQ.ttf
 Content Type: font/ttf
-
-Uri: https://gateway.pinata.cloud/ipfs/QmR4QaYQoywJCsyb7FgZZm3AZjcyBm4TSnBLJrLjBxpGah/Di Franco Bazzarelli.pdf
-File Name: C:\Downloaded Web Sites\192.168.109.129\ipfs\QmR4QaYQoywJCsyb7FgZZm3AZjcyBm4TSnBLJrLjBxpGah\Di Franco Bazzarelli.pdf
-Content Type: application/pdf
 
 Uri: https://www.googletagmanager.com/gtag/js?id=G-37P9KCN6WS
 File Name: C:\Downloaded Web Sites\192.168.109.129\gtag\js
