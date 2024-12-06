@@ -1,7 +1,7 @@
 ﻿@font-face {
   font-family: 'Open Sans';
   font-style: normal;
-  font-weight: 500;
+  font-weight: 600;
   font-stretch: normal;
-  src: url(s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf) format('truetype');
+  src: url(s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf) format('truetype');
 }
