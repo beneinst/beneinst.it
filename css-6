@@ -1,42 +1,49 @@
 ﻿@font-face {
-  font-family: 'Averia Libre';
-  font-style: italic;
-  font-weight: 300;
+  font-family: 'Biryani';
+  font-style: normal;
+  font-weight: 200;
   font-display: swap;
-  src: url(s/averialibre/v16/2V0HKIcMGZEnV6xygz7eNjESAJFhbXTu0pU.ttf) format('truetype');
+  src: url(s/biryani/v13/hv-TlzNxIFoO84YddYQyKTdYVw.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Averia Libre';
-  font-style: italic;
-  font-weight: 400;
-  font-display: swap;
-  src: url(s/averialibre/v16/2V0EKIcMGZEnV6xygz7eNjESAJnKT2Q.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Averia Libre';
-  font-style: italic;
-  font-weight: 700;
-  font-display: swap;
-  src: url(s/averialibre/v16/2V0HKIcMGZEnV6xygz7eNjESAJFxanTu0pU.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Averia Libre';
+  font-family: 'Biryani';
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(s/averialibre/v16/2V0FKIcMGZEnV6xygz7eNjEarovdaETp.ttf) format('truetype');
+  src: url(s/biryani/v13/hv-TlzNxIFoO84YddeAxKTdYVw.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Averia Libre';
+  font-family: 'Biryani';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(s/averialibre/v16/2V0aKIcMGZEnV6xygz7eNjESBanN.ttf) format('truetype');
+  src: url(s/biryani/v13/hv-WlzNxIFoO84YdfUsTOQ.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Averia Libre';
+  font-family: 'Biryani';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/biryani/v13/hv-TlzNxIFoO84YddZQ3KTdYVw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Biryani';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(s/averialibre/v16/2V0FKIcMGZEnV6xygz7eNjEavozdaETp.ttf) format('truetype');
+  src: url(s/biryani/v13/hv-TlzNxIFoO84YddfA2KTdYVw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Biryani';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(s/biryani/v13/hv-TlzNxIFoO84Yddew1KTdYVw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Biryani';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(s/biryani/v13/hv-TlzNxIFoO84Yddcg0KTdYVw.ttf) format('truetype');
 }

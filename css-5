@@ -1,63 +1,42 @@
 ﻿@font-face {
-  font-family: 'Big Shoulders Text';
-  font-style: normal;
-  font-weight: 100;
+  font-family: 'Averia Libre';
+  font-style: italic;
+  font-weight: 300;
   font-display: swap;
-  src: url(s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-r7TUFMg-1.ttf) format('truetype');
+  src: url(s/averialibre/v16/2V0HKIcMGZEnV6xygz7eNjESAJFhbXTu0pU.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Big Shoulders Text';
-  font-style: normal;
-  font-weight: 200;
+  font-family: 'Averia Libre';
+  font-style: italic;
+  font-weight: 400;
   font-display: swap;
-  src: url(s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-q7TUFMg-1.ttf) format('truetype');
+  src: url(s/averialibre/v16/2V0EKIcMGZEnV6xygz7eNjESAJnKT2Q.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Big Shoulders Text';
+  font-family: 'Averia Libre';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/averialibre/v16/2V0HKIcMGZEnV6xygz7eNjESAJFxanTu0pU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Averia Libre';
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3dGq7TUFMg-1.ttf) format('truetype');
+  src: url(s/averialibre/v16/2V0FKIcMGZEnV6xygz7eNjEarovdaETp.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Big Shoulders Text';
+  font-family: 'Averia Libre';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-q7TUFMg-1.ttf) format('truetype');
+  src: url(s/averialibre/v16/2V0aKIcMGZEnV6xygz7eNjESBanN.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Big Shoulders Text';
-  font-style: normal;
-  font-weight: 500;
-  font-display: swap;
-  src: url(s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3b2q7TUFMg-1.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Big Shoulders Text';
-  font-style: normal;
-  font-weight: 600;
-  font-display: swap;
-  src: url(s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3VGt7TUFMg-1.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Big Shoulders Text';
+  font-family: 'Averia Libre';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Wit7TUFMg-1.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Big Shoulders Text';
-  font-style: normal;
-  font-weight: 800;
-  font-display: swap;
-  src: url(s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-t7TUFMg-1.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Big Shoulders Text';
-  font-style: normal;
-  font-weight: 900;
-  font-display: swap;
-  src: url(s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Sat7TUFMg-1.ttf) format('truetype');
+  src: url(s/averialibre/v16/2V0FKIcMGZEnV6xygz7eNjEavozdaETp.ttf) format('truetype');
 }
