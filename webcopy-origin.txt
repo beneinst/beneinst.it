@@ -1838,6 +1838,10 @@ Uri: http://192.168.109.129/images/2024/06/21/thq.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.129\images\2024\06\21\thq.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.109.129/images/2024/12/08/oig2grigio2.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.129\images\2024\12\08\oig2grigio2.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.109.129/images/Componenti/1ff.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.129\images\Componenti\1ff.jpg
 Content Type: image/jpeg
@@ -2012,10 +2016,6 @@ Content Type: image/png
 
 Uri: http://192.168.109.129/images/Componenti/OIG2 1.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.129\images\Componenti\OIG2 1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.129/images/Componenti/OIG2 2.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.129\images\Componenti\OIG2 2.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.109.129/images/Componenti/OIG2.9rWI3nno3ChPqBpIa.jpg
