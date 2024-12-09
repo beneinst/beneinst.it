@@ -1898,10 +1898,6 @@ Uri: http://192.168.109.129/images/Componenti/Fonts/Mynerve-Regular.ttf
 File Name: C:\Downloaded Web Sites\192.168.109.129\images\Componenti\Fonts\Mynerve-Regular.ttf
 Content Type: font/ttf
 
-Uri: http://192.168.109.129/images/Componenti/gmail.png
-File Name: C:\Downloaded Web Sites\192.168.109.129\images\Componenti\gmail.png
-Content Type: image/png
-
 Uri: http://192.168.109.129/images/Componenti/Icone_Risorse_Home/anteprimeaudio.gif
 File Name: C:\Downloaded Web Sites\192.168.109.129\images\Componenti\Icone_Risorse_Home\anteprimeaudio.gif
 Content Type: image/gif
@@ -1938,20 +1934,8 @@ Uri: http://192.168.109.129/images/Componenti/Icone_Risorse_Home/ths.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.129\images\Componenti\Icone_Risorse_Home\ths.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.109.129/images/Componenti/Icone_Social/1_6_fgYnisCa9V21mymySIvA.png
-File Name: C:\Downloaded Web Sites\192.168.109.129\images\Componenti\Icone_Social\1_6_fgYnisCa9V21mymySIvA.png
-Content Type: image/png
-
 Uri: http://192.168.109.129/images/Componenti/Icone_Social/facebo1.png
 File Name: C:\Downloaded Web Sites\192.168.109.129\images\Componenti\Icone_Social\facebo1.png
-Content Type: image/png
-
-Uri: http://192.168.109.129/images/Componenti/Icone_Social/facebook.png
-File Name: C:\Downloaded Web Sites\192.168.109.129\images\Componenti\Icone_Social\facebook.png
-Content Type: image/png
-
-Uri: http://192.168.109.129/images/Componenti/Icone_Social/Instagram.png
-File Name: C:\Downloaded Web Sites\192.168.109.129\images\Componenti\Icone_Social\Instagram.png
 Content Type: image/png
 
 Uri: http://192.168.109.129/images/Componenti/Icone_Social/medium2.png
@@ -1966,16 +1950,8 @@ Uri: http://192.168.109.129/images/Componenti/Icone_Social/pint1.png
 File Name: C:\Downloaded Web Sites\192.168.109.129\images\Componenti\Icone_Social\pint1.png
 Content Type: image/png
 
-Uri: http://192.168.109.129/images/Componenti/Icone_Social/Pinterest-logo.png
-File Name: C:\Downloaded Web Sites\192.168.109.129\images\Componenti\Icone_Social\Pinterest-logo.png
-Content Type: image/png
-
 Uri: http://192.168.109.129/images/Componenti/Icone_Social/whatsapp--v1h1.png
 File Name: C:\Downloaded Web Sites\192.168.109.129\images\Componenti\Icone_Social\whatsapp--v1h1.png
-Content Type: image/png
-
-Uri: http://192.168.109.129/images/Componenti/Icone_Social/yout.png
-File Name: C:\Downloaded Web Sites\192.168.109.129\images\Componenti\Icone_Social\yout.png
 Content Type: image/png
 
 Uri: http://192.168.109.129/images/Componenti/Icone_Social/youtub1.png
@@ -2005,10 +1981,6 @@ Content Type: image/jpeg
 Uri: http://192.168.109.129/images/Componenti/Ipfs/8.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.129\images\Componenti\Ipfs\8.jpg
 Content Type: image/jpeg
-
-Uri: http://192.168.109.129/images/Componenti/Mess9.png
-File Name: C:\Downloaded Web Sites\192.168.109.129\images\Componenti\Mess9.png
-Content Type: image/png
 
 Uri: http://192.168.109.129/images/Componenti/mobi-4.png
 File Name: C:\Downloaded Web Sites\192.168.109.129\images\Componenti\mobi-4.png
@@ -2080,10 +2052,6 @@ Content Type: image/jpeg
 
 Uri: http://192.168.109.129/images/Componenti/rounded-in-photoretrica-27.png
 File Name: C:\Downloaded Web Sites\192.168.109.129\images\Componenti\rounded-in-photoretrica-27.png
-Content Type: image/png
-
-Uri: http://192.168.109.129/images/Componenti/whatsapp--v1h.png
-File Name: C:\Downloaded Web Sites\192.168.109.129\images\Componenti\whatsapp--v1h.png
 Content Type: image/png
 
 Uri: http://192.168.109.129/images/copertina-di-facebook776s.jpg
@@ -3822,7 +3790,7 @@ Uri: http://192.168.109.129/luigi-pirandello.html
 File Name: C:\Downloaded Web Sites\192.168.109.129\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.109.129/media/com_wrapper/js/iframe-height.min.js?2aa1b7
+Uri: http://192.168.109.129/media/com_wrapper/js/iframe-height.min.js?a04cfc
 File Name: C:\Downloaded Web Sites\192.168.109.129\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -4313,6 +4281,34 @@ Content Type: application/pdf
 Uri: https://cdn.gtranslate.net/widgets/latest/fc.js
 File Name: C:\Downloaded Web Sites\192.168.109.129\widgets\latest\fc.js
 Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\192.168.109.129\ajax\libs\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\192.168.109.129\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\192.168.109.129\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\192.168.109.129\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\192.168.109.129\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\192.168.109.129\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\192.168.109.129\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: application/octet-stream
 
 Uri: https://cs.iubenda.com/autoblocking/3512692.js
 File Name: C:\Downloaded Web Sites\192.168.109.129\autoblocking\3512692.js
