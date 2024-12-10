@@ -1898,6 +1898,10 @@ Uri: http://192.168.109.130/images/2024/12/09/8w6.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\12\09\8w6.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.109.130/images/2024/12/10/sfrthom.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\12\10\sfrthom.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.109.130/images/Componenti/1ff.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\Componenti\1ff.jpg
 Content Type: image/jpeg
