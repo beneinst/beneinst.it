@@ -134,15 +134,19 @@ Uri: http://192.168.109.130/charles-baudelaire.html
 File Name: C:\Downloaded Web Sites\192.168.109.130\charles-baudelaire.html
 Content Type: text/html
 
-Uri: http://192.168.109.130/components/com_sppagebuilder/assets/css/animate.min.css?7bdda2ba97a09ec689190d2c91f579fe
+Uri: http://192.168.109.130/components/com_sppagebuilder/assets/css/animate.min.css?9db842b3dc3336737559eb4abc0f1b3d
 File Name: C:\Downloaded Web Sites\192.168.109.130\components\com_sppagebuilder\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: http://192.168.109.130/components/com_sppagebuilder/assets/css/dynamic-content.css?9db842b3dc3336737559eb4abc0f1b3d
+File Name: C:\Downloaded Web Sites\192.168.109.130\components\com_sppagebuilder\assets\css\dynamic-content.css
 Content Type: text/css
 
 Uri: http://192.168.109.130/components/com_sppagebuilder/assets/css/magnific-popup.css
 File Name: C:\Downloaded Web Sites\192.168.109.130\components\com_sppagebuilder\assets\css\magnific-popup.css
 Content Type: text/css
 
-Uri: http://192.168.109.130/components/com_sppagebuilder/assets/css/sppagebuilder.css?7bdda2ba97a09ec689190d2c91f579fe
+Uri: http://192.168.109.130/components/com_sppagebuilder/assets/css/sppagebuilder.css?9db842b3dc3336737559eb4abc0f1b3d
 File Name: C:\Downloaded Web Sites\192.168.109.130\components\com_sppagebuilder\assets\css\sppagebuilder.css
 Content Type: text/css
 
@@ -158,15 +162,19 @@ Uri: http://192.168.109.130/components/com_sppagebuilder/assets/js/common.js
 File Name: C:\Downloaded Web Sites\192.168.109.130\components\com_sppagebuilder\assets\js\common.js
 Content Type: application/javascript
 
+Uri: http://192.168.109.130/components/com_sppagebuilder/assets/js/dynamic-content.js?9db842b3dc3336737559eb4abc0f1b3d
+File Name: C:\Downloaded Web Sites\192.168.109.130\components\com_sppagebuilder\assets\js\dynamic-content.js
+Content Type: application/javascript
+
 Uri: http://192.168.109.130/components/com_sppagebuilder/assets/js/jquery.magnific-popup.min.js
 File Name: C:\Downloaded Web Sites\192.168.109.130\components\com_sppagebuilder\assets\js\jquery.magnific-popup.min.js
 Content Type: application/javascript
 
-Uri: http://192.168.109.130/components/com_sppagebuilder/assets/js/jquery.parallax.js?7bdda2ba97a09ec689190d2c91f579fe
+Uri: http://192.168.109.130/components/com_sppagebuilder/assets/js/jquery.parallax.js?9db842b3dc3336737559eb4abc0f1b3d
 File Name: C:\Downloaded Web Sites\192.168.109.130\components\com_sppagebuilder\assets\js\jquery.parallax.js
 Content Type: application/javascript
 
-Uri: http://192.168.109.130/components/com_sppagebuilder/assets/js/sppagebuilder.js?7bdda2ba97a09ec689190d2c91f579fe
+Uri: http://192.168.109.130/components/com_sppagebuilder/assets/js/sppagebuilder.js?9db842b3dc3336737559eb4abc0f1b3d
 File Name: C:\Downloaded Web Sites\192.168.109.130\components\com_sppagebuilder\assets\js\sppagebuilder.js
 Content Type: application/javascript
 
@@ -1082,10 +1090,6 @@ Uri: http://192.168.109.130/images/2023/10/04/rounded-in-photoretrica-8.png
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\2023\10\04\rounded-in-photoretrica-8.png
 Content Type: image/png
 
-Uri: http://192.168.109.130/images/2023/10/04/sfrt.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2023\10\04\sfrt.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.109.130/images/2023/10/09/ccpage.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\2023\10\09\ccpage.jpg
 Content Type: image/jpeg
@@ -1826,10 +1830,6 @@ Uri: http://192.168.109.130/images/2024/02/27/planimetrie-ed-edificio.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\27\planimetrie-ed-edificio.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.109.130/images/2024/06/20/7x_2023.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\06\20\7x_2023.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.109.130/images/2024/06/21/th-3.jpeg
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\06\21\th-3.jpeg
 Content Type: image/jpeg
@@ -1904,6 +1904,10 @@ Content Type: image/jpeg
 
 Uri: http://192.168.109.130/images/2024/12/10/dvdvdv6.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\12\10\dvdvdv6.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.130/images/2025/02/12/111xp.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\12\111xp.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.109.130/images/Beneinst-OndeLetterarie.mp4
@@ -3914,7 +3918,7 @@ Uri: http://192.168.109.130/luigi-pirandello.html
 File Name: C:\Downloaded Web Sites\192.168.109.130\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.109.130/media/com_wrapper/js/iframe-height.min.js?ca2670
+Uri: http://192.168.109.130/media/com_wrapper/js/iframe-height.min.js?ebefa8
 File Name: C:\Downloaded Web Sites\192.168.109.130\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
