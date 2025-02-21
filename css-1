@@ -1,84 +1,14 @@
 ﻿@font-face {
-  font-family: 'Alegreya';
-  font-style: italic;
-  font-weight: 400;
-  font-display: swap;
-  src: url(s/alegreya/v36/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlbgv5qhmSA.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Alegreya';
-  font-style: italic;
-  font-weight: 500;
-  font-display: swap;
-  src: url(s/alegreya/v36/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlbSv5qhmSA.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Alegreya';
-  font-style: italic;
-  font-weight: 600;
-  font-display: swap;
-  src: url(s/alegreya/v36/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlY-uJqhmSA.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Alegreya';
-  font-style: italic;
-  font-weight: 700;
-  font-display: swap;
-  src: url(s/alegreya/v36/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlYHuJqhmSA.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Alegreya';
-  font-style: italic;
-  font-weight: 800;
-  font-display: swap;
-  src: url(s/alegreya/v36/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlZguJqhmSA.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Alegreya';
-  font-style: italic;
-  font-weight: 900;
-  font-display: swap;
-  src: url(s/alegreya/v36/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlZJuJqhmSA.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Alegreya';
+  font-family: 'Charmonman';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(s/alegreya/v36/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNG9hU4-6qm.ttf) format('truetype');
+  src: url(s/charmonman/v18/MjQDmiR3vP_nuxDv47jiaJaiuA.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Alegreya';
-  font-style: normal;
-  font-weight: 500;
-  font-display: swap;
-  src: url(s/alegreya/v36/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGxBU4-6qm.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Alegreya';
-  font-style: normal;
-  font-weight: 600;
-  font-display: swap;
-  src: url(s/alegreya/v36/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGKBI4-6qm.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Alegreya';
+  font-family: 'Charmonman';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(s/alegreya/v36/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGERI4-6qm.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Alegreya';
-  font-style: normal;
-  font-weight: 800;
-  font-display: swap;
-  src: url(s/alegreya/v36/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGdhI4-6qm.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Alegreya';
-  font-style: normal;
-  font-weight: 900;
-  font-display: swap;
-  src: url(s/alegreya/v36/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGXxI4-6qm.ttf) format('truetype');
+  src: url(s/charmonman/v18/MjQAmiR3vP_nuxDv47jiYC2HqLhA8A.ttf) format('truetype');
 }

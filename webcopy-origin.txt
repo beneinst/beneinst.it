@@ -94,10 +94,6 @@ Uri: http://192.168.109.130/cache/com_templates/templates/shaper_helixultimate/1
 File Name: C:\Downloaded Web Sites\192.168.109.130\cache\com_templates\templates\shaper_helixultimate\1e19efb4f628c737dcd1386c8d3f661c.css
 Content Type: text/css
 
-Uri: http://192.168.109.130/cache/com_templates/templates/shaper_helixultimate/1fccc077b4c2be56878f9a3c0caef1cd.css
-File Name: C:\Downloaded Web Sites\192.168.109.130\cache\com_templates\templates\shaper_helixultimate\1fccc077b4c2be56878f9a3c0caef1cd.css
-Content Type: text/css
-
 Uri: http://192.168.109.130/cache/com_templates/templates/shaper_helixultimate/21f9472012de8fb7e771a274b24c8b8d.css
 File Name: C:\Downloaded Web Sites\192.168.109.130\cache\com_templates\templates\shaper_helixultimate\21f9472012de8fb7e771a274b24c8b8d.css
 Content Type: text/css
@@ -108,10 +104,6 @@ Content Type: application/javascript
 
 Uri: http://192.168.109.130/cache/com_templates/templates/shaper_helixultimate/52e02b7e15860e95371ad08a847bdc1b.js
 File Name: C:\Downloaded Web Sites\192.168.109.130\cache\com_templates\templates\shaper_helixultimate\52e02b7e15860e95371ad08a847bdc1b.js
-Content Type: application/javascript
-
-Uri: http://192.168.109.130/cache/com_templates/templates/shaper_helixultimate/f5d3feef0cd18eb3536aeac590c1ea92.js
-File Name: C:\Downloaded Web Sites\192.168.109.130\cache\com_templates\templates\shaper_helixultimate\f5d3feef0cd18eb3536aeac590c1ea92.js
 Content Type: application/javascript
 
 Uri: http://192.168.109.130/carlo-collodi.html
@@ -134,11 +126,11 @@ Uri: http://192.168.109.130/charles-baudelaire.html
 File Name: C:\Downloaded Web Sites\192.168.109.130\charles-baudelaire.html
 Content Type: text/html
 
-Uri: http://192.168.109.130/components/com_sppagebuilder/assets/css/animate.min.css?9db842b3dc3336737559eb4abc0f1b3d
+Uri: http://192.168.109.130/components/com_sppagebuilder/assets/css/animate.min.css?0d6a07403b8fe83ff73a9dcbd3ef7c0e
 File Name: C:\Downloaded Web Sites\192.168.109.130\components\com_sppagebuilder\assets\css\animate.min.css
 Content Type: text/css
 
-Uri: http://192.168.109.130/components/com_sppagebuilder/assets/css/dynamic-content.css?9db842b3dc3336737559eb4abc0f1b3d
+Uri: http://192.168.109.130/components/com_sppagebuilder/assets/css/dynamic-content.css?0d6a07403b8fe83ff73a9dcbd3ef7c0e
 File Name: C:\Downloaded Web Sites\192.168.109.130\components\com_sppagebuilder\assets\css\dynamic-content.css
 Content Type: text/css
 
@@ -146,7 +138,7 @@ Uri: http://192.168.109.130/components/com_sppagebuilder/assets/css/magnific-pop
 File Name: C:\Downloaded Web Sites\192.168.109.130\components\com_sppagebuilder\assets\css\magnific-popup.css
 Content Type: text/css
 
-Uri: http://192.168.109.130/components/com_sppagebuilder/assets/css/sppagebuilder.css?9db842b3dc3336737559eb4abc0f1b3d
+Uri: http://192.168.109.130/components/com_sppagebuilder/assets/css/sppagebuilder.css?0d6a07403b8fe83ff73a9dcbd3ef7c0e
 File Name: C:\Downloaded Web Sites\192.168.109.130\components\com_sppagebuilder\assets\css\sppagebuilder.css
 Content Type: text/css
 
@@ -162,7 +154,7 @@ Uri: http://192.168.109.130/components/com_sppagebuilder/assets/js/common.js
 File Name: C:\Downloaded Web Sites\192.168.109.130\components\com_sppagebuilder\assets\js\common.js
 Content Type: application/javascript
 
-Uri: http://192.168.109.130/components/com_sppagebuilder/assets/js/dynamic-content.js?9db842b3dc3336737559eb4abc0f1b3d
+Uri: http://192.168.109.130/components/com_sppagebuilder/assets/js/dynamic-content.js?0d6a07403b8fe83ff73a9dcbd3ef7c0e
 File Name: C:\Downloaded Web Sites\192.168.109.130\components\com_sppagebuilder\assets\js\dynamic-content.js
 Content Type: application/javascript
 
@@ -170,11 +162,11 @@ Uri: http://192.168.109.130/components/com_sppagebuilder/assets/js/jquery.magnif
 File Name: C:\Downloaded Web Sites\192.168.109.130\components\com_sppagebuilder\assets\js\jquery.magnific-popup.min.js
 Content Type: application/javascript
 
-Uri: http://192.168.109.130/components/com_sppagebuilder/assets/js/jquery.parallax.js?9db842b3dc3336737559eb4abc0f1b3d
+Uri: http://192.168.109.130/components/com_sppagebuilder/assets/js/jquery.parallax.js?0d6a07403b8fe83ff73a9dcbd3ef7c0e
 File Name: C:\Downloaded Web Sites\192.168.109.130\components\com_sppagebuilder\assets\js\jquery.parallax.js
 Content Type: application/javascript
 
-Uri: http://192.168.109.130/components/com_sppagebuilder/assets/js/sppagebuilder.js?9db842b3dc3336737559eb4abc0f1b3d
+Uri: http://192.168.109.130/components/com_sppagebuilder/assets/js/sppagebuilder.js?0d6a07403b8fe83ff73a9dcbd3ef7c0e
 File Name: C:\Downloaded Web Sites\192.168.109.130\components\com_sppagebuilder\assets\js\sppagebuilder.js
 Content Type: application/javascript
 
@@ -778,44 +770,8 @@ Uri: http://192.168.109.130/images/2023/10/03/-sant-agostino-.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\2023\10\03\-sant-agostino-.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.109.130/images/2023/10/03/1-11-newrfgr.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2023\10\03\1-11-newrfgr.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2023/10/03/1_rac4.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2023\10\03\1_rac4.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2023/10/03/2g_ult.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2023\10\03\2g_ult.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2023/10/03/3.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2023\10\03\3.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.109.130/images/2023/10/03/405px-Francesco_Petrarca.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\2023\10\03\405px-Francesco_Petrarca.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2023/10/03/5a_mini.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2023\10\03\5a_mini.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2023/10/03/5b-newll.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2023\10\03\5b-newll.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2023/10/03/6a_mini2.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2023\10\03\6a_mini2.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2023/10/03/7ak.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2023\10\03\7ak.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2023/10/03/7bf.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2023\10\03\7bf.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.109.130/images/2023/10/03/alessandro-manzoni-orig.jpg
@@ -1074,37 +1030,9 @@ Uri: http://192.168.109.130/images/2023/10/04/audiob1.png
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\2023\10\04\audiob1.png
 Content Type: image/png
 
-Uri: http://192.168.109.130/images/2023/10/04/ebook-tit.png
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2023\10\04\ebook-tit.png
-Content Type: image/png
-
-Uri: http://192.168.109.130/images/2023/10/04/gerardo_dorrico_2018-1.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2023\10\04\gerardo_dorrico_2018-1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2023/10/04/ipfsl.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2023\10\04\ipfsl.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2023/10/04/rounded-in-photoretrica-8.png
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2023\10\04\rounded-in-photoretrica-8.png
-Content Type: image/png
-
 Uri: http://192.168.109.130/images/2023/10/09/ccpage.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\2023\10\09\ccpage.jpg
 Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2023/10/23/diarihp.png
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2023\10\23\diarihp.png
-Content Type: image/png
-
-Uri: http://192.168.109.130/images/2023/10/23/letterep.png
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2023\10\23\letterep.png
-Content Type: image/png
-
-Uri: http://192.168.109.130/images/2023/10/23/sedp.png
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2023\10\23\sedp.png
-Content Type: image/png
 
 Uri: http://192.168.109.130/images/2024/01/27/1.png
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\01\27\1.png
@@ -1174,646 +1102,6 @@ Uri: http://192.168.109.130/images/2024/01/28/7bf.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\01\28\7bf.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.109.130/images/2024/01/30/OIG1-(6)q.png
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\01\30\OIG1-(6)q.png
-Content Type: image/png
-
-Uri: http://192.168.109.130/images/2024/01/30/OIG1-(8)g.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\01\30\OIG1-(8)g.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/01/30/OIG1k.png
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\01\30\OIG1k.png
-Content Type: image/png
-
-Uri: http://192.168.109.130/images/2024/01/30/OIG2.png
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\01\30\OIG2.png
-Content Type: image/png
-
-Uri: http://192.168.109.130/images/2024/01/30/OIG21.png
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\01\30\OIG21.png
-Content Type: image/png
-
-Uri: http://192.168.109.130/images/2024/01/30/OIG22.png
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\01\30\OIG22.png
-Content Type: image/png
-
-Uri: http://192.168.109.130/images/2024/01/30/OIG23.png
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\01\30\OIG23.png
-Content Type: image/png
-
-Uri: http://192.168.109.130/images/2024/01/30/OIG24.png
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\01\30\OIG24.png
-Content Type: image/png
-
-Uri: http://192.168.109.130/images/2024/01/30/OIG25.png
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\01\30\OIG25.png
-Content Type: image/png
-
-Uri: http://192.168.109.130/images/2024/01/30/OIG26.png
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\01\30\OIG26.png
-Content Type: image/png
-
-Uri: http://192.168.109.130/images/2024/01/30/OIG27.png
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\01\30\OIG27.png
-Content Type: image/png
-
-Uri: http://192.168.109.130/images/2024/01/30/OIG28.png
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\01\30\OIG28.png
-Content Type: image/png
-
-Uri: http://192.168.109.130/images/2024/01/30/OIG29.png
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\01\30\OIG29.png
-Content Type: image/png
-
-Uri: http://192.168.109.130/images/2024/01/30/OIG2k.png
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\01\30\OIG2k.png
-Content Type: image/png
-
-Uri: http://192.168.109.130/images/2024/01/30/OIG3-(1).png
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\01\30\OIG3-(1).png
-Content Type: image/png
-
-Uri: http://192.168.109.130/images/2024/01/30/OIG3-(3).png
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\01\30\OIG3-(3).png
-Content Type: image/png
-
-Uri: http://192.168.109.130/images/2024/01/30/OIG3-(4)u.png
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\01\30\OIG3-(4)u.png
-Content Type: image/png
-
-Uri: http://192.168.109.130/images/2024/01/30/OIG3-(5)vv.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\01\30\OIG3-(5)vv.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/01/30/OIG36.png
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\01\30\OIG36.png
-Content Type: image/png
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(2)arturo.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(2)arturo.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(2)arturo1.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(2)arturo1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(2)arturo2.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(2)arturo2.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(2)arturo3.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(2)arturo3.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(2)arturo4.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(2)arturo4.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(2)arturo5.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(2)arturo5.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(2)vvv.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(2)vvv.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(2)vvv1.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(2)vvv1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(2)vvv10.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(2)vvv10.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(2)vvv11.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(2)vvv11.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(2)vvv12.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(2)vvv12.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(2)vvv2.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(2)vvv2.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(2)vvv3.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(2)vvv3.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(2)vvv4.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(2)vvv4.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(2)vvv5.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(2)vvv5.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(2)vvv6.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(2)vvv6.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(2)vvv7.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(2)vvv7.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(2)vvv8.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(2)vvv8.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(2)vvv9.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(2)vvv9.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(4).jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(4).jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(4)1.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(4)1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(5).jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(5).jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(5)1.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(5)1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(5)10.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(5)10.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(5)11.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(5)11.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(5)12.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(5)12.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(5)13.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(5)13.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(5)14.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(5)14.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(5)15.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(5)15.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(5)16.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(5)16.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(5)17.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(5)17.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(5)18.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(5)18.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(5)2.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(5)2.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(5)3.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(5)3.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(5)4.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(5)4.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(5)5.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(5)5.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(5)6.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(5)6.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(5)7.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(5)7.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(5)8.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(5)8.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-(5)9.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-(5)9.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-salvatore.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-salvatore.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-salvatore1.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-salvatore1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-salvatore2.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-salvatore2.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-salvatore3.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-salvatore3.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-salvatore4.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-salvatore4.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-salvatore5.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-salvatore5.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-salvatore6.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-salvatore6.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-salvatore7.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-salvatore7.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-salvatore8.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-salvatore8.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG2-salvatore9.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG2-salvatore9.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG4-(1).jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG4-(1).jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG4-(1)1.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG4-(1)1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG4-(1)2.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG4-(1)2.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG4-(1)3.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG4-(1)3.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG4-(1)4.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG4-(1)4.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG4-(1)5.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG4-(1)5.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG4-(2).jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG4-(2).jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG4-(2)1.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG4-(2)1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG4-(2)2.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG4-(2)2.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG4-(2)3.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG4-(2)3.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG4-(3).jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG4-(3).jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG4-(3)1.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG4-(3)1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/01/OIG4-(3)2.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\01\OIG4-(3)2.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG1-(1)fran.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG1-(1)fran.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG1-(1)fran1.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG1-(1)fran1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG1-(1)fran2.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG1-(1)fran2.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG1-(1)fran3.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG1-(1)fran3.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG1-(2)-in.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG1-(2)-in.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG1-(2)-in1.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG1-(2)-in1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG1-(2)-in2.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG1-(2)-in2.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG1-(2)-in3.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG1-(2)-in3.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG1-(2)-in4.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG1-(2)-in4.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG1-(2)-in5.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG1-(2)-in5.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG1-(2)-in6.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG1-(2)-in6.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG1-(2)-in7.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG1-(2)-in7.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG1-(3)luig.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG1-(3)luig.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG1-(3)luig1.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG1-(3)luig1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG1-(3)luig2.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG1-(3)luig2.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG1-(3)luig3.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG1-(3)luig3.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG1-3l.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG1-3l.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG1-3l1.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG1-3l1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG1-3l2.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG1-3l2.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG2-(4)ap.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG2-(4)ap.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG2-(4)ap1.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG2-(4)ap1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG2-(4)ap2.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG2-(4)ap2.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG2-(5)rocco.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG2-(5)rocco.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG2-(5)rocco1.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG2-(5)rocco1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG2-(5)rocco2.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG2-(5)rocco2.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG2-(5)rocco3.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG2-(5)rocco3.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG2-(5)rocco4.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG2-(5)rocco4.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG2-(5)rocco5.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG2-(5)rocco5.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG2-(5)rocco6.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG2-(5)rocco6.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG2-(7)ambro.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG2-(7)ambro.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG2-(7)ambro1.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG2-(7)ambro1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG2-(7)ambro10.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG2-(7)ambro10.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG2-(7)ambro11.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG2-(7)ambro11.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG2-(7)ambro12.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG2-(7)ambro12.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG2-(7)ambro13.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG2-(7)ambro13.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG2-(7)ambro14.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG2-(7)ambro14.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG2-(7)ambro15.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG2-(7)ambro15.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG2-(7)ambro16.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG2-(7)ambro16.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG2-(7)ambro17.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG2-(7)ambro17.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG2-(7)ambro2.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG2-(7)ambro2.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG2-(7)ambro3.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG2-(7)ambro3.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG2-(7)ambro4.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG2-(7)ambro4.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG2-(7)ambro5.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG2-(7)ambro5.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG2-(7)ambro6.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG2-(7)ambro6.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG2-(7)ambro7.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG2-(7)ambro7.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG2-(7)ambro8.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG2-(7)ambro8.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG2-(7)ambro9.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG2-(7)ambro9.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG2-dis.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG2-dis.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG2-dis1.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG2-dis1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG2g2g.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG2g2g.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG3-(3)frac.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG3-(3)frac.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG3-(3)frac1.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG3-(3)frac1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG3-(3)frac2.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG3-(3)frac2.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG3-(3)frac3.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG3-(3)frac3.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG3-(3)frac4.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG3-(3)frac4.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG3-(3)frac5.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG3-(3)frac5.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG3-(3)frac6.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG3-(3)frac6.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG3-(3)frac7.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG3-(3)frac7.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG3.4_DyrBs_.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG3.4_DyrBs_.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG3.4_DyrBs_1.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG3.4_DyrBs_1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG3.4_DyrBs_2.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG3.4_DyrBs_2.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG3.4_DyrBs_3.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG3.4_DyrBs_3.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG3.4_DyrBs_4.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG3.4_DyrBs_4.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG3.4_DyrBs_5.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG3.4_DyrBs_5.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG3.4_DyrBs_6.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG3.4_DyrBs_6.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG3.4_DyrBs_7.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG3.4_DyrBs_7.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG3tedd.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG3tedd.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG3tedd1.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG3tedd1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG3tedd2.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG3tedd2.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG3tedd3.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG3tedd3.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG3tedd4.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG3tedd4.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG3tedd5.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG3tedd5.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG3tedd6.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG3tedd6.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/02/OIG3tedd7.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\02\OIG3tedd7.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/02/12/cd.png
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\12\cd.png
-Content Type: image/png
-
-Uri: http://192.168.109.130/images/2024/02/12/cd21.png
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\12\cd21.png
-Content Type: image/png
-
-Uri: http://192.168.109.130/images/2024/02/12/cd4.png
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\12\cd4.png
-Content Type: image/png
-
-Uri: http://192.168.109.130/images/2024/02/12/OIG2-(2)arturo.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\12\OIG2-(2)arturo.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.109.130/images/2024/02/13/OIG1-(1)f.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\13\OIG1-(1)f.jpg
 Content Type: image/jpeg
@@ -1822,20 +1110,8 @@ Uri: http://192.168.109.130/images/2024/02/13/Paul_Verlaine.png
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\13\Paul_Verlaine.png
 Content Type: image/png
 
-Uri: http://192.168.109.130/images/2024/02/14/OIG2.png
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\14\OIG2.png
-Content Type: image/png
-
 Uri: http://192.168.109.130/images/2024/02/27/planimetrie-ed-edificio.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\02\27\planimetrie-ed-edificio.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/06/21/th-3.jpeg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\06\21\th-3.jpeg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/2024/06/21/th-5.jpeg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\06\21\th-5.jpeg
 Content Type: image/jpeg
 
 Uri: http://192.168.109.130/images/2024/06/21/thq.jpg
@@ -1906,8 +1182,724 @@ Uri: http://192.168.109.130/images/2024/12/10/dvdvdv6.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\12\10\dvdvdv6.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.109.130/images/2025/02/12/111xp.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\12\111xp.jpg
+Uri: http://192.168.109.130/images/2025/02/20/111xp.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\111xp.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.130/images/2025/02/20/a2.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\a2.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/a21.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\a21.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/a22.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\a22.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/a4.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\a4.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/a41.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\a41.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/a410.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\a410.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/a411.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\a411.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/a412.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\a412.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/a42.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\a42.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/a43.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\a43.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/a44.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\a44.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/a45.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\a45.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/a46.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\a46.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/a47.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\a47.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/a48.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\a48.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/a49.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\a49.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/Arturo-3.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\Arturo-3.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/Arturo-31.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\Arturo-31.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/Arturo-32.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\Arturo-32.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/Arturo-33.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\Arturo-33.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/Arturo-34.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\Arturo-34.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/Arturo-35.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\Arturo-35.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/Arturo-36.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\Arturo-36.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/cd21_edited7.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\cd21_edited7.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/Lettere-DE.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\Lettere-DE.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/Lettere-DE1.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\Lettere-DE1.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/Lettere-DE2.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\Lettere-DE2.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/Lettere-DE3.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\Lettere-DE3.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/Lettere-DE4.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\Lettere-DE4.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/Lettere-DE5.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\Lettere-DE5.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/Lettere-DE6.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\Lettere-DE6.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/Lettere-DE7.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\Lettere-DE7.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/Lettere-EN.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\Lettere-EN.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/Lettere-EN1.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\Lettere-EN1.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/Lettere-EN2.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\Lettere-EN2.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/Lettere-EN3.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\Lettere-EN3.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/Lettere-EN4.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\Lettere-EN4.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/Lettere-EN5.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\Lettere-EN5.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/Lettere-EN6.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\Lettere-EN6.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/Lettere-EN7.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\Lettere-EN7.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/Lettere-FR2.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\Lettere-FR2.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/Lettere-FR21.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\Lettere-FR21.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/Lettere-FR22.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\Lettere-FR22.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/Lettere-FR23.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\Lettere-FR23.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/Lettere-FR24.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\Lettere-FR24.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/Lettere-FR25.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\Lettere-FR25.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/Lettere-FR26.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\Lettere-FR26.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/Lettere-FR27.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\Lettere-FR27.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG1k77.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG1k77.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(5)14_edited7.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(5)14_edited7.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(5)14_edited71.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(5)14_edited71.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(5)14_edited710.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(5)14_edited710.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(5)14_edited711.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(5)14_edited711.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(5)14_edited712.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(5)14_edited712.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(5)14_edited713.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(5)14_edited713.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(5)14_edited714.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(5)14_edited714.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(5)14_edited715.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(5)14_edited715.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(5)14_edited716.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(5)14_edited716.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(5)14_edited717.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(5)14_edited717.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(5)14_edited718.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(5)14_edited718.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(5)14_edited72.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(5)14_edited72.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(5)14_edited73.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(5)14_edited73.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(5)14_edited74.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(5)14_edited74.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(5)14_edited75.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(5)14_edited75.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(5)14_edited76.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(5)14_edited76.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(5)14_edited77.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(5)14_edited77.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(5)14_edited78.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(5)14_edited78.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(5)14_edited79.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(5)14_edited79.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(7)ambro5_edited82.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(7)ambro5_edited82.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(7)ambro5_edited821.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(7)ambro5_edited821.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(7)ambro5_edited8210.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(7)ambro5_edited8210.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(7)ambro5_edited8211.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(7)ambro5_edited8211.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(7)ambro5_edited8212.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(7)ambro5_edited8212.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(7)ambro5_edited8213.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(7)ambro5_edited8213.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(7)ambro5_edited8214.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(7)ambro5_edited8214.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(7)ambro5_edited8215.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(7)ambro5_edited8215.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(7)ambro5_edited8216.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(7)ambro5_edited8216.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(7)ambro5_edited8217.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(7)ambro5_edited8217.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(7)ambro5_edited8218.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(7)ambro5_edited8218.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(7)ambro5_edited822.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(7)ambro5_edited822.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(7)ambro5_edited824.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(7)ambro5_edited824.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(7)ambro5_edited825.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(7)ambro5_edited825.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(7)ambro5_edited826.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(7)ambro5_edited826.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(7)ambro5_edited827.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(7)ambro5_edited827.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(7)ambro5_edited828.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(7)ambro5_edited828.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-(7)ambro5_edited829.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-(7)ambro5_edited829.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-salvatore78.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-salvatore78.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-salvatore781.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-salvatore781.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-salvatore782.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-salvatore782.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-salvatore783.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-salvatore783.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-salvatore784.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-salvatore784.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-salvatore785.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-salvatore785.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-salvatore786.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-salvatore786.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-salvatore787.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-salvatore787.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-salvatore788.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-salvatore788.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2-salvatore789.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2-salvatore789.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG2k_edited.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG2k_edited.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG3-(1)_edited67.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG3-(1)_edited67.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG3-(3)_edited777.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG3-(3)_edited777.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG36_edited77.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG36_edited77.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG3_edited7.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG3_edited7.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG3_edited71.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG3_edited71.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG3_edited72.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG3_edited72.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG3_edited73.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG3_edited73.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG3_edited74.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG3_edited74.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG3_edited75.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG3_edited75.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG3_edited76.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG3_edited76.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG3_edited77.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG3_edited77.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG4-_1__edited-removebg-preview.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG4-_1__edited-removebg-preview.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG4-_1__edited-removebg-preview1.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG4-_1__edited-removebg-preview1.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG4-_1__edited-removebg-preview2.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG4-_1__edited-removebg-preview2.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG4-_1__edited-removebg-preview3.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG4-_1__edited-removebg-preview3.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG4-_1__edited-removebg-preview4.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG4-_1__edited-removebg-preview4.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/20/OIG4-_1__edited-removebg-preview5.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\OIG4-_1__edited-removebg-preview5.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1-11-newrfgr.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1-11-newrfgr.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.130/images/2025/02/21/12q.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\12q.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/13q.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\13q.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/14q.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\14q.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1a3.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1a3.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1a4.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1a4.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1a5.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1a5.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1a6.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1a6.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1a7.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1a7.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1aa1.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1aa1.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1aa2.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1aa2.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1aa3.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1aa3.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1aa4.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1aa4.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1aaa10.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1aaa10.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1aaa11.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1aaa11.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1aaa12.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1aaa12.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1aaa13.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1aaa13.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1aaa14.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1aaa14.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1aaa15.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1aaa15.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1aaa16.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1aaa16.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1aaa17.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1aaa17.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1aaa18.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1aaa18.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1aaa19.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1aaa19.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1aaa20.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1aaa20.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1aaa21.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1aaa21.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1aaa5.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1aaa5.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1aaa51.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1aaa51.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1aaa6.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1aaa6.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1aaa7.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1aaa7.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1aaa8.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1aaa8.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1aaa9.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1aaa9.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1b.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1b.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1b1.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1b1.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1b2.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1b2.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1c1.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1c1.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1c2.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1c2.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1c3.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1c3.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/1_rac4.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\1_rac4.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.130/images/2025/02/21/2g_ult.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\2g_ult.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.130/images/2025/02/21/3.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\3.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.130/images/2025/02/21/5a_mini.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\5a_mini.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.130/images/2025/02/21/5b-newll1.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\5b-newll1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.130/images/2025/02/21/6a_mini2.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\6a_mini2.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.130/images/2025/02/21/7ak_edited.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\7ak_edited.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.130/images/2025/02/21/7bf.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\7bf.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.130/images/2025/02/21/a2.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\a2.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/a21.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\a21.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/cd4.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\cd4.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/diarihp.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\diarihp.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/ebook-tit.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\ebook-tit.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/gerardo_dorrico_2018-111.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\gerardo_dorrico_2018-111.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/image03.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\image03.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/image031.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\image031.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/image032.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\image032.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/image033.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\image033.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/inviaased.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\inviaased.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/ipfsl.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\ipfsl.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/letterep.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\letterep.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/OIG1-(8)g_edited.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\OIG1-(8)g_edited.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/OIG3-(4)u.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\OIG3-(4)u.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/OIG4-_1__edited-removebg-preview.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\OIG4-_1__edited-removebg-preview.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/OIG4-_1__edited-removebg-preview1.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\OIG4-_1__edited-removebg-preview1.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/rounded-in-photoretrica-85.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\rounded-in-photoretrica-85.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/sedp2.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\sedp2.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/21/th-3.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\th-3.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.109.130/images/Beneinst-OndeLetterarie.mp4
@@ -1954,6 +1946,10 @@ Uri: http://192.168.109.130/images/Componenti/Fonts/BigShouldersText-Regular.ttf
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\Componenti\Fonts\BigShouldersText-Regular.ttf
 Content Type: font/ttf
 
+Uri: http://192.168.109.130/images/Componenti/Fonts/BubblegumSans-Regular.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\Componenti\Fonts\BubblegumSans-Regular.ttf
+Content Type: font/ttf
+
 Uri: http://192.168.109.130/images/Componenti/Fonts/DMSerifDisplay-Regular.ttf
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\Componenti\Fonts\DMSerifDisplay-Regular.ttf
 Content Type: font/ttf
@@ -1965,42 +1961,6 @@ Content Type: font/ttf
 Uri: http://192.168.109.130/images/Componenti/Fonts/Mynerve-Regular.ttf
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\Componenti\Fonts\Mynerve-Regular.ttf
 Content Type: font/ttf
-
-Uri: http://192.168.109.130/images/Componenti/Icone_Risorse_Home/anteprimeaudio.gif
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\Componenti\Icone_Risorse_Home\anteprimeaudio.gif
-Content Type: image/gif
-
-Uri: http://192.168.109.130/images/Componenti/Icone_Risorse_Home/autore.gif
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\Componenti\Icone_Risorse_Home\autore.gif
-Content Type: image/gif
-
-Uri: http://192.168.109.130/images/Componenti/Icone_Risorse_Home/diari.gif
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\Componenti\Icone_Risorse_Home\diari.gif
-Content Type: image/gif
-
-Uri: http://192.168.109.130/images/Componenti/Icone_Risorse_Home/ebook.gif
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\Componenti\Icone_Risorse_Home\ebook.gif
-Content Type: image/gif
-
-Uri: http://192.168.109.130/images/Componenti/Icone_Risorse_Home/lettere.gif
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\Componenti\Icone_Risorse_Home\lettere.gif
-Content Type: image/gif
-
-Uri: http://192.168.109.130/images/Componenti/Icone_Risorse_Home/rounded-in-photoretrica-54.gif
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\Componenti\Icone_Risorse_Home\rounded-in-photoretrica-54.gif
-Content Type: image/gif
-
-Uri: http://192.168.109.130/images/Componenti/Icone_Risorse_Home/sedetiam.gif
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\Componenti\Icone_Risorse_Home\sedetiam.gif
-Content Type: image/gif
-
-Uri: http://192.168.109.130/images/Componenti/Icone_Risorse_Home/th-12s.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\Componenti\Icone_Risorse_Home\th-12s.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/Componenti/Icone_Risorse_Home/ths.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\Componenti\Icone_Risorse_Home\ths.jpg
-Content Type: image/jpeg
 
 Uri: http://192.168.109.130/images/Componenti/Icone_Social/facebo1.png
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\Componenti\Icone_Social\facebo1.png
@@ -3866,6 +3826,22 @@ Uri: http://192.168.109.130/index.php?option=com_sppagebuilder&view=page&id=3
 File Name: C:\Downloaded Web Sites\192.168.109.130\index.php-1.html
 Content Type: text/html
 
+Uri: http://192.168.109.130/index.php?option=com_sppagebuilder&view=page&id=4
+File Name: C:\Downloaded Web Sites\192.168.109.130\index.php-2.html
+Content Type: text/html
+
+Uri: http://192.168.109.130/index.php?option=com_sppagebuilder&view=page&id=6
+File Name: C:\Downloaded Web Sites\192.168.109.130\index.php-4.html
+Content Type: text/html
+
+Uri: http://192.168.109.130/index.php?option=com_sppagebuilder&view=page&id=7
+File Name: C:\Downloaded Web Sites\192.168.109.130\index.php-5.html
+Content Type: text/html
+
+Uri: http://192.168.109.130/index.php?option=com_sppagebuilder&view=page&id=8
+File Name: C:\Downloaded Web Sites\192.168.109.130\index.php-3.html
+Content Type: text/html
+
 Uri: http://192.168.109.130/invia-a-sed-etiam.html
 File Name: C:\Downloaded Web Sites\192.168.109.130\invia-a-sed-etiam.html
 Content Type: text/html
@@ -3918,7 +3894,7 @@ Uri: http://192.168.109.130/luigi-pirandello.html
 File Name: C:\Downloaded Web Sites\192.168.109.130\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.109.130/media/com_wrapper/js/iframe-height.min.js?ebefa8
+Uri: http://192.168.109.130/media/com_wrapper/js/iframe-height.min.js?79acc7
 File Name: C:\Downloaded Web Sites\192.168.109.130\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -4187,132 +4163,88 @@ File Name: C:\Downloaded Web Sites\192.168.109.130\cs\iubenda_cs.js
 Content Type: application/javascript
 
 Uri: http://fonts.googleapis.com/css?family=Big Shoulders Text:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=latin&display=swap
+File Name: C:\Downloaded Web Sites\192.168.109.130\css-3
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=Charmonman:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=latin&display=swap
+File Name: C:\Downloaded Web Sites\192.168.109.130\css-1
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=Hind:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=devanagari&display=swap
 File Name: C:\Downloaded Web Sites\192.168.109.130\css-4
 Content Type: text/css
 
 Uri: http://fonts.googleapis.com/css?family=Homenaje:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=latin&display=swap
-File Name: C:\Downloaded Web Sites\192.168.109.130\css-3
-Content Type: text/css
-
-Uri: http://fonts.googleapis.com/css?family=Homenaje:400
 File Name: C:\Downloaded Web Sites\192.168.109.130\css-2
 Content Type: text/css
 
 Uri: http://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3b2q7TUFMg.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3b2q7TUFMg-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3b2q7TUFMg.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3dGq7TUFMg.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3dGq7TUFMg-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3dGq7TUFMg.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-q7TUFMg.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-q7TUFMg-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-q7TUFMg.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-t7TUFMg.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-t7TUFMg-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-t7TUFMg.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Sat7TUFMg.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Sat7TUFMg-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Sat7TUFMg.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3VGt7TUFMg.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3VGt7TUFMg-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3VGt7TUFMg.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Wit7TUFMg.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Wit7TUFMg-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Wit7TUFMg.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-q7TUFMg.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-q7TUFMg-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-q7TUFMg.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-r7TUFMg.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-r7TUFMg-1.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-r7TUFMg.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/charmonman/v18/MjQAmiR3vP_nuxDv47jiYC2HqLhA8A.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.130\s\charmonman\v18\MjQAmiR3vP_nuxDv47jiYC2HqLhA8A.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/charmonman/v18/MjQDmiR3vP_nuxDv47jiaJaiuA.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.130\s\charmonman\v18\MjQDmiR3vP_nuxDv47jiaJaiuA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/hind/v17/5aU19_a8oxmIfJpbER2SiA.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.130\s\hind\v17\5aU19_a8oxmIfJpbER2SiA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/hind/v17/5aU19_a8oxmIfLZcER2SiA.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.130\s\hind\v17\5aU19_a8oxmIfLZcER2SiA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/hind/v17/5aU19_a8oxmIfMJaER2SiA.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.130\s\hind\v17\5aU19_a8oxmIfMJaER2SiA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/hind/v17/5aU19_a8oxmIfNJdER2SiA.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.130\s\hind\v17\5aU19_a8oxmIfNJdER2SiA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/hind/v17/5aU69_a8oxmIdGh4AQ.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.130\s\hind\v17\5aU69_a8oxmIdGh4AQ.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/homenaje/v16/FwZY7-Q-xVAi_l-6Le6H6Mw.ttf
 File Name: C:\Downloaded Web Sites\192.168.109.130\s\homenaje\v16\FwZY7-Q-xVAi_l-6Le6H6Mw.ttf
 Content Type: font/ttf
-
-Uri: http://use.fontawesome.com/releases/v5.1.0/css/all.css
-File Name: C:\Downloaded Web Sites\192.168.109.130\releases\v5.1.0\css\all.css
-Content Type: text/css
-
-Uri: http://use.fontawesome.com/releases/v5.1.0/webfonts/fa-brands-400.eot
-File Name: C:\Downloaded Web Sites\192.168.109.130\releases\v5.1.0\webfonts\fa-brands-400.eot
-Content Type: application/vnd.ms-fontobject
-
-Uri: http://use.fontawesome.com/releases/v5.1.0/webfonts/fa-brands-400.eot?
-File Name: C:\Downloaded Web Sites\192.168.109.130\releases\v5.1.0\webfonts\fa-brands-400-1.eot
-Content Type: application/vnd.ms-fontobject
-
-Uri: http://use.fontawesome.com/releases/v5.1.0/webfonts/fa-brands-400.svg
-File Name: C:\Downloaded Web Sites\192.168.109.130\releases\v5.1.0\webfonts\fa-brands-400.svg
-Content Type: image/svg+xml
-
-Uri: http://use.fontawesome.com/releases/v5.1.0/webfonts/fa-brands-400.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.130\releases\v5.1.0\webfonts\fa-brands-400.ttf
-Content Type: font/ttf
-
-Uri: http://use.fontawesome.com/releases/v5.1.0/webfonts/fa-brands-400.woff
-File Name: C:\Downloaded Web Sites\192.168.109.130\releases\v5.1.0\webfonts\fa-brands-400.woff
-Content Type: application/font-woff
-
-Uri: http://use.fontawesome.com/releases/v5.1.0/webfonts/fa-brands-400.woff2
-File Name: C:\Downloaded Web Sites\192.168.109.130\releases\v5.1.0\webfonts\fa-brands-400.woff2
-Content Type: font/woff2
-
-Uri: http://use.fontawesome.com/releases/v5.1.0/webfonts/fa-regular-400.eot
-File Name: C:\Downloaded Web Sites\192.168.109.130\releases\v5.1.0\webfonts\fa-regular-400.eot
-Content Type: application/vnd.ms-fontobject
-
-Uri: http://use.fontawesome.com/releases/v5.1.0/webfonts/fa-regular-400.eot?
-File Name: C:\Downloaded Web Sites\192.168.109.130\releases\v5.1.0\webfonts\fa-regular-400-1.eot
-Content Type: application/vnd.ms-fontobject
-
-Uri: http://use.fontawesome.com/releases/v5.1.0/webfonts/fa-regular-400.svg
-File Name: C:\Downloaded Web Sites\192.168.109.130\releases\v5.1.0\webfonts\fa-regular-400.svg
-Content Type: image/svg+xml
-
-Uri: http://use.fontawesome.com/releases/v5.1.0/webfonts/fa-regular-400.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.130\releases\v5.1.0\webfonts\fa-regular-400.ttf
-Content Type: font/ttf
-
-Uri: http://use.fontawesome.com/releases/v5.1.0/webfonts/fa-regular-400.woff
-File Name: C:\Downloaded Web Sites\192.168.109.130\releases\v5.1.0\webfonts\fa-regular-400.woff
-Content Type: application/font-woff
-
-Uri: http://use.fontawesome.com/releases/v5.1.0/webfonts/fa-regular-400.woff2
-File Name: C:\Downloaded Web Sites\192.168.109.130\releases\v5.1.0\webfonts\fa-regular-400.woff2
-Content Type: font/woff2
-
-Uri: http://use.fontawesome.com/releases/v5.1.0/webfonts/fa-solid-900.eot
-File Name: C:\Downloaded Web Sites\192.168.109.130\releases\v5.1.0\webfonts\fa-solid-900.eot
-Content Type: application/vnd.ms-fontobject
-
-Uri: http://use.fontawesome.com/releases/v5.1.0/webfonts/fa-solid-900.eot?
-File Name: C:\Downloaded Web Sites\192.168.109.130\releases\v5.1.0\webfonts\fa-solid-900-1.eot
-Content Type: application/vnd.ms-fontobject
-
-Uri: http://use.fontawesome.com/releases/v5.1.0/webfonts/fa-solid-900.svg
-File Name: C:\Downloaded Web Sites\192.168.109.130\releases\v5.1.0\webfonts\fa-solid-900.svg
-Content Type: image/svg+xml
-
-Uri: http://use.fontawesome.com/releases/v5.1.0/webfonts/fa-solid-900.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.130\releases\v5.1.0\webfonts\fa-solid-900.ttf
-Content Type: font/ttf
-
-Uri: http://use.fontawesome.com/releases/v5.1.0/webfonts/fa-solid-900.woff
-File Name: C:\Downloaded Web Sites\192.168.109.130\releases\v5.1.0\webfonts\fa-solid-900.woff
-Content Type: application/font-woff
-
-Uri: http://use.fontawesome.com/releases/v5.1.0/webfonts/fa-solid-900.woff2
-File Name: C:\Downloaded Web Sites\192.168.109.130\releases\v5.1.0\webfonts\fa-solid-900.woff2
-Content Type: font/woff2
 
 Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En español/Historia lunática.pdf
 File Name: C:\Downloaded Web Sites\192.168.109.130\En español\Historia lunática.pdf
@@ -4406,6 +4338,10 @@ Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dw
 File Name: C:\Downloaded Web Sites\192.168.109.130\In English\What changes.pdf
 Content Type: application/pdf
 
+Uri: https://cdn.counter.dev/script.js
+File Name: C:\Downloaded Web Sites\192.168.109.130\script.js
+Content Type: application/javascript
+
 Uri: https://cdn.gtranslate.net/widgets/latest/fc.js
 File Name: C:\Downloaded Web Sites\192.168.109.130\widgets\latest\fc.js
 Content Type: application/javascript
@@ -4442,16 +4378,20 @@ Uri: https://cs.iubenda.com/autoblocking/3512692.js
 File Name: C:\Downloaded Web Sites\192.168.109.130\autoblocking\3512692.js
 Content Type: application/javascript
 
+Uri: https://fonts.googleapis.com/css2?family=Cherry+Swash:wght@400;700&display=swap
+File Name: C:\Downloaded Web Sites\192.168.109.130\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap
+File Name: C:\Downloaded Web Sites\192.168.109.130\css2-1
+Content Type: text/css
+
 Uri: https://fonts.googleapis.com/css?family=Alegreya:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
-File Name: C:\Downloaded Web Sites\192.168.109.130\css-1
+File Name: C:\Downloaded Web Sites\192.168.109.130\css
 Content Type: text/css
 
 Uri: https://fonts.googleapis.com/css?family=Averia Libre:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
 File Name: C:\Downloaded Web Sites\192.168.109.130\css-5
-Content Type: text/css
-
-Uri: https://fonts.googleapis.com/css?family=Big Shoulders Text:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
-File Name: C:\Downloaded Web Sites\192.168.109.130\css
 Content Type: text/css
 
 Uri: https://fonts.googleapis.com/css?family=Biryani:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
@@ -4530,42 +4470,6 @@ Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0HKIcMGZEnV6xygz7eNjESAJFxanT
 File Name: C:\Downloaded Web Sites\192.168.109.130\s\averialibre\v16\2V0HKIcMGZEnV6xygz7eNjESAJFxanTu0pU.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3b2q7TUFMg.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3b2q7TUFMg.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3dGq7TUFMg.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3dGq7TUFMg.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-q7TUFMg.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-q7TUFMg.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-t7TUFMg.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-t7TUFMg.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Sat7TUFMg.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Sat7TUFMg.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3VGt7TUFMg.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3VGt7TUFMg.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Wit7TUFMg.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Wit7TUFMg.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-q7TUFMg.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-q7TUFMg.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-r7TUFMg.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-r7TUFMg.ttf
-Content Type: font/ttf
-
 Uri: https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84Yddcg0KTdYVw.ttf
 File Name: C:\Downloaded Web Sites\192.168.109.130\s\biryani\v13\hv-TlzNxIFoO84Yddcg0KTdYVw.ttf
 Content Type: font/ttf
@@ -4592,6 +4496,18 @@ Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/biryani/v13/hv-WlzNxIFoO84YdfUsTOQ.ttf
 File Name: C:\Downloaded Web Sites\192.168.109.130\s\biryani\v13\hv-WlzNxIFoO84YdfUsTOQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cherryswash/v20/i7dNIFByZjaNAMxtZcnfAy58QA.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.130\s\cherryswash\v20\i7dNIFByZjaNAMxtZcnfAy58QA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cherryswash/v20/i7dSIFByZjaNAMxtZcnfAy5E_FeaGw.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.130\s\cherryswash\v20\i7dSIFByZjaNAMxtZcnfAy5E_FeaGw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmserifdisplay/v15/-nFnOHM81r4j6k0gjAW3mujVU2B2K_c.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.130\s\dmserifdisplay\v15\-nFnOHM81r4j6k0gjAW3mujVU2B2K_c.ttf
 Content Type: font/ttf
 
 Uri: https://www.googletagmanager.com/gtag/js?id=G-37P9KCN6WS
