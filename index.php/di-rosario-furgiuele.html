@@ -169,7 +169,7 @@ a:hover {
 	<style>#mod-speasyimagegallery-128 .speasyimagegallery-row {margin: -10px;}#mod-speasyimagegallery-128 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 10px;}@media only screen and (max-width : 992px) {#mod-speasyimagegallery-128 .speasyimagegallery-row {margin: -7.5px;}#mod-speasyimagegallery-128 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 7.5px;}}@media only screen and (max-width : 768px) {#mod-speasyimagegallery-128 .speasyimagegallery-row {margin: -5px;}#mod-speasyimagegallery-128 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 5px;}}</style>
 <script src="../media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="../media/legacy/js/jquery-noconflict.min.js?504da4"></script>
-	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.109.130/","base":"","baseFull":"http://192.168.109.130/"},"csrf.token":"3ce7f2b87442ca4de4d4709bdbd7f10d"}</script>
+	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.109.130/","base":"","baseFull":"http://192.168.109.130/"},"csrf.token":"cb4078506c60588f8d79e11331130aa1"}</script>
 	<script src="../media/system/js/core.min.js?2cb912"></script>
 	<script src="../media/vendor/bootstrap/js/alert.min.js?5.3.3" type="module"></script>
 	<script src="../media/vendor/bootstrap/js/button.min.js?5.3.3" type="module"></script>
@@ -208,6 +208,8 @@ links.forEach(link => {
 <link href="../css2-1?family=Cherry+Swash:wght@400;700&display=swap" rel="stylesheet">
 <link rel="preload" href="../images/Componenti/Fonts/BigShouldersText-Regular.ttf" as="font" type="font/ttf" crossorigin="anonymous">
   <link rel="preload" href="../images/Componenti/Fonts/AnnieUseYourTelescope-Regular.ttf" as="font" type="font/ttf" crossorigin="anonymous">
+  <link rel="preload" href="../images/Componenti/Fonts/DMSerifDisplay-Regular.ttf" as="font" type="font/ttf" crossorigin="anonymous">
+  <link rel="preload" href="../images/Componenti/Fonts/ChelseaMarket-Regular.ttf" as="font" type="font/ttf" crossorigin="anonymous">
   <link href="../css2-2?family=DM+Serif+Display&display=swap" rel="stylesheet">
 
 
@@ -230,8 +232,8 @@ links.forEach(link => {
     font-weight: normal;
     font-style: normal;
   }
-
- /* Applica le impostazioni solo del carattere testo Asap-Regular */
+  
+  /* Applica le impostazioni solo del carattere testo Asap-Regular */
 body,
 .sppb-addon-text,
 .navigation,
@@ -262,6 +264,24 @@ p {
     font-size: 18px; /* Imposta una dimensione del testo fissa per dispositivi Android con pixel ratio superiore a 1.5 */
   }
 }
+  
+
+/* Definizione del font Chelsea Market */
+@font-face {
+    font-family: 'Chelsea Market';
+    src: url('../images/Componenti/Fonts/ChelseaMarket-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Applicazione dello stile agli h1 e alla classe bubblegum-text */
+h1, h1.bubblegum-text {
+    font-family: 'Chelsea Market', sans-serif;
+    font-size: 30px;
+    line-height: 30px;
+}
+
+ 
 
 
   /* Definizione del font Biryani */
@@ -485,6 +505,7 @@ font-family: "Chelsea Market", serif;
   font-weight: 400;
   font-style: normal;
 }
+
 
   </style>
 <link href="../ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">

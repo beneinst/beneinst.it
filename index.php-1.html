@@ -172,7 +172,7 @@ a:hover {
 	<style>#sp-bottom{ background-image:url("images/2qh.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:0 0; }</style>
 	<style>#sp-footer{ background-image:url("images/2qh.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:0 0; }</style>
 	<style>#mod-speasyimagegallery-128 .speasyimagegallery-row {margin: -10px;}#mod-speasyimagegallery-128 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 10px;}@media only screen and (max-width : 992px) {#mod-speasyimagegallery-128 .speasyimagegallery-row {margin: -7.5px;}#mod-speasyimagegallery-128 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 7.5px;}}@media only screen and (max-width : 768px) {#mod-speasyimagegallery-128 .speasyimagegallery-row {margin: -5px;}#mod-speasyimagegallery-128 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 5px;}}</style>
-<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.109.130/","base":"","baseFull":"http://192.168.109.130/"},"csrf.token":"3ce7f2b87442ca4de4d4709bdbd7f10d"}</script>
+<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.109.130/","base":"","baseFull":"http://192.168.109.130/"},"csrf.token":"cb4078506c60588f8d79e11331130aa1"}</script>
 	<script src="media/system/js/core.min.js?2cb912"></script>
 	<script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?504da4"></script>
@@ -215,7 +215,7 @@ links.forEach(link => {
 	<script>window.gtranslateSettings = window.gtranslateSettings || {};window.gtranslateSettings['413'] = {"default_language":"it","languages":["en","it","es"],"url_structure":"none","wrapper_selector":"#gt-wrapper-413","globe_size":60,"flag_size":16,"flag_style":"3d","custom_domains":null,"float_switcher_open_direction":"top","switcher_open_direction":"top","native_language_names":1,"add_new_line":1,"select_language_label":"Select Language","detect_browser_language":0,"custom_css":".gtranslate_wrapper.gt_container-u6wkaq {\r\n  text-align: center;\r\n}\r\n\r\n","alt_flags":[],"switcher_horizontal_position":"left","switcher_vertical_position":"bottom","horizontal_position":"right","vertical_position":"top"};</script>
 	<meta property="article:author" content="Gerardo D'Orrico">
 	<meta property="article:published_time" content="2023-10-02 12:28:29">
-	<meta property="article:modified_time" content="2025-02-21 20:13:18">
+	<meta property="article:modified_time" content="2025-02-22 12:27:34">
 	<meta property="og:locale" content="it-IT">
 	<meta property="og:title" content="Beneinst | Diari, Memorie e Umani">
 	<meta property="og:type" content="website">
@@ -234,6 +234,8 @@ links.forEach(link => {
 <link href="css2-1?family=Cherry+Swash:wght@400;700&display=swap" rel="stylesheet">
 <link rel="preload" href="images/Componenti/Fonts/BigShouldersText-Regular.ttf" as="font" type="font/ttf" crossorigin="anonymous">
   <link rel="preload" href="images/Componenti/Fonts/AnnieUseYourTelescope-Regular.ttf" as="font" type="font/ttf" crossorigin="anonymous">
+  <link rel="preload" href="images/Componenti/Fonts/DMSerifDisplay-Regular.ttf" as="font" type="font/ttf" crossorigin="anonymous">
+  <link rel="preload" href="images/Componenti/Fonts/ChelseaMarket-Regular.ttf" as="font" type="font/ttf" crossorigin="anonymous">
   <link href="css2-2?family=DM+Serif+Display&display=swap" rel="stylesheet">
 
 
@@ -256,8 +258,8 @@ links.forEach(link => {
     font-weight: normal;
     font-style: normal;
   }
-
- /* Applica le impostazioni solo del carattere testo Asap-Regular */
+  
+  /* Applica le impostazioni solo del carattere testo Asap-Regular */
 body,
 .sppb-addon-text,
 .navigation,
@@ -288,6 +290,24 @@ p {
     font-size: 18px; /* Imposta una dimensione del testo fissa per dispositivi Android con pixel ratio superiore a 1.5 */
   }
 }
+  
+
+/* Definizione del font Chelsea Market */
+@font-face {
+    font-family: 'Chelsea Market';
+    src: url('images/Componenti/Fonts/ChelseaMarket-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Applicazione dello stile agli h1 e alla classe bubblegum-text */
+h1, h1.bubblegum-text {
+    font-family: 'Chelsea Market', sans-serif;
+    font-size: 30px;
+    line-height: 30px;
+}
+
+ 
 
 
   /* Definizione del font Biryani */
@@ -512,6 +532,7 @@ font-family: "Chelsea Market", serif;
   font-style: normal;
 }
 
+
   </style>
 <link href="ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 <script src="script.js" data-id="79f9cc33-a0af-44cd-8c85-adf7d759bbc7" data-utcoffset="1"></script>
@@ -601,7 +622,7 @@ font-family: "Chelsea Market", serif;
 	
 	<div class="page-content builder-container" x-data="easystoreProductDetails">
 
-				<section id="section-id-1733477187866" class="sppb-section"><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-row-column  " id="column-wrap-id-1733477187864"><div id="column-id-1733477187864" class="sppb-column "><div class="sppb-column-addons"><div id="sppb-addon-wrapper-VW8gMqqpqBQ32Yj3IKbl7" class="sppb-addon-wrapper  addon-root-image"><div id="sppb-addon-VW8gMqqpqBQ32Yj3IKbl7" class="clearfix  sppb-wow fadeInLeft  " data-sppb-wow-duration="2500ms"><div class="sppb-addon sppb-addon-single-image   sppb-addon-image-shape"><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><img class="sppb-img-responsive " src="images/2025/02/21/inviaased.png" alt="Image" title="" width="380" height="380"></div></div></div></div></div></div></div></div><div class="sppb-row-column  " id="column-wrap-id-1733477187865"><div id="column-id-1733477187865" class="sppb-column "><div class="sppb-column-addons"><div id="sppb-addon-wrapper-onMShkAkCgpUbTAhFTKDn" class="sppb-addon-wrapper  addon-root-empty-space"><div id="sppb-addon-onMShkAkCgpUbTAhFTKDn" class="clearfix  "><div class="sppb-empty-space  clearfix"></div></div></div><div id="sppb-addon-wrapper-hDGtyVSK-wNGtUS-_DKKQ" class="sppb-addon-wrapper  addon-root-text-block"><div id="sppb-addon-hDGtyVSK-wNGtUS-_DKKQ" class="clearfix  sppb-wow fadeInRight  " data-sppb-wow-duration="2500ms"><div class="sppb-addon sppb-addon-text-block "><div class="sppb-addon-content  "></div></div></div></div><div id="sppb-addon-wrapper-BNFwmIa_qBY3UUqJmVodx" class="sppb-addon-wrapper  addon-root-text-block"><div id="sppb-addon-BNFwmIa_qBY3UUqJmVodx" class="clearfix  sppb-wow fadeInRight  " data-sppb-wow-duration="2500ms"><div class="sppb-addon sppb-addon-text-block "><div class="sppb-addon-content  "><h1 class="bubblegum-text">Condividi con Sed Etiam</h1></div></div></div></div><div id="sppb-addon-wrapper-vLqsjufvUOyuFMGThfoXG" class="sppb-addon-wrapper  addon-root-empty-space"><div id="sppb-addon-vLqsjufvUOyuFMGThfoXG" class="clearfix  "><div class="sppb-empty-space  clearfix"></div></div></div><div id="sppb-addon-wrapper-0OxjO9lHOrK2UBD15FRj0" class="sppb-addon-wrapper  addon-root-text-block"><div id="sppb-addon-0OxjO9lHOrK2UBD15FRj0" class="clearfix  sppb-wow fadeInRight  " data-sppb-wow-duration="2500ms"><div class="sppb-addon sppb-addon-text-block "><div class="sppb-addon-content  "><p style="text-align:left; font-family: 'Annie Use Your Telescope', sans-serif; font-size: 29px; font-weight: 500;">Condividi le tue opere letterarie e artistiche, inclusi testi e immagini, offrendo il tuo contributo alla comunità di Sed Etiam.</p></div></div></div></div></div></div></div></div></div></section><section id="section-id-1682152551196" class="sppb-section"><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-12  " id="column-wrap-id-1682152551195"><div id="column-id-1682152551195" class="sppb-column "><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1733569263160" class="sppb-addon-wrapper  addon-root-empty-space"><div id="sppb-addon-1733569263160" class="clearfix  "><div class="sppb-empty-space  clearfix"></div></div></div><div id="sppb-addon-wrapper-1682152855843" class="sppb-addon-wrapper  addon-root-text-block"><div id="sppb-addon-1682152855843" class="clearfix  sppb-wow rotateInDownLeft  " data-sppb-wow-duration="800ms"><div class="sppb-addon sppb-addon-text-block "><div class="sppb-addon-content  "><p style="text-align: justify;">Sed etiam è la sezione di Beneinst dedicata a chi desidera condividere la propria creatività con il mondo. Siamo alla ricerca di contenuti originali, come raccolte di lettere, poesie, disegni, quadri, pagine di diario, diari interi e fotografie, che rappresentino la vostra voce unica e la vostra visione del mondo.</p>
+				<section id="section-id-1733477187866" class="sppb-section"><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-row-column  " id="column-wrap-id-1733477187864"><div id="column-id-1733477187864" class="sppb-column "><div class="sppb-column-addons"><div id="sppb-addon-wrapper-VW8gMqqpqBQ32Yj3IKbl7" class="sppb-addon-wrapper  addon-root-image"><div id="sppb-addon-VW8gMqqpqBQ32Yj3IKbl7" class="clearfix  sppb-wow fadeInLeft  " data-sppb-wow-duration="2500ms"><div class="sppb-addon sppb-addon-single-image   sppb-addon-image-shape"><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><img class="sppb-img-responsive " src="images/2025/02/21/inviaased.png" alt="Image" title="" width="380" height="380"></div></div></div></div></div></div></div></div><div class="sppb-row-column  " id="column-wrap-id-1733477187865"><div id="column-id-1733477187865" class="sppb-column "><div class="sppb-column-addons"><div id="sppb-addon-wrapper-onMShkAkCgpUbTAhFTKDn" class="sppb-addon-wrapper  addon-root-empty-space"><div id="sppb-addon-onMShkAkCgpUbTAhFTKDn" class="clearfix  "><div class="sppb-empty-space  clearfix"></div></div></div><div id="sppb-addon-wrapper-hDGtyVSK-wNGtUS-_DKKQ" class="sppb-addon-wrapper  addon-root-text-block"><div id="sppb-addon-hDGtyVSK-wNGtUS-_DKKQ" class="clearfix  sppb-wow fadeInRight  " data-sppb-wow-duration="2500ms"><div class="sppb-addon sppb-addon-text-block "><div class="sppb-addon-content  "></div></div></div></div><div id="sppb-addon-wrapper-BNFwmIa_qBY3UUqJmVodx" class="sppb-addon-wrapper  addon-root-text-block"><div id="sppb-addon-BNFwmIa_qBY3UUqJmVodx" class="clearfix  sppb-wow fadeInRight  " data-sppb-wow-duration="2500ms"><div class="sppb-addon sppb-addon-text-block "><div class="sppb-addon-content  "><h1 class="bubblegum-text">Condividi con Sed Etiam</h1></div></div></div></div><div id="sppb-addon-wrapper-vLqsjufvUOyuFMGThfoXG" class="sppb-addon-wrapper  addon-root-empty-space"><div id="sppb-addon-vLqsjufvUOyuFMGThfoXG" class="clearfix  "><div class="sppb-empty-space  clearfix"></div></div></div><div id="sppb-addon-wrapper-0OxjO9lHOrK2UBD15FRj0" class="sppb-addon-wrapper  addon-root-text-block"><div id="sppb-addon-0OxjO9lHOrK2UBD15FRj0" class="clearfix  sppb-wow fadeInRight  " data-sppb-wow-duration="2500ms"><div class="sppb-addon sppb-addon-text-block "><div class="sppb-addon-content  "><p style="text-align:left; font-family: 'Annie Use Your Telescope', sans-serif; font-size: 29px; font-weight: 500; line-height: 1.5;">Condividi le tue opere letterarie e artistiche, inclusi testi e immagini, offrendo il tuo contributo alla comunità di Sed Etiam.</p></div></div></div></div></div></div></div></div></div></section><section id="section-id-1682152551196" class="sppb-section"><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-12  " id="column-wrap-id-1682152551195"><div id="column-id-1682152551195" class="sppb-column "><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1733569263160" class="sppb-addon-wrapper  addon-root-empty-space"><div id="sppb-addon-1733569263160" class="clearfix  "><div class="sppb-empty-space  clearfix"></div></div></div><div id="sppb-addon-wrapper-1682152855843" class="sppb-addon-wrapper  addon-root-text-block"><div id="sppb-addon-1682152855843" class="clearfix  sppb-wow rotateInDownLeft  " data-sppb-wow-duration="800ms"><div class="sppb-addon sppb-addon-text-block "><div class="sppb-addon-content  "><p style="text-align: justify;">Sed etiam è la sezione di Beneinst dedicata a chi desidera condividere la propria creatività con il mondo. Siamo alla ricerca di contenuti originali, come raccolte di lettere, poesie, disegni, quadri, pagine di diario, diari interi e fotografie, che rappresentino la vostra voce unica e la vostra visione del mondo.</p>
 <p style="text-align: justify;">Invitiamo gli autori a presentare i loro lavori in formato digitale, dattiloscritti al computer o immagini già in digitale. Tutti i contributi saranno pubblicati gratuitamente su Sed etiam e rimarranno online a tempo indeterminato. Inoltre, se desiderate apportare modifiche ai vostri contenuti o cancellare la pagina web, saremo felici di assistervi.</p>
 <p style="text-align: justify;">In cambio della vostra partecipazione, offriamo una piattaforma di pubblicazione gratuita e la garanzia che i vostri lavori saranno esposti ad una vasta platea di lettori. Ogni contributo inviato a Sed etiam è tutelato dalla nostra licenza, che garantisce la vostra proprietà intellettuale e la vostra creatività.</p>
 <p style="text-align: justify;">La nostra licenza, denominata Licenza <a href="cc-by-nc-4-0-c-beneinst.html">Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)</a>, gestisce la vostra proprietà intellettuale in modo che possiate mantenere i diritti sul vostro lavoro. Questo significa che, nonostante la pubblicazione su Sed etiam, continuerete ad essere i legittimi detentori dei diritti d'autore e della proprietà intellettuale.</p>

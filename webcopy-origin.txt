@@ -1954,6 +1954,10 @@ Uri: http://192.168.109.130/images/Componenti/Fonts/BigShouldersText-Regular.ttf
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\Componenti\Fonts\BigShouldersText-Regular.ttf
 Content Type: font/ttf
 
+Uri: http://192.168.109.130/images/Componenti/Fonts/ChelseaMarket-Regular.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\Componenti\Fonts\ChelseaMarket-Regular.ttf
+Content Type: font/ttf
+
 Uri: http://192.168.109.130/images/Componenti/Fonts/DMSerifDisplay-Regular.ttf
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\Componenti\Fonts\DMSerifDisplay-Regular.ttf
 Content Type: font/ttf
@@ -3894,7 +3898,7 @@ Uri: http://192.168.109.130/luigi-pirandello.html
 File Name: C:\Downloaded Web Sites\192.168.109.130\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.109.130/media/com_wrapper/js/iframe-height.min.js?9633eb
+Uri: http://192.168.109.130/media/com_wrapper/js/iframe-height.min.js?cdfa28
 File Name: C:\Downloaded Web Sites\192.168.109.130\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
