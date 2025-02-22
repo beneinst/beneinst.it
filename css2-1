@@ -1,7 +1,14 @@
 ﻿@font-face {
-  font-family: 'DM Serif Display';
+  font-family: 'Cherry Swash';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(s/dmserifdisplay/v15/-nFnOHM81r4j6k0gjAW3mujVU2B2K_c.ttf) format('truetype');
+  src: url(s/cherryswash/v20/i7dNIFByZjaNAMxtZcnfAy58QA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cherry Swash';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/cherryswash/v20/i7dSIFByZjaNAMxtZcnfAy5E_FeaGw.ttf) format('truetype');
 }

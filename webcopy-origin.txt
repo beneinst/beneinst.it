@@ -1182,10 +1182,6 @@ Uri: http://192.168.109.130/images/2024/12/10/dvdvdv6.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\12\10\dvdvdv6.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.109.130/images/2025/02/20/111xp.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\111xp.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.109.130/images/2025/02/20/a2.png
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\20\a2.png
 Content Type: image/png
@@ -1902,6 +1898,18 @@ Uri: http://192.168.109.130/images/2025/02/21/th-3.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\21\th-3.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.109.130/images/2025/02/22/sfondoalberi.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\22\sfondoalberi.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.130/images/2025/02/22/wer2da.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\22\wer2da.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.109.130/images/2qh.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2qh.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.109.130/images/Beneinst-OndeLetterarie.mp4
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\Beneinst-OndeLetterarie.mp4
 Content Type: video/mp4
@@ -1944,10 +1952,6 @@ Content Type: font/ttf
 
 Uri: http://192.168.109.130/images/Componenti/Fonts/BigShouldersText-Regular.ttf
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\Componenti\Fonts\BigShouldersText-Regular.ttf
-Content Type: font/ttf
-
-Uri: http://192.168.109.130/images/Componenti/Fonts/BubblegumSans-Regular.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\Componenti\Fonts\BubblegumSans-Regular.ttf
 Content Type: font/ttf
 
 Uri: http://192.168.109.130/images/Componenti/Fonts/DMSerifDisplay-Regular.ttf
@@ -2077,10 +2081,6 @@ Content Type: image/jpeg
 Uri: http://192.168.109.130/images/Componenti/rounded-in-photoretrica-27.png
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\Componenti\rounded-in-photoretrica-27.png
 Content Type: image/png
-
-Uri: http://192.168.109.130/images/copertina-di-facebook776s.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\copertina-di-facebook776s.jpg
-Content Type: image/jpeg
 
 Uri: http://192.168.109.130/images/Copertine/103.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\Copertine\103.jpg
@@ -3894,7 +3894,7 @@ Uri: http://192.168.109.130/luigi-pirandello.html
 File Name: C:\Downloaded Web Sites\192.168.109.130\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.109.130/media/com_wrapper/js/iframe-height.min.js?79acc7
+Uri: http://192.168.109.130/media/com_wrapper/js/iframe-height.min.js?9633eb
 File Name: C:\Downloaded Web Sites\192.168.109.130\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -4166,7 +4166,7 @@ Uri: http://fonts.googleapis.com/css?family=Big Shoulders Text:100,100i,200,200i
 File Name: C:\Downloaded Web Sites\192.168.109.130\css-3
 Content Type: text/css
 
-Uri: http://fonts.googleapis.com/css?family=Charmonman:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=latin&display=swap
+Uri: http://fonts.googleapis.com/css?family=Chelsea Market:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=latin&display=swap
 File Name: C:\Downloaded Web Sites\192.168.109.130\css-1
 Content Type: text/css
 
@@ -4214,12 +4214,8 @@ Uri: http://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0ey
 File Name: C:\Downloaded Web Sites\192.168.109.130\s\bigshoulderstext\v24\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-r7TUFMg.ttf
 Content Type: font/ttf
 
-Uri: http://fonts.gstatic.com/s/charmonman/v18/MjQAmiR3vP_nuxDv47jiYC2HqLhA8A.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.130\s\charmonman\v18\MjQAmiR3vP_nuxDv47jiYC2HqLhA8A.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/charmonman/v18/MjQDmiR3vP_nuxDv47jiaJaiuA.ttf
-File Name: C:\Downloaded Web Sites\192.168.109.130\s\charmonman\v18\MjQDmiR3vP_nuxDv47jiaJaiuA.ttf
+Uri: http://fonts.gstatic.com/s/chelseamarket/v13/BCawqZsHqfr89WNP_IApC8tzKChiJgo.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.130\s\chelseamarket\v13\BCawqZsHqfr89WNP_IApC8tzKChiJgo.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/hind/v17/5aU19_a8oxmIfJpbER2SiA.ttf
@@ -4378,12 +4374,16 @@ Uri: https://cs.iubenda.com/autoblocking/3512692.js
 File Name: C:\Downloaded Web Sites\192.168.109.130\autoblocking\3512692.js
 Content Type: application/javascript
 
-Uri: https://fonts.googleapis.com/css2?family=Cherry+Swash:wght@400;700&display=swap
+Uri: https://fonts.googleapis.com/css2?family=Audiowide&family=Bubblegum+Sans&family=Chelsea+Market&family=Libre+Barcode+39+Extended+Text&family=Press+Start+2P&family=Share+Tech+Mono&family=VT323&family=Zen+Dots&display=swap
 File Name: C:\Downloaded Web Sites\192.168.109.130\css2
 Content Type: text/css
 
-Uri: https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap
+Uri: https://fonts.googleapis.com/css2?family=Cherry+Swash:wght@400;700&display=swap
 File Name: C:\Downloaded Web Sites\192.168.109.130\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap
+File Name: C:\Downloaded Web Sites\192.168.109.130\css2-2
 Content Type: text/css
 
 Uri: https://fonts.googleapis.com/css?family=Alegreya:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
@@ -4446,6 +4446,10 @@ Uri: https://fonts.gstatic.com/s/alegreya/v36/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPl
 File Name: C:\Downloaded Web Sites\192.168.109.130\s\alegreya\v36\4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlZJuJqhmSA.ttf
 Content Type: font/ttf
 
+Uri: https://fonts.gstatic.com/s/audiowide/v20/l7gdbjpo0cum0ckerWCtkQ.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.130\s\audiowide\v20\l7gdbjpo0cum0ckerWCtkQ.ttf
+Content Type: font/ttf
+
 Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0aKIcMGZEnV6xygz7eNjESBanN.ttf
 File Name: C:\Downloaded Web Sites\192.168.109.130\s\averialibre\v16\2V0aKIcMGZEnV6xygz7eNjESBanN.ttf
 Content Type: font/ttf
@@ -4498,6 +4502,14 @@ Uri: https://fonts.gstatic.com/s/biryani/v13/hv-WlzNxIFoO84YdfUsTOQ.ttf
 File Name: C:\Downloaded Web Sites\192.168.109.130\s\biryani\v13\hv-WlzNxIFoO84YdfUsTOQ.ttf
 Content Type: font/ttf
 
+Uri: https://fonts.gstatic.com/s/bubblegumsans/v20/AYCSpXb_Z9EORv1M5QTjEzMEtdaH.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.130\s\bubblegumsans\v20\AYCSpXb_Z9EORv1M5QTjEzMEtdaH.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/chelseamarket/v13/BCawqZsHqfr89WNP_IApC8tzKBhl.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.130\s\chelseamarket\v13\BCawqZsHqfr89WNP_IApC8tzKBhl.ttf
+Content Type: font/ttf
+
 Uri: https://fonts.gstatic.com/s/cherryswash/v20/i7dNIFByZjaNAMxtZcnfAy58QA.ttf
 File Name: C:\Downloaded Web Sites\192.168.109.130\s\cherryswash\v20\i7dNIFByZjaNAMxtZcnfAy58QA.ttf
 Content Type: font/ttf
@@ -4508,6 +4520,26 @@ Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/dmserifdisplay/v15/-nFnOHM81r4j6k0gjAW3mujVU2B2K_c.ttf
 File Name: C:\Downloaded Web Sites\192.168.109.130\s\dmserifdisplay\v15\-nFnOHM81r4j6k0gjAW3mujVU2B2K_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librebarcode39extendedtext/v28/eLG1P_rwIgOiDA7yrs9LoKaYRVLQ1YldrrOnnL7xPO4jNP68fA.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.130\s\librebarcode39extendedtext\v28\eLG1P_rwIgOiDA7yrs9LoKaYRVLQ1YldrrOnnL7xPO4jNP68fA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/pressstart2p/v15/e3t4euO8T-267oIAQAu6jDQyK0nS.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.130\s\pressstart2p\v15\e3t4euO8T-267oIAQAu6jDQyK0nS.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sharetechmono/v15/J7aHnp1uDWRBEqV98dVQztYldFc7pA.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.130\s\sharetechmono\v15\J7aHnp1uDWRBEqV98dVQztYldFc7pA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/vt323/v17/pxiKyp0ihIEF2hsY.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.130\s\vt323\v17\pxiKyp0ihIEF2hsY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/zendots/v12/XRXX3ICfm00IGoesQeaE.ttf
+File Name: C:\Downloaded Web Sites\192.168.109.130\s\zendots\v12\XRXX3ICfm00IGoesQeaE.ttf
 Content Type: font/ttf
 
 Uri: https://www.googletagmanager.com/gtag/js?id=G-37P9KCN6WS
