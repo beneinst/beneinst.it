@@ -90,10 +90,6 @@ Uri: http://192.168.109.130/bonvesin-de-la-riva.html
 File Name: C:\Downloaded Web Sites\192.168.109.130\bonvesin-de-la-riva.html
 Content Type: text/html
 
-Uri: http://192.168.109.130/cache/com_templates/templates/shaper_helixultimate/1e19efb4f628c737dcd1386c8d3f661c.css
-File Name: C:\Downloaded Web Sites\192.168.109.130\cache\com_templates\templates\shaper_helixultimate\1e19efb4f628c737dcd1386c8d3f661c.css
-Content Type: text/css
-
 Uri: http://192.168.109.130/cache/com_templates/templates/shaper_helixultimate/21f9472012de8fb7e771a274b24c8b8d.css
 File Name: C:\Downloaded Web Sites\192.168.109.130\cache\com_templates\templates\shaper_helixultimate\21f9472012de8fb7e771a274b24c8b8d.css
 Content Type: text/css
@@ -102,9 +98,13 @@ Uri: http://192.168.109.130/cache/com_templates/templates/shaper_helixultimate/2
 File Name: C:\Downloaded Web Sites\192.168.109.130\cache\com_templates\templates\shaper_helixultimate\2aadf67effb4fa11684538bc1d6fb929.js
 Content Type: application/javascript
 
-Uri: http://192.168.109.130/cache/com_templates/templates/shaper_helixultimate/52e02b7e15860e95371ad08a847bdc1b.js
-File Name: C:\Downloaded Web Sites\192.168.109.130\cache\com_templates\templates\shaper_helixultimate\52e02b7e15860e95371ad08a847bdc1b.js
+Uri: http://192.168.109.130/cache/com_templates/templates/shaper_helixultimate/a389b878476f072b6c51a2d1962afb96.js
+File Name: C:\Downloaded Web Sites\192.168.109.130\cache\com_templates\templates\shaper_helixultimate\a389b878476f072b6c51a2d1962afb96.js
 Content Type: application/javascript
+
+Uri: http://192.168.109.130/cache/com_templates/templates/shaper_helixultimate/fb817c72c8b2deba9a3408628bfaf71f.css
+File Name: C:\Downloaded Web Sites\192.168.109.130\cache\com_templates\templates\shaper_helixultimate\fb817c72c8b2deba9a3408628bfaf71f.css
+Content Type: text/css
 
 Uri: http://192.168.109.130/carlo-collodi.html
 File Name: C:\Downloaded Web Sites\192.168.109.130\carlo-collodi.html
@@ -1122,10 +1122,6 @@ Uri: http://192.168.109.130/images/2024/09/23/ddtyrtre3.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\09\23\ddtyrtre3.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.109.130/images/2024/12/08/oig2grigio2.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\12\08\oig2grigio2.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.109.130/images/2024/12/09/1en6.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\2024\12\09\1en6.jpg
 Content Type: image/jpeg
@@ -1902,6 +1898,30 @@ Uri: http://192.168.109.130/images/2025/02/22/sfondoalberi.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\22\sfondoalberi.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.109.130/images/2025/02/28/1a1.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\28\1a1.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/28/1as.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\28\1as.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/28/1eb.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\28\1eb.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/28/1qwe.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\28\1qwe.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/28/2eb.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\28\2eb.png
+Content Type: image/png
+
+Uri: http://192.168.109.130/images/2025/02/28/3eb.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\28\3eb.png
+Content Type: image/png
+
 Uri: http://192.168.109.130/images/2025/02/28/rrewq.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\28\rrewq.jpg
 Content Type: image/jpeg
@@ -2017,26 +2037,6 @@ Content Type: image/jpeg
 Uri: http://192.168.109.130/images/Componenti/mobi-4.png
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\Componenti\mobi-4.png
 Content Type: image/png
-
-Uri: http://192.168.109.130/images/Componenti/OIG2 1.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\Componenti\OIG2 1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/Componenti/OIG2.9rWI3nno3ChPqBpIa.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\Componenti\OIG2.9rWI3nno3ChPqBpIa.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/Componenti/OIG2.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\Componenti\OIG2.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/Componenti/OIG2.txJi7EMHaiy63w4.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\Componenti\OIG2.txJi7EMHaiy63w4.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/Componenti/OIG3.5PmHCZ0Q7kXldfc.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\Componenti\OIG3.5PmHCZ0Q7kXldfc.jpg
-Content Type: image/jpeg
 
 Uri: http://192.168.109.130/images/Componenti/pdfeN.png
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\Componenti\pdfeN.png
@@ -3122,70 +3122,6 @@ Uri: http://192.168.109.130/images/speasyimagegallery/albums/10/images/9a_thumb.
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\speasyimagegallery\albums\10\images\9a_thumb.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.109.130/images/speasyimagegallery/albums/12/images/03-auschwitz.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\speasyimagegallery\albums\12\images\03-auschwitz.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/speasyimagegallery/albums/12/images/03-auschwitz_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\speasyimagegallery\albums\12\images\03-auschwitz_thumb.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/speasyimagegallery/albums/12/images/09-berlin-shoah.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\speasyimagegallery\albums\12\images\09-berlin-shoah.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/speasyimagegallery/albums/12/images/09-berlin-shoah_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\speasyimagegallery\albums\12\images\09-berlin-shoah_thumb.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/speasyimagegallery/albums/12/images/17-bukhara-gypsy.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\speasyimagegallery\albums\12\images\17-bukhara-gypsy.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/speasyimagegallery/albums/12/images/17-bukhara-gypsy_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\speasyimagegallery\albums\12\images\17-bukhara-gypsy_thumb.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/speasyimagegallery/albums/12/images/18-samarqand.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\speasyimagegallery\albums\12\images\18-samarqand.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/speasyimagegallery/albums/12/images/18-samarqand_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\speasyimagegallery\albums\12\images\18-samarqand_thumb.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/speasyimagegallery/albums/12/images/img-20230205-111152-edited.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\speasyimagegallery\albums\12\images\img-20230205-111152-edited.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/speasyimagegallery/albums/12/images/img-20230205-111152-edited_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\speasyimagegallery\albums\12\images\img-20230205-111152-edited_thumb.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/speasyimagegallery/albums/12/images/img-20230205-111217-edited.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\speasyimagegallery\albums\12\images\img-20230205-111217-edited.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/speasyimagegallery/albums/12/images/img-20230205-111217-edited_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\speasyimagegallery\albums\12\images\img-20230205-111217-edited_thumb.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/speasyimagegallery/albums/12/images/img-20230205-154815.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\speasyimagegallery\albums\12\images\img-20230205-154815.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/speasyimagegallery/albums/12/images/img-20230205-154815_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\speasyimagegallery\albums\12\images\img-20230205-154815_thumb.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/speasyimagegallery/albums/12/images/img-20230206-105015-edited.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\speasyimagegallery\albums\12\images\img-20230206-105015-edited.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.109.130/images/speasyimagegallery/albums/12/images/img-20230206-105015-edited_thumb.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\speasyimagegallery\albums\12\images\img-20230206-105015-edited_thumb.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.109.130/images/speasyimagegallery/albums/2/images/25-berlin.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\speasyimagegallery\albums\2\images\25-berlin.jpg
 Content Type: image/jpeg
@@ -3898,7 +3834,7 @@ Uri: http://192.168.109.130/luigi-pirandello.html
 File Name: C:\Downloaded Web Sites\192.168.109.130\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.109.130/media/com_wrapper/js/iframe-height.min.js?ef3e40
+Uri: http://192.168.109.130/media/com_wrapper/js/iframe-height.min.js?2ed677
 File Name: C:\Downloaded Web Sites\192.168.109.130\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
