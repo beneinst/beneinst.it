@@ -168,7 +168,7 @@ a:hover {
 	<style>#mod-speasyimagegallery-128 .speasyimagegallery-row {margin: -10px;}#mod-speasyimagegallery-128 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 10px;}@media only screen and (max-width : 992px) {#mod-speasyimagegallery-128 .speasyimagegallery-row {margin: -7.5px;}#mod-speasyimagegallery-128 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 7.5px;}}@media only screen and (max-width : 768px) {#mod-speasyimagegallery-128 .speasyimagegallery-row {margin: -5px;}#mod-speasyimagegallery-128 .speasyimagegallery-row > div > .speasyimagegallery-gallery-item {padding: 5px;}}</style>
 <script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?504da4"></script>
-	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.109.130/","base":"","baseFull":"http://192.168.109.130/"},"csrf.token":"cb4078506c60588f8d79e11331130aa1"}</script>
+	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.109.130/","base":"","baseFull":"http://192.168.109.130/"},"csrf.token":"a4a9b7706543fbc665312d9f1b011f4b"}</script>
 	<script src="media/system/js/core.min.js?2cb912"></script>
 	<script src="media/vendor/bootstrap/js/alert.min.js?5.3.3" type="module"></script>
 	<script src="media/vendor/bootstrap/js/button.min.js?5.3.3" type="module"></script>
@@ -185,7 +185,7 @@ a:hover {
 	<script src="media/system/js/messages.min.js?9a4811" type="module"></script>
 	<script src="widgets/latest/fc.js" data-gt-orig-url="/francesco-guicciardini.html" data-gt-orig-domain="192.168.109.130" data-gt-widget-id="413" defer=""></script>
 	<script src="cache/com_templates/templates/shaper_helixultimate/52e02b7e15860e95371ad08a847bdc1b.js"></script>
-	<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://192.168.109.130/#/schema/Organization/base","name":"Beneinst","url":"http://192.168.109.130/"},{"@type":"WebSite","@id":"http://192.168.109.130/#/schema/WebSite/base","url":"http://192.168.109.130/","name":"Beneinst","publisher":{"@id":"http://192.168.109.130/#/schema/Organization/base"}},{"@type":"WebPage","@id":"http://192.168.109.130/#/schema/WebPage/base","url":"http://192.168.109.130/francesco-guicciardini.html","name":"Francesco Guicciardini","description":"Esplora diari, memorie e storie umane su un sito pubblico. Condividi le tue pagine di diari e connettiti con altri.","isPartOf":{"@id":"http://192.168.109.130/#/schema/WebSite/base"},"about":{"@id":"http://192.168.109.130/#/schema/Organization/base"},"inLanguage":"it-IT"},{"@type":"Article","@id":"http://192.168.109.130/#/schema/com_content/article/72","name":"Francesco Guicciardini","headline":"Francesco Guicciardini","inLanguage":"it-IT","dateCreated":"2023-10-03T04:06:18+00:00","interactionStatistic":{"@type":"InteractionCounter","userInteractionCount":247},"isPartOf":{"@id":"http://192.168.109.130/#/schema/WebPage/base"}}]}</script>
+	<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://192.168.109.130/#/schema/Organization/base","name":"Beneinst","url":"http://192.168.109.130/"},{"@type":"WebSite","@id":"http://192.168.109.130/#/schema/WebSite/base","url":"http://192.168.109.130/","name":"Beneinst","publisher":{"@id":"http://192.168.109.130/#/schema/Organization/base"}},{"@type":"WebPage","@id":"http://192.168.109.130/#/schema/WebPage/base","url":"http://192.168.109.130/francesco-guicciardini.html","name":"Francesco Guicciardini","description":"Esplora diari, memorie e storie umane su un sito pubblico. Condividi le tue pagine di diari e connettiti con altri.","isPartOf":{"@id":"http://192.168.109.130/#/schema/WebSite/base"},"about":{"@id":"http://192.168.109.130/#/schema/Organization/base"},"inLanguage":"it-IT"},{"@type":"Article","@id":"http://192.168.109.130/#/schema/com_content/article/72","name":"Francesco Guicciardini","headline":"Francesco Guicciardini","inLanguage":"it-IT","dateCreated":"2023-10-03T04:06:18+00:00","interactionStatistic":{"@type":"InteractionCounter","userInteractionCount":249},"isPartOf":{"@id":"http://192.168.109.130/#/schema/WebPage/base"}}]}</script>
 	<script>const ipfsClient = require('ipfs-http-client')
 const ipfs = ipfsClient('localhost', '5001')
 
@@ -235,6 +235,7 @@ links.forEach(link => {
   /* Applica le impostazioni solo del carattere testo Asap-Regular */
 body,
 .sppb-addon-text,
+sppb-panel-title,
 .navigation,
 .sppb-addon-content,
 div,
@@ -504,6 +505,13 @@ font-family: "Chelsea Market", serif;
   font-weight: 400;
   font-style: normal;
 }
+.sppb-panel-title {
+    font-size: 16px !important;
+    font-family: 'Chelsea Market', sans-serif !important;
+    font-weight: normal !important; /* Spessore normale */
+}
+
+
 
 
   </style>
@@ -619,8 +627,8 @@ font-family: "Chelsea Market", serif;
 			
 		
 					<span class="hits">
-	<meta itemprop="interactionCount" content="UserPageVisits:248">
-	Visite: 248</span>
+	<meta itemprop="interactionCount" content="UserPageVisits:249">
+	Visite: 249</span>
 				
 			</div>
 		
@@ -1028,19 +1036,19 @@ _iub.csConfiguration = {
 <table style="margin-left: 0px; margin-right: auto;">
 <tbody>
 <tr>
-<td><a title="Facebook" href="https://www.facebook.com/gdbeneinst" target="_blank" rel="noopener noreferrer"> <img class="social-icon" style="height: 25px;" src="images/Componenti/Icone_Social/facebo1.png" alt="Facebook"> </a></td>
+<td><a title="Facebook" href="https://www.facebook.com/gdbeneinst" target="_blank" rel="noopener noreferrer"> <img class="social-icon" style="height: 27px;" src="images/Componenti/Icone_Social/facebo1.png" alt="Facebook"> </a></td>
 <td style="padding-left: 13px;"> </td>
 <!-- Spazio tra le icone -->
-<td><a title="Pinterest" href="https://www.pinterest.it/beneinst/" target="_blank" rel="noopener noreferrer"> <img class="social-icon" style="height: 26px;" src="images/Componenti/Icone_Social/pint1.png" alt="Pinterest"> </a></td>
+<td><a title="Pinterest" href="https://www.pinterest.it/beneinst/" target="_blank" rel="noopener noreferrer"> <img class="social-icon" style="height: 28px;" src="images/Componenti/Icone_Social/pint1.png" alt="Pinterest"> </a></td>
 <td style="padding-left: 13px;"> </td>
 <!-- Spazio tra le icone -->
-<td><a title="Medium" href="https://gerardo-dorrico.medium.com/" target="_blank" rel="noopener noreferrer"> <img class="social-icon" style="height: 27px;" src="images/Componenti/Icone_Social/medium2.png" alt="Medium"> </a></td>
+<td><a title="Medium" href="https://gerardo-dorrico.medium.com/" target="_blank" rel="noopener noreferrer"> <img class="social-icon" style="height: 30px;" src="images/Componenti/Icone_Social/medium2.png" alt="Medium"> </a></td>
 <td style="padding-left: 13px;"> </td>
 <!-- Spazio tra le icone -->
-<td><a title="Youtube" href="https://www.youtube.com/channel/UCvt2qXLmJbAlLYmQUKincfg" target="_blank" rel="noopener noreferrer"> <img class="social-icon" style="height: 23px;" src="images/Componenti/Icone_Social/youtub1.png" alt="YouTube"> </a></td>
+<td><a title="Youtube" href="https://www.youtube.com/channel/UCvt2qXLmJbAlLYmQUKincfg" target="_blank" rel="noopener noreferrer"> <img class="social-icon" style="height: 25px;" src="images/Componenti/Icone_Social/youtub1.png" alt="YouTube"> </a></td>
 <td style="padding-left: 13px;"> </td>
 <!-- Spazio tra le icone -->
-<td><a title="WhatsApp" href="https://wa.link/y24jf2" target="_blank" rel="noopener noreferrer"> <img class="social-icon" style="height: 28px;" src="images/Componenti/Icone_Social/whatsapp--v1h1.png" alt="WhatsApp"> </a></td>
+<td><a title="WhatsApp" href="https://wa.link/y24jf2" target="_blank" rel="noopener noreferrer"> <img class="social-icon" style="height: 32px;" src="images/Componenti/Icone_Social/whatsapp--v1h1.png" alt="WhatsApp"> </a></td>
 </tr>
 </tbody>
 </table>

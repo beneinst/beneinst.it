@@ -1902,8 +1902,8 @@ Uri: http://192.168.109.130/images/2025/02/22/sfondoalberi.jpg
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\22\sfondoalberi.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.109.130/images/2025/02/22/wer2da.jpg
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\22\wer2da.jpg
+Uri: http://192.168.109.130/images/2025/02/28/rrewq.jpg
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\2025\02\28\rrewq.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.109.130/images/2qh.jpg
@@ -3898,7 +3898,7 @@ Uri: http://192.168.109.130/luigi-pirandello.html
 File Name: C:\Downloaded Web Sites\192.168.109.130\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.109.130/media/com_wrapper/js/iframe-height.min.js?cdfa28
+Uri: http://192.168.109.130/media/com_wrapper/js/iframe-height.min.js?ef3e40
 File Name: C:\Downloaded Web Sites\192.168.109.130\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
