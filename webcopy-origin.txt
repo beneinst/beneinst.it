@@ -3834,7 +3834,7 @@ Uri: http://192.168.109.130/luigi-pirandello.html
 File Name: C:\Downloaded Web Sites\192.168.109.130\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.109.130/media/com_wrapper/js/iframe-height.min.js?040689
+Uri: http://192.168.109.130/media/com_wrapper/js/iframe-height.min.js?8e6356
 File Name: C:\Downloaded Web Sites\192.168.109.130\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -4481,6 +4481,10 @@ Content Type: font/ttf
 Uri: https://fonts.gstatic.com/s/zendots/v12/XRXX3ICfm00IGoesQeaE.ttf
 File Name: C:\Downloaded Web Sites\192.168.109.130\s\zendots\v12\XRXX3ICfm00IGoesQeaE.ttf
 Content Type: font/ttf
+
+Uri: https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit
+File Name: C:\Downloaded Web Sites\192.168.109.130\translate_a\element.js
+Content Type: text/javascript
 
 Uri: https://www.googletagmanager.com/gtag/js?id=G-37P9KCN6WS
 File Name: C:\Downloaded Web Sites\192.168.109.130\gtag\js

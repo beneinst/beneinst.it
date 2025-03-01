@@ -114,7 +114,7 @@ a:hover {
 	<style>#sp-footer{ background-image:url("images/2qh.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:0 0; }</style>
 <script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?504da4"></script>
-	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.109.130/","base":"","baseFull":"http://192.168.109.130/"},"csrf.token":"f56fd2f686068d07723a9919db5022bc"}</script>
+	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.109.130/","base":"","baseFull":"http://192.168.109.130/"},"csrf.token":"0cdb8446eba2cbdf374c7b806fc99f81"}</script>
 	<script src="media/system/js/core.min.js?2cb912"></script>
 	<script src="media/vendor/bootstrap/js/alert.min.js?5.3.3" type="module"></script>
 	<script src="media/vendor/bootstrap/js/button.min.js?5.3.3" type="module"></script>
@@ -129,9 +129,8 @@ a:hover {
 	<script src="media/vendor/bootstrap/js/toast.min.js?5.3.3" type="module"></script>
 	<script src="media/system/js/showon.min.js?e51227" type="module"></script>
 	<script src="media/system/js/messages.min.js?9a4811" type="module"></script>
-	<script src="widgets/latest/fc.js" data-gt-orig-url="/giovanni-boccaccio.html" data-gt-orig-domain="192.168.109.130" data-gt-widget-id="413" defer=""></script>
 	<script src="cache/com_templates/templates/shaper_helixultimate/a389b878476f072b6c51a2d1962afb96.js"></script>
-	<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://192.168.109.130/#/schema/Organization/base","name":"Beneinst","url":"http://192.168.109.130/"},{"@type":"WebSite","@id":"http://192.168.109.130/#/schema/WebSite/base","url":"http://192.168.109.130/","name":"Beneinst","publisher":{"@id":"http://192.168.109.130/#/schema/Organization/base"}},{"@type":"WebPage","@id":"http://192.168.109.130/#/schema/WebPage/base","url":"http://192.168.109.130/giovanni-boccaccio.html","name":"Giovanni Boccaccio","description":"Esplora diari, memorie e storie umane su un sito pubblico. Condividi le tue pagine di diari e connettiti con altri.","isPartOf":{"@id":"http://192.168.109.130/#/schema/WebSite/base"},"about":{"@id":"http://192.168.109.130/#/schema/Organization/base"},"inLanguage":"it-IT"},{"@type":"Article","@id":"http://192.168.109.130/#/schema/com_content/article/94","name":"Giovanni Boccaccio","headline":"Giovanni Boccaccio","inLanguage":"it-IT","dateCreated":"2023-10-03T05:04:17+00:00","interactionStatistic":{"@type":"InteractionCounter","userInteractionCount":252},"isPartOf":{"@id":"http://192.168.109.130/#/schema/WebPage/base"}}]}</script>
+	<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://192.168.109.130/#/schema/Organization/base","name":"Beneinst","url":"http://192.168.109.130/"},{"@type":"WebSite","@id":"http://192.168.109.130/#/schema/WebSite/base","url":"http://192.168.109.130/","name":"Beneinst","publisher":{"@id":"http://192.168.109.130/#/schema/Organization/base"}},{"@type":"WebPage","@id":"http://192.168.109.130/#/schema/WebPage/base","url":"http://192.168.109.130/giovanni-boccaccio.html","name":"Giovanni Boccaccio","description":"Esplora diari, memorie e storie umane su un sito pubblico. Condividi le tue pagine di diari e connettiti con altri.","isPartOf":{"@id":"http://192.168.109.130/#/schema/WebSite/base"},"about":{"@id":"http://192.168.109.130/#/schema/Organization/base"},"inLanguage":"it-IT"},{"@type":"Article","@id":"http://192.168.109.130/#/schema/com_content/article/94","name":"Giovanni Boccaccio","headline":"Giovanni Boccaccio","inLanguage":"it-IT","dateCreated":"2023-10-03T05:04:17+00:00","interactionStatistic":{"@type":"InteractionCounter","userInteractionCount":253},"isPartOf":{"@id":"http://192.168.109.130/#/schema/WebPage/base"}}]}</script>
 	<script><script>
 const ipfsClient = require('ipfs-http-client');
 const ipfs = ipfsClient('localhost', '5001');
@@ -192,8 +191,23 @@ document.addEventListener("DOMContentLoaded", function () {
     }, 1000);
 });
 </script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    function hideGoogleTranslateBar() {
+        var translateBar = document.querySelector(".skiptranslate");
+        var translateFrame = document.querySelector(".goog-te-banner-frame");
+
+        if (translateBar) translateBar.style.display = "none";
+        if (translateFrame) translateFrame.style.display = "none";
+
+        document.body.style.top = "0px";
+    }
+
+    // Nasconde la barra ogni 500ms per evitare che riappaia
+    setInterval(hideGoogleTranslateBar, 500);
+});
+</script>
 	<script>template="shaper_helixultimate";</script>
-	<script>window.gtranslateSettings = window.gtranslateSettings || {};window.gtranslateSettings['413'] = {"default_language":"it","languages":["en","fr","de","it","es"],"url_structure":"none","wrapper_selector":"#gt-wrapper-413","globe_size":60,"flag_size":32,"flag_style":"3d","custom_domains":null,"float_switcher_open_direction":"top","switcher_open_direction":"top","native_language_names":0,"add_new_line":1,"select_language_label":"Select Language","detect_browser_language":1,"custom_css":".gtranslate_wrapper.gt_container-u6wkaq {\r\n    text-align: left;\r\n}\r\n\r\n\/* Nasconde i codici delle lingue *\/\r\n.gtranslate_wrapper.gt_container-u6wkaq a span {\r\n    display: none;\r\n}\r\n","alt_flags":[],"switcher_horizontal_position":"left","switcher_vertical_position":"bottom","horizontal_position":"inline","vertical_position":"inline"};</script>
 <script type="text/javascript">
     var _iub = _iub || [];
     _iub.csConfiguration = {
@@ -651,15 +665,31 @@ div.formats img {
   max-width: 100%;       /* Mantieni l'immagine responsive */
   height: auto;          /* Mantieni le proporzioni dell'immagine */
 }
-/* Nasconde il modulo solo se è nella posizione "debug" */
-.gtranslate_wrapper.jmoddiv[ data-jmodtip*="Posizione: debug"] {
+/* Nasconde la barra di Google Translate senza disattivarlo */
+body:not(.homepage) .skiptranslate,
+body:not(.homepage) .goog-te-banner-frame {
+    display: none !important;
+    visibility: hidden;
+    height: 0 !important;
+    overflow: hidden;
+}
+
+/* Evita margini aggiuntivi causati dalla barra */
+body {
+    top: 0px !important;
+}
+
+/* Nasconde il logo di Google in basso a sinistra */
+body:not(.homepage) .goog-logo-link,
+body:not(.homepage) .goog-te-gadget {
     display: none !important;
 }
 
-/* Mostra il modulo in altre posizioni */
-.gtranslate_wrapper {
-    display: block !important;
-}
+
+
+
+
+
 
 
 
@@ -669,6 +699,54 @@ div.formats img {
 			</head>
 	<body class="site helix-ultimate hu com_content com-content view-article layout-default task-none itemid-416 it-it ltr sticky-header layout-fluid offcanvas-init offcanvs-position-left">
 
+					<script>
+function googleTranslateElementInit() {
+    new google.translate.TranslateElement({
+        pageLanguage: 'it', // Lingua originale del sito
+        includedLanguages: 'en,fr,de,es', // Lingue disponibili
+        layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+    }, 'google_translate_element');
+}
+</script>
+
+<script src="translate_a/element.js?cb=googleTranslateElementInit"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    if (!document.body.classList.contains("homepage")) {
+        // Nasconde la barra di Google Translate
+        var translateBar = document.querySelector(".skiptranslate");
+        if (translateBar) {
+            translateBar.remove();
+        }
+
+        // Nasconde eventuali iframe di Google Translate
+        var googleIframe = document.querySelectorAll("iframe");
+        googleIframe.forEach(function(iframe) {
+            if (iframe.src.includes("translate.google.com")) {
+                iframe.remove();
+            }
+        });
+
+        // Rimuove lo stile che lascia lo spazio vuoto
+        document.documentElement.style.height = "auto";
+        document.body.style.top = "0px";
+    }
+});
+</script>
+<div id="google_translate_element"></div>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+    new google.translate.TranslateElement({
+        pageLanguage: 'it', // Lingua predefinita della pagina
+        includedLanguages: 'en,fr,de,es', // Lingue disponibili
+        layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+        autoDisplay: false // Evita che compaia la barra
+    }, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="translate_a/element.js?cb=googleTranslateElementInit"></script>
 		
 					<div class="sp-pre-loader">
 				<div class='sp-loader-bubble-loop'></div>			</div>
@@ -776,8 +854,8 @@ div.formats img {
 			
 		
 					<span class="hits">
-	<meta itemprop="interactionCount" content="UserPageVisits:252">
-	Visite: 252</span>
+	<meta itemprop="interactionCount" content="UserPageVisits:253">
+	Visite: 253</span>
 				
 			</div>
 		
@@ -1139,7 +1217,7 @@ div.formats img {
 			
 	
 <div class="row">
-	<div id="sp-footer1" class="col-lg-6 "><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+	<div id="sp-footer1" class="col-lg-4 "><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
 <div id="mod-custom397" class="mod-custom custom">
     <style>
     .social-icon {
@@ -1184,7 +1262,7 @@ div.formats img {
 </tr>
 </tbody>
 </table></div>
-</div></div></div></div><div id="sp-footer2" class="col-lg-6 "><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+</div></div></div></div><div id="sp-footer2" class="col-lg-8 "><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
 <div id="mod-custom319" class="mod-custom custom">
     <p>
     <img class="responsive-img" src="images/Componenti/ic_ico2.png" width="85" height="85" loading="lazy" data-path="local-images:/Componenti/ic_ico2.png">
@@ -1205,7 +1283,6 @@ div.formats img {
         }
     }
 </style>
-
 
 </div>
 </div></div></div></div></div>
@@ -1254,7 +1331,7 @@ div.formats img {
 </div>				
 
 		
-		<div class="gtranslate_wrapper" id="gt-wrapper-413"></div>
+		
 <div id="mod-custom418" class="mod-custom custom">
     <script type="text/javascript">
 jQuery(document).ready(function($) {
