@@ -2014,8 +2014,8 @@ Uri: http://192.168.109.130/images/Componenti/Icone_Social/youtub1.png
 File Name: C:\Downloaded Web Sites\192.168.109.130\images\Componenti\Icone_Social\youtub1.png
 Content Type: image/png
 
-Uri: http://192.168.109.130/images/Componenti/ic_ico.png
-File Name: C:\Downloaded Web Sites\192.168.109.130\images\Componenti\ic_ico.png
+Uri: http://192.168.109.130/images/Componenti/ic_ico2.png
+File Name: C:\Downloaded Web Sites\192.168.109.130\images\Componenti\ic_ico2.png
 Content Type: image/png
 
 Uri: http://192.168.109.130/images/Componenti/Ipfs/3.jpg
@@ -3834,7 +3834,7 @@ Uri: http://192.168.109.130/luigi-pirandello.html
 File Name: C:\Downloaded Web Sites\192.168.109.130\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.109.130/media/com_wrapper/js/iframe-height.min.js?c76452
+Uri: http://192.168.109.130/media/com_wrapper/js/iframe-height.min.js?d1b821
 File Name: C:\Downloaded Web Sites\192.168.109.130\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -4098,10 +4098,6 @@ Uri: http://192.168.109.130/william-shakespeare.html
 File Name: C:\Downloaded Web Sites\192.168.109.130\william-shakespeare.html
 Content Type: text/html
 
-Uri: http://cdn.iubenda.com/cs/iubenda_cs.js
-File Name: C:\Downloaded Web Sites\192.168.109.130\cs\iubenda_cs.js
-Content Type: application/javascript
-
 Uri: http://fonts.googleapis.com/css?family=Big Shoulders Text:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=latin&display=swap
 File Name: C:\Downloaded Web Sites\192.168.109.130\css-3
 Content Type: text/css
@@ -4280,6 +4276,10 @@ Content Type: application/javascript
 
 Uri: https://cdn.gtranslate.net/widgets/latest/fc.js
 File Name: C:\Downloaded Web Sites\192.168.109.130\widgets\latest\fc.js
+Content Type: application/javascript
+
+Uri: https://cdn.iubenda.com/cs/iubenda_cs.js
+File Name: C:\Downloaded Web Sites\192.168.109.130\cs\iubenda_cs.js
 Content Type: application/javascript
 
 Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
