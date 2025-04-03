@@ -126,11 +126,11 @@ Uri: http://192.168.163.129/charles-baudelaire.html
 File Name: D:\Siti GitHub\192.168.163.129\charles-baudelaire.html
 Content Type: text/html
 
-Uri: http://192.168.163.129/components/com_sppagebuilder/assets/css/animate.min.css?0d6a07403b8fe83ff73a9dcbd3ef7c0e
+Uri: http://192.168.163.129/components/com_sppagebuilder/assets/css/animate.min.css?320bd0471c3e8d6b9dd55c98e185506c
 File Name: D:\Siti GitHub\192.168.163.129\components\com_sppagebuilder\assets\css\animate.min.css
 Content Type: text/css
 
-Uri: http://192.168.163.129/components/com_sppagebuilder/assets/css/dynamic-content.css?0d6a07403b8fe83ff73a9dcbd3ef7c0e
+Uri: http://192.168.163.129/components/com_sppagebuilder/assets/css/dynamic-content.css?320bd0471c3e8d6b9dd55c98e185506c
 File Name: D:\Siti GitHub\192.168.163.129\components\com_sppagebuilder\assets\css\dynamic-content.css
 Content Type: text/css
 
@@ -138,7 +138,7 @@ Uri: http://192.168.163.129/components/com_sppagebuilder/assets/css/magnific-pop
 File Name: D:\Siti GitHub\192.168.163.129\components\com_sppagebuilder\assets\css\magnific-popup.css
 Content Type: text/css
 
-Uri: http://192.168.163.129/components/com_sppagebuilder/assets/css/sppagebuilder.css?0d6a07403b8fe83ff73a9dcbd3ef7c0e
+Uri: http://192.168.163.129/components/com_sppagebuilder/assets/css/sppagebuilder.css?320bd0471c3e8d6b9dd55c98e185506c
 File Name: D:\Siti GitHub\192.168.163.129\components\com_sppagebuilder\assets\css\sppagebuilder.css
 Content Type: text/css
 
@@ -154,7 +154,7 @@ Uri: http://192.168.163.129/components/com_sppagebuilder/assets/js/common.js
 File Name: D:\Siti GitHub\192.168.163.129\components\com_sppagebuilder\assets\js\common.js
 Content Type: application/javascript
 
-Uri: http://192.168.163.129/components/com_sppagebuilder/assets/js/dynamic-content.js?0d6a07403b8fe83ff73a9dcbd3ef7c0e
+Uri: http://192.168.163.129/components/com_sppagebuilder/assets/js/dynamic-content.js?320bd0471c3e8d6b9dd55c98e185506c
 File Name: D:\Siti GitHub\192.168.163.129\components\com_sppagebuilder\assets\js\dynamic-content.js
 Content Type: application/javascript
 
@@ -162,11 +162,11 @@ Uri: http://192.168.163.129/components/com_sppagebuilder/assets/js/jquery.magnif
 File Name: D:\Siti GitHub\192.168.163.129\components\com_sppagebuilder\assets\js\jquery.magnific-popup.min.js
 Content Type: application/javascript
 
-Uri: http://192.168.163.129/components/com_sppagebuilder/assets/js/jquery.parallax.js?0d6a07403b8fe83ff73a9dcbd3ef7c0e
+Uri: http://192.168.163.129/components/com_sppagebuilder/assets/js/jquery.parallax.js?320bd0471c3e8d6b9dd55c98e185506c
 File Name: D:\Siti GitHub\192.168.163.129\components\com_sppagebuilder\assets\js\jquery.parallax.js
 Content Type: application/javascript
 
-Uri: http://192.168.163.129/components/com_sppagebuilder/assets/js/sppagebuilder.js?0d6a07403b8fe83ff73a9dcbd3ef7c0e
+Uri: http://192.168.163.129/components/com_sppagebuilder/assets/js/sppagebuilder.js?320bd0471c3e8d6b9dd55c98e185506c
 File Name: D:\Siti GitHub\192.168.163.129\components\com_sppagebuilder\assets\js\sppagebuilder.js
 Content Type: application/javascript
 
@@ -1926,12 +1926,8 @@ Uri: http://192.168.163.129/images/2025/03/08/buobeneinstnw.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\2025\03\08\buobeneinstnw.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/2025/03/16/sfondoii23a.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\03\16\sfondoii23a.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2qh.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2qh.jpg
+Uri: http://192.168.163.129/images/7okdd.jpg
+File Name: D:\Siti GitHub\192.168.163.129\images\7okdd.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/Beneinst-OndeLetterarie.mp4
@@ -3838,7 +3834,7 @@ Uri: http://192.168.163.129/luigi-pirandello.html
 File Name: D:\Siti GitHub\192.168.163.129\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.163.129/media/com_wrapper/js/iframe-height.min.js?648a13
+Uri: http://192.168.163.129/media/com_wrapper/js/iframe-height.min.js?8aedb1
 File Name: D:\Siti GitHub\192.168.163.129\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
