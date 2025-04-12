@@ -113,7 +113,7 @@ a:hover {
 	<style>#sp-footer{ background-image:url("images/7ok_edited_edited.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:50% 50%; }</style>
 <script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?504da4"></script>
-	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.163.129/","base":"","baseFull":"http://192.168.163.129/"},"csrf.token":"7e4eab1a3d92b2bae7853010f5f7a055"}</script>
+	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.163.129/","base":"","baseFull":"http://192.168.163.129/"},"csrf.token":"c684a85d077573c0b63e473e9d38f405"}</script>
 	<script src="media/system/js/core.min.js?2cb912"></script>
 	<script src="media/vendor/bootstrap/js/alert.min.js?5.3.3" type="module"></script>
 	<script src="media/vendor/bootstrap/js/button.min.js?5.3.3" type="module"></script>
@@ -129,7 +129,7 @@ a:hover {
 	<script src="media/system/js/showon.min.js?e51227" type="module"></script>
 	<script src="media/system/js/messages.min.js?9a4811" type="module"></script>
 	<script src="cache/com_templates/templates/shaper_helixultimate/a389b878476f072b6c51a2d1962afb96.js"></script>
-	<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://192.168.163.129/#/schema/Organization/base","name":"Beneinst","url":"http://192.168.163.129/"},{"@type":"WebSite","@id":"http://192.168.163.129/#/schema/WebSite/base","url":"http://192.168.163.129/","name":"Beneinst","publisher":{"@id":"http://192.168.163.129/#/schema/Organization/base"}},{"@type":"WebPage","@id":"http://192.168.163.129/#/schema/WebPage/base","url":"http://192.168.163.129/voltaire.html","name":"Voltaire","description":"Esplora diari, memorie e storie umane su un sito pubblico. Condividi le tue pagine di diari e connettiti con altri.","isPartOf":{"@id":"http://192.168.163.129/#/schema/WebSite/base"},"about":{"@id":"http://192.168.163.129/#/schema/Organization/base"},"inLanguage":"it-IT"},{"@type":"Article","@id":"http://192.168.163.129/#/schema/com_content/article/121","name":"Voltaire","headline":"Voltaire","inLanguage":"it-IT","dateCreated":"2023-10-03T06:47:07+00:00","interactionStatistic":{"@type":"InteractionCounter","userInteractionCount":278},"isPartOf":{"@id":"http://192.168.163.129/#/schema/WebPage/base"}}]}</script>
+	<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://192.168.163.129/#/schema/Organization/base","name":"Beneinst","url":"http://192.168.163.129/"},{"@type":"WebSite","@id":"http://192.168.163.129/#/schema/WebSite/base","url":"http://192.168.163.129/","name":"Beneinst","publisher":{"@id":"http://192.168.163.129/#/schema/Organization/base"}},{"@type":"WebPage","@id":"http://192.168.163.129/#/schema/WebPage/base","url":"http://192.168.163.129/voltaire.html","name":"Voltaire","description":"Esplora diari, memorie e storie umane su un sito pubblico. Condividi le tue pagine di diari e connettiti con altri.","isPartOf":{"@id":"http://192.168.163.129/#/schema/WebSite/base"},"about":{"@id":"http://192.168.163.129/#/schema/Organization/base"},"inLanguage":"it-IT"},{"@type":"Article","@id":"http://192.168.163.129/#/schema/com_content/article/121","name":"Voltaire","headline":"Voltaire","inLanguage":"it-IT","dateCreated":"2023-10-03T06:47:07+00:00","interactionStatistic":{"@type":"InteractionCounter","userInteractionCount":279},"isPartOf":{"@id":"http://192.168.163.129/#/schema/WebPage/base"}}]}</script>
 	<script><script>
 const ipfsClient = require('ipfs-http-client');
 const ipfs = ipfsClient('localhost', '5001');
@@ -214,7 +214,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "enableFadp": true,
         "enableLgpd": true,
         "fadpApplies": true,
-        "floatingPreferencesButtonDisplay": "anchored-center-right",
+        "floatingPreferencesButtonDisplay": "anchored-bottom-left",
         "perPurposeConsent": true,
         "preferenceCookie": { "expireAfter": 180 }, // Scadenza dopo 180 giorni
         "siteId": 3512692,  // Assicurati che sia corretto
@@ -261,11 +261,16 @@ document.addEventListener("DOMContentLoaded", function() {
     };
 </script>
 
+
+
 <!-- Script per il blocco automatico dei cookie -->
 <script type="text/javascript" src="autoblocking/3512692.js"></script>
 
 <!-- Script principale di Iubenda -->
 <script type="text/javascript" src="cs/iubenda_cs.js" charset="UTF-8" async=""></script>
+
+
+
 
 
 
@@ -319,7 +324,7 @@ sppb-panel-title,
 div,
 p {
   font-family: 'TitilliumWeb-Regular', sans-serif;
-  font-size: 20px;
+  font-size: 22px;
   line-height: 1.92;
   overflow-wrap: break-word; /* Assicura che le parole lunghe vadano a capo */
   word-break: break-word;   /* Forza la divisione delle parole se necessario */
@@ -355,7 +360,7 @@ p {
   .sppb-addon-content,
   div,
   p {
-    font-size: 18.5px; /* Imposta una dimensione del testo fissa per dispositivi Android con pixel ratio superiore a 1.5 */
+    font-size: 19px; /* Imposta una dimensione del testo fissa per dispositivi Android con pixel ratio superiore a 1.5 */
     overflow-wrap: anywhere;
     word-break: break-word;
     -webkit-hyphens: auto !important;
@@ -894,8 +899,8 @@ function googleTranslateElementInit() {
 			
 		
 					<span class="hits">
-	<meta itemprop="interactionCount" content="UserPageVisits:278">
-	Visite: 278</span>
+	<meta itemprop="interactionCount" content="UserPageVisits:279">
+	Visite: 279</span>
 				
 			</div>
 		
@@ -1325,26 +1330,25 @@ function googleTranslateElementInit() {
 </table></div>
 </div></div></div></div><div id="sp-footer2" class="col-lg-8 "><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
 <div id="mod-custom319" class="mod-custom custom">
-    <p>
-    <img class="responsive-img" src="images/Componenti/33a.png" width="89" height="89" loading="lazy" data-path="local-images:/Componenti/ic_ico2.png">
-</p>
+    <p> 
+    <img class="responsive-img" src="images/Componenti/33a.png" width="89" height="89" loading="lazy" data-path="local-images:/Componenti/ic_ico2.png"> 
+</p> 
 
-<style>
-    .responsive-img {
-        display: block;
-        margin-left: auto;
-        margin-right: 0;
-    }
+<style> 
+    .responsive-img { 
+        display: block; 
+        margin-left: auto; 
+        margin-right: 0; 
+    } 
 
-    @media (max-width: 768px) {
-        .responsive-img {
-            margin-left: 0;
-            margin-right: auto;
-            padding-top: 10px;
-        }
-    }
+    @media (max-width: 768px) { 
+        .responsive-img { 
+            margin-left: 0; 
+            margin-right: auto; 
+            padding-top: 10px; 
+        } 
+    } 
 </style>
-
 </div>
 </div></div></div></div></div>
 							</div>
