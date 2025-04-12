@@ -1886,10 +1886,6 @@ Uri: http://192.168.163.129/images/2025/02/28/thq1.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\28\thq1.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/2025/03/08/buobeneinstnw.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\03\08\buobeneinstnw.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/2025/04/07/1as.png
 File Name: D:\Siti GitHub\192.168.163.129\images\2025\04\07\1as.png
 Content Type: image/png
@@ -1922,8 +1918,12 @@ Uri: http://192.168.163.129/images/2025/04/07/8a.png
 File Name: D:\Siti GitHub\192.168.163.129\images\2025\04\07\8a.png
 Content Type: image/png
 
-Uri: http://192.168.163.129/images/7okdd1.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\7okdd1.jpg
+Uri: http://192.168.163.129/images/2025/04/12/sfo1ok.jpg
+File Name: D:\Siti GitHub\192.168.163.129\images\2025\04\12\sfo1ok.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.163.129/images/7ok_edited_edited.jpg
+File Name: D:\Siti GitHub\192.168.163.129\images\7ok_edited_edited.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/Beneinst-OndeLetterarie.mp4
@@ -2068,10 +2068,6 @@ Content Type: image/png
 
 Uri: http://192.168.163.129/images/Componenti/QR-CodeDiari/qr4-code.png
 File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\QR-CodeDiari\qr4-code.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/Componenti/qwe1b.png
-File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\qwe1b.png
 Content Type: image/png
 
 Uri: http://192.168.163.129/images/Componenti/rounded-in-photoretrica-27.png
@@ -3826,7 +3822,7 @@ Uri: http://192.168.163.129/luigi-pirandello.html
 File Name: D:\Siti GitHub\192.168.163.129\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.163.129/media/com_wrapper/js/iframe-height.min.js?271cdf
+Uri: http://192.168.163.129/media/com_wrapper/js/iframe-height.min.js?50d5fb
 File Name: D:\Siti GitHub\192.168.163.129\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
