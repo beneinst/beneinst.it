@@ -1934,8 +1934,8 @@ Uri: http://192.168.163.129/images/Componenti/1ff.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\1ff.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/Componenti/32a.png
-File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\32a.png
+Uri: http://192.168.163.129/images/Componenti/33a.png
+File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\33a.png
 Content Type: image/png
 
 Uri: http://192.168.163.129/images/Componenti/ccty.png
@@ -1962,10 +1962,6 @@ Uri: http://192.168.163.129/images/Componenti/Fonts/AnnieUseYourTelescope-Regula
 File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\Fonts\AnnieUseYourTelescope-Regular.ttf
 Content Type: font/ttf
 
-Uri: http://192.168.163.129/images/Componenti/Fonts/Asap-Regular.ttf
-File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\Fonts\Asap-Regular.ttf
-Content Type: font/ttf
-
 Uri: http://192.168.163.129/images/Componenti/Fonts/AveriaLibre-Regular.ttf
 File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\Fonts\AveriaLibre-Regular.ttf
 Content Type: font/ttf
@@ -1988,6 +1984,10 @@ Content Type: font/ttf
 
 Uri: http://192.168.163.129/images/Componenti/Fonts/Mynerve-Regular.ttf
 File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\Fonts\Mynerve-Regular.ttf
+Content Type: font/ttf
+
+Uri: http://192.168.163.129/images/Componenti/Fonts/TitilliumWeb-Regular.ttf
+File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\Fonts\TitilliumWeb-Regular.ttf
 Content Type: font/ttf
 
 Uri: http://192.168.163.129/images/Componenti/Icone_Social/f21.png
@@ -3826,7 +3826,7 @@ Uri: http://192.168.163.129/luigi-pirandello.html
 File Name: D:\Siti GitHub\192.168.163.129\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.163.129/media/com_wrapper/js/iframe-height.min.js?463ec3
+Uri: http://192.168.163.129/media/com_wrapper/js/iframe-height.min.js?271cdf
 File Name: D:\Siti GitHub\192.168.163.129\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -4098,10 +4098,6 @@ Uri: http://fonts.googleapis.com/css?family=Chelsea Market:100,100i,200,200i,300
 File Name: D:\Siti GitHub\192.168.163.129\css-1
 Content Type: text/css
 
-Uri: http://fonts.googleapis.com/css?family=Hind:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=devanagari&display=swap
-File Name: D:\Siti GitHub\192.168.163.129\css-4
-Content Type: text/css
-
 Uri: http://fonts.googleapis.com/css?family=Homenaje:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=latin&display=swap
 File Name: D:\Siti GitHub\192.168.163.129\css-2
 Content Type: text/css
@@ -4144,26 +4140,6 @@ Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/chelseamarket/v13/BCawqZsHqfr89WNP_IApC8tzKChiJgo.ttf
 File Name: D:\Siti GitHub\192.168.163.129\s\chelseamarket\v13\BCawqZsHqfr89WNP_IApC8tzKChiJgo.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/hind/v17/5aU19_a8oxmIfJpbER2SiA.ttf
-File Name: D:\Siti GitHub\192.168.163.129\s\hind\v17\5aU19_a8oxmIfJpbER2SiA.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/hind/v17/5aU19_a8oxmIfLZcER2SiA.ttf
-File Name: D:\Siti GitHub\192.168.163.129\s\hind\v17\5aU19_a8oxmIfLZcER2SiA.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/hind/v17/5aU19_a8oxmIfMJaER2SiA.ttf
-File Name: D:\Siti GitHub\192.168.163.129\s\hind\v17\5aU19_a8oxmIfMJaER2SiA.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/hind/v17/5aU19_a8oxmIfNJdER2SiA.ttf
-File Name: D:\Siti GitHub\192.168.163.129\s\hind\v17\5aU19_a8oxmIfNJdER2SiA.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/hind/v17/5aU69_a8oxmIdGh4AQ.ttf
-File Name: D:\Siti GitHub\192.168.163.129\s\hind\v17\5aU69_a8oxmIdGh4AQ.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/homenaje/v16/FwZY7-Q-xVAi_l-6Le6H6Mw.ttf
@@ -4323,11 +4299,11 @@ File Name: D:\Siti GitHub\192.168.163.129\css
 Content Type: text/css
 
 Uri: https://fonts.googleapis.com/css?family=Averia Libre:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
-File Name: D:\Siti GitHub\192.168.163.129\css-5
+File Name: D:\Siti GitHub\192.168.163.129\css-4
 Content Type: text/css
 
 Uri: https://fonts.googleapis.com/css?family=Biryani:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
-File Name: D:\Siti GitHub\192.168.163.129\css-6
+File Name: D:\Siti GitHub\192.168.163.129\css-5
 Content Type: text/css
 
 Uri: https://fonts.gstatic.com/s/alegreya/v36/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNG9hU4-6qm.ttf
