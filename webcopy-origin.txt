@@ -1878,10 +1878,6 @@ Uri: http://192.168.163.129/images/2025/02/28/3eb.png
 File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\28\3eb.png
 Content Type: image/png
 
-Uri: http://192.168.163.129/images/2025/02/28/rrewq.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\28\rrewq.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/2025/02/28/thq1.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\28\thq1.jpg
 Content Type: image/jpeg
