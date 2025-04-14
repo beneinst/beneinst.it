@@ -105,7 +105,7 @@ a:hover {
 </style>
 	<style>.menu.nav-pills > li > a, .menu.nav-pills > li > span, .menu.nav-pills .sp-dropdown li.sp-menu-item > a{font-family: 'Georgia', sans-serif;font-size: 16px;font-weight: 500;text-decoration: none;}
 </style>
-	<style>.logo-image {height:57px;}.logo-image-phone {height:57px;}</style>
+	<style>.logo-image {height:58px;}.logo-image-phone {height:58px;}</style>
 	<style>@media(max-width: 992px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}</style>
 	<style>@media(max-width: 576px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}</style>
 	<style>#sp-section-1{ background-color:#FFF5EE;padding:8px 0px 0px 0px;margin:0px 0px 0px 0px; }</style>
@@ -113,7 +113,7 @@ a:hover {
 	<style>#sp-footer{ background-image:url("images/7ok_edited_edited.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:50% 50%; }</style>
 <script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?504da4"></script>
-	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.163.129/","base":"","baseFull":"http://192.168.163.129/"},"csrf.token":"6a19ef26e08c970c8d0c67dd059aca4a"}</script>
+	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http://192.168.163.129/","base":"","baseFull":"http://192.168.163.129/"},"csrf.token":"4857c7e6482296ca23f61f602bf94568"}</script>
 	<script src="media/system/js/core.min.js?2cb912"></script>
 	<script src="media/vendor/bootstrap/js/alert.min.js?5.3.3" type="module"></script>
 	<script src="media/vendor/bootstrap/js/button.min.js?5.3.3" type="module"></script>
@@ -129,7 +129,7 @@ a:hover {
 	<script src="media/system/js/showon.min.js?e51227" type="module"></script>
 	<script src="media/system/js/messages.min.js?9a4811" type="module"></script>
 	<script src="cache/com_templates/templates/shaper_helixultimate/a389b878476f072b6c51a2d1962afb96.js"></script>
-	<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://192.168.163.129/#/schema/Organization/base","name":"Beneinst","url":"http://192.168.163.129/"},{"@type":"WebSite","@id":"http://192.168.163.129/#/schema/WebSite/base","url":"http://192.168.163.129/","name":"Beneinst","publisher":{"@id":"http://192.168.163.129/#/schema/Organization/base"}},{"@type":"WebPage","@id":"http://192.168.163.129/#/schema/WebPage/base","url":"http://192.168.163.129/william-shakespeare.html","name":"William Shakespeare","description":"Esplora diari, memorie e storie umane su un sito pubblico. Condividi le tue pagine di diari e connettiti con altri.","isPartOf":{"@id":"http://192.168.163.129/#/schema/WebSite/base"},"about":{"@id":"http://192.168.163.129/#/schema/Organization/base"},"inLanguage":"it-IT"},{"@type":"Article","@id":"http://192.168.163.129/#/schema/com_content/article/124","name":"William Shakespeare","headline":"William Shakespeare","inLanguage":"it-IT","dateCreated":"2023-10-03T06:51:04+00:00","interactionStatistic":{"@type":"InteractionCounter","userInteractionCount":272},"isPartOf":{"@id":"http://192.168.163.129/#/schema/WebPage/base"}}]}</script>
+	<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://192.168.163.129/#/schema/Organization/base","name":"Beneinst","url":"http://192.168.163.129/"},{"@type":"WebSite","@id":"http://192.168.163.129/#/schema/WebSite/base","url":"http://192.168.163.129/","name":"Beneinst","publisher":{"@id":"http://192.168.163.129/#/schema/Organization/base"}},{"@type":"WebPage","@id":"http://192.168.163.129/#/schema/WebPage/base","url":"http://192.168.163.129/william-shakespeare.html","name":"William Shakespeare","description":"Esplora diari, memorie e storie umane su un sito pubblico. Condividi le tue pagine di diari e connettiti con altri.","isPartOf":{"@id":"http://192.168.163.129/#/schema/WebSite/base"},"about":{"@id":"http://192.168.163.129/#/schema/Organization/base"},"inLanguage":"it-IT"},{"@type":"Article","@id":"http://192.168.163.129/#/schema/com_content/article/124","name":"William Shakespeare","headline":"William Shakespeare","inLanguage":"it-IT","dateCreated":"2023-10-03T06:51:04+00:00","interactionStatistic":{"@type":"InteractionCounter","userInteractionCount":274},"isPartOf":{"@id":"http://192.168.163.129/#/schema/WebPage/base"}}]}</script>
 	<script><script>
 const ipfsClient = require('ipfs-http-client');
 const ipfs = ipfsClient('localhost', '5001');
@@ -555,6 +555,14 @@ header#sp-header {
     background-color: rgba(246, 243, 238, 0.91)
  !important; /* Colore #faf0e6 con trasparenza */
 }
+
+/* Stili specifici per schermi con larghezza inferiore a 480px (smartphone) */
+@media (max-width: 479px) {
+  header#sp-header {
+    height: 55px !important; /* Altezza personalizzata per smartphone */
+  }
+
+
     
  background-size: auto cover;
     background-repeat: no-repeat;
@@ -808,7 +816,7 @@ function googleTranslateElementInit() {
 				<div id="sp-logo" class="col-auto">
 					<div class="sp-column">
 						<a id="offcanvas-toggler" aria-label="Menu" class="offcanvas-toggler-left d-flex align-items-center" href="#" aria-hidden="true" title="Menu"><div class="burger-icon"><span></span><span></span><span></span></div></a><div class="logo"><a href="index.htm">
-				<img class='logo-image ' srcset='images/logos1caeu.png 1x' src='images/logos1caeu.png' height='57px' alt='Beneinst'>
+				<img class='logo-image ' srcset='images/logos1caeu.png 1x' src='images/logos1caeu.png' height='58px' alt='Beneinst'>
 				</a></div>						
 					</div>
 				</div>
@@ -899,8 +907,8 @@ function googleTranslateElementInit() {
 			
 		
 					<span class="hits">
-	<meta itemprop="interactionCount" content="UserPageVisits:272">
-	Visite: 272</span>
+	<meta itemprop="interactionCount" content="UserPageVisits:274">
+	Visite: 274</span>
 				
 			</div>
 		
@@ -1265,7 +1273,7 @@ function googleTranslateElementInit() {
 					<div class="offcanvas-menu border-menu">
 	<div class="d-flex align-items-center p-3 pt-4">
 		<div class="logo"><a href="index.htm">
-				<img class='logo-image ' srcset='images/logos1caeu.png 1x' src='images/logos1caeu.png' height='57px' alt='Beneinst'>
+				<img class='logo-image ' srcset='images/logos1caeu.png 1x' src='images/logos1caeu.png' height='58px' alt='Beneinst'>
 				</a></div>		<a href="#" class="close-offcanvas" aria-label="Close Off-canvas">
 			<div class="burger-icon">
 				<span></span>
