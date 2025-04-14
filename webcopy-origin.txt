@@ -1930,8 +1930,8 @@ Uri: http://192.168.163.129/images/Componenti/1ff.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\1ff.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/Componenti/beneinst32.png
-File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\beneinst32.png
+Uri: http://192.168.163.129/images/Componenti/beneinst35.png
+File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\beneinst35.png
 Content Type: image/png
 
 Uri: http://192.168.163.129/images/Componenti/ccty.png
@@ -3818,7 +3818,7 @@ Uri: http://192.168.163.129/luigi-pirandello.html
 File Name: D:\Siti GitHub\192.168.163.129\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.163.129/media/com_wrapper/js/iframe-height.min.js?a288fb
+Uri: http://192.168.163.129/media/com_wrapper/js/iframe-height.min.js?d7eb18
 File Name: D:\Siti GitHub\192.168.163.129\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
