@@ -1918,10 +1918,6 @@ Uri: http://192.168.163.129/images/2025/04/12/sfo1ok.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\2025\04\12\sfo1ok.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/2025/04/13/lettereinfondo4.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\04\13\lettereinfondo4.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/7ok_edited_edited.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\7ok_edited_edited.jpg
 Content Type: image/jpeg
