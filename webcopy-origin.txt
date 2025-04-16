@@ -762,314 +762,6 @@ Uri: http://192.168.163.129/il-bene-e-il-male-memorie.html
 File Name: D:\Siti GitHub\192.168.163.129\il-bene-e-il-male-memorie.html
 Content Type: text/html
 
-Uri: http://192.168.163.129/images/2023/10/03/-sant-agostino-.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\-sant-agostino-.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/405px-Francesco_Petrarca.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\405px-Francesco_Petrarca.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/alessandro-manzoni-orig.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\alessandro-manzoni-orig.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/arthur-schopenhauer-pensiero-vita.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\arthur-schopenhauer-pensiero-vita.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2023/10/03/balzac.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\balzac.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/campanellac.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\campanellac.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Carlo_Collodi.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Carlo_Collodi.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Carlo_Goldoni1.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Carlo_Goldoni1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/cb1a.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\cb1a.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2023/10/03/CyranoDeBergerac.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\CyranoDeBergerac.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Euripides_Pio-Clementino.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Euripides_Pio-Clementino.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Giordano-Bruno.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Giordano-Bruno.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/goethe_le__elettive.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\goethe_le__elettive.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Gramsci.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Gramsci.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/guicciardini_ritratto.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\guicciardini_ritratto.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Iliade_(Monti)_-_Omero.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Iliade_(Monti)_-_Omero.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine10d.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine10d.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine11b.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine11b.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine11d.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine11d.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine12b.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine12b.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine12d.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine12d.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine13b.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine13b.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine14b.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine14b.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine15.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine15.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine17a.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine17a.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine1b.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine1b.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine1c.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine1c.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine1w.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine1w.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine2b.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine2b.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine2c.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine2c.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine2w.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine2w.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine31b1.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine31b1.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine3b.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine3b.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine3c.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine3c.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine3w1.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine3w1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine41b-(1).jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine41b-(1).jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine4a.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine4a.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine4b.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine4b.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine4c.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine4c.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine51b.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine51b.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine5a.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine5a.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine5b.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine5b.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine5cv.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine5cv.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine61b.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine61b.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine6a.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine6a.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine6b.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine6b.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine6c.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine6c.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine71b.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine71b.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine7A.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine7A.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine7b.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine7b.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine7sd.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine7sd.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine81b.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine81b.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine8b.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine8b.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2023/10/03/Immagine91b.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Immagine91b.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Italo_Svevo2.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Italo_Svevo2.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/lev_tolstoj.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\lev_tolstoj.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2023/10/03/Man-Ray-B98_0133.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Man-Ray-B98_0133.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Nietzsche-a.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Nietzsche-a.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Oscar-Wilde---a.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Oscar-Wilde---a.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Plutarch.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Plutarch.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/rene1.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\rene1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Seneca.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Seneca.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Shakespeare_Droeshout_1623.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Shakespeare_Droeshout_1623.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/silvia.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\silvia.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/03/Villon_Francois_2.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\Villon_Francois_2.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2023/10/04/audiob1.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\04\audiob1.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2024/01/28/1-11-newrfgr.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2024\01\28\1-11-newrfgr.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2024/01/28/1_rac4.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2024\01\28\1_rac4.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2024/01/28/2g_ult.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2024\01\28\2g_ult.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2024/01/28/3.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2024\01\28\3.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2024/01/28/5a_mini.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2024\01\28\5a_mini.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2024/01/28/5b-newll.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2024\01\28\5b-newll.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2024/01/28/6a_mini2.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2024\01\28\6a_mini2.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2024/01/28/7ak.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2024\01\28\7ak.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2024/01/28/7bf.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2024\01\28\7bf.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2024/02/13/OIG1-(1)f.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2024\02\13\OIG1-(1)f.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2024/02/13/Paul_Verlaine.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2024\02\13\Paul_Verlaine.png
-Content Type: image/png
-
 Uri: http://192.168.163.129/images/2024/02/27/planimetrie-ed-edificio.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\2024\02\27\planimetrie-ed-edificio.jpg
 Content Type: image/jpeg
@@ -1078,877 +770,25 @@ Uri: http://192.168.163.129/images/2024/09/23/ddtyrtre3.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\2024\09\23\ddtyrtre3.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/2024/12/09/1en6.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2024\12\09\1en6.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2024/12/09/1es6.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2024\12\09\1es6.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2024/12/09/1w6.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2024\12\09\1w6.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2024/12/09/2es.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2024\12\09\2es.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2024/12/09/2w6.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2024\12\09\2w6.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2024/12/09/3en6.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2024\12\09\3en6.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2024/12/09/3w6.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2024\12\09\3w6.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2024/12/09/4fr6.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2024\12\09\4fr6.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2024/12/09/4w.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2024\12\09\4w.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2024/12/09/5w6.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2024\12\09\5w6.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2024/12/09/6w6.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2024\12\09\6w6.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2024/12/09/7w6.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2024\12\09\7w6.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2024/12/09/8w6.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2024\12\09\8w6.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/2024/12/10/dvdvdv6.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\2024\12\10\dvdvdv6.jpg
 Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2025/02/20/a2.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\a2.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/a21.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\a21.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/a22.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\a22.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/a4.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\a4.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/a41.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\a41.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/a410.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\a410.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/a411.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\a411.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/a412.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\a412.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/a42.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\a42.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/a43.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\a43.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/a44.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\a44.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/a45.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\a45.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/a46.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\a46.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/a47.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\a47.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/a48.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\a48.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/a49.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\a49.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/Arturo-3.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\Arturo-3.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/Arturo-31.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\Arturo-31.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/Arturo-32.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\Arturo-32.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/Arturo-33.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\Arturo-33.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/Arturo-34.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\Arturo-34.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/Arturo-35.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\Arturo-35.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/Arturo-36.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\Arturo-36.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/cd21_edited7.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\cd21_edited7.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/Lettere-DE.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\Lettere-DE.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/Lettere-DE1.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\Lettere-DE1.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/Lettere-DE2.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\Lettere-DE2.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/Lettere-DE3.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\Lettere-DE3.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/Lettere-DE4.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\Lettere-DE4.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/Lettere-DE5.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\Lettere-DE5.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/Lettere-DE6.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\Lettere-DE6.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/Lettere-DE7.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\Lettere-DE7.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/Lettere-EN.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\Lettere-EN.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/Lettere-EN1.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\Lettere-EN1.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/Lettere-EN2.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\Lettere-EN2.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/Lettere-EN3.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\Lettere-EN3.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/Lettere-EN4.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\Lettere-EN4.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/Lettere-EN5.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\Lettere-EN5.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/Lettere-EN6.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\Lettere-EN6.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/Lettere-EN7.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\Lettere-EN7.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/Lettere-FR2.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\Lettere-FR2.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/Lettere-FR21.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\Lettere-FR21.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/Lettere-FR22.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\Lettere-FR22.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/Lettere-FR23.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\Lettere-FR23.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/Lettere-FR24.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\Lettere-FR24.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/Lettere-FR25.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\Lettere-FR25.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/Lettere-FR26.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\Lettere-FR26.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/Lettere-FR27.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\Lettere-FR27.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG1k77.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG1k77.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(5)14_edited7.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(5)14_edited7.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(5)14_edited71.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(5)14_edited71.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(5)14_edited710.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(5)14_edited710.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(5)14_edited711.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(5)14_edited711.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(5)14_edited712.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(5)14_edited712.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(5)14_edited713.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(5)14_edited713.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(5)14_edited714.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(5)14_edited714.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(5)14_edited715.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(5)14_edited715.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(5)14_edited716.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(5)14_edited716.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(5)14_edited717.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(5)14_edited717.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(5)14_edited718.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(5)14_edited718.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(5)14_edited72.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(5)14_edited72.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(5)14_edited73.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(5)14_edited73.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(5)14_edited74.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(5)14_edited74.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(5)14_edited75.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(5)14_edited75.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(5)14_edited76.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(5)14_edited76.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(5)14_edited77.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(5)14_edited77.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(5)14_edited78.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(5)14_edited78.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(5)14_edited79.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(5)14_edited79.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(7)ambro5_edited82.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(7)ambro5_edited82.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(7)ambro5_edited821.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(7)ambro5_edited821.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(7)ambro5_edited8210.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(7)ambro5_edited8210.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(7)ambro5_edited8211.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(7)ambro5_edited8211.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(7)ambro5_edited8212.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(7)ambro5_edited8212.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(7)ambro5_edited8213.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(7)ambro5_edited8213.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(7)ambro5_edited8214.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(7)ambro5_edited8214.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(7)ambro5_edited8215.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(7)ambro5_edited8215.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(7)ambro5_edited8216.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(7)ambro5_edited8216.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(7)ambro5_edited8217.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(7)ambro5_edited8217.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(7)ambro5_edited8218.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(7)ambro5_edited8218.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(7)ambro5_edited822.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(7)ambro5_edited822.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(7)ambro5_edited824.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(7)ambro5_edited824.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(7)ambro5_edited825.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(7)ambro5_edited825.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(7)ambro5_edited826.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(7)ambro5_edited826.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(7)ambro5_edited827.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(7)ambro5_edited827.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(7)ambro5_edited828.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(7)ambro5_edited828.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-(7)ambro5_edited829.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-(7)ambro5_edited829.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-salvatore78.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-salvatore78.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-salvatore781.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-salvatore781.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-salvatore782.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-salvatore782.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-salvatore783.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-salvatore783.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-salvatore784.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-salvatore784.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-salvatore785.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-salvatore785.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-salvatore786.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-salvatore786.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-salvatore787.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-salvatore787.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-salvatore788.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-salvatore788.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2-salvatore789.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2-salvatore789.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG2k_edited.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG2k_edited.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG3-(1)_edited67.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG3-(1)_edited67.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG3-(3)_edited777.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG3-(3)_edited777.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG36_edited77.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG36_edited77.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG3_edited7.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG3_edited7.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG3_edited71.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG3_edited71.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG3_edited72.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG3_edited72.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG3_edited73.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG3_edited73.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG3_edited74.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG3_edited74.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG3_edited75.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG3_edited75.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG3_edited76.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG3_edited76.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG3_edited77.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG3_edited77.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG4-_1__edited-removebg-preview.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG4-_1__edited-removebg-preview.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG4-_1__edited-removebg-preview1.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG4-_1__edited-removebg-preview1.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG4-_1__edited-removebg-preview2.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG4-_1__edited-removebg-preview2.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG4-_1__edited-removebg-preview3.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG4-_1__edited-removebg-preview3.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG4-_1__edited-removebg-preview4.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG4-_1__edited-removebg-preview4.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/20/OIG4-_1__edited-removebg-preview5.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\20\OIG4-_1__edited-removebg-preview5.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1-11-newrfgr.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1-11-newrfgr.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2025/02/21/12q.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\12q.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/13q.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\13q.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/14q.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\14q.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1a3.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1a3.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1a4.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1a4.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1a5.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1a5.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1a6.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1a6.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1a7.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1a7.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1aa1.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1aa1.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1aa2.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1aa2.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1aa3.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1aa3.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1aa4.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1aa4.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1aaa10.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1aaa10.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1aaa11.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1aaa11.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1aaa12.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1aaa12.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1aaa13.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1aaa13.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1aaa14.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1aaa14.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1aaa15.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1aaa15.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1aaa16.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1aaa16.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1aaa17.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1aaa17.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1aaa18.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1aaa18.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1aaa19.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1aaa19.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1aaa20.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1aaa20.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1aaa21.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1aaa21.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1aaa5.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1aaa5.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1aaa51.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1aaa51.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1aaa6.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1aaa6.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1aaa7.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1aaa7.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1aaa8.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1aaa8.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1aaa9.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1aaa9.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1b.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1b.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1b1.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1b1.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1b2.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1b2.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1c1.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1c1.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1c2.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1c2.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1c3.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1c3.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/1_rac4.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\1_rac4.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2025/02/21/2g_ult.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\2g_ult.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2025/02/21/3.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\3.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2025/02/21/5a_mini.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\5a_mini.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2025/02/21/5b-newll1.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\5b-newll1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2025/02/21/6a_mini2.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\6a_mini2.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2025/02/21/7ak_edited.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\7ak_edited.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2025/02/21/7bf.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\7bf.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2025/02/21/a2.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\a2.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/a21.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\a21.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/cd4.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\cd4.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/diarihp.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\diarihp.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/ebook-tit.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\ebook-tit.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/gerardo_dorrico_2018-111.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\gerardo_dorrico_2018-111.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/image03.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\image03.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/image031.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\image031.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/image032.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\image032.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/image033.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\image033.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/inviaased.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\inviaased.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/ipfsl.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\ipfsl.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/letterep.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\letterep.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/OIG1-(8)g_edited.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\OIG1-(8)g_edited.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/OIG3-(4)u.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\OIG3-(4)u.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/OIG4-_1__edited-removebg-preview.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\OIG4-_1__edited-removebg-preview.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/OIG4-_1__edited-removebg-preview1.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\OIG4-_1__edited-removebg-preview1.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/rounded-in-photoretrica-85.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\rounded-in-photoretrica-85.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/sedp2.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\sedp2.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/21/th-3.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\th-3.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2025/02/28/111q1.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\28\111q1.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/28/1a1.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\28\1a1.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/28/1as.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\28\1as.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/28/1eb.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\28\1eb.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/28/1qwe.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\28\1qwe.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/28/2eb.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\28\2eb.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/28/3eb.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\28\3eb.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/02/28/thq1.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\28\thq1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2025/04/07/1as.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\04\07\1as.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/04/07/2a.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\04\07\2a.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/04/07/3a.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\04\07\3a.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/04/07/4a.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\04\07\4a.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/04/07/5a.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\04\07\5a.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/04/07/6a.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\04\07\6a.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/04/07/7a.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\04\07\7a.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/2025/04/07/8a.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\04\07\8a.png
-Content Type: image/png
 
 Uri: http://192.168.163.129/images/2025/04/12/sfo1ok.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\2025\04\12\sfo1ok.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/7ok_edited_edited.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\7ok_edited_edited.jpg
+Uri: http://192.168.163.129/images/7ok_edited.jpg
+File Name: D:\Siti GitHub\192.168.163.129\images\7ok_edited.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/Beneinst-OndeLetterarie.mp4
 File Name: D:\Siti GitHub\192.168.163.129\images\Beneinst-OndeLetterarie.mp4
 Content Type: video/mp4
 
-Uri: http://192.168.163.129/images/Componenti/1ff.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\1ff.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/Componenti/beneinst36.png
-File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\beneinst36.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/Componenti/ccty.png
-File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\ccty.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/Componenti/Contwe.png
-File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\Contwe.png
-Content Type: image/png
-
 Uri: http://192.168.163.129/images/Componenti/En la corte del ahorcado.pdf
 File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\En la corte del ahorcado.pdf
 Content Type: application/pdf
-
-Uri: http://192.168.163.129/images/Componenti/epub.png
-File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\epub.png
-Content Type: image/png
 
 Uri: http://192.168.163.129/images/Componenti/Fonts/Alegreya-Regular.ttf
 File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\Fonts\Alegreya-Regular.ttf
@@ -1985,130 +825,6 @@ Content Type: font/ttf
 Uri: http://192.168.163.129/images/Componenti/Fonts/TitilliumWeb-Regular.ttf
 File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\Fonts\TitilliumWeb-Regular.ttf
 Content Type: font/ttf
-
-Uri: http://192.168.163.129/images/Componenti/Icone_Social/f21.png
-File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\Icone_Social\f21.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/Componenti/Icone_Social/m12.png
-File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\Icone_Social\m12.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/Componenti/Icone_Social/OIG.85G.jpeg
-File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\Icone_Social\OIG.85G.jpeg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/Componenti/Icone_Social/p211.png
-File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\Icone_Social\p211.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/Componenti/Icone_Social/w1.png
-File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\Icone_Social\w1.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/Componenti/Icone_Social/y12.png
-File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\Icone_Social\y12.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/Componenti/Ipfs/3.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\Ipfs\3.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/Componenti/Ipfs/5.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\Ipfs\5.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/Componenti/Ipfs/7.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\Ipfs\7.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/Componenti/Ipfs/8.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\Ipfs\8.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/Componenti/mobi-4.png
-File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\mobi-4.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/Componenti/pdfeN.png
-File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\pdfeN.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/Componenti/QR-CodeDiari/7. qr-code.png
-File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\QR-CodeDiari\7. qr-code.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/Componenti/QR-CodeDiari/7qr-code.png
-File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\QR-CodeDiari\7qr-code.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/Componenti/QR-CodeDiari/8. qr-code.png
-File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\QR-CodeDiari\8. qr-code.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/Componenti/QR-CodeDiari/q5r-code.png
-File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\QR-CodeDiari\q5r-code.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/Componenti/QR-CodeDiari/qr-c2ode.png
-File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\QR-CodeDiari\qr-c2ode.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/Componenti/QR-CodeDiari/qr-co3de.png
-File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\QR-CodeDiari\qr-co3de.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/Componenti/QR-CodeDiari/qr-code.png
-File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\QR-CodeDiari\qr-code.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/Componenti/QR-CodeDiari/qr4-code.png
-File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\QR-CodeDiari\qr4-code.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/Componenti/rounded-in-photoretrica-27.png
-File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\rounded-in-photoretrica-27.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/Copertine/103.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\Copertine\103.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/Copertine/173.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\Copertine\173.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/Copertine/213.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\Copertine\213.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/Copertine/23.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\Copertine\23.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/Copertine/243.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\Copertine\243.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/Copertine/43.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\Copertine\43.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/Copertine/63.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\Copertine\63.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/Copertine/93.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\Copertine\93.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/Copertine/AudioCop/4.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\Copertine\AudioCop\4.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/Copertine/AudioCop/9.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\Copertine\AudioCop\9.jpg
-Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/favicon.png
 File Name: D:\Siti GitHub\192.168.163.129\images\favicon.png
@@ -2157,10 +873,6 @@ Content Type: audio/mpeg
 Uri: http://192.168.163.129/images/Files/AnteprimeAudio/4-9.mp3
 File Name: D:\Siti GitHub\192.168.163.129\images\Files\AnteprimeAudio\4-9.mp3
 Content Type: audio/mpeg
-
-Uri: http://192.168.163.129/images/Files/AnteprimeAudio/4.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\Files\AnteprimeAudio\4.jpg
-Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/Files/AnteprimeAudio/4en-13.mp3
 File Name: D:\Siti GitHub\192.168.163.129\images\Files\AnteprimeAudio\4en-13.mp3
@@ -2225,10 +937,6 @@ Content Type: audio/mpeg
 Uri: http://192.168.163.129/images/Files/AnteprimeAudio/Its Already Us In Ten Minutes Diary - Mercury you and I.mp3
 File Name: D:\Siti GitHub\192.168.163.129\images\Files\AnteprimeAudio\Its Already Us In Ten Minutes Diary - Mercury you and I.mp3
 Content Type: audio/mpeg
-
-Uri: http://192.168.163.129/images/Files/AnteprimeAudio/qwe6.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\Files\AnteprimeAudio\qwe6.jpg
-Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/Files/AnteprimeAudio/Say It Yourself Diary - I would colour it for you.mp3
 File Name: D:\Siti GitHub\192.168.163.129\images\Files\AnteprimeAudio\Say It Yourself Diary - I would colour it for you.mp3
@@ -2970,552 +1678,276 @@ Uri: http://192.168.163.129/images/Files/SedE-Poesie/Di Salvatore Messina.pdf
 File Name: D:\Siti GitHub\192.168.163.129\images\Files\SedE-Poesie\Di Salvatore Messina.pdf
 Content Type: application/pdf
 
-Uri: http://192.168.163.129/images/logos1caeu.png
-File Name: D:\Siti GitHub\192.168.163.129\images\logos1caeu.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/rounded-in-photoretrica-32.png
-File Name: D:\Siti GitHub\192.168.163.129\images\rounded-in-photoretrica-32.png
-Content Type: image/png
+Uri: http://192.168.163.129/images/sottotitolobenen.jpg
+File Name: D:\Siti GitHub\192.168.163.129\images\sottotitolobenen.jpg
+Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/1/images/1.png
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\1\images\1.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/1/images/1_thumb.png
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\1\images\1_thumb.png
 Content Type: image/png
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/1/images/2.png
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\1\images\2.png
 Content Type: image/png
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/1/images/2_thumb.png
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\1\images\2_thumb.png
-Content Type: image/png
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/1/images/3.png
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\1\images\3.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/1/images/3_thumb.png
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\1\images\3_thumb.png
 Content Type: image/png
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/1/images/4.png
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\1\images\4.png
 Content Type: image/png
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/1/images/4_thumb.png
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\1\images\4_thumb.png
-Content Type: image/png
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/1/images/5.png
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\1\images\5.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/1/images/5_thumb.png
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\1\images\5_thumb.png
 Content Type: image/png
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/1/images/6.png
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\1\images\6.png
 Content Type: image/png
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/1/images/6_thumb.png
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\1\images\6_thumb.png
-Content Type: image/png
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/1/images/7.png
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\1\images\7.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/1/images/7_thumb.png
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\1\images\7_thumb.png
 Content Type: image/png
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/1/images/8.png
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\1\images\8.png
 Content Type: image/png
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/1/images/8_thumb.png
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\1\images\8_thumb.png
-Content Type: image/png
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/10/images/21a.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\10\images\21a.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/10/images/21a_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\10\images\21a_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/10/images/2g.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\10\images\2g.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/10/images/2g_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\10\images\2g_thumb.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/10/images/2q1.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\10\images\2q1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/10/images/2q1_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\10\images\2q1_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/10/images/5a1.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\10\images\5a1.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/10/images/5a1_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\10\images\5a1_thumb.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/10/images/6a.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\10\images\6a.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/10/images/6a_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\10\images\6a_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/10/images/7a.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\10\images\7a.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/10/images/7a_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\10\images\7a_thumb.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/10/images/7b.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\10\images\7b.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/10/images/7b_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\10\images\7b_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/10/images/9a.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\10\images\9a.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/10/images/9a_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\10\images\9a_thumb.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/2/images/25-berlin.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\2\images\25-berlin.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/2/images/25-berlin_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\2\images\25-berlin_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/2/images/26-bran-castelul-dracula.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\2\images\26-bran-castelul-dracula.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/2/images/26-bran-castelul-dracula_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\2\images\26-bran-castelul-dracula_thumb.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/2/images/27-mont-saint-michel.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\2\images\27-mont-saint-michel.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/2/images/27-mont-saint-michel_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\2\images\27-mont-saint-michel_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/2/images/28-buenos-aires.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\2\images\28-buenos-aires.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/2/images/28-buenos-aires_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\2\images\28-buenos-aires_thumb.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/2/images/29-colonia.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\2\images\29-colonia.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/2/images/29-colonia_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\2\images\29-colonia_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/2/images/30-ferghana.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\2\images\30-ferghana.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/2/images/30-ferghana_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\2\images\30-ferghana_thumb.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/2/images/31-ostrawa.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\2\images\31-ostrawa.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/2/images/31-ostrawa_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\2\images\31-ostrawa_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/2/images/32-tashkent.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\2\images\32-tashkent.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/2/images/32-tashkent_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\2\images\32-tashkent_thumb.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/3/images/02a2.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\3\images\02a2.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/3/images/02a2_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\3\images\02a2_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/3/images/2a-.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\3\images\2a-.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/3/images/2a-_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\3\images\2a-_thumb.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/3/images/2b-.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\3\images\2b-.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/3/images/2b-_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\3\images\2b-_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/3/images/4b-ult.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\3\images\4b-ult.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/3/images/4b-ult_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\3\images\4b-ult_thumb.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/3/images/5b-new1.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\3\images\5b-new1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/3/images/5b-new1_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\3\images\5b-new1_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/3/images/6b-new.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\3\images\6b-new.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/3/images/6b-new_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\3\images\6b-new_thumb.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/4/images/1a-.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\4\images\1a-.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/4/images/1a-_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\4\images\1a-_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/4/images/6a-.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\4\images\6a-.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/4/images/6a-_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\4\images\6a-_thumb.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/5/images/1g.png
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\5\images\1g.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/5/images/1g_thumb.png
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\5\images\1g_thumb.png
 Content Type: image/png
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/5/images/2g.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\5\images\2g.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/5/images/2g_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\5\images\2g_thumb.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/5/images/3g.png
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\5\images\3g.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/5/images/3g_thumb.png
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\5\images\3g_thumb.png
 Content Type: image/png
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/5/images/4g.png
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\5\images\4g.png
 Content Type: image/png
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/5/images/4g_thumb.png
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\5\images\4g_thumb.png
-Content Type: image/png
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/5/images/5g.png
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\5\images\5g.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/5/images/5g_thumb.png
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\5\images\5g_thumb.png
 Content Type: image/png
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/6/images/1-new.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\6\images\1-new.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/6/images/1-new_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\6\images\1-new_thumb.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/6/images/2-new.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\6\images\2-new.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/6/images/2-new_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\6\images\2-new_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/6/images/3-new.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\6\images\3-new.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/6/images/3-new_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\6\images\3-new_thumb.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/6/images/4-new.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\6\images\4-new.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/6/images/4-new_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\6\images\4-new_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/6/images/4c.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\6\images\4c.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/6/images/4c_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\6\images\4c_thumb.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/6/images/5-new.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\6\images\5-new.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/6/images/5-new_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\6\images\5-new_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/6/images/7a.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\6\images\7a.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/6/images/7a_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\6\images\7a_thumb.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/6/images/9a.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\6\images\9a.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/6/images/9a_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\6\images\9a_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/7/images/21a.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\7\images\21a.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/7/images/21a_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\7\images\21a_thumb.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/7/images/2a-new.png
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\7\images\2a-new.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/7/images/2a-new_thumb.png
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\7\images\2a-new_thumb.png
 Content Type: image/png
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/7/images/3a-new.png
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\7\images\3a-new.png
 Content Type: image/png
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/7/images/3a-new_thumb.png
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\7\images\3a-new_thumb.png
-Content Type: image/png
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/7/images/4-new.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\7\images\4-new.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/7/images/4-new_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\7\images\4-new_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/7/images/5-new.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\7\images\5-new.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/7/images/5-new_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\7\images\5-new_thumb.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/7/images/6-new.png
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\7\images\6-new.png
-Content Type: image/png
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/7/images/6-new_thumb.png
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\7\images\6-new_thumb.png
 Content Type: image/png
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/8/images/10b.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\8\images\10b.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/8/images/10b_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\8\images\10b_thumb.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/8/images/2-new.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\8\images\2-new.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/8/images/2-new_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\8\images\2-new_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/8/images/3-new.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\8\images\3-new.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/8/images/3-new_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\8\images\3-new_thumb.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/8/images/5-new.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\8\images\5-new.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/8/images/5-new_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\8\images\5-new_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/8/images/6-new.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\8\images\6-new.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/8/images/6-new_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\8\images\6-new_thumb.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/8/images/7b.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\8\images\7b.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/8/images/7b_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\8\images\7b_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/8/images/8b.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\8\images\8b.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/8/images/8b_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\8\images\8b_thumb.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/8/images/9b.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\8\images\9b.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/8/images/9b_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\8\images\9b_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/9/images/2-new.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\9\images\2-new.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/9/images/2-new_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\9\images\2-new_thumb.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/9/images/2q1.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\9\images\2q1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/9/images/2q1_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\9\images\2q1_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/9/images/3-new.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\9\images\3-new.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/9/images/3-new_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\9\images\3-new_thumb.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/9/images/4a-.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\9\images\4a-.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/9/images/4a-_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\9\images\4a-_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/9/images/5-new.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\9\images\5-new.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/9/images/5-new_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\9\images\5-new_thumb.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/9/images/5a.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\9\images\5a.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/9/images/5a_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\9\images\5a_thumb.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/9/images/6sdv.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\9\images\6sdv.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/9/images/6sdv_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\9\images\6sdv_thumb.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/9/images/9-new.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\9\images\9-new.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/speasyimagegallery/albums/9/images/9-new_thumb.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\9\images\9-new_thumb.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/th.jpeg
-File Name: D:\Siti GitHub\192.168.163.129\images\th.jpeg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.129/in-english/dreams-time.html
@@ -4065,6 +2497,10 @@ Content Type: text/html
 Uri: http://192.168.163.129/templates/shaper_helixultimate/images/menu-bg.jpg
 File Name: D:\Siti GitHub\192.168.163.129\templates\shaper_helixultimate\images\menu-bg.jpg
 Content Type: image/jpeg
+
+Uri: http://192.168.163.129/templates/shaper_helixultimate/js/lazysizes.min.js
+File Name: D:\Siti GitHub\192.168.163.129\templates\shaper_helixultimate\js\lazysizes.min.js
+Content Type: application/javascript
 
 Uri: http://192.168.163.129/tommaso-campanella.html
 File Name: D:\Siti GitHub\192.168.163.129\tommaso-campanella.html
