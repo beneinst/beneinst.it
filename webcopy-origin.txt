@@ -1918,8 +1918,8 @@ Uri: http://192.168.163.129/images/2025/04/12/sfo1ok.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\2025\04\12\sfo1ok.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/7ok_edited.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\7ok_edited.jpg
+Uri: http://192.168.163.129/images/7ok_edited_edited.jpg
+File Name: D:\Siti GitHub\192.168.163.129\images\7ok_edited_edited.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/Beneinst-OndeLetterarie.mp4
@@ -2978,10 +2978,6 @@ Uri: http://192.168.163.129/images/rounded-in-photoretrica-32.png
 File Name: D:\Siti GitHub\192.168.163.129\images\rounded-in-photoretrica-32.png
 Content Type: image/png
 
-Uri: http://192.168.163.129/images/sottotitolobenen.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\sottotitolobenen.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/1/images/1.png
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\1\images\1.png
 Content Type: image/png
@@ -3522,6 +3518,10 @@ Uri: http://192.168.163.129/images/th.jpeg
 File Name: D:\Siti GitHub\192.168.163.129\images\th.jpeg
 Content Type: image/jpeg
 
+Uri: http://192.168.163.129/images/tryrt66.jpg
+File Name: D:\Siti GitHub\192.168.163.129\images\tryrt66.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.163.129/in-english/dreams-time.html
 File Name: D:\Siti GitHub\192.168.163.129\in-english\dreams-time.html
 Content Type: text/html
@@ -3822,7 +3822,7 @@ Uri: http://192.168.163.129/luigi-pirandello.html
 File Name: D:\Siti GitHub\192.168.163.129\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.163.129/media/com_wrapper/js/iframe-height.min.js?cbefb6
+Uri: http://192.168.163.129/media/com_wrapper/js/iframe-height.min.js?e91072
 File Name: D:\Siti GitHub\192.168.163.129\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
