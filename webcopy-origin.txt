@@ -1918,10 +1918,6 @@ Uri: http://192.168.163.129/images/2025/04/12/sfo1ok.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\2025\04\12\sfo1ok.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/4564566.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\4564566.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/7ok_edited_edited.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\7ok_edited_edited.jpg
 Content Type: image/jpeg
@@ -2117,6 +2113,10 @@ Content Type: image/jpeg
 Uri: http://192.168.163.129/images/favicon.png
 File Name: D:\Siti GitHub\192.168.163.129\images\favicon.png
 Content Type: image/png
+
+Uri: http://192.168.163.129/images/fbf3f0fgs.jpg
+File Name: D:\Siti GitHub\192.168.163.129\images\fbf3f0fgs.jpg
+Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/Files/AnteprimeAudio/11-1.mp3
 File Name: D:\Siti GitHub\192.168.163.129\images\Files\AnteprimeAudio\11-1.mp3
@@ -3822,7 +3822,7 @@ Uri: http://192.168.163.129/luigi-pirandello.html
 File Name: D:\Siti GitHub\192.168.163.129\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.163.129/media/com_wrapper/js/iframe-height.min.js?ca1ab2
+Uri: http://192.168.163.129/media/com_wrapper/js/iframe-height.min.js?636953
 File Name: D:\Siti GitHub\192.168.163.129\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
