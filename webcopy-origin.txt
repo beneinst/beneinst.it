@@ -1958,6 +1958,10 @@ Uri: http://192.168.163.129/images/Componenti/Fonts/AnnieUseYourTelescope-Regula
 File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\Fonts\AnnieUseYourTelescope-Regular.ttf
 Content Type: font/ttf
 
+Uri: http://192.168.163.129/images/Componenti/Fonts/ArbutusSlab-Regular.ttf
+File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\Fonts\ArbutusSlab-Regular.ttf
+Content Type: font/ttf
+
 Uri: http://192.168.163.129/images/Componenti/Fonts/AveriaLibre-Regular.ttf
 File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\Fonts\AveriaLibre-Regular.ttf
 Content Type: font/ttf
@@ -2113,10 +2117,6 @@ Content Type: image/jpeg
 Uri: http://192.168.163.129/images/favicon.png
 File Name: D:\Siti GitHub\192.168.163.129\images\favicon.png
 Content Type: image/png
-
-Uri: http://192.168.163.129/images/fbf3f0fgs.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\fbf3f0fgs.jpg
-Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/Files/AnteprimeAudio/11-1.mp3
 File Name: D:\Siti GitHub\192.168.163.129\images\Files\AnteprimeAudio\11-1.mp3
@@ -3822,12 +3822,16 @@ Uri: http://192.168.163.129/luigi-pirandello.html
 File Name: D:\Siti GitHub\192.168.163.129\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.163.129/media/com_wrapper/js/iframe-height.min.js?636953
+Uri: http://192.168.163.129/media/com_wrapper/js/iframe-height.min.js?2e21ed
 File Name: D:\Siti GitHub\192.168.163.129\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.163.129/media/legacy/js/jquery-noconflict.min.js?504da4
 File Name: D:\Siti GitHub\192.168.163.129\media\legacy\js\jquery-noconflict.min.js
+Content Type: text/javascript
+
+Uri: http://192.168.163.129/media/plg_system_schedulerunner/js/run-schedule.min.js?229d3b
+File Name: D:\Siti GitHub\192.168.163.129\media\plg_system_schedulerunner\js\run-schedule.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.163.129/media/system/js/core.min.js?2cb912
@@ -4086,7 +4090,7 @@ Uri: http://192.168.163.129/william-shakespeare.html
 File Name: D:\Siti GitHub\192.168.163.129\william-shakespeare.html
 Content Type: text/html
 
-Uri: http://fonts.googleapis.com/css?family=Averia Libre:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=latin&display=swap
+Uri: http://fonts.googleapis.com/css?family=Arbutus Slab:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=latin&display=swap
 File Name: D:\Siti GitHub\192.168.163.129\css-4
 Content Type: text/css
 
@@ -4102,28 +4106,8 @@ Uri: http://fonts.googleapis.com/css?family=Homenaje:100,100i,200,200i,300,300i,
 File Name: D:\Siti GitHub\192.168.163.129\css-2
 Content Type: text/css
 
-Uri: http://fonts.gstatic.com/s/averialibre/v16/2V0aKIcMGZEnV6xygz7eNjESBanN.ttf
-File Name: D:\Siti GitHub\192.168.163.129\s\averialibre\v16\2V0aKIcMGZEnV6xygz7eNjESBanN.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/averialibre/v16/2V0EKIcMGZEnV6xygz7eNjESAJnKT2Q.ttf
-File Name: D:\Siti GitHub\192.168.163.129\s\averialibre\v16\2V0EKIcMGZEnV6xygz7eNjESAJnKT2Q.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/averialibre/v16/2V0FKIcMGZEnV6xygz7eNjEarovdaETp.ttf
-File Name: D:\Siti GitHub\192.168.163.129\s\averialibre\v16\2V0FKIcMGZEnV6xygz7eNjEarovdaETp.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/averialibre/v16/2V0FKIcMGZEnV6xygz7eNjEavozdaETp.ttf
-File Name: D:\Siti GitHub\192.168.163.129\s\averialibre\v16\2V0FKIcMGZEnV6xygz7eNjEavozdaETp.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/averialibre/v16/2V0HKIcMGZEnV6xygz7eNjESAJFhbXTu0pU.ttf
-File Name: D:\Siti GitHub\192.168.163.129\s\averialibre\v16\2V0HKIcMGZEnV6xygz7eNjESAJFhbXTu0pU.ttf
-Content Type: font/ttf
-
-Uri: http://fonts.gstatic.com/s/averialibre/v16/2V0HKIcMGZEnV6xygz7eNjESAJFxanTu0pU.ttf
-File Name: D:\Siti GitHub\192.168.163.129\s\averialibre\v16\2V0HKIcMGZEnV6xygz7eNjESAJFxanTu0pU.ttf
+Uri: http://fonts.gstatic.com/s/arbutusslab/v16/oY1Z8e7OuLXkJGbXtr5ba7ZlbKUZ.ttf
+File Name: D:\Siti GitHub\192.168.163.129\s\arbutusslab\v16\oY1Z8e7OuLXkJGbXtr5ba7ZlbKUZ.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/bigshoulderstext/v25/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3b2q7TUFMg.ttf
@@ -4172,7 +4156,7 @@ Content Type: font/ttf
 
 Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En español/Historia lunática.pdf
 File Name: D:\Siti GitHub\192.168.163.129\En español\Historia lunática.pdf
-Content Type: application/pdf
+Content Type: text/html
 
 Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En español/Lo que es el bien no se supera.pdf
 File Name: D:\Siti GitHub\192.168.163.129\En español\Lo que es el bien no se supera.pdf
@@ -4379,55 +4363,55 @@ File Name: D:\Siti GitHub\192.168.163.129\s\audiowide\v20\l7gdbjpo0cum0ckerWCtkQ
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0aKIcMGZEnV6xygz7eNjESBanN.ttf
-File Name: D:\Siti GitHub\192.168.163.129\s\averialibre\v16\2V0aKIcMGZEnV6xygz7eNjESBanN-1.ttf
+File Name: D:\Siti GitHub\192.168.163.129\s\averialibre\v16\2V0aKIcMGZEnV6xygz7eNjESBanN.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0EKIcMGZEnV6xygz7eNjESAJnKT2Q.ttf
-File Name: D:\Siti GitHub\192.168.163.129\s\averialibre\v16\2V0EKIcMGZEnV6xygz7eNjESAJnKT2Q-1.ttf
+File Name: D:\Siti GitHub\192.168.163.129\s\averialibre\v16\2V0EKIcMGZEnV6xygz7eNjESAJnKT2Q.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0FKIcMGZEnV6xygz7eNjEarovdaETp.ttf
-File Name: D:\Siti GitHub\192.168.163.129\s\averialibre\v16\2V0FKIcMGZEnV6xygz7eNjEarovdaETp-1.ttf
+File Name: D:\Siti GitHub\192.168.163.129\s\averialibre\v16\2V0FKIcMGZEnV6xygz7eNjEarovdaETp.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0FKIcMGZEnV6xygz7eNjEavozdaETp.ttf
-File Name: D:\Siti GitHub\192.168.163.129\s\averialibre\v16\2V0FKIcMGZEnV6xygz7eNjEavozdaETp-1.ttf
+File Name: D:\Siti GitHub\192.168.163.129\s\averialibre\v16\2V0FKIcMGZEnV6xygz7eNjEavozdaETp.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0HKIcMGZEnV6xygz7eNjESAJFhbXTu0pU.ttf
-File Name: D:\Siti GitHub\192.168.163.129\s\averialibre\v16\2V0HKIcMGZEnV6xygz7eNjESAJFhbXTu0pU-1.ttf
+File Name: D:\Siti GitHub\192.168.163.129\s\averialibre\v16\2V0HKIcMGZEnV6xygz7eNjESAJFhbXTu0pU.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0HKIcMGZEnV6xygz7eNjESAJFxanTu0pU.ttf
-File Name: D:\Siti GitHub\192.168.163.129\s\averialibre\v16\2V0HKIcMGZEnV6xygz7eNjESAJFxanTu0pU-1.ttf
+File Name: D:\Siti GitHub\192.168.163.129\s\averialibre\v16\2V0HKIcMGZEnV6xygz7eNjESAJFxanTu0pU.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84Yddcg0KTdYVw.ttf
-File Name: D:\Siti GitHub\192.168.163.129\s\biryani\v13\hv-TlzNxIFoO84Yddcg0KTdYVw.ttf
+Uri: https://fonts.gstatic.com/s/biryani/v14/hv-TlzNxIFoO84Yddcg0KTdYVw.ttf
+File Name: D:\Siti GitHub\192.168.163.129\s\biryani\v14\hv-TlzNxIFoO84Yddcg0KTdYVw.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddeAxKTdYVw.ttf
-File Name: D:\Siti GitHub\192.168.163.129\s\biryani\v13\hv-TlzNxIFoO84YddeAxKTdYVw.ttf
+Uri: https://fonts.gstatic.com/s/biryani/v14/hv-TlzNxIFoO84YddeAxKTdYVw.ttf
+File Name: D:\Siti GitHub\192.168.163.129\s\biryani\v14\hv-TlzNxIFoO84YddeAxKTdYVw.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84Yddew1KTdYVw.ttf
-File Name: D:\Siti GitHub\192.168.163.129\s\biryani\v13\hv-TlzNxIFoO84Yddew1KTdYVw.ttf
+Uri: https://fonts.gstatic.com/s/biryani/v14/hv-TlzNxIFoO84Yddew1KTdYVw.ttf
+File Name: D:\Siti GitHub\192.168.163.129\s\biryani\v14\hv-TlzNxIFoO84Yddew1KTdYVw.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddfA2KTdYVw.ttf
-File Name: D:\Siti GitHub\192.168.163.129\s\biryani\v13\hv-TlzNxIFoO84YddfA2KTdYVw.ttf
+Uri: https://fonts.gstatic.com/s/biryani/v14/hv-TlzNxIFoO84YddfA2KTdYVw.ttf
+File Name: D:\Siti GitHub\192.168.163.129\s\biryani\v14\hv-TlzNxIFoO84YddfA2KTdYVw.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddYQyKTdYVw.ttf
-File Name: D:\Siti GitHub\192.168.163.129\s\biryani\v13\hv-TlzNxIFoO84YddYQyKTdYVw.ttf
+Uri: https://fonts.gstatic.com/s/biryani/v14/hv-TlzNxIFoO84YddYQyKTdYVw.ttf
+File Name: D:\Siti GitHub\192.168.163.129\s\biryani\v14\hv-TlzNxIFoO84YddYQyKTdYVw.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.gstatic.com/s/biryani/v13/hv-TlzNxIFoO84YddZQ3KTdYVw.ttf
-File Name: D:\Siti GitHub\192.168.163.129\s\biryani\v13\hv-TlzNxIFoO84YddZQ3KTdYVw.ttf
+Uri: https://fonts.gstatic.com/s/biryani/v14/hv-TlzNxIFoO84YddZQ3KTdYVw.ttf
+File Name: D:\Siti GitHub\192.168.163.129\s\biryani\v14\hv-TlzNxIFoO84YddZQ3KTdYVw.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.gstatic.com/s/biryani/v13/hv-WlzNxIFoO84YdfUsTOQ.ttf
-File Name: D:\Siti GitHub\192.168.163.129\s\biryani\v13\hv-WlzNxIFoO84YdfUsTOQ.ttf
+Uri: https://fonts.gstatic.com/s/biryani/v14/hv-WlzNxIFoO84YdfUsTOQ.ttf
+File Name: D:\Siti GitHub\192.168.163.129\s\biryani\v14\hv-WlzNxIFoO84YdfUsTOQ.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/bubblegumsans/v20/AYCSpXb_Z9EORv1M5QTjEzMEtdaH.ttf
