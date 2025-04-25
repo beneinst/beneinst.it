@@ -3830,10 +3830,6 @@ Uri: http://192.168.163.129/media/legacy/js/jquery-noconflict.min.js?504da4
 File Name: D:\Siti GitHub\192.168.163.129\media\legacy\js\jquery-noconflict.min.js
 Content Type: text/javascript
 
-Uri: http://192.168.163.129/media/plg_system_schedulerunner/js/run-schedule.min.js?229d3b
-File Name: D:\Siti GitHub\192.168.163.129\media\plg_system_schedulerunner\js\run-schedule.min.js
-Content Type: text/javascript
-
 Uri: http://192.168.163.129/media/system/js/core.min.js?2cb912
 File Name: D:\Siti GitHub\192.168.163.129\media\system\js\core.min.js
 Content Type: text/javascript
@@ -4156,7 +4152,7 @@ Content Type: font/ttf
 
 Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En español/Historia lunática.pdf
 File Name: D:\Siti GitHub\192.168.163.129\En español\Historia lunática.pdf
-Content Type: text/html
+Content Type: application/pdf
 
 Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En español/Lo que es el bien no se supera.pdf
 File Name: D:\Siti GitHub\192.168.163.129\En español\Lo que es el bien no se supera.pdf
