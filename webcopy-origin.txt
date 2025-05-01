@@ -590,8 +590,16 @@ Uri: http://192.168.163.129/di-valerio-pazzi.html
 File Name: D:\Siti GitHub\192.168.163.129\di-valerio-pazzi.html
 Content Type: text/html
 
+Uri: http://192.168.163.129/diari.html
+File Name: D:\Siti GitHub\192.168.163.129\diari.html
+Content Type: text/html
+
 Uri: http://192.168.163.129/dillo-tu-te-stesso.html
 File Name: D:\Siti GitHub\192.168.163.129\dillo-tu-te-stesso.html
+Content Type: text/html
+
+Uri: http://192.168.163.129/e-book-gratis.html
+File Name: D:\Siti GitHub\192.168.163.129\e-book-gratis.html
 Content Type: text/html
 
 Uri: http://192.168.163.129/ebook-gratis.html
@@ -3814,6 +3822,10 @@ Uri: http://192.168.163.129/lettera-alla-nipote.html
 File Name: D:\Siti GitHub\192.168.163.129\lettera-alla-nipote.html
 Content Type: text/html
 
+Uri: http://192.168.163.129/lettere.html
+File Name: D:\Siti GitHub\192.168.163.129\lettere.html
+Content Type: text/html
+
 Uri: http://192.168.163.129/lev-tolstoj.html
 File Name: D:\Siti GitHub\192.168.163.129\lev-tolstoj.html
 Content Type: text/html
@@ -3830,7 +3842,7 @@ Uri: http://192.168.163.129/luigi-pirandello.html
 File Name: D:\Siti GitHub\192.168.163.129\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.163.129/media/com_wrapper/js/iframe-height.min.js?caef21
+Uri: http://192.168.163.129/media/com_wrapper/js/iframe-height.min.js?0dda9e
 File Name: D:\Siti GitHub\192.168.163.129\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -4056,6 +4068,10 @@ Content Type: text/html
 
 Uri: http://192.168.163.129/santagostino.html
 File Name: D:\Siti GitHub\192.168.163.129\santagostino.html
+Content Type: text/html
+
+Uri: http://192.168.163.129/sed-etiam.html
+File Name: D:\Siti GitHub\192.168.163.129\sed-etiam.html
 Content Type: text/html
 
 Uri: http://192.168.163.129/sedetiam-main
