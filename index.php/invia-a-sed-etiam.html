@@ -109,7 +109,7 @@ a:hover {
 	<style>#sp-section-1{ background-image:url("../images/sottotitolobenen.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:inherit;background-position:50% 0;background-color:#FFFAF0;padding:15px 0px 0px 0px;margin:0px 0px 0px 0px; }</style>
 	<style>#sp-bottom{ background-image:url("../images/7ok_edited_edited.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:50% 50%; }</style>
 	<style>#sp-footer{ background-image:url("../images/7ok_edited_edited.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:50% 50%; }</style>
-<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http:\/\/192.168.163.129\/","base":"","baseFull":"http:\/\/192.168.163.129\/"},"csrf.token":"f199f092d8fbe591b4cd64e342f79a43"}</script>
+<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http:\/\/192.168.163.129\/","base":"","baseFull":"http:\/\/192.168.163.129\/"},"csrf.token":"ac178e555c0c460973af161081bb1da5"}</script>
 	<script src="../media/system/js/core.min.js?2cb912"></script>
 	<script src="../media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="../media/legacy/js/jquery-noconflict.min.js?504da4"></script>
@@ -234,7 +234,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "enableFadp": true,
         "enableLgpd": true,
         "fadpApplies": true,
-        "floatingPreferencesButtonDisplay": "anchored-bottom-left",
+        "floatingPreferencesButtonDisplay": "anchored-center-right",
         "perPurposeConsent": true,
         "preferenceCookie": { "expireAfter": 180 }, // Scadenza dopo 180 giorni
         "siteId": 3512692,  // Assicurati che sia corretto
@@ -345,7 +345,7 @@ div,
 p {
   font-family: 'TitilliumWeb-Regular', sans-serif;
   font-size: 19.5px;
-  line-height: 1.88;
+  line-height: 1.80;
   overflow-wrap: break-word; /* Assicura che le parole lunghe vadano a capo */
   word-break: break-word;   /* Forza la divisione delle parole se necessario */
   -webkit-hyphens: auto;    /* Abilita la sillabazione per browser basati su WebKit */
@@ -775,6 +775,9 @@ body:not(.homepage) .goog-te-gadget {
   font-weight: normal;
   font-style: normal;
 }
+.iubenda-tp-btn.iubenda-cs-preferences-link {
+  opacity: 0.8 !important;
+}
 
   </style>
 <link href="../ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
@@ -964,7 +967,7 @@ function googleTranslateElementInit() {
   bottom: 1.8vh;
   left: 20%;
   right: 20%;
-  height: 18px;
+  height: 18.5px;
 
   /* Sfumatura interna leggera */
   background-image: 
@@ -991,14 +994,24 @@ function googleTranslateElementInit() {
   pointer-events: none;
 }
 
-/* Nuova regola per dispositivi con larghezza < 748px */
-@media (max-width: 747px) {
+@media (max-width: 767px) {
   .sp-reading-progress-bar-custom {
     bottom: 3.7vh;
-    left: 19.5%;
-    right: 19.5%;
+    left: 19%;
+    right: 19.2%;
+    
+    /* Ridefinisci solo la spaziatura tra le linee decorative */
+    background-image: 
+      repeating-linear-gradient(
+        to right,
+        rgba(70, 70, 70, 0.6),
+        rgba(70, 70, 70, 0.6) 2px,
+        transparent 100px
+      ),
+      linear-gradient(to right, rgba(78, 137, 117, 0.1), rgba(78, 137, 117, 0.1));
   }
 }
+
 </style>
 
 
@@ -1227,7 +1240,7 @@ function googleTranslateElementInit() {
             margin-left: 0; 
             margin-right: auto; 
             padding-top: 10px; 
-          padding-bottom: 10px;
+          padding-bottom: 18px;
         } 
     } 
 </style>
