@@ -770,10 +770,6 @@ Uri: http://192.168.163.129/il-bene-e-il-male-memorie.html
 File Name: D:\Siti GitHub\192.168.163.129\il-bene-e-il-male-memorie.html
 Content Type: text/html
 
-Uri: http://192.168.163.129/images/1logonorrmale.png
-File Name: D:\Siti GitHub\192.168.163.129\images\1logonorrmale.png
-Content Type: image/png
-
 Uri: http://192.168.163.129/images/2023/10/03/-sant-agostino-.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\2023\10\03\-sant-agostino-.jpg
 Content Type: image/jpeg
@@ -2986,8 +2982,16 @@ Uri: http://192.168.163.129/images/Files/SedE-Poesie/Di Salvatore Messina.pdf
 File Name: D:\Siti GitHub\192.168.163.129\images\Files\SedE-Poesie\Di Salvatore Messina.pdf
 Content Type: application/pdf
 
-Uri: http://192.168.163.129/images/logosretina.png
-File Name: D:\Siti GitHub\192.168.163.129\images\logosretina.png
+Uri: http://192.168.163.129/images/logosretina3mini2.png
+File Name: D:\Siti GitHub\192.168.163.129\images\logosretina3mini2.png
+Content Type: image/png
+
+Uri: http://192.168.163.129/images/logosretina3mobile.png
+File Name: D:\Siti GitHub\192.168.163.129\images\logosretina3mobile.png
+Content Type: image/png
+
+Uri: http://192.168.163.129/images/logosretina3retina.png
+File Name: D:\Siti GitHub\192.168.163.129\images\logosretina3retina.png
 Content Type: image/png
 
 Uri: http://192.168.163.129/images/rounded-in-photoretrica-32.png
@@ -3838,7 +3842,7 @@ Uri: http://192.168.163.129/luigi-pirandello.html
 File Name: D:\Siti GitHub\192.168.163.129\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.163.129/media/com_wrapper/js/iframe-height.min.js?0dda9e
+Uri: http://192.168.163.129/media/com_wrapper/js/iframe-height.min.js?e74f2b
 File Name: D:\Siti GitHub\192.168.163.129\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
