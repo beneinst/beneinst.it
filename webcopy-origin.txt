@@ -2994,10 +2994,6 @@ Uri: http://192.168.163.129/images/rounded-in-photoretrica-32.png
 File Name: D:\Siti GitHub\192.168.163.129\images\rounded-in-photoretrica-32.png
 Content Type: image/png
 
-Uri: http://192.168.163.129/images/sottotitolobenen.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\sottotitolobenen.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/1/images/1.png
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\1\images\1.png
 Content Type: image/png
@@ -3635,7 +3631,7 @@ File Name: D:\Siti GitHub\192.168.163.129\in-italiano\te-lo-colorerei.html
 Content Type: text/html
 
 Uri: http://192.168.163.129/index.php
-File Name: D:\Siti GitHub\192.168.163.129\index.php.html
+File Name: D:\Siti GitHub\192.168.163.129\index.php-5.html
 Content Type: text/html
 
 Uri: http://192.168.163.129/index.php/anteprime-audio
@@ -3767,23 +3763,23 @@ File Name: D:\Siti GitHub\192.168.163.129\index.php\sedetiam-main.html
 Content Type: text/html
 
 Uri: http://192.168.163.129/index.php?option=com_sppagebuilder&view=page&id=3
-File Name: D:\Siti GitHub\192.168.163.129\index.php-1.html
+File Name: D:\Siti GitHub\192.168.163.129\index.php.html
 Content Type: text/html
 
 Uri: http://192.168.163.129/index.php?option=com_sppagebuilder&view=page&id=4
-File Name: D:\Siti GitHub\192.168.163.129\index.php-2.html
+File Name: D:\Siti GitHub\192.168.163.129\index.php-1.html
 Content Type: text/html
 
 Uri: http://192.168.163.129/index.php?option=com_sppagebuilder&view=page&id=6
-File Name: D:\Siti GitHub\192.168.163.129\index.php-4.html
+File Name: D:\Siti GitHub\192.168.163.129\index.php-3.html
 Content Type: text/html
 
 Uri: http://192.168.163.129/index.php?option=com_sppagebuilder&view=page&id=7
-File Name: D:\Siti GitHub\192.168.163.129\index.php-5.html
+File Name: D:\Siti GitHub\192.168.163.129\index.php-4.html
 Content Type: text/html
 
 Uri: http://192.168.163.129/index.php?option=com_sppagebuilder&view=page&id=8
-File Name: D:\Siti GitHub\192.168.163.129\index.php-3.html
+File Name: D:\Siti GitHub\192.168.163.129\index.php-2.html
 Content Type: text/html
 
 Uri: http://192.168.163.129/invia-a-sed-etiam.html
