@@ -2986,10 +2986,6 @@ Uri: http://192.168.163.129/images/logosretina3mini2.png
 File Name: D:\Siti GitHub\192.168.163.129\images\logosretina3mini2.png
 Content Type: image/png
 
-Uri: http://192.168.163.129/images/logosretina3mobile.png
-File Name: D:\Siti GitHub\192.168.163.129\images\logosretina3mobile.png
-Content Type: image/png
-
 Uri: http://192.168.163.129/images/logosretina3retina.png
 File Name: D:\Siti GitHub\192.168.163.129\images\logosretina3retina.png
 Content Type: image/png
