@@ -74,6 +74,10 @@ Uri: http://192.168.163.129/auf-deutsch/zeig-mir-dass-du-mich-liebst.html
 File Name: D:\Siti GitHub\192.168.163.129\auf-deutsch\zeig-mir-dass-du-mich-liebst.html
 Content Type: text/html
 
+Uri: http://192.168.163.129/autore-2.html
+File Name: D:\Siti GitHub\192.168.163.129\autore-2.html
+Content Type: text/html
+
 Uri: http://192.168.163.129/autore.html
 File Name: D:\Siti GitHub\192.168.163.129\autore.html
 Content Type: text/html
@@ -590,12 +594,20 @@ Uri: http://192.168.163.129/di-valerio-pazzi.html
 File Name: D:\Siti GitHub\192.168.163.129\di-valerio-pazzi.html
 Content Type: text/html
 
+Uri: http://192.168.163.129/diari-2.html
+File Name: D:\Siti GitHub\192.168.163.129\diari-2.html
+Content Type: text/html
+
 Uri: http://192.168.163.129/diari.html
 File Name: D:\Siti GitHub\192.168.163.129\diari.html
 Content Type: text/html
 
 Uri: http://192.168.163.129/dillo-tu-te-stesso.html
 File Name: D:\Siti GitHub\192.168.163.129\dillo-tu-te-stesso.html
+Content Type: text/html
+
+Uri: http://192.168.163.129/e-book-gratis-2.html
+File Name: D:\Siti GitHub\192.168.163.129\e-book-gratis-2.html
 Content Type: text/html
 
 Uri: http://192.168.163.129/e-book-gratis.html
@@ -760,6 +772,10 @@ Content Type: text/html
 
 Uri: http://192.168.163.129/hermann-hesse.html
 File Name: D:\Siti GitHub\192.168.163.129\hermann-hesse.html
+Content Type: text/html
+
+Uri: http://192.168.163.129/home-2.html
+File Name: D:\Siti GitHub\192.168.163.129\home-2.html
 Content Type: text/html
 
 Uri: http://192.168.163.129/honore-balzac.html
@@ -1926,10 +1942,6 @@ Uri: http://192.168.163.129/images/2025/04/12/sfo1ok.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\2025\04\12\sfo1ok.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.129/images/7ok_edited_edited.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\7ok_edited_edited.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/Beneinst-OndeLetterarie.mp4
 File Name: D:\Siti GitHub\192.168.163.129\images\Beneinst-OndeLetterarie.mp4
 Content Type: video/mp4
@@ -2994,6 +3006,10 @@ Uri: http://192.168.163.129/images/rounded-in-photoretrica-32.png
 File Name: D:\Siti GitHub\192.168.163.129\images\rounded-in-photoretrica-32.png
 Content Type: image/png
 
+Uri: http://192.168.163.129/images/sfondoolio1980.jpg
+File Name: D:\Siti GitHub\192.168.163.129\images\sfondoolio1980.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.163.129/images/speasyimagegallery/albums/1/images/1.png
 File Name: D:\Siti GitHub\192.168.163.129\images\speasyimagegallery\albums\1\images\1.png
 Content Type: image/png
@@ -3734,10 +3750,6 @@ Uri: http://192.168.163.129/index.php/diari-main
 File Name: D:\Siti GitHub\192.168.163.129\index.php\diari-main.html
 Content Type: text/html
 
-Uri: http://192.168.163.129/index.php/ebook-gratis
-File Name: D:\Siti GitHub\192.168.163.129\index.php\ebook-gratis.html
-Content Type: text/html
-
 Uri: http://192.168.163.129/index.php/invia-a-sed-etiam
 File Name: D:\Siti GitHub\192.168.163.129\index.php\invia-a-sed-etiam.html
 Content Type: text/html
@@ -3818,6 +3830,10 @@ Uri: http://192.168.163.129/lettera-alla-nipote.html
 File Name: D:\Siti GitHub\192.168.163.129\lettera-alla-nipote.html
 Content Type: text/html
 
+Uri: http://192.168.163.129/lettere-4.html
+File Name: D:\Siti GitHub\192.168.163.129\lettere-4.html
+Content Type: text/html
+
 Uri: http://192.168.163.129/lettere.html
 File Name: D:\Siti GitHub\192.168.163.129\lettere.html
 Content Type: text/html
@@ -3838,7 +3854,7 @@ Uri: http://192.168.163.129/luigi-pirandello.html
 File Name: D:\Siti GitHub\192.168.163.129\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.163.129/media/com_wrapper/js/iframe-height.min.js?8202ec
+Uri: http://192.168.163.129/media/com_wrapper/js/iframe-height.min.js?c3dcf8
 File Name: D:\Siti GitHub\192.168.163.129\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -4066,6 +4082,10 @@ Uri: http://192.168.163.129/santagostino.html
 File Name: D:\Siti GitHub\192.168.163.129\santagostino.html
 Content Type: text/html
 
+Uri: http://192.168.163.129/sed-etiam-2.html
+File Name: D:\Siti GitHub\192.168.163.129\sed-etiam-2.html
+Content Type: text/html
+
 Uri: http://192.168.163.129/sed-etiam.html
 File Name: D:\Siti GitHub\192.168.163.129\sed-etiam.html
 Content Type: text/html
@@ -4106,6 +4126,10 @@ Uri: http://192.168.163.129/william-shakespeare.html
 File Name: D:\Siti GitHub\192.168.163.129\william-shakespeare.html
 Content Type: text/html
 
+Uri: http://fonts.googleapis.com/css?family=Arbutus Slab:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=latin&display=swap
+File Name: D:\Siti GitHub\192.168.163.129\css-4
+Content Type: text/css
+
 Uri: http://fonts.googleapis.com/css?family=Big Shoulders Text:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=latin&display=swap
 File Name: D:\Siti GitHub\192.168.163.129\css-3
 Content Type: text/css
@@ -4117,6 +4141,10 @@ Content Type: text/css
 Uri: http://fonts.googleapis.com/css?family=Homenaje:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=latin&display=swap
 File Name: D:\Siti GitHub\192.168.163.129\css-2
 Content Type: text/css
+
+Uri: http://fonts.gstatic.com/s/arbutusslab/v16/oY1Z8e7OuLXkJGbXtr5ba7ZlbKUZ.ttf
+File Name: D:\Siti GitHub\192.168.163.129\s\arbutusslab\v16\oY1Z8e7OuLXkJGbXtr5ba7ZlbKUZ.ttf
+Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/bigshoulderstext/v25/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3b2q7TUFMg.ttf
 File Name: D:\Siti GitHub\192.168.163.129\s\bigshoulderstext\v25\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3b2q7TUFMg.ttf
@@ -4311,11 +4339,11 @@ File Name: D:\Siti GitHub\192.168.163.129\css
 Content Type: text/css
 
 Uri: https://fonts.googleapis.com/css?family=Averia Libre:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
-File Name: D:\Siti GitHub\192.168.163.129\css-4
+File Name: D:\Siti GitHub\192.168.163.129\css-5
 Content Type: text/css
 
 Uri: https://fonts.googleapis.com/css?family=Biryani:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
-File Name: D:\Siti GitHub\192.168.163.129\css-5
+File Name: D:\Siti GitHub\192.168.163.129\css-6
 Content Type: text/css
 
 Uri: https://fonts.gstatic.com/s/alegreya/v36/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNG9hU4-6qm.ttf
