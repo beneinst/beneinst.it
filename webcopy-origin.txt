@@ -1942,6 +1942,10 @@ Uri: http://192.168.163.129/images/2025/04/12/sfo1ok.jpg
 File Name: D:\Siti GitHub\192.168.163.129\images\2025\04\12\sfo1ok.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.163.129/images/2025/05/06/beneinst-background.svg
+File Name: D:\Siti GitHub\192.168.163.129\images\2025\05\06\beneinst-background.svg
+Content Type: image/svg+xml
+
 Uri: http://192.168.163.129/images/Beneinst-OndeLetterarie.mp4
 File Name: D:\Siti GitHub\192.168.163.129\images\Beneinst-OndeLetterarie.mp4
 Content Type: video/mp4
