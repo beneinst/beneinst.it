@@ -1,7 +1,7 @@
 ﻿@font-face {
-  font-family: 'Homenaje';
+  font-family: 'Chelsea Market';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(s/homenaje/v16/FwZY7-Q-xVAi_l-6Le6H6Mw.ttf) format('truetype');
+  src: url(s/chelseamarket/v13/BCawqZsHqfr89WNP_IApC8tzKChiJgo.ttf) format('truetype');
 }

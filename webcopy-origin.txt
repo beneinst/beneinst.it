@@ -1870,10 +1870,6 @@ Uri: http://192.168.163.129/images/2025/02/21/sedp2.png
 File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\sedp2.png
 Content Type: image/png
 
-Uri: http://192.168.163.129/images/2025/02/21/th-3.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\21\th-3.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.129/images/2025/02/28/111q1.png
 File Name: D:\Siti GitHub\192.168.163.129\images\2025\02\28\111q1.png
 Content Type: image/png
@@ -1938,12 +1934,8 @@ Uri: http://192.168.163.129/images/2025/04/07/8a.png
 File Name: D:\Siti GitHub\192.168.163.129\images\2025\04\07\8a.png
 Content Type: image/png
 
-Uri: http://192.168.163.129/images/2025/04/12/sfo1ok.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\04\12\sfo1ok.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.129/images/2025/05/07/bg3.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\05\07\bg3.jpg
+Uri: http://192.168.163.129/images/2025/05/08/th-12s.jpg
+File Name: D:\Siti GitHub\192.168.163.129\images\2025\05\08\th-12s.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/Beneinst-OndeLetterarie.mp4
@@ -3858,7 +3850,7 @@ Uri: http://192.168.163.129/luigi-pirandello.html
 File Name: D:\Siti GitHub\192.168.163.129\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.163.129/media/com_wrapper/js/iframe-height.min.js?94e55f
+Uri: http://192.168.163.129/media/com_wrapper/js/iframe-height.min.js?97a5cf
 File Name: D:\Siti GitHub\192.168.163.129\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -4131,15 +4123,15 @@ File Name: D:\Siti GitHub\192.168.163.129\william-shakespeare.html
 Content Type: text/html
 
 Uri: http://fonts.googleapis.com/css?family=Big Shoulders Text:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=latin&display=swap
-File Name: D:\Siti GitHub\192.168.163.129\css-2
+File Name: D:\Siti GitHub\192.168.163.129\css-3
 Content Type: text/css
 
 Uri: http://fonts.googleapis.com/css?family=Chelsea Market:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=latin&display=swap
-File Name: D:\Siti GitHub\192.168.163.129\css
+File Name: D:\Siti GitHub\192.168.163.129\css-1
 Content Type: text/css
 
 Uri: http://fonts.googleapis.com/css?family=Homenaje:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=latin&display=swap
-File Name: D:\Siti GitHub\192.168.163.129\css-1
+File Name: D:\Siti GitHub\192.168.163.129\css-2
 Content Type: text/css
 
 Uri: http://fonts.gstatic.com/s/bigshoulderstext/v25/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3b2q7TUFMg.ttf
@@ -4331,7 +4323,7 @@ File Name: D:\Siti GitHub\192.168.163.129\css2-2
 Content Type: text/css
 
 Uri: https://fonts.googleapis.com/css?family=Alegreya:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
-File Name: D:\Siti GitHub\192.168.163.129\css-3
+File Name: D:\Siti GitHub\192.168.163.129\css
 Content Type: text/css
 
 Uri: https://fonts.googleapis.com/css?family=Averia Libre:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
