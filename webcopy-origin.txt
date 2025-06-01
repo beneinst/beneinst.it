@@ -130,11 +130,11 @@ Uri: http://192.168.163.129/charles-baudelaire.html
 File Name: D:\Siti GitHub\192.168.163.129\charles-baudelaire.html
 Content Type: text/html
 
-Uri: http://192.168.163.129/components/com_sppagebuilder/assets/css/animate.min.css?2abb743fdfce533d33d8c0eb7ff5cefb
+Uri: http://192.168.163.129/components/com_sppagebuilder/assets/css/animate.min.css?a436bee1e5ae414f98db7ca13adfd7c0
 File Name: D:\Siti GitHub\192.168.163.129\components\com_sppagebuilder\assets\css\animate.min.css
 Content Type: text/css
 
-Uri: http://192.168.163.129/components/com_sppagebuilder/assets/css/dynamic-content.css?2abb743fdfce533d33d8c0eb7ff5cefb
+Uri: http://192.168.163.129/components/com_sppagebuilder/assets/css/dynamic-content.css?a436bee1e5ae414f98db7ca13adfd7c0
 File Name: D:\Siti GitHub\192.168.163.129\components\com_sppagebuilder\assets\css\dynamic-content.css
 Content Type: text/css
 
@@ -142,7 +142,7 @@ Uri: http://192.168.163.129/components/com_sppagebuilder/assets/css/magnific-pop
 File Name: D:\Siti GitHub\192.168.163.129\components\com_sppagebuilder\assets\css\magnific-popup.css
 Content Type: text/css
 
-Uri: http://192.168.163.129/components/com_sppagebuilder/assets/css/sppagebuilder.css?2abb743fdfce533d33d8c0eb7ff5cefb
+Uri: http://192.168.163.129/components/com_sppagebuilder/assets/css/sppagebuilder.css?a436bee1e5ae414f98db7ca13adfd7c0
 File Name: D:\Siti GitHub\192.168.163.129\components\com_sppagebuilder\assets\css\sppagebuilder.css
 Content Type: text/css
 
@@ -158,7 +158,7 @@ Uri: http://192.168.163.129/components/com_sppagebuilder/assets/js/common.js
 File Name: D:\Siti GitHub\192.168.163.129\components\com_sppagebuilder\assets\js\common.js
 Content Type: application/javascript
 
-Uri: http://192.168.163.129/components/com_sppagebuilder/assets/js/dynamic-content.js?2abb743fdfce533d33d8c0eb7ff5cefb
+Uri: http://192.168.163.129/components/com_sppagebuilder/assets/js/dynamic-content.js?a436bee1e5ae414f98db7ca13adfd7c0
 File Name: D:\Siti GitHub\192.168.163.129\components\com_sppagebuilder\assets\js\dynamic-content.js
 Content Type: application/javascript
 
@@ -166,11 +166,11 @@ Uri: http://192.168.163.129/components/com_sppagebuilder/assets/js/jquery.magnif
 File Name: D:\Siti GitHub\192.168.163.129\components\com_sppagebuilder\assets\js\jquery.magnific-popup.min.js
 Content Type: application/javascript
 
-Uri: http://192.168.163.129/components/com_sppagebuilder/assets/js/jquery.parallax.js?2abb743fdfce533d33d8c0eb7ff5cefb
+Uri: http://192.168.163.129/components/com_sppagebuilder/assets/js/jquery.parallax.js?a436bee1e5ae414f98db7ca13adfd7c0
 File Name: D:\Siti GitHub\192.168.163.129\components\com_sppagebuilder\assets\js\jquery.parallax.js
 Content Type: application/javascript
 
-Uri: http://192.168.163.129/components/com_sppagebuilder/assets/js/sppagebuilder.js?2abb743fdfce533d33d8c0eb7ff5cefb
+Uri: http://192.168.163.129/components/com_sppagebuilder/assets/js/sppagebuilder.js?a436bee1e5ae414f98db7ca13adfd7c0
 File Name: D:\Siti GitHub\192.168.163.129\components\com_sppagebuilder\assets\js\sppagebuilder.js
 Content Type: application/javascript
 
@@ -1934,13 +1934,9 @@ Uri: http://192.168.163.129/images/2025/04/07/8a.png
 File Name: D:\Siti GitHub\192.168.163.129\images\2025\04\07\8a.png
 Content Type: image/png
 
-Uri: http://192.168.163.129/images/2025/05/06/beneinst-background.svg
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\05\06\beneinst-background.svg
-Content Type: image/svg+xml
-
-Uri: http://192.168.163.129/images/2025/05/08/th-12s.jpg
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\05\08\th-12s.jpg
-Content Type: image/jpeg
+Uri: http://192.168.163.129/images/2025/06/01/th-12s242424.png
+File Name: D:\Siti GitHub\192.168.163.129\images\2025\06\01\th-12s242424.png
+Content Type: image/png
 
 Uri: http://192.168.163.129/images/Beneinst-OndeLetterarie.mp4
 File Name: D:\Siti GitHub\192.168.163.129\images\Beneinst-OndeLetterarie.mp4
@@ -1972,6 +1968,10 @@ Content Type: image/png
 
 Uri: http://192.168.163.129/images/Componenti/Fonts/Alegreya-Regular.ttf
 File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\Fonts\Alegreya-Regular.ttf
+Content Type: font/ttf
+
+Uri: http://192.168.163.129/images/Componenti/Fonts/AncizarSans-SemiBold.ttf
+File Name: D:\Siti GitHub\192.168.163.129\images\Componenti\Fonts\AncizarSans-SemiBold.ttf
 Content Type: font/ttf
 
 Uri: http://192.168.163.129/images/Componenti/Fonts/AnnieUseYourTelescope-Regular.ttf
@@ -3854,7 +3854,7 @@ Uri: http://192.168.163.129/luigi-pirandello.html
 File Name: D:\Siti GitHub\192.168.163.129\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.163.129/media/com_wrapper/js/iframe-height.min.js?db63f7
+Uri: http://192.168.163.129/media/com_wrapper/js/iframe-height.min.js?f7566f
 File Name: D:\Siti GitHub\192.168.163.129\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
