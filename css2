@@ -3,14 +3,14 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(s/audiowide/v20/l7gdbjpo0cum0ckerWCtkQ.ttf) format('truetype');
+  src: url(s/audiowide/v21/l7gdbjpo0cum0ckerWCtkQ.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Bubblegum Sans';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(s/bubblegumsans/v20/AYCSpXb_Z9EORv1M5QTjEzMEtdaH.ttf) format('truetype');
+  src: url(s/bubblegumsans/v21/AYCSpXb_Z9EORv1M5QTjEzMEtdaH.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Chelsea Market';
@@ -52,5 +52,5 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(s/zendots/v12/XRXX3ICfm00IGoesQeaE.ttf) format('truetype');
+  src: url(s/zendots/v13/XRXX3ICfm00IGoesQeaE.ttf) format('truetype');
 }
