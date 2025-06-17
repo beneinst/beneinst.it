@@ -1934,13 +1934,9 @@ Uri: http://192.168.163.129/images/2025/04/07/8a.png
 File Name: D:\Siti GitHub\192.168.163.129\images\2025\04\07\8a.png
 Content Type: image/png
 
-Uri: http://192.168.163.129/images/2025/05/06/beneinst-background.svg
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\05\06\beneinst-background.svg
-Content Type: image/svg+xml
-
-Uri: http://192.168.163.129/images/2025/06/01/th-12s242424.png
-File Name: D:\Siti GitHub\192.168.163.129\images\2025\06\01\th-12s242424.png
-Content Type: image/png
+Uri: http://192.168.163.129/images/2025/06/17/logohome.jpg
+File Name: D:\Siti GitHub\192.168.163.129\images\2025\06\17\logohome.jpg
+Content Type: image/jpeg
 
 Uri: http://192.168.163.129/images/Beneinst-OndeLetterarie.mp4
 File Name: D:\Siti GitHub\192.168.163.129\images\Beneinst-OndeLetterarie.mp4
@@ -3858,7 +3854,7 @@ Uri: http://192.168.163.129/luigi-pirandello.html
 File Name: D:\Siti GitHub\192.168.163.129\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.163.129/media/com_wrapper/js/iframe-height.min.js?cdafae
+Uri: http://192.168.163.129/media/com_wrapper/js/iframe-height.min.js?fd3d2e
 File Name: D:\Siti GitHub\192.168.163.129\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 

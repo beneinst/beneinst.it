@@ -1,6 +1,4 @@
 
-    console.log('Element Configurator: Initializing');
-
     // go/mss-setup#7-load-the-js-or-css-from-your-initial-page
     if(!window['_DumpException']) {
       const _DumpException = window['_DumpException'] || function(e) {
@@ -180,38 +178,26 @@ MSG_FEEDBACK_SATISFIED_LABEL="Traduzione di buona qualit\u00e0";_.M[49]=MSG_FEED
 }catch(e){_._DumpException(e)}
 try{
 _.la("el_conf");
-var yl;_._exportVersion=function(a){_.ac("google.translate.v",a)};_._getCallbackFunction=function(a){return _.Tb(a)};_._exportMessages=function(){_.ac("google.translate.m",_.M)};yl=function(a){console.log("loadElement called with: "+a.outerHTML);var b=document.getElementsByTagName("head")[0];b||(b=document.body.parentNode.appendChild(document.createElement("head")));b.appendChild(a)};
-_._loadJs=function(a){console.log("_loadJs called with: "+a);var b=_.gd(document,"SCRIPT");b.type="text/javascript";b.charset="UTF-8";_.Ta(b,_.wb(a));yl(b)};_._loadCss=function(a){console.log("_loadCss called with: "+a);var b=document.createElement("link");b.type="text/css";b.rel="stylesheet";b.charset="UTF-8";b.href=a;yl(b)};_._isNS=function(a){a=a.split(".");for(var b=window,c=0;c<a.length;++c)if(!(b=b[a[c]]))return!1;return!0};
-_._setupNS=function(a){a=a.split(".");for(var b=window,c=0;c<a.length;++c)b.hasOwnProperty?b.hasOwnProperty(a[c])?b=b[a[c]]:b=b[a[c]]={}:b=b[a[c]]||(b[a[c]]={});return b};_.ac("_exportVersion",_._exportVersion);_.ac("_getCallbackFunction",_._getCallbackFunction);_.ac("_exportMessages",_._exportMessages);_.ac("_loadJs",_._loadJs);_.ac("_loadCss",_._loadCss);_.ac("_isNS",_._isNS);_.ac("_setupNS",_._setupNS);
-window.addEventListener&&typeof document.readyState=="undefined"&&window.addEventListener("DOMContentLoaded",function(){document.readyState="complete"},!1);
+var zl;_._exportVersion=function(a){_.ac("google.translate.v",a)};_._getCallbackFunction=function(a){return _.Tb(a)};_._exportMessages=function(){_.ac("google.translate.m",_.M)};zl=function(a){var b=document.getElementsByTagName("head")[0];b||(b=document.body.parentNode.appendChild(document.createElement("head")));b.appendChild(a)};_._loadJs=function(a){var b=_.gd(document,"SCRIPT");b.type="text/javascript";b.charset="UTF-8";_.Ta(b,_.wb(a));zl(b)};
+_._loadCss=function(a){var b=document.createElement("link");b.type="text/css";b.rel="stylesheet";b.charset="UTF-8";b.href=a;zl(b)};_._isNS=function(a){a=a.split(".");for(var b=window,c=0;c<a.length;++c)if(!(b=b[a[c]]))return!1;return!0};_._setupNS=function(a){a=a.split(".");for(var b=window,c=0;c<a.length;++c)b.hasOwnProperty?b.hasOwnProperty(a[c])?b=b[a[c]]:b=b[a[c]]={}:b=b[a[c]]||(b[a[c]]={});return b};_.ac("_exportVersion",_._exportVersion);_.ac("_getCallbackFunction",_._getCallbackFunction);
+_.ac("_exportMessages",_._exportMessages);_.ac("_loadJs",_._loadJs);_.ac("_loadCss",_._loadCss);_.ac("_isNS",_._isNS);_.ac("_setupNS",_._setupNS);window.addEventListener&&typeof document.readyState=="undefined"&&window.addEventListener("DOMContentLoaded",function(){document.readyState="complete"},!1);
 _.na();
 }catch(e){_._DumpException(e)}
 }).call(this,this.default_tr);
 // Google Inc.
 
-//# sourceURL=/_/translate_http/_/js/k=translate_http.tr.it.lGOx3hMgOf8.O/am=AIAB/d=1/rs=AN8SPfqZ_6o5s1DHx6XHVUIdbtaNPW_2cQ/m=el_conf
+//# sourceURL=/_/translate_http/_/js/k=translate_http.tr.it.hIJ3PCczPSY.O/am=AIAB/d=1/rs=AN8SPfpQ2QDwz1_zETQH4F6HkXejpz9t1Q/m=el_conf
     // Configure Constants
     (function(){
       let gtConstEvalStartTime = new Date();
-      if (_isNS('google.translate.Element')){
-        console.log('Element Configurator: Skip Element initialization');
-        return;
-      }
+      if (_isNS('google.translate.Element')){return}
 
       (function(){
         const c=_setupNS('google.translate._const');
 
         c._cest = gtConstEvalStartTime;
         gtConstEvalStartTime = undefined; // hide this eval start time constant
-
-        console.log('Element Configurator: Setting constants');
-  c._cl='it'; c._cuc='googleTranslateElementInit'; c._cef='\x5b\x5d'; c._cac=''; c._cam=''; c._cenv='prod'; c._cll='INFO'; c._ctkk='486123.984215599'; const h='translate.googleapis.com'; const oph='translate-pa.googleapis.com'; const s='https'+'://'; c._pah=h; c._pas=s; const b=s+'translate.googleapis.com'; const staticPath = '/translate_static/'; c._pci=b+staticPath+'img/te_ctrl3.gif'; c._pmi=b+staticPath+'img/mini_google.png'; c._pbi=b+staticPath+'img/te_bk.gif'; c._pli=b+staticPath+'img/loading.gif'; c._ps='https:\/\/www.gstatic.com\/_\/translate_http\/_\/ss\/k\x3dtranslate_http.tr.-q5RMtA6wjE.L.X.O\/am\x3dAIAB\/d\x3d0\/rs\x3dAN8SPfpgpwgcoy4Z6RGNsUZjO2xF2xOLtg\/m\x3del_main_css'; c._plla=oph+'\/v1\/supportedLanguages'; c._puh='translate.google.com';
-        console.log('Element Configurator: Setting no auto popup languages');
-      c._cnal={};
-        console.log('Element Configurator: Loading css and js');
-      _loadCss(c._ps); _loadJs('https:\/\/translate.googleapis.com\/_\/translate_http\/_\/js\/k\x3dtranslate_http.tr.it.lGOx3hMgOf8.O\/am\x3dAAAI\/d\x3d1\/exm\x3del_conf\/ed\x3d1\/rs\x3dAN8SPfpKNQ23q4ZUiHmxAp51JtANCgvnjQ\/m\x3del_main');
-      console.log('Element Configurator: Exporting messages and version');
-    _exportMessages(); _exportVersion('TE_20250611');
+  c._cl='it'; c._cuc='googleTranslateElementInit'; c._cef='\x5b0,0\x5d'; c._cac=''; c._cam=''; c._cenv='prod'; c._cll='INFO'; c._ctkk='486150.3854677435'; const h='translate.googleapis.com'; const oph='translate-pa.googleapis.com'; const s='https'+'://'; c._pah=h; c._pas=s; const b=s+'translate.googleapis.com'; const staticPath = '/translate_static/'; c._pci=b+staticPath+'img/te_ctrl3.gif'; c._pmi=b+staticPath+'img/mini_google.png'; c._pbi=b+staticPath+'img/te_bk.gif'; c._pli=b+staticPath+'img/loading.gif'; c._ps='https:\/\/www.gstatic.com\/_\/translate_http\/_\/ss\/k\x3dtranslate_http.tr.-q5RMtA6wjE.L.X.O\/am\x3dAIAB\/d\x3d0\/rs\x3dAN8SPfpgpwgcoy4Z6RGNsUZjO2xF2xOLtg\/m\x3del_main_css'; c._plla=oph+'\/v1\/supportedLanguages'; c._puh='translate.google.com';c._cnal={};_loadCss(c._ps); _loadJs('https:\/\/translate.googleapis.com\/_\/translate_http\/_\/js\/k\x3dtranslate_http.tr.it.hIJ3PCczPSY.O\/am\x3dAAAI\/d\x3d1\/exm\x3del_conf\/ed\x3d1\/rs\x3dAN8SPfp1Q9fzvOAVyVlInbzFzccDY0DSzg\/m\x3del_main');_exportMessages(); _exportVersion('TE_20250615');
         })();
       })();
   
