@@ -1,49 +1,84 @@
 ﻿@font-face {
-  font-family: 'Biryani';
-  font-style: normal;
-  font-weight: 200;
+  font-family: 'Alegreya';
+  font-style: italic;
+  font-weight: 400;
   font-display: swap;
-  src: url(s/biryani/v14/hv-TlzNxIFoO84YddYQyKTdYVw.ttf) format('truetype');
+  src: url(s/alegreya/v38/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlbgv5qhmSA-1.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Biryani';
-  font-style: normal;
-  font-weight: 300;
+  font-family: 'Alegreya';
+  font-style: italic;
+  font-weight: 500;
   font-display: swap;
-  src: url(s/biryani/v14/hv-TlzNxIFoO84YddeAxKTdYVw.ttf) format('truetype');
+  src: url(s/alegreya/v38/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlbSv5qhmSA-1.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Biryani';
+  font-family: 'Alegreya';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/alegreya/v38/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlY-uJqhmSA-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Alegreya';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/alegreya/v38/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlYHuJqhmSA-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Alegreya';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url(s/alegreya/v38/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlZguJqhmSA-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Alegreya';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(s/alegreya/v38/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlZJuJqhmSA-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Alegreya';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(s/biryani/v14/hv-WlzNxIFoO84YdfUsTOQ.ttf) format('truetype');
+  src: url(s/alegreya/v38/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNG9hU4-6qm-1.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Biryani';
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/alegreya/v38/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGxBU4-6qm-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Alegreya';
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(s/biryani/v14/hv-TlzNxIFoO84YddZQ3KTdYVw.ttf) format('truetype');
+  src: url(s/alegreya/v38/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGKBI4-6qm-1.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Biryani';
+  font-family: 'Alegreya';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(s/biryani/v14/hv-TlzNxIFoO84YddfA2KTdYVw.ttf) format('truetype');
+  src: url(s/alegreya/v38/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGERI4-6qm-1.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Biryani';
+  font-family: 'Alegreya';
   font-style: normal;
   font-weight: 800;
   font-display: swap;
-  src: url(s/biryani/v14/hv-TlzNxIFoO84Yddew1KTdYVw.ttf) format('truetype');
+  src: url(s/alegreya/v38/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGdhI4-6qm-1.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Biryani';
+  font-family: 'Alegreya';
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(s/biryani/v14/hv-TlzNxIFoO84Yddcg0KTdYVw.ttf) format('truetype');
+  src: url(s/alegreya/v38/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGXxI4-6qm-1.ttf) format('truetype');
 }

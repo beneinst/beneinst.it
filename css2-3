@@ -1,0 +1,56 @@
+﻿@font-face {
+  font-family: 'Audiowide';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/audiowide/v21/l7gdbjpo0cum0ckerWCtkQ-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bubblegum Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/bubblegumsans/v21/AYCSpXb_Z9EORv1M5QTjEzMEtdaH-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Chelsea Market';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/chelseamarket/v13/BCawqZsHqfr89WNP_IApC8tzKBhl-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Libre Barcode 39 Extended Text';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/librebarcode39extendedtext/v28/eLG1P_rwIgOiDA7yrs9LoKaYRVLQ1YldrrOnnL7xPO4jNP68fA-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Press Start 2P';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/pressstart2p/v15/e3t4euO8T-267oIAQAu6jDQyK0nS-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Share Tech Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/sharetechmono/v15/J7aHnp1uDWRBEqV98dVQztYldFc7pA-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'VT323';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/vt323/v17/pxiKyp0ihIEF2hsY-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Zen Dots';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/zendots/v13/XRXX3ICfm00IGoesQeaE-1.ttf) format('truetype');
+}
