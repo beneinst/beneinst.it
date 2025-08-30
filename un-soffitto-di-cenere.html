@@ -102,7 +102,7 @@ a:hover {
 	<style>#sp-footer{ background-image:url("images/sfondoolio1980.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:50% 50%; }</style>
 <script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?504da4"></script>
-	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http:\/\/192.168.163.136\/","base":"","baseFull":"http:\/\/192.168.163.136\/"},"csrf.token":"456d6a5940f0227bb089eb9f41807c67"}</script>
+	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http:\/\/192.168.163.136\/","base":"","baseFull":"http:\/\/192.168.163.136\/"},"csrf.token":"8e48a6b5aeb5e74b5e9f6b193a0e224d"}</script>
 	<script src="media/system/js/core.min.js?2cb912"></script>
 	<script src="media/vendor/bootstrap/js/alert.min.js?5.3.3" type="module"></script>
 	<script src="media/vendor/bootstrap/js/button.min.js?5.3.3" type="module"></script>
@@ -889,6 +889,9 @@ body:not(.homepage) .goog-te-gadget {
     display: none !important;
   }
 }
+hr.custom-hr {
+    display: none !important;
+}
 </style>
 			</head>
 	<body class="site helix-ultimate hu com_content com-content view-article layout-default task-none itemid-659 it-it ltr sticky-header layout-fluid offcanvas-init offcanvs-position-left">
@@ -1533,6 +1536,20 @@ function googleTranslateElementInit() {
     
   }
 }
+
+/* Nasconde la riga su schermi larghi */
+@media (min-width: 769px) {
+    .privacy-link-cell_1 {
+        display: none !important;
+    }
+}
+
+/* Mostra la riga solo su schermi piccoli */
+@media (max-width: 768px) {
+    .privacy-link-cell_1 {
+        display: table-cell !important;
+    }
+}
 </style>
 
 <table style="margin-left: 0px; margin-right: auto;">
@@ -1565,12 +1582,16 @@ function googleTranslateElementInit() {
 <td class="privacy-link-cell" style="height: 19.9375px; border-width: 0px; text-align: left;"><span style="color: rgb(15, 168, 157); font-size: 14px;"><span style="color: #ffffff;">©️ by-nc 2025</span> <a href="cc-by-nc-4-0-c-beneinst.html" rel="noopener noreferrer">Beneinst.</a> <span style="color: #ffffff;">Tutti i diritti riservati ✵ <a href="privacy-e-cookies-policy.html">Privacy e Cookie Policy</a></span></span></td>
 </tr>
 
+<td class="privacy-link-cell_1" style="height: 19.9375px; border-width: 0px; text-align: left;"><span style="color: rgb(15, 168, 157); font-size: 8px;"><span style="color: #ffffff;"></span> <a href="cc-by-nc-4-0-c-beneinst.html" rel="noopener noreferrer"></a> <span style="color: #ffffff;"><a href="privacy-e-cookies-policy.html"></a></span></span></td>
+
+
+
 </tbody>
 </table></div>
 </div></div></div></div><div id="sp-footer2" class="col-lg-6 "><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
 <div id="mod-custom319" class="mod-custom custom">
     <p> 
-    <img class="responsive-img" src="images/Componenti/beneinst36.png" width="78" height="78" loading="lazy" data-path="local-images:/Componenti/ic_ico2.png"> 
+    <img class="responsive-img" src="images/Componenti/beneinst36.png" width="80" height="80" loading="lazy" data-path="local-images:/Componenti/ic_ico2.png"> 
 </p> 
 
 <style> 
@@ -1580,14 +1601,27 @@ function googleTranslateElementInit() {
         margin-right: 0; 
       padding-top: 0px;
     } 
+  footer .responsive-img,
+#sp-footer .responsive-img {
+    padding-top: 0 !important;
+    margin-top: -11px !important;
+}
 
-    @media (max-width: 768px) { 
-        .responsive-img { 
-            margin-left: 0; 
-            margin-right: auto; 
-            padding-top: 10px; 
-          padding-bottom: 22px;
-        } 
+    @media (max-width: 768px) {
+    .responsive-img {
+        margin-left: 0;
+        margin-right: auto;
+        padding-top: 0 !important;
+        padding-bottom: 22px;
+        margin-top: 0 !important;
+    }
+
+    /* Crea uno spazio “virtuale” sopra l’immagine */
+    .responsive-img::before {
+        content: "";
+        display: block;
+        height: 10px; /* altezza simile a un <p> vuoto */
+    }
     } 
 </style>
 </div>
@@ -1637,7 +1671,36 @@ function googleTranslateElementInit() {
 	</div>
 </div>				
 
-		
+		<script>
+jQuery(document).ready(function($) {
+    var $shareBox = $('.article-ratings-social-share.d-flex');
+    var $target   = $('.related-article-list-container'); // elemento prima del quale inserire
+
+    if ($shareBox.length && $target.length) {
+        $shareBox.detach().insertBefore($target);
+    }
+});
+</script>
+<script>
+jQuery(document).ready(function($) {
+    var $shareBox = $('.article-ratings-social-share.d-flex');
+    var $related  = $('.related-article-list-container');
+
+    if ($shareBox.length && $related.length) {
+        // Crea la linea tratteggiata
+        $('<hr class="custom-dashed-line">').insertAfter($shareBox);
+    }
+});
+</script>
+
+<style>
+.custom-dashed-line {
+    border: none;
+    border-top: 1px dashed #717171;
+    margin: 18px 0 22px 0; /* 20px sopra, 10px sotto */
+}
+</style>
+
 		
 <div id="mod-custom419" class="mod-custom custom">
     <script type="text/javascript">

@@ -188,7 +188,7 @@ _.na();
 }).call(this,this.default_tr);
 // Google Inc.
 
-//# sourceURL=/_/translate_http/_/js/k=translate_http.tr.it.UiVDY2YqKg4.O/am=gMA/d=1/rs=AN8SPfr6YXt1Zl2oAApkIFA-XfuXG_4OXw/m=el_conf
+//# sourceURL=/_/translate_http/_/js/k=translate_http.tr.it.H92AImqKtIE.O/am=gMA/d=1/rs=AN8SPfp8ScygQ0ohPybd7F_UYw7P6ZjbqA/m=el_conf
     // Configure Constants
     (function(){
       let gtConstEvalStartTime = new Date();
@@ -199,7 +199,7 @@ _.na();
 
         c._cest = gtConstEvalStartTime;
         gtConstEvalStartTime = undefined; // hide this eval start time constant
-  c._cl='it'; c._cuc='googleTranslateElementInit'; c._cef='\x5b0,1,0\x5d'; c._cac=''; c._cam=''; c._cenv='prod'; c._cll='INFO'; c._ctkk='487890.551481812'; const h='translate.googleapis.com'; const oph='translate-pa.googleapis.com'; const s='https'+'://'; c._pah=h; c._pas=s; const b=s+'translate.googleapis.com'; const staticPath = '/translate_static/'; c._pci=b+staticPath+'img/te_ctrl3.gif'; c._pmi=b+staticPath+'img/mini_google.png'; c._pbi=b+staticPath+'img/te_bk.gif'; c._pli=b+staticPath+'img/loading.gif'; c._ps='https:\/\/www.gstatic.com\/_\/translate_http\/_\/ss\/k\x3dtranslate_http.tr.-q5RMtA6wjE.L.X.O\/am\x3dgMA\/d\x3d0\/rs\x3dAN8SPfqtQ_D_EH9SdWnMTx6DoLO-0hN4Hw\/m\x3del_main_css'; c._plla=oph+'\/v1\/supportedLanguages'; c._puh='translate.google.com';c._cnal={};_loadCss(c._ps); _loadJs('https:\/\/translate.googleapis.com\/_\/translate_http\/_\/js\/k\x3dtranslate_http.tr.it.UiVDY2YqKg4.O\/am\x3dAAAE\/d\x3d1\/exm\x3del_conf\/ed\x3d1\/rs\x3dAN8SPfr4wkqTuwcGva34kKKCsSADjYKDNQ\/m\x3del_main');_exportMessages(); _exportVersion('TE_20250825');
+  c._cl='it'; c._cuc='googleTranslateElementInit'; c._cef='\x5b0,1,0\x5d'; c._cac=''; c._cam=''; c._cenv='prod'; c._cll='INFO'; c._ctkk='487931.1728956107'; const h='translate.googleapis.com'; const oph='translate-pa.googleapis.com'; const s='https'+'://'; c._pah=h; c._pas=s; const b=s+'translate.googleapis.com'; const staticPath = '/translate_static/'; c._pci=b+staticPath+'img/te_ctrl3.gif'; c._pmi=b+staticPath+'img/mini_google.png'; c._pbi=b+staticPath+'img/te_bk.gif'; c._pli=b+staticPath+'img/loading.gif'; c._ps='https:\/\/www.gstatic.com\/_\/translate_http\/_\/ss\/k\x3dtranslate_http.tr.-q5RMtA6wjE.L.X.O\/am\x3dgMA\/d\x3d0\/rs\x3dAN8SPfqtQ_D_EH9SdWnMTx6DoLO-0hN4Hw\/m\x3del_main_css'; c._plla=oph+'\/v1\/supportedLanguages'; c._puh='translate.google.com';c._cnal={};_loadCss(c._ps); _loadJs('https:\/\/translate.googleapis.com\/_\/translate_http\/_\/js\/k\x3dtranslate_http.tr.it.H92AImqKtIE.O\/am\x3dAAAE\/d\x3d1\/exm\x3del_conf\/ed\x3d1\/rs\x3dAN8SPfrMGDvcpin9NTMtC0mjQsyjag2M3A\/m\x3del_main');_exportMessages(); _exportVersion('TE_20250827');
         })();
       })();
   
