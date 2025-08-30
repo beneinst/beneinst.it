@@ -255,38 +255,22 @@ File Name: D:\Siti GitHub\192.168.163.136\di-franco-bazzarelli.html
 Content Type: text/html
 
 Uri: http://192.168.163.136/di-franco-bazzarelli.html?view=article&id=197:quando-busserai-alla-mia-porta&catid=40
-File Name: D:\Siti GitHub\192.168.163.136\di-franco-bazzarelli-9.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-franco-bazzarelli.html?view=article&id=198:io-ti-ritrovo&catid=40
-File Name: D:\Siti GitHub\192.168.163.136\di-franco-bazzarelli-8.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-franco-bazzarelli.html?view=article&id=199:odio-quella-musica&catid=40
-File Name: D:\Siti GitHub\192.168.163.136\di-franco-bazzarelli-7.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-franco-bazzarelli.html?view=article&id=200:sui-risvegli-dellanima&catid=40
-File Name: D:\Siti GitHub\192.168.163.136\di-franco-bazzarelli-6.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-franco-bazzarelli.html?view=article&id=201:innocenza&catid=40
 File Name: D:\Siti GitHub\192.168.163.136\di-franco-bazzarelli-5.html
 Content Type: text/html
 
-Uri: http://192.168.163.136/di-franco-bazzarelli.html?view=article&id=202:ritrovero-il-sole&catid=40
+Uri: http://192.168.163.136/di-franco-bazzarelli.html?view=article&id=198:io-ti-ritrovo&catid=40
 File Name: D:\Siti GitHub\192.168.163.136\di-franco-bazzarelli-4.html
 Content Type: text/html
 
-Uri: http://192.168.163.136/di-franco-bazzarelli.html?view=article&id=203:parlami-quando-e-sera&catid=40
+Uri: http://192.168.163.136/di-franco-bazzarelli.html?view=article&id=199:odio-quella-musica&catid=40
 File Name: D:\Siti GitHub\192.168.163.136\di-franco-bazzarelli-3.html
 Content Type: text/html
 
-Uri: http://192.168.163.136/di-franco-bazzarelli.html?view=article&id=204:la-visione-dei-tuoi-occhi&catid=40
+Uri: http://192.168.163.136/di-franco-bazzarelli.html?view=article&id=200:sui-risvegli-dellanima&catid=40
 File Name: D:\Siti GitHub\192.168.163.136\di-franco-bazzarelli-2.html
 Content Type: text/html
 
-Uri: http://192.168.163.136/di-franco-bazzarelli.html?view=article&id=205:ritorna-a-brillare&catid=40
+Uri: http://192.168.163.136/di-franco-bazzarelli.html?view=article&id=201:innocenza&catid=40
 File Name: D:\Siti GitHub\192.168.163.136\di-franco-bazzarelli-1.html
 Content Type: text/html
 
@@ -307,70 +291,22 @@ File Name: D:\Siti GitHub\192.168.163.136\di-giuseppe-ambrosecchia.html
 Content Type: text/html
 
 Uri: http://192.168.163.136/di-giuseppe-ambrosecchia.html?view=article&id=207:piu-di-te-stesso&catid=41
-File Name: D:\Siti GitHub\192.168.163.136\di-giuseppe-ambrosecchia-17.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-giuseppe-ambrosecchia.html?view=article&id=208:identita-tradita&catid=41
-File Name: D:\Siti GitHub\192.168.163.136\di-giuseppe-ambrosecchia-16.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-giuseppe-ambrosecchia.html?view=article&id=209:uccelli-senzali&catid=41
-File Name: D:\Siti GitHub\192.168.163.136\di-giuseppe-ambrosecchia-15.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-giuseppe-ambrosecchia.html?view=article&id=210:gente-di-calabria&catid=41
-File Name: D:\Siti GitHub\192.168.163.136\di-giuseppe-ambrosecchia-14.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-giuseppe-ambrosecchia.html?view=article&id=211:lelisir-della-vita&catid=41
-File Name: D:\Siti GitHub\192.168.163.136\di-giuseppe-ambrosecchia-13.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-giuseppe-ambrosecchia.html?view=article&id=212:vecchie-conoscenze&catid=41
-File Name: D:\Siti GitHub\192.168.163.136\di-giuseppe-ambrosecchia-12.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-giuseppe-ambrosecchia.html?view=article&id=213:stella-del-mattino&catid=41
-File Name: D:\Siti GitHub\192.168.163.136\di-giuseppe-ambrosecchia-11.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-giuseppe-ambrosecchia.html?view=article&id=214:ricordo-valsinni&catid=41
-File Name: D:\Siti GitHub\192.168.163.136\di-giuseppe-ambrosecchia-10.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-giuseppe-ambrosecchia.html?view=article&id=215:madonna&catid=41
-File Name: D:\Siti GitHub\192.168.163.136\di-giuseppe-ambrosecchia-9.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-giuseppe-ambrosecchia.html?view=article&id=216:voli-di-rondinella&catid=41
-File Name: D:\Siti GitHub\192.168.163.136\di-giuseppe-ambrosecchia-8.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-giuseppe-ambrosecchia.html?view=article&id=217:un-viaggio-nel-tramonto&catid=41
-File Name: D:\Siti GitHub\192.168.163.136\di-giuseppe-ambrosecchia-7.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-giuseppe-ambrosecchia.html?view=article&id=218:monito&catid=41
-File Name: D:\Siti GitHub\192.168.163.136\di-giuseppe-ambrosecchia-6.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-giuseppe-ambrosecchia.html?view=article&id=220:io-ti-ho-cercato&catid=41
 File Name: D:\Siti GitHub\192.168.163.136\di-giuseppe-ambrosecchia-5.html
 Content Type: text/html
 
-Uri: http://192.168.163.136/di-giuseppe-ambrosecchia.html?view=article&id=221:linfermo&catid=41
+Uri: http://192.168.163.136/di-giuseppe-ambrosecchia.html?view=article&id=208:identita-tradita&catid=41
 File Name: D:\Siti GitHub\192.168.163.136\di-giuseppe-ambrosecchia-4.html
 Content Type: text/html
 
-Uri: http://192.168.163.136/di-giuseppe-ambrosecchia.html?view=article&id=222:intimita&catid=41
+Uri: http://192.168.163.136/di-giuseppe-ambrosecchia.html?view=article&id=209:uccelli-senzali&catid=41
 File Name: D:\Siti GitHub\192.168.163.136\di-giuseppe-ambrosecchia-3.html
 Content Type: text/html
 
-Uri: http://192.168.163.136/di-giuseppe-ambrosecchia.html?view=article&id=223:senilita&catid=41
+Uri: http://192.168.163.136/di-giuseppe-ambrosecchia.html?view=article&id=210:gente-di-calabria&catid=41
 File Name: D:\Siti GitHub\192.168.163.136\di-giuseppe-ambrosecchia-2.html
 Content Type: text/html
 
-Uri: http://192.168.163.136/di-giuseppe-ambrosecchia.html?view=article&id=224:la-festuca-nel-becco-della-gazza&catid=41
+Uri: http://192.168.163.136/di-giuseppe-ambrosecchia.html?view=article&id=211:lelisir-della-vita&catid=41
 File Name: D:\Siti GitHub\192.168.163.136\di-giuseppe-ambrosecchia-1.html
 Content Type: text/html
 
@@ -439,26 +375,22 @@ File Name: D:\Siti GitHub\192.168.163.136\di-rocco-veltri.html
 Content Type: text/html
 
 Uri: http://192.168.163.136/di-rocco-veltri.html?view=article&id=225:la-mamma-sorgente-della-sua-vocazione&catid=42
-File Name: D:\Siti GitHub\192.168.163.136\di-rocco-veltri-6.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-rocco-veltri.html?view=article&id=226:e-io-me-ne-andro&catid=42
 File Name: D:\Siti GitHub\192.168.163.136\di-rocco-veltri-5.html
 Content Type: text/html
 
-Uri: http://192.168.163.136/di-rocco-veltri.html?view=article&id=227:ci-sono-tante-nuvole-nel-firmamento&catid=42
+Uri: http://192.168.163.136/di-rocco-veltri.html?view=article&id=226:e-io-me-ne-andro&catid=42
 File Name: D:\Siti GitHub\192.168.163.136\di-rocco-veltri-4.html
 Content Type: text/html
 
-Uri: http://192.168.163.136/di-rocco-veltri.html?view=article&id=228:il-fazzoletto&catid=42
+Uri: http://192.168.163.136/di-rocco-veltri.html?view=article&id=227:ci-sono-tante-nuvole-nel-firmamento&catid=42
 File Name: D:\Siti GitHub\192.168.163.136\di-rocco-veltri-3.html
 Content Type: text/html
 
-Uri: http://192.168.163.136/di-rocco-veltri.html?view=article&id=229:come-te-non-ce-nessuno&catid=42
+Uri: http://192.168.163.136/di-rocco-veltri.html?view=article&id=228:il-fazzoletto&catid=42
 File Name: D:\Siti GitHub\192.168.163.136\di-rocco-veltri-2.html
 Content Type: text/html
 
-Uri: http://192.168.163.136/di-rocco-veltri.html?view=article&id=230:giudicare-una-commedia&catid=42
+Uri: http://192.168.163.136/di-rocco-veltri.html?view=article&id=229:come-te-non-ce-nessuno&catid=42
 File Name: D:\Siti GitHub\192.168.163.136\di-rocco-veltri-1.html
 Content Type: text/html
 
@@ -475,38 +407,22 @@ File Name: D:\Siti GitHub\192.168.163.136\di-salvatore-esposito.html
 Content Type: text/html
 
 Uri: http://192.168.163.136/di-salvatore-esposito.html?view=article&id=187:e-se-un-giorno&catid=39
-File Name: D:\Siti GitHub\192.168.163.136\di-salvatore-esposito-9.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-salvatore-esposito.html?view=article&id=188:ansia&catid=39
-File Name: D:\Siti GitHub\192.168.163.136\di-salvatore-esposito-8.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-salvatore-esposito.html?view=article&id=189:pennellate-di-vita&catid=39
-File Name: D:\Siti GitHub\192.168.163.136\di-salvatore-esposito-7.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-salvatore-esposito.html?view=article&id=190:labbra-dorate&catid=39
-File Name: D:\Siti GitHub\192.168.163.136\di-salvatore-esposito-6.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-salvatore-esposito.html?view=article&id=191:fuori&catid=39
 File Name: D:\Siti GitHub\192.168.163.136\di-salvatore-esposito-5.html
 Content Type: text/html
 
-Uri: http://192.168.163.136/di-salvatore-esposito.html?view=article&id=192:terra-jonia&catid=39
+Uri: http://192.168.163.136/di-salvatore-esposito.html?view=article&id=188:ansia&catid=39
 File Name: D:\Siti GitHub\192.168.163.136\di-salvatore-esposito-4.html
 Content Type: text/html
 
-Uri: http://192.168.163.136/di-salvatore-esposito.html?view=article&id=193:mille-emozioni&catid=39
+Uri: http://192.168.163.136/di-salvatore-esposito.html?view=article&id=189:pennellate-di-vita&catid=39
 File Name: D:\Siti GitHub\192.168.163.136\di-salvatore-esposito-3.html
 Content Type: text/html
 
-Uri: http://192.168.163.136/di-salvatore-esposito.html?view=article&id=194:tu-per-me&catid=39
+Uri: http://192.168.163.136/di-salvatore-esposito.html?view=article&id=190:labbra-dorate&catid=39
 File Name: D:\Siti GitHub\192.168.163.136\di-salvatore-esposito-2.html
 Content Type: text/html
 
-Uri: http://192.168.163.136/di-salvatore-esposito.html?view=article&id=195:luce&catid=39
+Uri: http://192.168.163.136/di-salvatore-esposito.html?view=article&id=191:fuori&catid=39
 File Name: D:\Siti GitHub\192.168.163.136\di-salvatore-esposito-1.html
 Content Type: text/html
 
@@ -515,74 +431,18 @@ File Name: D:\Siti GitHub\192.168.163.136\di-salvatore-messina.html
 Content Type: text/html
 
 Uri: http://192.168.163.136/di-salvatore-messina.html?view=article&id=162:non-ce-armonia&catid=37
-File Name: D:\Siti GitHub\192.168.163.136\di-salvatore-messina-18.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-salvatore-messina.html?view=article&id=163:il-giorno-si-perpetua&catid=37
-File Name: D:\Siti GitHub\192.168.163.136\di-salvatore-messina-17.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-salvatore-messina.html?view=article&id=164:silente-e-solitario&catid=37
-File Name: D:\Siti GitHub\192.168.163.136\di-salvatore-messina-16.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-salvatore-messina.html?view=article&id=165:quelle-comandate-dal-cielo&catid=37
-File Name: D:\Siti GitHub\192.168.163.136\di-salvatore-messina-15.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-salvatore-messina.html?view=article&id=167:come-un-bambino&catid=37
-File Name: D:\Siti GitHub\192.168.163.136\di-salvatore-messina-14.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-salvatore-messina.html?view=article&id=168:baci-ed-orgasmi&catid=37
-File Name: D:\Siti GitHub\192.168.163.136\di-salvatore-messina-13.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-salvatore-messina.html?view=article&id=169:diversamente-abile&catid=37
-File Name: D:\Siti GitHub\192.168.163.136\di-salvatore-messina-12.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-salvatore-messina.html?view=article&id=170:lasciami-il-tuo-sorriso&catid=37
-File Name: D:\Siti GitHub\192.168.163.136\di-salvatore-messina-11.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-salvatore-messina.html?view=article&id=171:zeroquarantotto&catid=37
-File Name: D:\Siti GitHub\192.168.163.136\di-salvatore-messina-10.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-salvatore-messina.html?view=article&id=172:dovio-mappiglio&catid=37
-File Name: D:\Siti GitHub\192.168.163.136\di-salvatore-messina-9.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-salvatore-messina.html?view=article&id=173:tu-che-non-sai&catid=37
-File Name: D:\Siti GitHub\192.168.163.136\di-salvatore-messina-8.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-salvatore-messina.html?view=article&id=174:lalba&catid=37
-File Name: D:\Siti GitHub\192.168.163.136\di-salvatore-messina-7.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-salvatore-messina.html?view=article&id=175:mio-figlio&catid=37
-File Name: D:\Siti GitHub\192.168.163.136\di-salvatore-messina-6.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-salvatore-messina.html?view=article&id=176:volo&catid=37
-File Name: D:\Siti GitHub\192.168.163.136\di-salvatore-messina-5.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/di-salvatore-messina.html?view=article&id=177:dei-figli-miei-dei-figli-vostri&catid=37
 File Name: D:\Siti GitHub\192.168.163.136\di-salvatore-messina-4.html
 Content Type: text/html
 
-Uri: http://192.168.163.136/di-salvatore-messina.html?view=article&id=178:la-valle-delle-mele&catid=37
+Uri: http://192.168.163.136/di-salvatore-messina.html?view=article&id=163:il-giorno-si-perpetua&catid=37
 File Name: D:\Siti GitHub\192.168.163.136\di-salvatore-messina-3.html
 Content Type: text/html
 
-Uri: http://192.168.163.136/di-salvatore-messina.html?view=article&id=179:esterno&catid=37
+Uri: http://192.168.163.136/di-salvatore-messina.html?view=article&id=164:silente-e-solitario&catid=37
 File Name: D:\Siti GitHub\192.168.163.136\di-salvatore-messina-2.html
 Content Type: text/html
 
-Uri: http://192.168.163.136/di-salvatore-messina.html?view=article&id=180:per-quattro-soldi&catid=37
+Uri: http://192.168.163.136/di-salvatore-messina.html?view=article&id=165:quelle-comandate-dal-cielo&catid=37
 File Name: D:\Siti GitHub\192.168.163.136\di-salvatore-messina-1.html
 Content Type: text/html
 
@@ -1170,14 +1030,6 @@ Uri: http://192.168.163.136/images/2025/02/20/a22.png
 File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\a22.png
 Content Type: image/png
 
-Uri: http://192.168.163.136/images/2025/02/20/a4.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\a4.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/a41.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\a41.png
-Content Type: image/png
-
 Uri: http://192.168.163.136/images/2025/02/20/a410.png
 File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\a410.png
 Content Type: image/png
@@ -1188,26 +1040,6 @@ Content Type: image/png
 
 Uri: http://192.168.163.136/images/2025/02/20/a412.png
 File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\a412.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/a42.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\a42.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/a43.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\a43.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/a44.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\a44.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/a45.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\a45.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/a46.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\a46.png
 Content Type: image/png
 
 Uri: http://192.168.163.136/images/2025/02/20/a47.png
@@ -1354,30 +1186,6 @@ Uri: http://192.168.163.136/images/2025/02/20/OIG1k77.png
 File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG1k77.png
 Content Type: image/png
 
-Uri: http://192.168.163.136/images/2025/02/20/OIG2-(5)14_edited7.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-(5)14_edited7.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/OIG2-(5)14_edited71.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-(5)14_edited71.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/OIG2-(5)14_edited710.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-(5)14_edited710.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/OIG2-(5)14_edited711.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-(5)14_edited711.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/OIG2-(5)14_edited712.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-(5)14_edited712.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/OIG2-(5)14_edited713.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-(5)14_edited713.png
-Content Type: image/png
-
 Uri: http://192.168.163.136/images/2025/02/20/OIG2-(5)14_edited714.png
 File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-(5)14_edited714.png
 Content Type: image/png
@@ -1396,62 +1204,6 @@ Content Type: image/png
 
 Uri: http://192.168.163.136/images/2025/02/20/OIG2-(5)14_edited718.png
 File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-(5)14_edited718.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/OIG2-(5)14_edited72.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-(5)14_edited72.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/OIG2-(5)14_edited73.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-(5)14_edited73.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/OIG2-(5)14_edited74.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-(5)14_edited74.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/OIG2-(5)14_edited75.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-(5)14_edited75.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/OIG2-(5)14_edited76.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-(5)14_edited76.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/OIG2-(5)14_edited77.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-(5)14_edited77.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/OIG2-(5)14_edited78.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-(5)14_edited78.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/OIG2-(5)14_edited79.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-(5)14_edited79.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/OIG2-(7)ambro5_edited82.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-(7)ambro5_edited82.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/OIG2-(7)ambro5_edited821.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-(7)ambro5_edited821.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/OIG2-(7)ambro5_edited8210.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-(7)ambro5_edited8210.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/OIG2-(7)ambro5_edited8211.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-(7)ambro5_edited8211.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/OIG2-(7)ambro5_edited8212.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-(7)ambro5_edited8212.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/OIG2-(7)ambro5_edited8213.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-(7)ambro5_edited8213.png
 Content Type: image/png
 
 Uri: http://192.168.163.136/images/2025/02/20/OIG2-(7)ambro5_edited8214.png
@@ -1474,52 +1226,12 @@ Uri: http://192.168.163.136/images/2025/02/20/OIG2-(7)ambro5_edited8218.png
 File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-(7)ambro5_edited8218.png
 Content Type: image/png
 
-Uri: http://192.168.163.136/images/2025/02/20/OIG2-(7)ambro5_edited822.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-(7)ambro5_edited822.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/OIG2-(7)ambro5_edited824.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-(7)ambro5_edited824.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/OIG2-(7)ambro5_edited825.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-(7)ambro5_edited825.png
-Content Type: image/png
-
 Uri: http://192.168.163.136/images/2025/02/20/OIG2-(7)ambro5_edited826.png
 File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-(7)ambro5_edited826.png
 Content Type: image/png
 
-Uri: http://192.168.163.136/images/2025/02/20/OIG2-(7)ambro5_edited827.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-(7)ambro5_edited827.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/OIG2-(7)ambro5_edited828.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-(7)ambro5_edited828.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/OIG2-(7)ambro5_edited829.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-(7)ambro5_edited829.png
-Content Type: image/png
-
 Uri: http://192.168.163.136/images/2025/02/20/OIG2-salvatore78.png
 File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-salvatore78.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/OIG2-salvatore781.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-salvatore781.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/OIG2-salvatore782.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-salvatore782.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/OIG2-salvatore783.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-salvatore783.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/OIG2-salvatore784.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG2-salvatore784.png
 Content Type: image/png
 
 Uri: http://192.168.163.136/images/2025/02/20/OIG2-salvatore785.png
@@ -1548,10 +1260,6 @@ Content Type: image/png
 
 Uri: http://192.168.163.136/images/2025/02/20/OIG3-(1)_edited67.png
 File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG3-(1)_edited67.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/20/OIG3-(3)_edited777.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\20\OIG3-(3)_edited777.png
 Content Type: image/png
 
 Uri: http://192.168.163.136/images/2025/02/20/OIG36_edited77.png
@@ -1622,10 +1330,6 @@ Uri: http://192.168.163.136/images/2025/02/21/12q.png
 File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\21\12q.png
 Content Type: image/png
 
-Uri: http://192.168.163.136/images/2025/02/21/13q.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\21\13q.png
-Content Type: image/png
-
 Uri: http://192.168.163.136/images/2025/02/21/14q.png
 File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\21\14q.png
 Content Type: image/png
@@ -1644,10 +1348,6 @@ Content Type: image/png
 
 Uri: http://192.168.163.136/images/2025/02/21/1a6.png
 File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\21\1a6.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/21/1a7.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\21\1a7.png
 Content Type: image/png
 
 Uri: http://192.168.163.136/images/2025/02/21/1aa1.png
@@ -1678,22 +1378,6 @@ Uri: http://192.168.163.136/images/2025/02/21/1aaa12.png
 File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\21\1aaa12.png
 Content Type: image/png
 
-Uri: http://192.168.163.136/images/2025/02/21/1aaa13.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\21\1aaa13.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/21/1aaa14.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\21\1aaa14.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/21/1aaa15.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\21\1aaa15.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/21/1aaa16.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\21\1aaa16.png
-Content Type: image/png
-
 Uri: http://192.168.163.136/images/2025/02/21/1aaa17.png
 File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\21\1aaa17.png
 Content Type: image/png
@@ -1720,10 +1404,6 @@ Content Type: image/png
 
 Uri: http://192.168.163.136/images/2025/02/21/1aaa51.png
 File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\21\1aaa51.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/21/1aaa6.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\21\1aaa6.png
 Content Type: image/png
 
 Uri: http://192.168.163.136/images/2025/02/21/1aaa7.png
@@ -1800,10 +1480,6 @@ Content Type: image/png
 
 Uri: http://192.168.163.136/images/2025/02/21/a21.png
 File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\21\a21.png
-Content Type: image/png
-
-Uri: http://192.168.163.136/images/2025/02/21/cd4.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\21\cd4.png
 Content Type: image/png
 
 Uri: http://192.168.163.136/images/2025/02/21/diarihp.png
@@ -1937,6 +1613,22 @@ Content Type: image/png
 Uri: http://192.168.163.136/images/2025/06/17/logohome.jpg
 File Name: D:\Siti GitHub\192.168.163.136\images\2025\06\17\logohome.jpg
 Content Type: image/jpeg
+
+Uri: http://192.168.163.136/images/2025/08/30/1a7chiaro4.png
+File Name: D:\Siti GitHub\192.168.163.136\images\2025\08\30\1a7chiaro4.png
+Content Type: image/png
+
+Uri: http://192.168.163.136/images/2025/08/30/c2olo2.jpg
+File Name: D:\Siti GitHub\192.168.163.136\images\2025\08\30\c2olo2.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.163.136/images/2025/08/30/codiciemi3n.jpg
+File Name: D:\Siti GitHub\192.168.163.136\images\2025\08\30\codiciemi3n.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.163.136/images/2025/08/30/OIG3-(3)_edited777chiaro.png
+File Name: D:\Siti GitHub\192.168.163.136\images\2025\08\30\OIG3-(3)_edited777chiaro.png
+Content Type: image/png
 
 Uri: http://192.168.163.136/images/Beneinst-OndeLetterarie.mp4
 File Name: D:\Siti GitHub\192.168.163.136\images\Beneinst-OndeLetterarie.mp4
@@ -4015,50 +3707,22 @@ File Name: D:\Siti GitHub\192.168.163.136\poesie-di-rocco-veltri.html
 Content Type: text/html
 
 Uri: http://192.168.163.136/poesie-di-rocco-veltri.html?view=article&id=137:purtroppo-ero-solo&catid=33
-File Name: D:\Siti GitHub\192.168.163.136\poesie-di-rocco-veltri-12.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/poesie-di-rocco-veltri.html?view=article&id=138:vorrei-vivere-felicemente&catid=33
-File Name: D:\Siti GitHub\192.168.163.136\poesie-di-rocco-veltri-11.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/poesie-di-rocco-veltri.html?view=article&id=139:nulla-di-tutto-cio-che-hai-ti-appartiene&catid=33
-File Name: D:\Siti GitHub\192.168.163.136\poesie-di-rocco-veltri-10.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/poesie-di-rocco-veltri.html?view=article&id=140:limportanza-degli-accessori&catid=33
-File Name: D:\Siti GitHub\192.168.163.136\poesie-di-rocco-veltri-9.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/poesie-di-rocco-veltri.html?view=article&id=141:nessuno-si-salva-se-non-sa-perdonar&catid=33
-File Name: D:\Siti GitHub\192.168.163.136\poesie-di-rocco-veltri-8.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/poesie-di-rocco-veltri.html?view=article&id=143:easter-2019&catid=33
-File Name: D:\Siti GitHub\192.168.163.136\poesie-di-rocco-veltri-7.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/poesie-di-rocco-veltri.html?view=article&id=144:le-mamme-sono-il-fulcro-della-famiglia&catid=33
-File Name: D:\Siti GitHub\192.168.163.136\poesie-di-rocco-veltri-6.html
-Content Type: text/html
-
-Uri: http://192.168.163.136/poesie-di-rocco-veltri.html?view=article&id=145:the-poem-of-adriana&catid=33
 File Name: D:\Siti GitHub\192.168.163.136\poesie-di-rocco-veltri-5.html
 Content Type: text/html
 
-Uri: http://192.168.163.136/poesie-di-rocco-veltri.html?view=article&id=146:lasciu-la-terra-mia&catid=33
+Uri: http://192.168.163.136/poesie-di-rocco-veltri.html?view=article&id=138:vorrei-vivere-felicemente&catid=33
 File Name: D:\Siti GitHub\192.168.163.136\poesie-di-rocco-veltri-4.html
 Content Type: text/html
 
-Uri: http://192.168.163.136/poesie-di-rocco-veltri.html?view=article&id=147:quello-che-sento-nel-mio-cuore&catid=33
+Uri: http://192.168.163.136/poesie-di-rocco-veltri.html?view=article&id=139:nulla-di-tutto-cio-che-hai-ti-appartiene&catid=33
 File Name: D:\Siti GitHub\192.168.163.136\poesie-di-rocco-veltri-3.html
 Content Type: text/html
 
-Uri: http://192.168.163.136/poesie-di-rocco-veltri.html?view=article&id=148:lamore-trionfa-ancora&catid=33
+Uri: http://192.168.163.136/poesie-di-rocco-veltri.html?view=article&id=140:limportanza-degli-accessori&catid=33
 File Name: D:\Siti GitHub\192.168.163.136\poesie-di-rocco-veltri-2.html
 Content Type: text/html
 
-Uri: http://192.168.163.136/poesie-di-rocco-veltri.html?view=article&id=149:io-credo-nellamore&catid=33
+Uri: http://192.168.163.136/poesie-di-rocco-veltri.html?view=article&id=141:nessuno-si-salva-se-non-sa-perdonar&catid=33
 File Name: D:\Siti GitHub\192.168.163.136\poesie-di-rocco-veltri-1.html
 Content Type: text/html
 
