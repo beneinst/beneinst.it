@@ -970,48 +970,16 @@ Uri: http://192.168.163.136/images/2024/12/09/1es6.jpg
 File Name: D:\Siti GitHub\192.168.163.136\images\2024\12\09\1es6.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.136/images/2024/12/09/1w6.jpg
-File Name: D:\Siti GitHub\192.168.163.136\images\2024\12\09\1w6.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.136/images/2024/12/09/2es.jpg
 File Name: D:\Siti GitHub\192.168.163.136\images\2024\12\09\2es.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.136/images/2024/12/09/2w6.jpg
-File Name: D:\Siti GitHub\192.168.163.136\images\2024\12\09\2w6.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.136/images/2024/12/09/3en6.jpg
 File Name: D:\Siti GitHub\192.168.163.136\images\2024\12\09\3en6.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.163.136/images/2024/12/09/3w6.jpg
-File Name: D:\Siti GitHub\192.168.163.136\images\2024\12\09\3w6.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.136/images/2024/12/09/4fr6.jpg
 File Name: D:\Siti GitHub\192.168.163.136\images\2024\12\09\4fr6.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.136/images/2024/12/09/4w.jpg
-File Name: D:\Siti GitHub\192.168.163.136\images\2024\12\09\4w.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.136/images/2024/12/09/5w6.jpg
-File Name: D:\Siti GitHub\192.168.163.136\images\2024\12\09\5w6.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.136/images/2024/12/09/6w6.jpg
-File Name: D:\Siti GitHub\192.168.163.136\images\2024\12\09\6w6.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.136/images/2024/12/09/7w6.jpg
-File Name: D:\Siti GitHub\192.168.163.136\images\2024\12\09\7w6.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.136/images/2024/12/09/8w6.jpg
-File Name: D:\Siti GitHub\192.168.163.136\images\2024\12\09\8w6.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.136/images/2024/12/10/dvdvdv6.jpg
@@ -1538,10 +1506,6 @@ Uri: http://192.168.163.136/images/2025/02/21/OIG4-_1__edited-removebg-preview1.
 File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\21\OIG4-_1__edited-removebg-preview1.png
 Content Type: image/png
 
-Uri: http://192.168.163.136/images/2025/02/21/rounded-in-photoretrica-85.png
-File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\21\rounded-in-photoretrica-85.png
-Content Type: image/png
-
 Uri: http://192.168.163.136/images/2025/02/21/sedp2.png
 File Name: D:\Siti GitHub\192.168.163.136\images\2025\02\21\sedp2.png
 Content Type: image/png
@@ -1617,6 +1581,42 @@ Content Type: image/jpeg
 Uri: http://192.168.163.136/images/2025/08/30/1a7chiaro4.png
 File Name: D:\Siti GitHub\192.168.163.136\images\2025\08\30\1a7chiaro4.png
 Content Type: image/png
+
+Uri: http://192.168.163.136/images/2025/08/30/1w.png
+File Name: D:\Siti GitHub\192.168.163.136\images\2025\08\30\1w.png
+Content Type: image/png
+
+Uri: http://192.168.163.136/images/2025/08/30/2w.png
+File Name: D:\Siti GitHub\192.168.163.136\images\2025\08\30\2w.png
+Content Type: image/png
+
+Uri: http://192.168.163.136/images/2025/08/30/3w.png
+File Name: D:\Siti GitHub\192.168.163.136\images\2025\08\30\3w.png
+Content Type: image/png
+
+Uri: http://192.168.163.136/images/2025/08/30/4w.png
+File Name: D:\Siti GitHub\192.168.163.136\images\2025\08\30\4w.png
+Content Type: image/png
+
+Uri: http://192.168.163.136/images/2025/08/30/5w.png
+File Name: D:\Siti GitHub\192.168.163.136\images\2025\08\30\5w.png
+Content Type: image/png
+
+Uri: http://192.168.163.136/images/2025/08/30/6w.png
+File Name: D:\Siti GitHub\192.168.163.136\images\2025\08\30\6w.png
+Content Type: image/png
+
+Uri: http://192.168.163.136/images/2025/08/30/7w.png
+File Name: D:\Siti GitHub\192.168.163.136\images\2025\08\30\7w.png
+Content Type: image/png
+
+Uri: http://192.168.163.136/images/2025/08/30/8w.png
+File Name: D:\Siti GitHub\192.168.163.136\images\2025\08\30\8w.png
+Content Type: image/png
+
+Uri: http://192.168.163.136/images/2025/08/30/audiob2t2.jpg
+File Name: D:\Siti GitHub\192.168.163.136\images\2025\08\30\audiob2t2.jpg
+Content Type: image/jpeg
 
 Uri: http://192.168.163.136/images/2025/08/30/c2olo2.jpg
 File Name: D:\Siti GitHub\192.168.163.136\images\2025\08\30\c2olo2.jpg
@@ -3546,7 +3546,7 @@ Uri: http://192.168.163.136/luigi-pirandello.html
 File Name: D:\Siti GitHub\192.168.163.136\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.163.136/media/com_wrapper/js/iframe-height.min.js?77eb35
+Uri: http://192.168.163.136/media/com_wrapper/js/iframe-height.min.js?3cae0a
 File Name: D:\Siti GitHub\192.168.163.136\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
