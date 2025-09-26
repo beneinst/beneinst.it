@@ -130,11 +130,11 @@ Uri: http://192.168.163.136/charles-baudelaire.html
 File Name: D:\Siti GitHub\192.168.163.136\charles-baudelaire.html
 Content Type: text/html
 
-Uri: http://192.168.163.136/components/com_sppagebuilder/assets/css/animate.min.css?032af75ad5933f9f9a025db2a15c10bb
+Uri: http://192.168.163.136/components/com_sppagebuilder/assets/css/animate.min.css?0e5604f912273ef185ac02e47b9a1bbb
 File Name: D:\Siti GitHub\192.168.163.136\components\com_sppagebuilder\assets\css\animate.min.css
 Content Type: text/css
 
-Uri: http://192.168.163.136/components/com_sppagebuilder/assets/css/dynamic-content.css?032af75ad5933f9f9a025db2a15c10bb
+Uri: http://192.168.163.136/components/com_sppagebuilder/assets/css/dynamic-content.css?0e5604f912273ef185ac02e47b9a1bbb
 File Name: D:\Siti GitHub\192.168.163.136\components\com_sppagebuilder\assets\css\dynamic-content.css
 Content Type: text/css
 
@@ -142,7 +142,7 @@ Uri: http://192.168.163.136/components/com_sppagebuilder/assets/css/magnific-pop
 File Name: D:\Siti GitHub\192.168.163.136\components\com_sppagebuilder\assets\css\magnific-popup.css
 Content Type: text/css
 
-Uri: http://192.168.163.136/components/com_sppagebuilder/assets/css/sppagebuilder.css?032af75ad5933f9f9a025db2a15c10bb
+Uri: http://192.168.163.136/components/com_sppagebuilder/assets/css/sppagebuilder.css?0e5604f912273ef185ac02e47b9a1bbb
 File Name: D:\Siti GitHub\192.168.163.136\components\com_sppagebuilder\assets\css\sppagebuilder.css
 Content Type: text/css
 
@@ -158,7 +158,7 @@ Uri: http://192.168.163.136/components/com_sppagebuilder/assets/js/common.js
 File Name: D:\Siti GitHub\192.168.163.136\components\com_sppagebuilder\assets\js\common.js
 Content Type: application/javascript
 
-Uri: http://192.168.163.136/components/com_sppagebuilder/assets/js/dynamic-content.js?032af75ad5933f9f9a025db2a15c10bb
+Uri: http://192.168.163.136/components/com_sppagebuilder/assets/js/dynamic-content.js?0e5604f912273ef185ac02e47b9a1bbb
 File Name: D:\Siti GitHub\192.168.163.136\components\com_sppagebuilder\assets\js\dynamic-content.js
 Content Type: application/javascript
 
@@ -166,11 +166,11 @@ Uri: http://192.168.163.136/components/com_sppagebuilder/assets/js/jquery.magnif
 File Name: D:\Siti GitHub\192.168.163.136\components\com_sppagebuilder\assets\js\jquery.magnific-popup.min.js
 Content Type: application/javascript
 
-Uri: http://192.168.163.136/components/com_sppagebuilder/assets/js/jquery.parallax.js?032af75ad5933f9f9a025db2a15c10bb
+Uri: http://192.168.163.136/components/com_sppagebuilder/assets/js/jquery.parallax.js?0e5604f912273ef185ac02e47b9a1bbb
 File Name: D:\Siti GitHub\192.168.163.136\components\com_sppagebuilder\assets\js\jquery.parallax.js
 Content Type: application/javascript
 
-Uri: http://192.168.163.136/components/com_sppagebuilder/assets/js/sppagebuilder.js?032af75ad5933f9f9a025db2a15c10bb
+Uri: http://192.168.163.136/components/com_sppagebuilder/assets/js/sppagebuilder.js?0e5604f912273ef185ac02e47b9a1bbb
 File Name: D:\Siti GitHub\192.168.163.136\components\com_sppagebuilder\assets\js\sppagebuilder.js
 Content Type: application/javascript
 
@@ -3546,7 +3546,7 @@ Uri: http://192.168.163.136/luigi-pirandello.html
 File Name: D:\Siti GitHub\192.168.163.136\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.163.136/media/com_wrapper/js/iframe-height.min.js?3cae0a
+Uri: http://192.168.163.136/media/com_wrapper/js/iframe-height.min.js?6af1f0
 File Name: D:\Siti GitHub\192.168.163.136\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -3802,48 +3802,48 @@ Uri: http://fonts.googleapis.com/css?family=Homenaje:100,100i,200,200i,300,300i,
 File Name: D:\Siti GitHub\192.168.163.136\css-1
 Content Type: text/css
 
-Uri: http://fonts.gstatic.com/s/bigshoulderstext/v27/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3b2q7TUFMg.ttf
-File Name: D:\Siti GitHub\192.168.163.136\s\bigshoulderstext\v27\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3b2q7TUFMg.ttf
+Uri: http://fonts.gstatic.com/s/bigshoulderstext/v28/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3b2q7TUFMg.ttf
+File Name: D:\Siti GitHub\192.168.163.136\s\bigshoulderstext\v28\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3b2q7TUFMg.ttf
 Content Type: font/ttf
 
-Uri: http://fonts.gstatic.com/s/bigshoulderstext/v27/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3dGq7TUFMg.ttf
-File Name: D:\Siti GitHub\192.168.163.136\s\bigshoulderstext\v27\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3dGq7TUFMg.ttf
+Uri: http://fonts.gstatic.com/s/bigshoulderstext/v28/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3dGq7TUFMg.ttf
+File Name: D:\Siti GitHub\192.168.163.136\s\bigshoulderstext\v28\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3dGq7TUFMg.ttf
 Content Type: font/ttf
 
-Uri: http://fonts.gstatic.com/s/bigshoulderstext/v27/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-q7TUFMg.ttf
-File Name: D:\Siti GitHub\192.168.163.136\s\bigshoulderstext\v27\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-q7TUFMg.ttf
+Uri: http://fonts.gstatic.com/s/bigshoulderstext/v28/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-q7TUFMg.ttf
+File Name: D:\Siti GitHub\192.168.163.136\s\bigshoulderstext\v28\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-q7TUFMg.ttf
 Content Type: font/ttf
 
-Uri: http://fonts.gstatic.com/s/bigshoulderstext/v27/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-t7TUFMg.ttf
-File Name: D:\Siti GitHub\192.168.163.136\s\bigshoulderstext\v27\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-t7TUFMg.ttf
+Uri: http://fonts.gstatic.com/s/bigshoulderstext/v28/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-t7TUFMg.ttf
+File Name: D:\Siti GitHub\192.168.163.136\s\bigshoulderstext\v28\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-t7TUFMg.ttf
 Content Type: font/ttf
 
-Uri: http://fonts.gstatic.com/s/bigshoulderstext/v27/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Sat7TUFMg.ttf
-File Name: D:\Siti GitHub\192.168.163.136\s\bigshoulderstext\v27\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Sat7TUFMg.ttf
+Uri: http://fonts.gstatic.com/s/bigshoulderstext/v28/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Sat7TUFMg.ttf
+File Name: D:\Siti GitHub\192.168.163.136\s\bigshoulderstext\v28\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Sat7TUFMg.ttf
 Content Type: font/ttf
 
-Uri: http://fonts.gstatic.com/s/bigshoulderstext/v27/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3VGt7TUFMg.ttf
-File Name: D:\Siti GitHub\192.168.163.136\s\bigshoulderstext\v27\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3VGt7TUFMg.ttf
+Uri: http://fonts.gstatic.com/s/bigshoulderstext/v28/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3VGt7TUFMg.ttf
+File Name: D:\Siti GitHub\192.168.163.136\s\bigshoulderstext\v28\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3VGt7TUFMg.ttf
 Content Type: font/ttf
 
-Uri: http://fonts.gstatic.com/s/bigshoulderstext/v27/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Wit7TUFMg.ttf
-File Name: D:\Siti GitHub\192.168.163.136\s\bigshoulderstext\v27\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Wit7TUFMg.ttf
+Uri: http://fonts.gstatic.com/s/bigshoulderstext/v28/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Wit7TUFMg.ttf
+File Name: D:\Siti GitHub\192.168.163.136\s\bigshoulderstext\v28\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Wit7TUFMg.ttf
 Content Type: font/ttf
 
-Uri: http://fonts.gstatic.com/s/bigshoulderstext/v27/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-q7TUFMg.ttf
-File Name: D:\Siti GitHub\192.168.163.136\s\bigshoulderstext\v27\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-q7TUFMg.ttf
+Uri: http://fonts.gstatic.com/s/bigshoulderstext/v28/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-q7TUFMg.ttf
+File Name: D:\Siti GitHub\192.168.163.136\s\bigshoulderstext\v28\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-q7TUFMg.ttf
 Content Type: font/ttf
 
-Uri: http://fonts.gstatic.com/s/bigshoulderstext/v27/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-r7TUFMg.ttf
-File Name: D:\Siti GitHub\192.168.163.136\s\bigshoulderstext\v27\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-r7TUFMg.ttf
+Uri: http://fonts.gstatic.com/s/bigshoulderstext/v28/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-r7TUFMg.ttf
+File Name: D:\Siti GitHub\192.168.163.136\s\bigshoulderstext\v28\55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-r7TUFMg.ttf
 Content Type: font/ttf
 
-Uri: http://fonts.gstatic.com/s/chelseamarket/v13/BCawqZsHqfr89WNP_IApC8tzKChiJgo.ttf
-File Name: D:\Siti GitHub\192.168.163.136\s\chelseamarket\v13\BCawqZsHqfr89WNP_IApC8tzKChiJgo.ttf
+Uri: http://fonts.gstatic.com/s/chelseamarket/v14/BCawqZsHqfr89WNP_IApC8tzKChiJgo.ttf
+File Name: D:\Siti GitHub\192.168.163.136\s\chelseamarket\v14\BCawqZsHqfr89WNP_IApC8tzKChiJgo.ttf
 Content Type: font/ttf
 
-Uri: http://fonts.gstatic.com/s/homenaje/v16/FwZY7-Q-xVAi_l-6Le6H6Mw.ttf
-File Name: D:\Siti GitHub\192.168.163.136\s\homenaje\v16\FwZY7-Q-xVAi_l-6Le6H6Mw.ttf
+Uri: http://fonts.gstatic.com/s/homenaje/v17/FwZY7-Q-xVAi_l-6Le6H6Mw.ttf
+File Name: D:\Siti GitHub\192.168.163.136\s\homenaje\v17\FwZY7-Q-xVAi_l-6Le6H6Mw.ttf
 Content Type: font/ttf
 
 Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En español/Historia lunática.pdf
@@ -3990,48 +3990,48 @@ Uri: https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap
 File Name: D:\Siti GitHub\192.168.163.136\css2-2
 Content Type: text/css
 
-Uri: https://fonts.gstatic.com/s/audiowide/v21/l7gdbjpo0cum0ckerWCtkQ.ttf
-File Name: D:\Siti GitHub\192.168.163.136\s\audiowide\v21\l7gdbjpo0cum0ckerWCtkQ.ttf
+Uri: https://fonts.gstatic.com/s/audiowide/v22/l7gdbjpo0cum0ckerWCtkQ.ttf
+File Name: D:\Siti GitHub\192.168.163.136\s\audiowide\v22\l7gdbjpo0cum0ckerWCtkQ.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.gstatic.com/s/bubblegumsans/v21/AYCSpXb_Z9EORv1M5QTjEzMEtdaH.ttf
-File Name: D:\Siti GitHub\192.168.163.136\s\bubblegumsans\v21\AYCSpXb_Z9EORv1M5QTjEzMEtdaH.ttf
+Uri: https://fonts.gstatic.com/s/bubblegumsans/v22/AYCSpXb_Z9EORv1M5QTjEzMEtdaH.ttf
+File Name: D:\Siti GitHub\192.168.163.136\s\bubblegumsans\v22\AYCSpXb_Z9EORv1M5QTjEzMEtdaH.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.gstatic.com/s/chelseamarket/v13/BCawqZsHqfr89WNP_IApC8tzKBhl.ttf
-File Name: D:\Siti GitHub\192.168.163.136\s\chelseamarket\v13\BCawqZsHqfr89WNP_IApC8tzKBhl.ttf
+Uri: https://fonts.gstatic.com/s/chelseamarket/v14/BCawqZsHqfr89WNP_IApC8tzKBhl.ttf
+File Name: D:\Siti GitHub\192.168.163.136\s\chelseamarket\v14\BCawqZsHqfr89WNP_IApC8tzKBhl.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.gstatic.com/s/cherryswash/v21/i7dNIFByZjaNAMxtZcnfAy58QA.ttf
-File Name: D:\Siti GitHub\192.168.163.136\s\cherryswash\v21\i7dNIFByZjaNAMxtZcnfAy58QA.ttf
+Uri: https://fonts.gstatic.com/s/cherryswash/v22/i7dNIFByZjaNAMxtZcnfAy58QA.ttf
+File Name: D:\Siti GitHub\192.168.163.136\s\cherryswash\v22\i7dNIFByZjaNAMxtZcnfAy58QA.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.gstatic.com/s/cherryswash/v21/i7dSIFByZjaNAMxtZcnfAy5E_FeaGw.ttf
-File Name: D:\Siti GitHub\192.168.163.136\s\cherryswash\v21\i7dSIFByZjaNAMxtZcnfAy5E_FeaGw.ttf
+Uri: https://fonts.gstatic.com/s/cherryswash/v22/i7dSIFByZjaNAMxtZcnfAy5E_FeaGw.ttf
+File Name: D:\Siti GitHub\192.168.163.136\s\cherryswash\v22\i7dSIFByZjaNAMxtZcnfAy5E_FeaGw.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.gstatic.com/s/dmserifdisplay/v16/-nFnOHM81r4j6k0gjAW3mujVU2B2K_c.ttf
-File Name: D:\Siti GitHub\192.168.163.136\s\dmserifdisplay\v16\-nFnOHM81r4j6k0gjAW3mujVU2B2K_c.ttf
+Uri: https://fonts.gstatic.com/s/dmserifdisplay/v17/-nFnOHM81r4j6k0gjAW3mujVU2B2K_c.ttf
+File Name: D:\Siti GitHub\192.168.163.136\s\dmserifdisplay\v17\-nFnOHM81r4j6k0gjAW3mujVU2B2K_c.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.gstatic.com/s/librebarcode39extendedtext/v28/eLG1P_rwIgOiDA7yrs9LoKaYRVLQ1YldrrOnnL7xPO4jNP68fA.ttf
-File Name: D:\Siti GitHub\192.168.163.136\s\librebarcode39extendedtext\v28\eLG1P_rwIgOiDA7yrs9LoKaYRVLQ1YldrrOnnL7xPO4jNP68fA.ttf
+Uri: https://fonts.gstatic.com/s/librebarcode39extendedtext/v30/eLG1P_rwIgOiDA7yrs9LoKaYRVLQ1YldrrOnnL7xPO4jNP68fA.ttf
+File Name: D:\Siti GitHub\192.168.163.136\s\librebarcode39extendedtext\v30\eLG1P_rwIgOiDA7yrs9LoKaYRVLQ1YldrrOnnL7xPO4jNP68fA.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.gstatic.com/s/pressstart2p/v15/e3t4euO8T-267oIAQAu6jDQyK0nS.ttf
-File Name: D:\Siti GitHub\192.168.163.136\s\pressstart2p\v15\e3t4euO8T-267oIAQAu6jDQyK0nS.ttf
+Uri: https://fonts.gstatic.com/s/pressstart2p/v16/e3t4euO8T-267oIAQAu6jDQyK0nS.ttf
+File Name: D:\Siti GitHub\192.168.163.136\s\pressstart2p\v16\e3t4euO8T-267oIAQAu6jDQyK0nS.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.gstatic.com/s/sharetechmono/v15/J7aHnp1uDWRBEqV98dVQztYldFc7pA.ttf
-File Name: D:\Siti GitHub\192.168.163.136\s\sharetechmono\v15\J7aHnp1uDWRBEqV98dVQztYldFc7pA.ttf
+Uri: https://fonts.gstatic.com/s/sharetechmono/v16/J7aHnp1uDWRBEqV98dVQztYldFc7pA.ttf
+File Name: D:\Siti GitHub\192.168.163.136\s\sharetechmono\v16\J7aHnp1uDWRBEqV98dVQztYldFc7pA.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.gstatic.com/s/vt323/v17/pxiKyp0ihIEF2hsY.ttf
-File Name: D:\Siti GitHub\192.168.163.136\s\vt323\v17\pxiKyp0ihIEF2hsY.ttf
+Uri: https://fonts.gstatic.com/s/vt323/v18/pxiKyp0ihIEF2hsY.ttf
+File Name: D:\Siti GitHub\192.168.163.136\s\vt323\v18\pxiKyp0ihIEF2hsY.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.gstatic.com/s/zendots/v13/XRXX3ICfm00IGoesQeaE.ttf
-File Name: D:\Siti GitHub\192.168.163.136\s\zendots\v13\XRXX3ICfm00IGoesQeaE.ttf
+Uri: https://fonts.gstatic.com/s/zendots/v14/XRXX3ICfm00IGoesQeaE.ttf
+File Name: D:\Siti GitHub\192.168.163.136\s\zendots\v14\XRXX3ICfm00IGoesQeaE.ttf
 Content Type: font/ttf
 
 Uri: https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit

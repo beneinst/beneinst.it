@@ -3,12 +3,12 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(s/cherryswash/v21/i7dNIFByZjaNAMxtZcnfAy58QA.ttf) format('truetype');
+  src: url(s/cherryswash/v22/i7dNIFByZjaNAMxtZcnfAy58QA.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Cherry Swash';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(s/cherryswash/v21/i7dSIFByZjaNAMxtZcnfAy5E_FeaGw.ttf) format('truetype');
+  src: url(s/cherryswash/v22/i7dSIFByZjaNAMxtZcnfAy5E_FeaGw.ttf) format('truetype');
 }

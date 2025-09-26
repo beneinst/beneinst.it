@@ -102,7 +102,7 @@ a:hover {
 	<style>#sp-footer{ background-image:url("images/sfondoolio1980.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:50% 50%; }</style>
 <script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?504da4"></script>
-	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http:\/\/192.168.163.136\/","base":"","baseFull":"http:\/\/192.168.163.136\/"},"csrf.token":"dde1be1a0e67c32093a7a6c07c4a4b4f"}</script>
+	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http:\/\/192.168.163.136\/","base":"","baseFull":"http:\/\/192.168.163.136\/"},"csrf.token":"51667f3dec5fdda6dce76480aeac6915"}</script>
 	<script src="media/system/js/core.min.js?2cb912"></script>
 	<script src="media/vendor/bootstrap/js/alert.min.js?5.3.3" type="module"></script>
 	<script src="media/vendor/bootstrap/js/button.min.js?5.3.3" type="module"></script>
@@ -118,7 +118,7 @@ a:hover {
 	<script src="media/system/js/showon.min.js?e51227" type="module"></script>
 	<script src="media/system/js/messages.min.js?9a4811" type="module"></script>
 	<script src="cache/com_templates/templates/shaper_helixultimate/a389b878476f072b6c51a2d1962afb96.js"></script>
-	<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://192.168.163.136/#/schema/Organization/base","name":"Beneinst","url":"http://192.168.163.136/"},{"@type":"WebSite","@id":"http://192.168.163.136/#/schema/WebSite/base","url":"http://192.168.163.136/","name":"Beneinst","publisher":{"@id":"http://192.168.163.136/#/schema/Organization/base"}},{"@type":"WebPage","@id":"http://192.168.163.136/#/schema/WebPage/base","url":"http://192.168.163.136/edgar-allan-poe.html","name":"Edgar Allan Poe","description":"Esplora diari, memorie e storie umane su un sito pubblico. Condividi le tue pagine di diari e connettiti con altri.","isPartOf":{"@id":"http://192.168.163.136/#/schema/WebSite/base"},"about":{"@id":"http://192.168.163.136/#/schema/Organization/base"},"inLanguage":"it-IT"},{"@type":"Article","@id":"http://192.168.163.136/#/schema/com_content/article/122","name":"Edgar Allan Poe","headline":"Edgar Allan Poe","inLanguage":"it-IT","dateCreated":"2023-10-03T06:48:23+00:00","interactionStatistic":{"@type":"InteractionCounter","userInteractionCount":333},"isPartOf":{"@id":"http://192.168.163.136/#/schema/WebPage/base"}}]}</script>
+	<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://192.168.163.136/#/schema/Organization/base","name":"Beneinst","url":"http://192.168.163.136/"},{"@type":"WebSite","@id":"http://192.168.163.136/#/schema/WebSite/base","url":"http://192.168.163.136/","name":"Beneinst","publisher":{"@id":"http://192.168.163.136/#/schema/Organization/base"}},{"@type":"WebPage","@id":"http://192.168.163.136/#/schema/WebPage/base","url":"http://192.168.163.136/edgar-allan-poe.html","name":"Edgar Allan Poe","description":"Esplora diari, memorie e storie umane su un sito pubblico. Condividi le tue pagine di diari e connettiti con altri.","isPartOf":{"@id":"http://192.168.163.136/#/schema/WebSite/base"},"about":{"@id":"http://192.168.163.136/#/schema/Organization/base"},"inLanguage":"it-IT"},{"@type":"Article","@id":"http://192.168.163.136/#/schema/com_content/article/122","name":"Edgar Allan Poe","headline":"Edgar Allan Poe","inLanguage":"it-IT","dateCreated":"2023-10-03T06:48:23+00:00","interactionStatistic":{"@type":"InteractionCounter","userInteractionCount":335},"isPartOf":{"@id":"http://192.168.163.136/#/schema/WebPage/base"}}]}</script>
 	<script>const ipfsClient = require('ipfs-http-client');
 const ipfs = ipfsClient('localhost', '5001');
 
@@ -895,6 +895,58 @@ hr.custom-hr {
 .article-info {
     padding-bottom: 12px !important;
 }
+/* ==========================================================
+   DESKTOP / TABLET GRANDI  (min-width: 900px)
+   ========================================================== */
+@media (min-width: 900px) {
+
+  /* 1) HEADER FERMO (top pagina) */
+  #sp-header:not(.header-sticky) {
+      height: 114px !important;
+      padding-top: 19.3px !important;
+      background: rgba(20, 108, 67, 0.35) !important;
+      transition: height .3s ease, background .3s ease;
+border-bottom: 1px solid #9e9e9e;
+  }
+  /* 2) Logo più grande SOLO quando il header è fermo */
+  #sp-header:not(.header-sticky) .logo-image {
+      transform: scale(1.15);        /* +20 % */
+      transform-origin: left center;
+      transition: transform .3s ease;
+
+  }
+
+/* voce di menu +15 % solo quando il header è fermo (top) */
+#sp-header:not(.header-sticky) .sp-megamenu-parent > li > a {
+    font-size: 0.92em !important;   /* +15 % */
+    transition: font-size .3s ease;
+}
+
+/* torna alla misura normale durante lo scroll (sticky) */
+#sp-header.header-sticky .sp-megamenu-parent > li > a {
+    font-size: 0.88em !important;
+}
+
+  /* 3) Logo torna normale quando si scrolla (sticky attivo) */
+  #sp-header.header-sticky .logo-image {
+      transform: scale(1);
+  }
+
+
+  /* 2) HEADER IN SCROLL (sticky attivo) */
+  #sp-header.header-sticky {
+      height: var(--header-sticky-height, 79px) !important;
+      background: rgba(20, 108, 67, 0.30) !important;
+border-bottom: 1px solid #9e9e9e;
+  }
+
+}
+/* Smartphone / piccoli tablet (< 900 px) */
+@media (max-width: 405px) {
+  #sp-header {
+    padding-top: 2px !important;
+  }
+}
 </style>
 			</head>
 	<body class="site helix-ultimate hu com_content com-content view-article layout-default task-none itemid-401 it-it ltr sticky-header layout-fluid offcanvas-init offcanvs-position-left">
@@ -1040,8 +1092,8 @@ function googleTranslateElementInit() {
 			
 		
 					<span class="hits">
-	<meta itemprop="interactionCount" content="UserPageVisits:333">
-	Visite: 333</span>
+	<meta itemprop="interactionCount" content="UserPageVisits:336">
+	Visite: 336</span>
 				
 			</div>
 		
