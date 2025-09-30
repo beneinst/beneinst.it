@@ -1630,6 +1630,14 @@ Uri: http://192.168.163.136/images/2025/08/30/OIG3-(3)_edited777chiaro.png
 File Name: D:\Siti GitHub\192.168.163.136\images\2025\08\30\OIG3-(3)_edited777chiaro.png
 Content Type: image/png
 
+Uri: http://192.168.163.136/images/2025/09/29/sfondo-topgf1.jpg
+File Name: D:\Siti GitHub\192.168.163.136\images\2025\09\29\sfondo-topgf1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.163.136/images/7ok_edited_edited-gd2.jpg
+File Name: D:\Siti GitHub\192.168.163.136\images\7ok_edited_edited-gd2.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.163.136/images/Beneinst-OndeLetterarie.mp4
 File Name: D:\Siti GitHub\192.168.163.136\images\Beneinst-OndeLetterarie.mp4
 Content Type: video/mp4
@@ -2698,10 +2706,6 @@ Uri: http://192.168.163.136/images/rounded-in-photoretrica-32.png
 File Name: D:\Siti GitHub\192.168.163.136\images\rounded-in-photoretrica-32.png
 Content Type: image/png
 
-Uri: http://192.168.163.136/images/sfondoolio1980.jpg
-File Name: D:\Siti GitHub\192.168.163.136\images\sfondoolio1980.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.163.136/images/speasyimagegallery/albums/1/images/1.png
 File Name: D:\Siti GitHub\192.168.163.136\images\speasyimagegallery\albums\1\images\1.png
 Content Type: image/png
@@ -3546,7 +3550,7 @@ Uri: http://192.168.163.136/luigi-pirandello.html
 File Name: D:\Siti GitHub\192.168.163.136\luigi-pirandello.html
 Content Type: text/html
 
-Uri: http://192.168.163.136/media/com_wrapper/js/iframe-height.min.js?6af1f0
+Uri: http://192.168.163.136/media/com_wrapper/js/iframe-height.min.js?3ef952
 File Name: D:\Siti GitHub\192.168.163.136\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
