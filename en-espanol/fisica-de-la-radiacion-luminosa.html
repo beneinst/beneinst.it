@@ -2,7 +2,7 @@
 <!doctype html>
 <html lang="it-it" dir="ltr">
 	
-<!-- Mirrored from beneinst.local/en-espanol/fisica-de-la-radiacion-luminosa.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 09 Jan 2026 20:32:45 GMT -->
+<!-- Mirrored from beneinst.local/en-espanol/fisica-de-la-radiacion-luminosa.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 09 Jan 2026 21:47:05 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
 		
@@ -106,8 +106,8 @@ a:hover {
 	<style>#sp-footer{ background-image:url("../images/7ok_edited_edited-gd2.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:50% 50%; }</style>
 <script src="../media/vendor/jquery/js/jquery.min8a0c.js?3.7.1"></script>
 	<script src="../media/legacy/js/jquery-noconflict.min1fec.js?504da4"></script>
-	<script src="../media/mod_menu/js/menu.minde84.js?80fd62" type="module"></script>
-	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http:\/\/beneinst.local\/","base":"","baseFull":"http:\/\/beneinst.local\/"},"csrf.token":"b8b1a18e012afd6bea2c33958bb0453d"}</script>
+	<script src="../media/mod_menu/js/menu.min7a2a.js?3f1404" type="module"></script>
+	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http:\/\/beneinst.local\/","base":"","baseFull":"http:\/\/beneinst.local\/"},"csrf.token":"e2e3790938fe2229f6fcf51802769ce0"}</script>
 	<script src="../media/system/js/core.min23b9.js?a3d8f8"></script>
 	<script src="../media/vendor/bootstrap/js/alert.min9b16.js?5.3.8" type="module"></script>
 	<script src="../media/vendor/bootstrap/js/button.min9b16.js?5.3.8" type="module"></script>
@@ -123,172 +123,181 @@ a:hover {
 	<script src="../media/system/js/showon.min8da8.js?e51227" type="module"></script>
 	<script src="../media/system/js/messages.minee3c.js?9a4811" type="module"></script>
 	<script src="../cache/com_templates/templates/shaper_helixultimate/a389b878476f072b6c51a2d1962afb96.js"></script>
-	<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://beneinst.local/#/schema/Organization/base","name":"Beneinst","url":"http://beneinst.local/"},{"@type":"WebSite","@id":"http://beneinst.local/#/schema/WebSite/base","url":"http://beneinst.local/","name":"Beneinst","publisher":{"@id":"http://beneinst.local/#/schema/Organization/base"}},{"@type":"WebPage","@id":"http://beneinst.local/#/schema/WebPage/base","url":"http://beneinst.local/en-espanol/fisica-de-la-radiacion-luminosa.html","name":"Pintaría tu vida con colores únicos","description":"Esplora diari, memorie e storie umane su un sito pubblico. Condividi le tue pagine di diari e connettiti con altri.","isPartOf":{"@id":"http://beneinst.local/#/schema/WebSite/base"},"about":{"@id":"http://beneinst.local/#/schema/Organization/base"},"inLanguage":"it-IT"},{"@type":"Article","@id":"http://beneinst.local/#/schema/com_content/article/11","name":"Pintaría tu vida con colores únicos","headline":"Pintaría tu vida con colores únicos","inLanguage":"it-IT","author":{"@type":"Person","name":"Gerardo D'Orrico"},"interactionStatistic":{"@type":"InteractionCounter","userInteractionCount":416},"isPartOf":{"@id":"http://beneinst.local/#/schema/WebPage/base"}}]}</script>
-	<script>const ipfsClient = require('ipfs-http-client');
-const ipfs = ipfsClient('localhost', '5001');
-
-async function pinFile(cid) {
-    await ipfs.pin.add(cid);
-    console.log('File pinnato:', cid);
-}
-
-// Funzione per sostituire tutti i link locali
-function replaceLocalLinks() {
-    const localRegex = /http:\/\/192\.168\.\d{1,3}\.\d{1,3}/g;
-    
-    // Sostituisce nel contenuto HTML
-    document.body.innerHTML = document.body.innerHTML
-        .replace(localRegex, 'https://beneinst.eu/');
-    
-    // Sostituisce negli attributi href specifici (social sharing)
-    document.querySelectorAll('a[href*="192.168"]').forEach(link => {
-        link.href = link.href.replace(localRegex, 'https://beneinst.eu/');
-    });
-    
-    // Sostituisce nei parametri URL dei social
-    document.querySelectorAll('a[href*="facebook.com/sharer"], a[href*="twitter.com/intent"], a[href*="linkedin.com/sharing"], a[href*="pinterest.com/pin"]').forEach(link => {
-        link.href = link.href.replace(localRegex, 'https://beneinst.eu/');
-    });
-}
-
-document.addEventListener("DOMContentLoaded", function () {
-    // Esegui sostituzione iniziale
-    replaceLocalLinks();
-    
-    // Osserva cambiamenti nel DOM per link generati dinamicamente
-    const observer = new MutationObserver(function(mutations) {
-        mutations.forEach(function(mutation) {
-            if (mutation.addedNodes.length > 0) {
-                replaceLocalLinks();
-            }
-        });
-    });
-
-// Fix logo path per GitHub Pages
-document.querySelectorAll('.logo-image').forEach(img => {
-    img.src = '../images/logosretina3mini2.png';
-    img.srcset = ''; // Rimuovi srcset problematico
-    img.removeAttribute('srcset');
-});
-
-    
-    // Inizia osservazione
-    observer.observe(document.body, {
-        childList: true,
-        subtree: true
-    });
-    
-   
-    
-    const links = document.querySelectorAll('a[href^="ipfs://"]');
-    links.forEach(link => {
-        const cid = link.getAttribute('href').replace('ipfs://', '');
-        pinFile(cid);
-    });
-    
-    // Funzione per applicare la lingua salvata
-    function applySavedLanguage() {
-        let savedLang = localStorage.getItem("selectedLanguage");
-        if (savedLang) {
-            let langLink = document.querySelector(`.gtranslate_wrapper a[href$="#${savedLang}"]`);
-            if (langLink) {
-                setTimeout(() => langLink.click(), 300);
-            }
-        }
-    }
-    
-    // Salva la selezione della lingua quando un link viene cliccato
-    function saveLanguageSelection() {
-        document.querySelectorAll(".gtranslate_wrapper a").forEach(link => {
-            link.addEventListener("click", function() {
-                let langCode = link.getAttribute("href").split("#")[1];
-                localStorage.setItem("selectedLanguage", langCode);
-            });
-        });
-    }
-    
-    // Nasconde gli elementi solo se sono nella posizione "debug"
-    function hideTranslationElements() {
-        let elementsToHide = ["gt-wrapper-413", "gt-wrapper-414"];
-        elementsToHide.forEach(id => {
-            let element = document.getElementById(id);
-            if (element) {
-                let positionInfo = element.getAttribute("data-jmodtip");
-                if (positionInfo && positionInfo.includes("Posizione: debug")) {
-                    element.style.display = "none";
-                }
-            }
-        });
-    }
-    
-    // Nasconde la barra Google Translate
-    function hideGoogleTranslateBar() {
-        var translateBar = document.querySelector(".skiptranslate");
-        var translateFrame = document.querySelector(".goog-te-banner-frame");
-        if (translateBar) translateBar.style.display = "none";
-        if (translateFrame) translateFrame.style.display = "none";
-        document.body.style.top = "0px";
-    }
-    
-    // Esegui le funzioni con un piccolo ritardo
-    setTimeout(() => {
-        applySavedLanguage();
-        saveLanguageSelection();
-        hideTranslationElements();
-    }, 1000);
-    
-    setInterval(hideGoogleTranslateBar, 500);
-});
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-
-    const backLinks = document.querySelectorAll("a.back-to-index");
-
-    backLinks.forEach(link => {
-        link.addEventListener("click", function (e) {
-            e.preventDefault();
-
-            if (window.history.length > 1) {
-                window.history.back();
-            } else {
-                // fallback sicuro se la pagina è aperta direttamente
-                window.location.href = "../index.html";
-            }
-        });
-    });
-
-});
-</script>
-<script>
+	<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://beneinst.local/#/schema/Organization/base","name":"Beneinst","url":"http://beneinst.local/"},{"@type":"WebSite","@id":"http://beneinst.local/#/schema/WebSite/base","url":"http://beneinst.local/","name":"Beneinst","publisher":{"@id":"http://beneinst.local/#/schema/Organization/base"}},{"@type":"WebPage","@id":"http://beneinst.local/#/schema/WebPage/base","url":"http://beneinst.local/en-espanol/fisica-de-la-radiacion-luminosa.html","name":"Pintaría tu vida con colores únicos","description":"Esplora diari, memorie e storie umane su un sito pubblico. Condividi le tue pagine di diari e connettiti con altri.","isPartOf":{"@id":"http://beneinst.local/#/schema/WebSite/base"},"about":{"@id":"http://beneinst.local/#/schema/Organization/base"},"inLanguage":"it-IT"},{"@type":"Article","@id":"http://beneinst.local/#/schema/com_content/article/11","name":"Pintaría tu vida con colores únicos","headline":"Pintaría tu vida con colores únicos","inLanguage":"it-IT","author":{"@type":"Person","name":"Gerardo D'Orrico"},"interactionStatistic":{"@type":"InteractionCounter","userInteractionCount":417},"isPartOf":{"@id":"http://beneinst.local/#/schema/WebPage/base"}}]}</script>
+	<script><script>
 (() => {
   const BASE = 'https://beneinst.eu/';
 
-  /* ------ core ------ */
-  const fixRootLinks = () =>
+  /* =====================================================
+     FIX LINK ASSOLUTI A PARTIRE DA "/"
+     ===================================================== */
+  const fixRootLinks = () => {
     document.querySelectorAll('a[href^="/"]').forEach(a => {
-      let raw = a.getAttribute('href');          // originale esatto
-      if (raw.startsWith('//')) return;          // escludo protocol-relative
+      const raw = a.getAttribute('href');
+      if (!raw || raw.startsWith('//')) return;
 
-      /* 1. costruisco URL pulito */
-      let url = BASE + raw;                      // antepongo base
-      url = url.replace(/(?<!:)\/{2,}/g, '../index.html');   // elimino doppi slash
+      let url = BASE + raw;
+      url = url.replace(/(?<!:)\/{2,}/g, '../index.html');
 
-      /* 2. aggiungo / finale solo se è cartella (nessun punto nell’ultima parte) */
-      const chunks = url.split('../index.html');
-      const last   = chunks[chunks.length - 1];
-      if (last && !last.includes('.') && !url.endsWith('../index.html')) url += '../index.html';
+      const parts = url.split('../index.html');
+      const last  = parts[parts.length - 1];
+
+      if (last && !last.includes('.') && !url.endsWith('../index.html')) {
+        url += '../index.html';
+      }
 
       a.href = url;
     });
+  };
 
-  /* ------ avvio ------ */
+  /* =====================================================
+     BACK TO INDEX (history-aware)
+     ===================================================== */
+  const initBackLinks = () => {
+    document.querySelectorAll('a.back-to-index').forEach(link => {
+      link.addEventListener('click', e => {
+        e.preventDefault();
+        window.history.length > 1
+          ? window.history.back()
+          : window.location.href = '../index.html';
+      });
+    });
+  };
+
+  /* =====================================================
+     FIX LOGO PATH (GitHub Pages)
+     ===================================================== */
+  const fixLogoPath = () => {
+    document.querySelectorAll('.logo-image').forEach(img => {
+      img.src = '../images/logosretina3mini2.png';
+      img.removeAttribute('srcset');
+    });
+  };
+
+  /* =====================================================
+     GOOGLE TRANSLATE – lingua persistente
+     ===================================================== */
+  const applySavedLanguage = () => {
+    const savedLang = localStorage.getItem('selectedLanguage');
+    if (!savedLang) return;
+
+    const link = document.querySelector(
+      `.gtranslate_wrapper a[href$="#${savedLang}"]`
+    );
+
+    if (link) setTimeout(() => link.click(), 300);
+  };
+
+  const saveLanguageSelection = () => {
+    document.querySelectorAll('.gtranslate_wrapper a').forEach(link => {
+      link.addEventListener('click', () => {
+        const lang = link.getAttribute('href').split('#')[1];
+        if (lang) localStorage.setItem('selectedLanguage', lang);
+      });
+    });
+  };
+
+  const hideTranslationElements = () => {
+    ['gt-wrapper-413', 'gt-wrapper-414'].forEach(id => {
+      const el = document.getElementById(id);
+      if (!el) return;
+
+      const info = el.getAttribute('data-jmodtip');
+      if (info && info.includes('Posizione: debug')) {
+        el.style.display = 'none';
+      }
+    });
+  };
+
+  const hideGoogleTranslateBar = () => {
+    const bar   = document.querySelector('.skiptranslate');
+    const frame = document.querySelector('.goog-te-banner-frame');
+
+    if (bar)   bar.style.display = 'none';
+    if (frame) frame.style.display = 'none';
+
+    document.body.style.top = '0px';
+  };
+
+  /* =====================================================
+     INIT
+     ===================================================== */
+  const init = () => {
+    fixRootLinks();
+    initBackLinks();
+    fixLogoPath();
+
+    setTimeout(() => {
+      applySavedLanguage();
+      saveLanguageSelection();
+      hideTranslationElements();
+    }, 1000);
+
+    setInterval(hideGoogleTranslateBar, 500);
+
+    new MutationObserver(() => {
+      fixRootLinks();
+      initBackLinks();
+    }).observe(document.body, {
+      childList: true,
+      subtree: true
+    });
+  };
+
   document.readyState === 'loading'
-    ? document.addEventListener('DOMContentLoaded', fixRootLinks)
-    : fixRootLinks();
+    ? document.addEventListener('DOMContentLoaded', init)
+    : init();
 
-  /* ------ nodi futuri ------ */
-  new MutationObserver(fixRootLinks)
-    .observe(document.body, { childList: true, subtree: true });
+})();
+</script>
+<script>
+(() => {
+
+  /* =====================================================
+     IPFS – CID warming (gateway fetch)
+     ===================================================== */
+
+  const ipfsCIDList = [
+    "QmeptHDhTD5DAemFcDA2VKJarMsGYsYStfPJvye5iqan7Q",
+    "bafybeiatbyk7gjy5lpuqwx2ilbyuijp3dhyn3mpmjyf5ouwedlzzlq4sui",
+    "QmaTvnK9LowJ7bKEjDVExaiGdae48pFWhpQUMLcxuLXNyq",
+    "QmNMGXijKE3mkB1A4MVnu3XuHuxwVVLCJQeadQWtLc9yXw",
+    "QmXJDbzQeZbbgbJWVX5whCf3cgPk86sGXT6irkjbnwr961",
+    "QmR4QaYQoywJCsyb7FgZZm3AZjcyBm4TSnBLJrLjBxpGah",
+    "QmWsp2P7N1wNbmL4iW95fE1j9QsbqQxuVhyyjEK4wDcNFz",
+    "Qmcu4QeJdM4kaRDUD9ZHXUhpDptU3quGNSEE2daF1YhRrn"
+  ];
+
+  const gateways = [
+    'https://dweb.link/ipfs/',
+    'https://ipfs.io/ipfs/'
+  ];
+
+  /* inserimento invisibile (SEO / crawl / presenza DOM) */
+  const hidden = document.createElement('div');
+  hidden.style.display = 'none';
+
+  ipfsCIDList.forEach(cid => {
+    const a = document.createElement('a');
+    a.href = gateways[0] + cid;
+    a.textContent = cid;
+    hidden.appendChild(a);
+  });
+
+  document.body.appendChild(hidden);
+
+  /* warming gateway */
+  const warmCID = () => {
+    ipfsCIDList.forEach(cid => {
+      gateways.forEach(gw => {
+        fetch(gw + cid, { mode: 'no-cors' }).catch(() => {});
+      });
+    });
+  };
+
+  warmCID();                              // primo colpo
+  setInterval(warmCID, 6 * 60 * 60 * 1000); // ogni 6 ore
+
 })();
 </script></script>
 	<script>template="shaper_helixultimate";</script>
@@ -1190,8 +1199,8 @@ function googleTranslateElementInit() {
 			
 		
 					<span class="hits">
-	<meta itemprop="interactionCount" content="UserPageVisits:416">
-	Visite: 416</span>
+	<meta itemprop="interactionCount" content="UserPageVisits:417">
+	Visite: 417</span>
 				
 			</div>
     
@@ -1522,7 +1531,7 @@ function googleTranslateElementInit() {
   <p> </p>
 </body>
 
-<!-- Mirrored from beneinst.local/en-espanol/fisica-de-la-radiacion-luminosa.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 09 Jan 2026 20:32:45 GMT -->
+<!-- Mirrored from beneinst.local/en-espanol/fisica-de-la-radiacion-luminosa.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 09 Jan 2026 21:47:05 GMT -->
 </html></div>
 </div></div></div></div><div id="sp-bottom2" class="col-lg-1 "><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
 <div id="mod-custom412" class="mod-custom custom">
@@ -1742,90 +1751,24 @@ function googleTranslateElementInit() {
 </div>				
 
 		<script>
-jQuery(document).ready(function($) {
-    var $shareBox = $('.article-ratings-social-share.d-flex');
-    var $target   = $('.related-article-list-container'); // elemento prima del quale inserire
+jQuery(document).ready(function ($) {
+  const $shareBox = $('.article-ratings-social-share.d-flex');
+  const $target   = $('.related-article-list-container');
 
-    if ($shareBox.length && $target.length) {
-        $shareBox.detach().insertBefore($target);
-    }
-});
-</script>
-<script>
-jQuery(document).ready(function($) {
-    var $shareBox = $('.article-ratings-social-share.d-flex');
-    var $related  = $('.related-article-list-container');
-
-    if ($shareBox.length && $related.length) {
-        // Crea la linea tratteggiata
-        $('<hr class="custom-dashed-line">').insertAfter($shareBox);
-    }
+  if ($shareBox.length && $target.length) {
+    $shareBox.detach().insertBefore($target);
+    $('<hr class="custom-dashed-line">').insertAfter($shareBox);
+  }
 });
 </script>
 
 <style>
 .custom-dashed-line {
-    border: none;
-    border-top: 1px dashed #717171;
-    margin: 18px 0 22px 0; /* 20px sopra, 10px sotto */
+  border: none;
+  border-top: 1px dashed #717171;
+  margin: 18px 0 22px;
 }
 </style>
-
-<script>
-// ✅ 1. CID IPFS da propagare
-const ipfsCIDList = [
-  "QmeptHDhTD5DAemFcDA2VKJarMsGYsYStfPJvye5iqan7Q", // gerardodorrico.polygon
-  "bafybeiatbyk7gjy5lpuqwx2ilbyuijp3dhyn3mpmjyf5ouwedlzzlq4sui", // beneinst.blockchain
-  "QmaTvnK9LowJ7bKEjDVExaiGdae48pFWhpQUMLcxuLXNyq", // Anteprime audio
-  "QmNMGXijKE3mkB1A4MVnu3XuHuxwVVLCJQeadQWtLc9yXw", // Lettere italiane
-  "QmXJDbzQeZbbgbJWVX5whCf3cgPk86sGXT6irkjbnwr961", // Lettere straniere
-  "QmR4QaYQoywJCsyb7FgZZm3AZjcyBm4TSnBLJrLjBxpGah", // Sed Etiam - Poesie
-  "QmWsp2P7N1wNbmL4iW95fE1j9QsbqQxuVhyyjEK4wDcNFz", // Sed Etiam - Lettere
-  "Qmcu4QeJdM4kaRDUD9ZHXUhpDptU3quGNSEE2daF1YhRrn"  // E-book
-];
-
-// ✅ 2. Inserimento invisibile nel DOM
-const hiddenDiv = document.createElement("div");
-hiddenDiv.style.display = "none";
-ipfsCIDList.forEach(cid => {
-  const a = document.createElement("a");
-  a.href = `https://dweb.link/ipfs/${cid}`;
-  a.textContent = "IPFS CID";
-  hiddenDiv.appendChild(a);
-});
-document.body.appendChild(hiddenDiv);
-
-// ✅ 3. Ping periodico ai gateway IPFS
-function pingGateways() {
-  ipfsCIDList.forEach(cid => {
-    fetch(`https://dweb.link/ipfs/${cid}`).catch(() => {});
-    fetch(`https://ipfs.io/ipfs/${cid}`).catch(() => {});
-  });
-}
-// Ping ogni 6 ore
-setInterval(pingGateways, 6 * 60 * 60 * 1000);
-pingGateways(); // ping iniziale
-
-// ✅ 4. Metadata JSON per uso su Polygon (esempio base)
-const metadata = {
-  name: "Archivio GD Poly",
-  description: "Opere artistiche e letterarie su IPFS e Polygon",
-  external_url: "https://dweb.link/ipfs/QmeptHDhTD5DAemFcDA2VKJarMsGYsYStfPJvye5iqan7Q",
-  image: "https://dweb.link/ipfs/QmeptHDhTD5DAemFcDA2VKJarMsGYsYStfPJvye5iqan7Q/cover.jpg",
-  attributes: [
-    { trait_type: "Autore", value: "Gerardo D." },
-    { trait_type: "Formato", value: "PDF, MP3, Lettere, NFT" },
-    { trait_type: "Rete", value: "IPFS / Polygon" }
-  ]
-};
-console.log("Metadata pronto per Polygon:", metadata);
-
-// ✅ 5. (Facoltativo) Aggiornamento IPNS via API locale (richiede IPFS daemon attivo)
-// fetch('http://localhost:5001/api/v0/name/publish?arg=/ipfs/QmNuovoCID')
-//   .then(res => res.json())
-//   .then(data => console.log("IPNS aggiornato:", data))
-//   .catch(err => console.error("Errore IPNS:", err));
-</script>
 
 		
 <div id="mod-custom417" class="mod-custom custom">
