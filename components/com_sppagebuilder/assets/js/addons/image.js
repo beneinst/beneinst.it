@@ -14,9 +14,12 @@
 
             const updateSVGStyle = (image) => {
                 const dataScale = image.getAttribute('data-scale') || 1;
+                const bbox = path.getBBox();
+                const centerX = bbox.x + bbox.width / 2;
+                const centerY = bbox.y + bbox.height / 2;
                 const translateX = image.width / 2;
                 const translateY = image.height / 2;
-                path.setAttribute('transform', 'translate(' + translateX + ',' + translateY + ') scale(' + dataScale + ')');
+                path.setAttribute('transform', 'translate(' + translateX + ',' + translateY + ') scale(' + dataScale + ') translate(' + (-centerX) + ',' + (-centerY) + ')');
                 image.style.visibility = null;
             }
             
