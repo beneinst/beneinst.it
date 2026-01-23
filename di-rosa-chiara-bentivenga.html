@@ -2,7 +2,7 @@
 <!doctype html>
 <html lang="it-it" dir="ltr">
 	
-<!-- Mirrored from beneinst.local/di-rosa-chiara-bentivenga.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 21 Jan 2026 07:33:51 GMT -->
+<!-- Mirrored from beneinst.local/di-rosa-chiara-bentivenga.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 23 Jan 2026 07:42:52 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
 		
@@ -107,8 +107,8 @@ a:hover {
 	<style>#sp-footer{ background-image:url("images/7ok_edited_edited-gd2.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:50% 50%; }</style>
 <script src="media/vendor/jquery/js/jquery.min8a0c.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min1fec.js?504da4"></script>
-	<script src="media/mod_menu/js/menu.minfde1.js?6f5b62" type="module"></script>
-	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http:\/\/beneinst.local\/","base":"","baseFull":"http:\/\/beneinst.local\/"},"csrf.token":"581ee94544f01e8963041c40a6bba7a8"}</script>
+	<script src="media/mod_menu/js/menu.min23aa.js?812524" type="module"></script>
+	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http:\/\/beneinst.local\/","base":"","baseFull":"http:\/\/beneinst.local\/"},"csrf.token":"d872cde878f79b83e45adb3a94241ddc"}</script>
 	<script src="media/system/js/core.min23b9.js?a3d8f8"></script>
 	<script src="media/vendor/bootstrap/js/alert.min9b16.js?5.3.8" type="module"></script>
 	<script src="media/vendor/bootstrap/js/button.min9b16.js?5.3.8" type="module"></script>
@@ -165,13 +165,32 @@ a:hover {
     });
   };
 
-  /* =====================================================
-     FIX LOGO PATH (GitHub Pages)
+ /* =====================================================
+     FIX LOGO & LOCAL VM PATHS (HTTrack / Ubuntu VM)
      ===================================================== */
   const fixLogoPath = () => {
-    document.querySelectorAll('.logo-image').forEach(img => {
-      img.src = 'images/logosretina3mini2.png';
-      img.removeAttribute('srcset');
+    // 1. Identifica il dominio locale da eliminare
+    const localDomain = /https?:\/\/beneinst\.local/g;
+
+    // 2. Fix Immagini (Logo e Contenuti)
+    document.querySelectorAll('img').forEach(img => {
+      // Pulisce l'attributo SRC
+      const src = img.getAttribute('src');
+      if (src && src.match(localDomain)) {
+        img.src = src.replace(localDomain, '');
+      }
+      
+      // Pulisce l'attributo SRCSET (fondamentale per Retina/Helix)
+      const srcset = img.getAttribute('srcset');
+      if (srcset && srcset.match(localDomain)) {
+        img.setAttribute('srcset', srcset.replace(localDomain, ''));
+      }
+    });
+
+    // 3. Fix per Background CSS inline (spesso usato da Helix per sezioni/header)
+    document.querySelectorAll('[style*="beneinst.local"]').forEach(el => {
+      const style = el.getAttribute('style');
+      el.setAttribute('style', style.replace(localDomain, ''));
     });
   };
 
@@ -1094,8 +1113,6 @@ function googleTranslateElementInit() {
 
 <script type="text/javascript" src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 		
-					<div class="sp-pre-loader">
-				<div class='sp-loader-bubble-loop'></div>			</div>
 		
 		<div class="body-wrapper">
 			<div class="body-innerwrapper">
@@ -1113,7 +1130,7 @@ function googleTranslateElementInit() {
   	   href="#"
   	   aria-label="Menu"
   	   title="Menu">
-  	   <div class="burger-icon"><span></span><span></span><span></span></div>
+  	   <div class="burger-icon" aria-hidden="true"><span></span><span></span><span></span></div>
   	</a></div>
 				
 				<!-- Logo -->
@@ -1122,7 +1139,7 @@ function googleTranslateElementInit() {
 													
 							<div class="logo"><a href="index.html">
 				<img class='logo-image '
-					srcset='http://beneinst.local/images/logosretina3mini2.png 1x, http://beneinst.local/images/logosretina3retina.png 2x'
+					srcset='http://beneinst.local/images/logosretina3mini2.png 1x'
 					src='images/logosretina3mini2.png'
 					height='51'
 					alt='Beneinst'
@@ -1578,7 +1595,7 @@ function googleTranslateElementInit() {
   <p> </p>
 </body>
 
-<!-- Mirrored from beneinst.local/di-rosa-chiara-bentivenga.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 21 Jan 2026 07:33:51 GMT -->
+<!-- Mirrored from beneinst.local/di-rosa-chiara-bentivenga.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 23 Jan 2026 07:42:52 GMT -->
 </html></div>
 </div></div></div></div><div id="sp-bottom2" class="col-lg-1 "><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
 <div id="mod-custom412" class="mod-custom custom">
@@ -1764,7 +1781,7 @@ function googleTranslateElementInit() {
 	<div class="d-flex align-items-center justify-content-between p-3 pt-4">
 		<div class="logo"><a href="index.html">
 				<img class='logo-image '
-					srcset='http://beneinst.local/images/logosretina3mini2.png 1x, http://beneinst.local/images/logosretina3retina.png 2x'
+					srcset='http://beneinst.local/images/logosretina3mini2.png 1x'
 					src='images/logosretina3mini2.png'
 					height='51'
 					alt='Beneinst'
@@ -1777,7 +1794,7 @@ function googleTranslateElementInit() {
 			</div>
 		</a>
 	</div>
-	<div class="offcanvas-inner">
+	<div class="offcanvas-inner"> 
 		<div class="d-flex header-modules mb-3">
 			
 					</div>
