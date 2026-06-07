@@ -78,6 +78,10 @@ Uri: http://192.168.178.46/auf-deutsch/zeig-mir-dass-du-mich-liebst.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\auf-deutsch\zeig-mir-dass-du-mich-liebst.html
 Content Type: text/html
 
+Uri: http://192.168.178.46/augusto-de-angelis.html
+File Name: C:\Downloaded Web Sites\192.168.178.46\augusto-de-angelis.html
+Content Type: text/html
+
 Uri: http://192.168.178.46/autore-2.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\autore-2.html
 Content Type: text/html
@@ -1605,6 +1609,10 @@ Content Type: image/jpeg
 Uri: http://192.168.178.46/images/2026/02/03/svevo_ritratto-removebg-previewe.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\02\03\svevo_ritratto-removebg-previewe.png
 Content Type: image/png
+
+Uri: http://192.168.178.46/images/2026/02/05/de_angelis_ritratto(1)(1).jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\02\05\de_angelis_ritratto(1)(1).jpg
+Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/2026/02/08/Holbein-erasmus3.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\02\08\Holbein-erasmus3.png
@@ -3734,6 +3742,10 @@ Uri: http://fonts.gstatic.com/s/homenaje/v17/FwZY7-Q-xVAi_l-6Le6H6Mw.ttf
 File Name: C:\Downloaded Web Sites\192.168.178.46\s\homenaje\v17\FwZY7-Q-xVAi_l-6Le6H6Mw.ttf
 Content Type: font/ttf
 
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En español/Lo que es el bien no se supera.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En español\Lo que es el bien no se supera.pdf
+Content Type: application/pdf
+
 Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En español/Los sueños, el tiempo.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\En español\Los sueños, el tiempo.pdf
 Content Type: application/pdf
@@ -3802,6 +3814,18 @@ Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/ariosto/satire_p.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\ariosto\satire_p.pdf
 Content Type: application/pdf
 
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/barrili_capitan_dodero.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\barrili_capitan_dodero.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/barrili_il_libro_nero.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\barrili_il_libro_nero.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/barrili_le_confessioni_di_fra_gualberto.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\barrili_le_confessioni_di_fra_gualberto.pdf
+Content Type: application/pdf
+
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/bruno - de la causa principio et uno.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\bruno - de la causa principio et uno.pdf
 Content Type: application/pdf
@@ -3820,6 +3844,38 @@ Content Type: application/pdf
 
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/Critone-Platone.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\Critone-Platone.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/deangelis/de_angelis_il_banchiere_assassinato.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\deangelis\de_angelis_il_banchiere_assassinato.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/deangelis/de_angelis_il_candeliere_a_sette_fiamme.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\deangelis\de_angelis_il_candeliere_a_sette_fiamme.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/deangelis/de_angelis_il_mistero_delle_tre_orchidee.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\deangelis\de_angelis_il_mistero_delle_tre_orchidee.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/deangelis/de_angelis_la_barchetta_di_cristallo.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\deangelis\de_angelis_la_barchetta_di_cristallo.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/deangelis/de_angelis_le_sette_picche_doppiate.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\deangelis\de_angelis_le_sette_picche_doppiate.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/deangelis/de_angelis_l_albergo_delle_tre_rose.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\deangelis\de_angelis_l_albergo_delle_tre_rose.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/deangelis/de_angelis_l_amante_di_cesare.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\deangelis\de_angelis_l_amante_di_cesare.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/deangelis/de_angelis_l_isola_dei_brillanti.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\deangelis\de_angelis_l_isola_dei_brillanti.pdf
 Content Type: application/pdf
 
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/deledda/deledda_canne_al_vento.epub
@@ -3946,6 +4002,14 @@ Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/il_par_p.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\il_par_p.pdf
 Content Type: application/pdf
 
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/il_rit_p.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\il_rit_p.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/il_tes_p.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\il_tes_p.pdf
+Content Type: application/pdf
+
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/J. W. Goethe - Faust.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\J. W. Goethe - Faust.pdf
 Content Type: application/pdf
@@ -3992,6 +4056,10 @@ Content Type: application/pdf
 
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/l_escl_p.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\l_escl_p.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/l_unde_p.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\l_unde_p.pdf
 Content Type: application/pdf
 
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/mantegazza/elogio_p.pdf
