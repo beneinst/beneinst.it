@@ -14,6 +14,10 @@ Uri: http://192.168.178.46/anteprime-audio.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\anteprime-audio.html
 Content Type: text/html
 
+Uri: http://192.168.178.46/anton-giulio-barrili.html
+File Name: C:\Downloaded Web Sites\192.168.178.46\anton-giulio-barrili.html
+Content Type: text/html
+
 Uri: http://192.168.178.46/anton-pavlovic-cechov.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\anton-pavlovic-cechov.html
 Content Type: text/html
@@ -562,6 +566,10 @@ Uri: http://192.168.178.46/ferdinando-paolieri.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\ferdinando-paolieri.html
 Content Type: text/html
 
+Uri: http://192.168.178.46/francesco-guicciardini.html
+File Name: C:\Downloaded Web Sites\192.168.178.46\francesco-guicciardini.html
+Content Type: text/html
+
 Uri: http://192.168.178.46/francesco-petrarca.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\francesco-petrarca.html
 Content Type: text/html
@@ -686,6 +694,10 @@ Uri: http://192.168.178.46/images/2023/10/03/Giordano-Bruno.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2023\10\03\Giordano-Bruno.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.178.46/images/2023/10/03/guicciardini_ritratto.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2023\10\03\guicciardini_ritratto.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.178.46/images/2023/10/03/Iliade_(Monti)_-_Omero.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2023\10\03\Iliade_(Monti)_-_Omero.jpg
 Content Type: image/jpeg
@@ -694,12 +706,20 @@ Uri: http://192.168.178.46/images/2023/10/03/Immagine11b.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2023\10\03\Immagine11b.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.178.46/images/2023/10/03/Immagine11d.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2023\10\03\Immagine11d.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.178.46/images/2023/10/03/Immagine12b.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2023\10\03\Immagine12b.png
 Content Type: image/png
 
 Uri: http://192.168.178.46/images/2023/10/03/Immagine12d.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2023\10\03\Immagine12d.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.178.46/images/2023/10/03/Immagine13b.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2023\10\03\Immagine13b.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/2023/10/03/Immagine14b.jpg
@@ -758,6 +778,10 @@ Uri: http://192.168.178.46/images/2023/10/03/Immagine71b.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2023\10\03\Immagine71b.png
 Content Type: image/png
 
+Uri: http://192.168.178.46/images/2023/10/03/Immagine7A.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2023\10\03\Immagine7A.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.178.46/images/2023/10/03/Immagine7sd.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2023\10\03\Immagine7sd.jpg
 Content Type: image/jpeg
@@ -766,9 +790,17 @@ Uri: http://192.168.178.46/images/2023/10/03/Immagine81b.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2023\10\03\Immagine81b.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.178.46/images/2023/10/03/Immagine8b.png
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2023\10\03\Immagine8b.png
+Content Type: image/png
+
 Uri: http://192.168.178.46/images/2023/10/03/Immagine91b.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2023\10\03\Immagine91b.jpg
 Content Type: image/jpeg
+
+Uri: http://192.168.178.46/images/2023/10/03/lev_tolstoj.png
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2023\10\03\lev_tolstoj.png
+Content Type: image/png
 
 Uri: http://192.168.178.46/images/2023/10/03/Man-Ray-B98_0133.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2023\10\03\Man-Ray-B98_0133.jpg
@@ -1550,9 +1582,17 @@ Uri: http://192.168.178.46/images/2026/01/20/photo_2026-01-20_13-33-39.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\01\20\photo_2026-01-20_13-33-39.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.178.46/images/2026/01/21/Portrait_of_Niccolò_Machiavelli_by_Santi_di_Tito(1).jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\01\21\Portrait_of_Niccolò_Machiavelli_by_Santi_di_Tito(1).jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.178.46/images/2026/01/23/available_at_amazon_it_cc_horizontal_clr.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\01\23\available_at_amazon_it_cc_horizontal_clr.png
 Content Type: image/png
+
+Uri: http://192.168.178.46/images/2026/01/23/Immagine5b(1).jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\01\23\Immagine5b(1).jpg
+Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/2026/01/26/Immagine6a(2).png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\01\26\Immagine6a(2).png
@@ -1578,6 +1618,14 @@ Uri: http://192.168.178.46/images/2026/02/12/paolieri_ritratto.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\02\12\paolieri_ritratto.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.178.46/images/2026/02/15/verga_ritratto(1).jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\02\15\verga_ritratto(1).jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.178.46/images/2026/02/21/goethe_le__elettive(1).jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\02\21\goethe_le__elettive(1).jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.178.46/images/2026/02/27/flaubert_ritratto (1) (1).jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\02\27\flaubert_ritratto (1) (1).jpg
 Content Type: image/jpeg
@@ -1590,12 +1638,24 @@ Uri: http://192.168.178.46/images/2026/03/29/Immagine3w1(1).jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\03\29\Immagine3w1(1).jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.178.46/images/2026/03/31/gorkij_ritratto_123.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\03\31\gorkij_ritratto_123.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.178.46/images/2026/03/31/joyce_ritratto123.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\03\31\joyce_ritratto123.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.178.46/images/2026/05/12/deledda_ritratto (1).jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\05\12\deledda_ritratto (1).jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/2026/06/06/swift_ritratto (1).jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\06\06\swift_ritratto (1).jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.178.46/images/2026/06/07/barrili_ritratto (1).jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\06\07\barrili_ritratto (1).jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/7ok_edited_edited-gd2.jpg
@@ -1930,8 +1990,20 @@ Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/Aristotele - Metafisica 
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\Aristotele - Metafisica - standard.epub
 Content Type: application/epub+zip
 
+Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/balzac_eugenia_grandet.epub
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\balzac_eugenia_grandet.epub
+Content Type: application/epub+zip
+
 Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/boccaccio_decameron.epub
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\boccaccio_decameron.epub
+Content Type: application/epub+zip
+
+Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/capuana_il_drago.epub
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\capuana_il_drago.epub
+Content Type: application/epub+zip
+
+Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/Carducci - Levia Gravia - st.epub
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\Carducci - Levia Gravia - st.epub
 Content Type: application/epub+zip
 
 Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/descartes_discorso_sul_metodo.epub
@@ -1942,20 +2014,52 @@ Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/d_annunzio_il_piacere.ep
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\d_annunzio_il_piacere.epub
 Content Type: application/epub+zip
 
+Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/Garibaldi - I Mille - st.epub
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\Garibaldi - I Mille - st.epub
+Content Type: application/epub+zip
+
 Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/Giovanni Verga - Mastro Don Gesualdo.epub
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\Giovanni Verga - Mastro Don Gesualdo.epub
+Content Type: application/epub+zip
+
+Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/goethe_i_dolori_del_giovane_werther.epub
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\goethe_i_dolori_del_giovane_werther.epub
 Content Type: application/epub+zip
 
 Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/goldoni_l_adulatore.epub
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\goldoni_l_adulatore.epub
 Content Type: application/epub+zip
 
+Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/Guicciardini - Storie Fiorentine - standard.epub
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\Guicciardini - Storie Fiorentine - standard.epub
+Content Type: application/epub+zip
+
 Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/ilcanticodellecreature - Gerardo D Orrico.epub
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\ilcanticodellecreature - Gerardo D Orrico.epub
 Content Type: application/epub+zip
 
+Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/leonardo_trattato_della_pittura.epub
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\leonardo_trattato_della_pittura.epub
+Content Type: application/epub+zip
+
+Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/leopardi_operette_morali.epub
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\leopardi_operette_morali.epub
+Content Type: application/epub+zip
+
+Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/machiavelli_il_principe.epub
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\machiavelli_il_principe.epub
+Content Type: application/epub+zip
+
 Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/Manzoni - Il Cinque Maggio e Il Conte di C - st.epub
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\Manzoni - Il Cinque Maggio e Il Conte di C - st.epub
+Content Type: application/epub+zip
+
+Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/Non si odono i suoi passi - epub.epub
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\Non si odono i suoi passi - epub.epub
+Content Type: application/epub+zip
+
+Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/Omero - Iliade - Standard.epub
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\Omero - Iliade - Standard.epub
 Content Type: application/epub+zip
 
 Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/petrarca - trionfi - standard.epub
@@ -1986,6 +2090,26 @@ Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/shakespeare_romeo_e_giul
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\shakespeare_romeo_e_giulietta.epub
 Content Type: application/epub+zip
 
+Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/svevo_la_coscienza_di_zeno.epub
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\svevo_la_coscienza_di_zeno.epub
+Content Type: application/epub+zip
+
+Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/tolstoj_anna_karenina.epub
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\tolstoj_anna_karenina.epub
+Content Type: application/epub+zip
+
+Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/tolstoj_denaro_falso.epub
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\tolstoj_denaro_falso.epub
+Content Type: application/epub+zip
+
+Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/tolstoj_la_morte_di_ivan_ilijc 1.epub
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\tolstoj_la_morte_di_ivan_ilijc 1.epub
+Content Type: application/epub+zip
+
+Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/Viaggio al termine della notte - Louis Ferdinand Celine.epub
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\Viaggio al termine della notte - Louis Ferdinand Celine.epub
+Content Type: application/epub+zip
+
 Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/voltaire_candido_o_l_ottimismo.epub
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\voltaire_candido_o_l_ottimismo.epub
 Content Type: application/epub+zip
@@ -2006,6 +2130,10 @@ Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/Chanson de Roland - a
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\Chanson de Roland - anonimo.mobi
 Content Type: 
 
+Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/conrad - cuore di tenebra.azw3
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\conrad - cuore di tenebra.azw3
+Content Type: application/vnd.amazon.mobi8-ebook
+
 Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/critone - platone.azw3
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\critone - platone.azw3
 Content Type: application/vnd.amazon.mobi8-ebook
@@ -2014,9 +2142,17 @@ Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/De profundis - Oscar 
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\De profundis - Oscar Wilde.azw3
 Content Type: application/vnd.amazon.mobi8-ebook
 
+Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/Devoto a Tolstoj - Victor Lebrun.azw3
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\Devoto a Tolstoj - Victor Lebrun.azw3
+Content Type: application/vnd.amazon.mobi8-ebook
+
 Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/Divina Commedia v. unico - Alighieri Dante.mobi
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\Divina Commedia v. unico - Alighieri Dante.mobi
 Content Type: 
+
+Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/I dolori del giovane Werther - J. W. Goethe.azw3
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\I dolori del giovane Werther - J. W. Goethe.azw3
+Content Type: application/vnd.amazon.mobi8-ebook
 
 Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/Il corvo - Edgar Allan Poe.azw3
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\Il corvo - Edgar Allan Poe.azw3
@@ -2026,12 +2162,28 @@ Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/Il ferro - DAnnunzio.
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\Il ferro - DAnnunzio.mobi
 Content Type: 
 
+Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/Il giorno - Giuseppe Parini.azw3
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\Il giorno - Giuseppe Parini.azw3
+Content Type: application/vnd.amazon.mobi8-ebook
+
+Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/Il giorno della civetta - Leonardo Sciascia.azw3
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\Il giorno della civetta - Leonardo Sciascia.azw3
+Content Type: application/vnd.amazon.mobi8-ebook
+
+Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/Il lupo della steppa - Hermann Hesse.azw
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\Il lupo della steppa - Hermann Hesse.azw
+Content Type: 
+
 Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/Il pedante gabbato - Cyrano.mobi
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\Il pedante gabbato - Cyrano.mobi
 Content Type: 
 
 Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/ilcanticodellecreature.azw3
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\ilcanticodellecreature.azw3
+Content Type: application/vnd.amazon.mobi8-ebook
+
+Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/Jacques e il suo padrone omagg.azw3
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\Jacques e il suo padrone omagg.azw3
 Content Type: application/vnd.amazon.mobi8-ebook
 
 Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/La cultura contro il fascismo.azw3
@@ -2046,12 +2198,20 @@ Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/Larte del trattar le 
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\Larte del trattar le donne.azw3
 Content Type: application/vnd.amazon.mobi8-ebook
 
+Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/Le affinita elettive - Wolfgang Goethe.azw3
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\Le affinita elettive - Wolfgang Goethe.azw3
+Content Type: application/vnd.amazon.mobi8-ebook
+
 Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/Libro delle Tre Scritture - Bonvesin de la Riva.mobi
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\Libro delle Tre Scritture - Bonvesin de la Riva.mobi
 Content Type: 
 
 Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/Lidiota - Fedor Dostoevskij.azw3
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\Lidiota - Fedor Dostoevskij.azw3
+Content Type: application/vnd.amazon.mobi8-ebook
+
+Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/Luomo medievale - Jacques Le Goff.azw3
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\Luomo medievale - Jacques Le Goff.azw3
 Content Type: application/vnd.amazon.mobi8-ebook
 
 Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/Metafisica - Aristotele.mobi
@@ -2078,6 +2238,10 @@ Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/Rime - Dante.mobi
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\Rime - Dante.mobi
 Content Type: 
 
+Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/Siddharta - Hermann Hesse.azw3
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\Siddharta - Hermann Hesse.azw3
+Content Type: application/vnd.amazon.mobi8-ebook
+
 Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/Simposio - Platone.azw3
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\Simposio - Platone.azw3
 Content Type: application/vnd.amazon.mobi8-ebook
@@ -2094,9 +2258,17 @@ Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/Un Marito Ideale - Os
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\Un Marito Ideale - Oscar Wilde.azw3
 Content Type: application/vnd.amazon.mobi8-ebook
 
+Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/Viaggio al termine della notte - Louis Ferdinand Celine.mobi
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\Viaggio al termine della notte - Louis Ferdinand Celine.mobi
+Content Type: 
+
 Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/Vita di Demostene e Cicerone - Plutarco.azw3
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\Vita di Demostene e Cicerone - Plutarco.azw3
 Content Type: application/vnd.amazon.mobi8-ebook
+
+Uri: http://192.168.178.46/images/Files/Biblioteca-PDF/Aforismi novelle e profezie - Leonardo da Vinci.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\Aforismi novelle e profezie - Leonardo da Vinci.pdf
+Content Type: application/pdf
 
 Uri: http://192.168.178.46/images/Files/Biblioteca-PDF/Alessandra Erici - Il prezzo del silenzio.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\Alessandra Erici - Il prezzo del silenzio.pdf
@@ -2114,8 +2286,20 @@ Uri: http://192.168.178.46/images/Files/Biblioteca-PDF/Arthur Rimbaud - Poesie.p
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\Arthur Rimbaud - Poesie.pdf
 Content Type: application/pdf
 
+Uri: http://192.168.178.46/images/Files/Biblioteca-PDF/Bagatelle per un massacro.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\Bagatelle per un massacro.pdf
+Content Type: application/pdf
+
 Uri: http://192.168.178.46/images/Files/Biblioteca-PDF/Charles Baudelaire - I fiori del male.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\Charles Baudelaire - I fiori del male.pdf
+Content Type: application/pdf
+
+Uri: http://192.168.178.46/images/Files/Biblioteca-PDF/Demian - Hesse.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\Demian - Hesse.pdf
+Content Type: application/pdf
+
+Uri: http://192.168.178.46/images/Files/Biblioteca-PDF/Dialogo sopra la nobilta - Giuseppe Parini.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\Dialogo sopra la nobilta - Giuseppe Parini.pdf
 Content Type: application/pdf
 
 Uri: http://192.168.178.46/images/Files/Biblioteca-PDF/Diari intimi - Charles Baudelaire.pdf
@@ -2126,12 +2310,32 @@ Uri: http://192.168.178.46/images/Files/Biblioteca-PDF/Euripide.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\Euripide.pdf
 Content Type: application/pdf
 
+Uri: http://192.168.178.46/images/Files/Biblioteca-PDF/G. Leopardi - Storia di unanima memorie.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\G. Leopardi - Storia di unanima memorie.pdf
+Content Type: application/pdf
+
 Uri: http://192.168.178.46/images/Files/Biblioteca-PDF/giardino dei ciliegi Il - Anton Pavlovic Cechov.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\giardino dei ciliegi Il - Anton Pavlovic Cechov.pdf
 Content Type: application/pdf
 
+Uri: http://192.168.178.46/images/Files/Biblioteca-PDF/Il lupo della steppa - Hesse.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\Il lupo della steppa - Hesse.pdf
+Content Type: application/pdf
+
+Uri: http://192.168.178.46/images/Files/Biblioteca-PDF/Il Principe - N Macchiavelli.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\Il Principe - N Macchiavelli.pdf
+Content Type: application/pdf
+
 Uri: http://192.168.178.46/images/Files/Biblioteca-PDF/ilcanticodellecreature - Gerardo D Orrico.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\ilcanticodellecreature - Gerardo D Orrico.pdf
+Content Type: application/pdf
+
+Uri: http://192.168.178.46/images/Files/Biblioteca-PDF/La canzone dei Nibelunghi - standard.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\La canzone dei Nibelunghi - standard.pdf
+Content Type: application/pdf
+
+Uri: http://192.168.178.46/images/Files/Biblioteca-PDF/La coscienza di Zeno - Italo Svevo.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\La coscienza di Zeno - Italo Svevo.pdf
 Content Type: application/pdf
 
 Uri: http://192.168.178.46/images/Files/Biblioteca-PDF/Nietzsche F. - Lanticristo.pdf
@@ -2158,12 +2362,20 @@ Uri: http://192.168.178.46/images/Files/Biblioteca-PDF/Schopenhauer A. - Larte d
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\Schopenhauer A. - Larte di trattar le donne.pdf
 Content Type: application/pdf
 
+Uri: http://192.168.178.46/images/Files/Biblioteca-PDF/Siddharta - Hesse.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\Siddharta - Hesse.pdf
+Content Type: application/pdf
+
 Uri: http://192.168.178.46/images/Files/Biblioteca-PDF/Uno nessuno e centomila - Luigi Pirandello.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\Uno nessuno e centomila - Luigi Pirandello.pdf
 Content Type: application/pdf
 
 Uri: http://192.168.178.46/images/Files/Biblioteca-PDF/Verga - La lupa  standard.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\Verga - La lupa  standard.pdf
+Content Type: application/pdf
+
+Uri: http://192.168.178.46/images/Files/Biblioteca-PDF/Viaggio al termine della notte - Louis Ferdinand Celine.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\Viaggio al termine della notte - Louis Ferdinand Celine.pdf
 Content Type: application/pdf
 
 Uri: http://192.168.178.46/images/Files/Biblioteca-PDF/voltaire_candido_o_l_ottimismo.pdf
@@ -3206,7 +3418,7 @@ Uri: http://192.168.178.46/maksim-gor-kij.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\maksim-gor-kij.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?9ca4c9
+Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?ab2fa2
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -3214,7 +3426,7 @@ Uri: http://192.168.178.46/media/legacy/js/jquery-noconflict.min.js?504da4
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\legacy\js\jquery-noconflict.min.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?9ca4c9
+Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?ab2fa2
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_menu\js\menu.min.js
 Content Type: text/javascript
 
@@ -3521,6 +3733,42 @@ Content Type: font/ttf
 Uri: http://fonts.gstatic.com/s/homenaje/v17/FwZY7-Q-xVAi_l-6Le6H6Mw.ttf
 File Name: C:\Downloaded Web Sites\192.168.178.46\s\homenaje\v17\FwZY7-Q-xVAi_l-6Le6H6Mw.ttf
 Content Type: font/ttf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En español/Los sueños, el tiempo.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En español\Los sueños, el tiempo.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/Changements Excessifs et Rapides.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En français\Changements Excessifs et Rapides.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/Dans l'Inextricable Toile des Relations.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En français\Dans l'Inextricable Toile des Relations.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/Individu Sans Temporalité.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En français\Individu Sans Temporalité.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/La Gratitude.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En français\La Gratitude.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/Montre-moi que tu me aimes.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En français\Montre-moi que tu me aimes.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/Motivations Authentiques.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En français\Motivations Authentiques.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/Observe la Danse des Rêves Éclipsés.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En français\Observe la Danse des Rêves Éclipsés.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/Reflets de l'Existence.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En français\Reflets de l'Existence.pdf
+Content Type: application/pdf
 
 Uri: https://beneinst.eu/images/Files/Biblioteca-EPUB/Pascoli - Primi poemetti - standard.epub
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\Pascoli - Primi poemetti - standard.epub
@@ -3860,6 +4108,18 @@ Content Type: application/pdf
 
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/svevo_una_burla_riuscita.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\svevo_una_burla_riuscita.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/swift_i_viaggi_di_gulliver.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\swift_i_viaggi_di_gulliver.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/swift_lettera.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\swift_lettera.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/swift_viaggi_di_gulliver_nelle_lontane_regioni.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\swift_viaggi_di_gulliver_nelle_lontane_regioni.pdf
 Content Type: application/pdf
 
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/Ufoscolo/gramsci_l_albero_del_riccio.epub
