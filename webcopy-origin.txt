@@ -1670,8 +1670,8 @@ Uri: http://192.168.178.46/images/2026/06/07/barrili_ritratto (1).jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\06\07\barrili_ritratto (1).jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2026/06/12/image001 (4).png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\06\12\image001 (4).png
+Uri: http://192.168.178.46/images/2026/06/12/2038_alba_rivolta_vertical_2ddd (1).png
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\06\12\2038_alba_rivolta_vertical_2ddd (1).png
 Content Type: image/png
 
 Uri: http://192.168.178.46/images/7ok_edited_edited-gd2.jpg
@@ -3426,7 +3426,7 @@ Uri: http://192.168.178.46/maksim-gor-kij.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\maksim-gor-kij.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?7043f4
+Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?bafcd7
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -3434,7 +3434,7 @@ Uri: http://192.168.178.46/media/legacy/js/jquery-noconflict.min.js?504da4
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\legacy\js\jquery-noconflict.min.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?7043f4
+Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?bafcd7
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_menu\js\menu.min.js
 Content Type: text/javascript
 
@@ -3742,21 +3742,97 @@ Uri: http://fonts.gstatic.com/s/homenaje/v17/FwZY7-Q-xVAi_l-6Le6H6Mw.ttf
 File Name: C:\Downloaded Web Sites\192.168.178.46\s\homenaje\v17\FwZY7-Q-xVAi_l-6Le6H6Mw.ttf
 Content Type: font/ttf
 
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En español/Historia lunática.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En español\Historia lunática.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En español/Lo que es el bien no se supera.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En español\Lo que es el bien no se supera.pdf
+Content Type: application/pdf
+
 Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En español/Los sueños, el tiempo.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\En español\Los sueños, el tiempo.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En español/Observa el Danzar de los Sueños Eclipsados.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En español\Observa el Danzar de los Sueños Eclipsados.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En español/Pintaría tu vida con colores únicos.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En español\Pintaría tu vida con colores únicos.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En español/Polvo de un mundo devastado.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En español\Polvo de un mundo devastado.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En español/Tengo muchas creencias.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En español\Tengo muchas creencias.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/Changements Excessifs et Rapides.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En français\Changements Excessifs et Rapides.pdf
 Content Type: application/pdf
 
 Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/Dans l'Inextricable Toile des Relations.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\En français\Dans l'Inextricable Toile des Relations.pdf
 Content Type: application/pdf
 
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/Individu Sans Temporalité.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En français\Individu Sans Temporalité.pdf
+Content Type: application/pdf
+
 Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/La Gratitude.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\En français\La Gratitude.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/Montre-moi que tu me aimes.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En français\Montre-moi que tu me aimes.pdf
 Content Type: application/pdf
 
 Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/Motivations Authentiques.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\En français\Motivations Authentiques.pdf
 Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/Observe la Danse des Rêves Éclipsés.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En français\Observe la Danse des Rêves Éclipsés.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/Reflets de l'Existence.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En français\Reflets de l'Existence.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/In English/A man without a timetable.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\In English\A man without a timetable.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/In English/Excessive and Rapid Changes.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\In English\Excessive and Rapid Changes.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/In English/Memory^J experiences.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\In English\Memory^J experiences.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/In English/The dynamics of the pancreas.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\In English\The dynamics of the pancreas.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/In English/The Hippocratic War.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\In English\The Hippocratic War.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/In English/The real weight of things.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\In English\The real weight of things.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/In English/What changes.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\In English\What changes.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-EPUB/grasso_2038_la_rivolta.epub
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\grasso_2038_la_rivolta.epub
+Content Type: application/epub+zip
 
 Uri: https://beneinst.eu/images/Files/Biblioteca-EPUB/Pascoli - Primi poemetti - standard.epub
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\Pascoli - Primi poemetti - standard.epub
@@ -3972,6 +4048,10 @@ Content Type: application/pdf
 
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/gorkij_i_decaduti.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\gorkij_i_decaduti.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/grasso_2038_la_rivolta.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\grasso_2038_la_rivolta.pdf
 Content Type: application/pdf
 
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/il_par_p.pdf
