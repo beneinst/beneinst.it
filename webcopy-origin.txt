@@ -138,11 +138,11 @@ Uri: http://192.168.178.46/charles-baudelaire.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\charles-baudelaire.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/animate.min.css?e330c48656444406579e9a67ad27107f
+Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/animate.min.css?fbfa80fe81882dd47f8abd5cbb011b19
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\css\animate.min.css
 Content Type: text/css
 
-Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/dynamic-content.css?e330c48656444406579e9a67ad27107f
+Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/dynamic-content.css?fbfa80fe81882dd47f8abd5cbb011b19
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\css\dynamic-content.css
 Content Type: text/css
 
@@ -150,7 +150,7 @@ Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/magnific-popu
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\css\magnific-popup.css
 Content Type: text/css
 
-Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/sppagebuilder.css?e330c48656444406579e9a67ad27107f
+Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/sppagebuilder.css?fbfa80fe81882dd47f8abd5cbb011b19
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\css\sppagebuilder.css
 Content Type: text/css
 
@@ -166,7 +166,7 @@ Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/common.js
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\js\common.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/dynamic-content.js?e330c48656444406579e9a67ad27107f
+Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/dynamic-content.js?fbfa80fe81882dd47f8abd5cbb011b19
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\js\dynamic-content.js
 Content Type: text/javascript
 
@@ -174,11 +174,11 @@ Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/jquery.magnifi
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\js\jquery.magnific-popup.min.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/jquery.parallax.js?e330c48656444406579e9a67ad27107f
+Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/jquery.parallax.js?fbfa80fe81882dd47f8abd5cbb011b19
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\js\jquery.parallax.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/sppagebuilder.js?e330c48656444406579e9a67ad27107f
+Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/sppagebuilder.js?fbfa80fe81882dd47f8abd5cbb011b19
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\js\sppagebuilder.js
 Content Type: text/javascript
 
@@ -568,6 +568,10 @@ Content Type: text/html
 
 Uri: http://192.168.178.46/ferdinando-paolieri.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\ferdinando-paolieri.html
+Content Type: text/html
+
+Uri: http://192.168.178.46/francesco-grasso.html
+File Name: C:\Downloaded Web Sites\192.168.178.46\francesco-grasso.html
 Content Type: text/html
 
 Uri: http://192.168.178.46/francesco-guicciardini.html
@@ -1666,6 +1670,10 @@ Uri: http://192.168.178.46/images/2026/06/07/barrili_ritratto (1).jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\06\07\barrili_ritratto (1).jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.178.46/images/2026/06/12/image001 (4).png
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\06\12\image001 (4).png
+Content Type: image/png
+
 Uri: http://192.168.178.46/images/7ok_edited_edited-gd2.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\7ok_edited_edited-gd2.jpg
 Content Type: image/jpeg
@@ -2072,14 +2080,6 @@ Content Type: application/epub+zip
 
 Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/petrarca - trionfi - standard.epub
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\petrarca - trionfi - standard.epub
-Content Type: application/epub+zip
-
-Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/Pirandello - Sei personaggi in cerca dautore - st.epub
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\Pirandello - Sei personaggi in cerca dautore - st.epub
-Content Type: application/epub+zip
-
-Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/pirandello_cosi_e_se_vi_pare_1925.epub
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\pirandello_cosi_e_se_vi_pare_1925.epub
 Content Type: application/epub+zip
 
 Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/SantAgostino - Il libero arbitrio - standard.epub
@@ -3426,7 +3426,7 @@ Uri: http://192.168.178.46/maksim-gor-kij.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\maksim-gor-kij.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?ab2fa2
+Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?7043f4
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -3434,7 +3434,7 @@ Uri: http://192.168.178.46/media/legacy/js/jquery-noconflict.min.js?504da4
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\legacy\js\jquery-noconflict.min.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?ab2fa2
+Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?7043f4
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_menu\js\menu.min.js
 Content Type: text/javascript
 
@@ -3742,44 +3742,20 @@ Uri: http://fonts.gstatic.com/s/homenaje/v17/FwZY7-Q-xVAi_l-6Le6H6Mw.ttf
 File Name: C:\Downloaded Web Sites\192.168.178.46\s\homenaje\v17\FwZY7-Q-xVAi_l-6Le6H6Mw.ttf
 Content Type: font/ttf
 
-Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En español/Lo que es el bien no se supera.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\En español\Lo que es el bien no se supera.pdf
-Content Type: application/pdf
-
 Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En español/Los sueños, el tiempo.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\En español\Los sueños, el tiempo.pdf
-Content Type: application/pdf
-
-Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/Changements Excessifs et Rapides.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\En français\Changements Excessifs et Rapides.pdf
 Content Type: application/pdf
 
 Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/Dans l'Inextricable Toile des Relations.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\En français\Dans l'Inextricable Toile des Relations.pdf
 Content Type: application/pdf
 
-Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/Individu Sans Temporalité.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\En français\Individu Sans Temporalité.pdf
-Content Type: application/pdf
-
 Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/La Gratitude.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\En français\La Gratitude.pdf
 Content Type: application/pdf
 
-Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/Montre-moi que tu me aimes.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\En français\Montre-moi que tu me aimes.pdf
-Content Type: application/pdf
-
 Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/Motivations Authentiques.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\En français\Motivations Authentiques.pdf
-Content Type: application/pdf
-
-Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/Observe la Danse des Rêves Éclipsés.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\En français\Observe la Danse des Rêves Éclipsés.pdf
-Content Type: application/pdf
-
-Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/Reflets de l'Existence.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\En français\Reflets de l'Existence.pdf
 Content Type: application/pdf
 
 Uri: https://beneinst.eu/images/Files/Biblioteca-EPUB/Pascoli - Primi poemetti - standard.epub
@@ -4202,6 +4178,10 @@ Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/verga/cavall_p.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\verga\cavall_p.pdf
 Content Type: application/pdf
 
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/verga/Le_storie_del_castello_di_Trezza-verga.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\verga\Le_storie_del_castello_di_Trezza-verga.pdf
+Content Type: application/pdf
+
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/verga/Vagabondaggio-GVerga.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\verga\Vagabondaggio-GVerga.pdf
 Content Type: application/pdf
@@ -4457,6 +4437,10 @@ Content Type: font/ttf
 Uri: https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit
 File Name: C:\Downloaded Web Sites\192.168.178.46\translate_a\element.js
 Content Type: text/javascript
+
+Uri: https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg
+File Name: C:\Downloaded Web Sites\192.168.178.46\wikipedia\commons\b\b8\YouTube_Logo_2017.svg
+Content Type: image/svg+xml
 
 Uri: https://www.googletagmanager.com/gtag/js?id=G-37P9KCN6WS
 File Name: C:\Downloaded Web Sites\192.168.178.46\gtag\js

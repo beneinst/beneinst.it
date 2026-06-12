@@ -103,8 +103,8 @@ a:hover {
 	<style>#sp-footer{ background-image:url("images/7ok_edited_edited-gd2.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:50% 50%; }</style>
 <script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?504da4"></script>
-	<script src="media/mod_menu/js/menu.min.js?ab2fa2" type="module"></script>
-	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http:\/\/192.168.178.46\/","base":"","baseFull":"http:\/\/192.168.178.46\/"},"csrf.token":"9a2acf4fe27adf95f59a70eb61befa31"}</script>
+	<script src="media/mod_menu/js/menu.min.js?7043f4" type="module"></script>
+	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http:\/\/192.168.178.46\/","base":"","baseFull":"http:\/\/192.168.178.46\/"},"csrf.token":"077b97bbaf8e08643ecd207c386f70ac"}</script>
 	<script src="media/system/js/core.min.js?a3d8f8"></script>
 	<script src="media/vendor/bootstrap/js/alert.min.js?5.3.8" type="module"></script>
 	<script src="media/vendor/bootstrap/js/button.min.js?5.3.8" type="module"></script>
@@ -120,7 +120,7 @@ a:hover {
 	<script src="media/system/js/showon.min.js?e51227" type="module"></script>
 	<script src="media/system/js/messages.min.js?9a4811" type="module"></script>
 	<script src="cache/com_templates/templates/shaper_helixultimate/a389b878476f072b6c51a2d1962afb96.js"></script>
-	<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://192.168.178.46/#/schema/Organization/base","name":"Beneinst","url":"http://192.168.178.46/"},{"@type":"WebSite","@id":"http://192.168.178.46/#/schema/WebSite/base","url":"http://192.168.178.46/","name":"Beneinst","publisher":{"@id":"http://192.168.178.46/#/schema/Organization/base"}},{"@type":"WebPage","@id":"http://192.168.178.46/#/schema/WebPage/base","url":"http://192.168.178.46/lev-tolstoj.html","name":"Lev Tolstoj","description":"Esplora diari, memorie e storie umane su un sito pubblico. Condividi le tue pagine di diari e connettiti con altri.","isPartOf":{"@id":"http://192.168.178.46/#/schema/WebSite/base"},"about":{"@id":"http://192.168.178.46/#/schema/Organization/base"},"inLanguage":"it-IT"},{"@type":"Article","@id":"http://192.168.178.46/#/schema/com_content/article/131","name":"Lev Tolstoj","headline":"Lev Tolstoj","inLanguage":"it-IT","dateCreated":"2023-10-03T07:01:10+00:00","interactionStatistic":{"@type":"InteractionCounter","userInteractionCount":390},"isPartOf":{"@id":"http://192.168.178.46/#/schema/WebPage/base"}}]}</script>
+	<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://192.168.178.46/#/schema/Organization/base","name":"Beneinst","url":"http://192.168.178.46/"},{"@type":"WebSite","@id":"http://192.168.178.46/#/schema/WebSite/base","url":"http://192.168.178.46/","name":"Beneinst","publisher":{"@id":"http://192.168.178.46/#/schema/Organization/base"}},{"@type":"WebPage","@id":"http://192.168.178.46/#/schema/WebPage/base","url":"http://192.168.178.46/lev-tolstoj.html","name":"Lev Tolstoj","description":"Esplora diari, memorie e storie umane su un sito pubblico. Condividi le tue pagine di diari e connettiti con altri.","isPartOf":{"@id":"http://192.168.178.46/#/schema/WebSite/base"},"about":{"@id":"http://192.168.178.46/#/schema/Organization/base"},"inLanguage":"it-IT"},{"@type":"Article","@id":"http://192.168.178.46/#/schema/com_content/article/131","name":"Lev Tolstoj","headline":"Lev Tolstoj","inLanguage":"it-IT","dateCreated":"2023-10-03T07:01:10+00:00","interactionStatistic":{"@type":"InteractionCounter","userInteractionCount":391},"isPartOf":{"@id":"http://192.168.178.46/#/schema/WebPage/base"}}]}</script>
 	<script><script>
 (() => {
   const BASE = 'https://beneinst.eu';
@@ -1082,6 +1082,151 @@ border-bottom: 1px solid #9e9e9e;
   }
 }
 
+/* Biblioteca CSS - Download Ebook */
+/* Queste classi non interferiscono con il template Helix Ultimate */
+
+/* Contenitore principale della biblioteca */
+.biblioteca-ebook {
+    padding: 2rem 0;
+    font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+}
+
+/* Layout a griglia responsive per i libri */
+.ebook-grid {
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: 1fr;
+    margin: 2rem 0;
+}
+
+/* Card del singolo ebook */
+.ebook-card {
+    background: #fff;
+    border-radius: 16px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 1rem 1.5rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    border: 1px solid #eef2f6;
+}
+
+/* Effetto hover sulla card */
+.ebook-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
+    border-color: #dce4ec;
+}
+
+/* Contenitore titolo e metadati */
+.ebook-info {
+    flex: 1;
+    min-width: 200px;
+}
+
+/* Titolo del libro */
+.ebook-title {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin: 0 0 0.25rem 0;
+    color: #1a2c3e;
+    line-height: 1.4;
+}
+
+/* Badge per il formato (es. PDF, EPUB) */
+.ebook-badge {
+    font-size: 0.7rem;
+    background: #f0f4f9;
+    color: #4a627a;
+    display: inline-block;
+    padding: 0.2rem 0.6rem;
+    border-radius: 20px;
+    font-weight: 500;
+}
+
+/* Area dei formati di download */
+.ebook-formats {
+    display: flex;
+    gap: 0.75rem;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+/* Stile dei pulsanti download */
+.download-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: #f8fafc;
+    padding: 8px 16px;
+    border-radius: 40px;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 0.85rem;
+    transition: all 0.2s;
+    border: 1px solid #e2e8f0;
+    color: #1e293b;
+}
+
+.download-btn:hover {
+    background: #f1f5f9;
+    border-color: #cbd5e1;
+    transform: translateY(-1px);
+}
+
+.download-btn img {
+    width: 20px;
+    height: auto;
+    transition: transform 0.2s;
+}
+
+.download-btn:hover img {
+    transform: scale(1.05);
+}
+
+/* separatore delicato */
+.ebook-divider {
+    margin: 2rem 0 1rem;
+    border: 0;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, #e2e8f0, transparent);
+}
+
+/* --- Responsività --- */
+@media (min-width: 640px) {
+    .ebook-card {
+        flex-wrap: nowrap;
+    }
+}
+
+@media (max-width: 640px) {
+    .ebook-card {
+        flex-direction: column;
+        text-align: center;
+        gap: 1rem;
+        padding: 1.5rem;
+    }
+    
+    .ebook-formats {
+        justify-content: center;
+    }
+    
+    .download-btn {
+        padding: 6px 14px;
+    }
+}
+/* Sfondo bianco standard */
+.ebook-card {
+    background: #fff;
+}
+
+/* Hover con panna chiarissimo */
+.ebook-card:hover {
+    background: #faf7f0; /* o #faf7f0 */
+}
 </style>
 			</head>
 	<body class="site helix-ultimate hu com_content com-content view-article layout-default task-none itemid-431 it-it ltr sticky-header layout-fluid offcanvas-init offcanvs-position-left">
@@ -1238,8 +1383,8 @@ function googleTranslateElementInit() {
 			
 		
 					<span class="hits">
-	<meta itemprop="interactionCount" content="UserPageVisits:390">
-	Visite: 390</span>
+	<meta itemprop="interactionCount" content="UserPageVisits:391">
+	Visite: 391</span>
 				
 			</div>
     
@@ -1278,32 +1423,69 @@ function googleTranslateElementInit() {
         
         <div itemprop="articleBody">
             <p style="text-align: justify;">Lev Nikolayevich Tolstoy è stato uno dei più grandi scrittori russi e uno dei più importanti pensatori del XIX secolo. Nato il 9 settembre 1828 in una famiglia aristocratica a Yasnaya Polyana, nella regione di Tula, in Russia, ha trascorso la maggior parte della sua vita nella sua tenuta di campagna. Ha studiato legge e lingue orientali all'Università di Kazan, ma non ha completato gli studi. Durante la Guerra di Crimea, ha prestato servizio come ufficiale nell'esercito russo, ma ha lasciato il servizio militare nel 1856 per dedicarsi alla letteratura e all'attivismo sociale. Il suo primo romanzo, "Infanzia", è stato pubblicato nel 1852. Tuttavia, è stato il suo capolavoro, "Guerra e Pace", pubblicato tra il 1865 e il 1869, che gli ha dato fama mondiale. Nel 1870 ha sposato la sua compagna di vita, Sofia Andreevna Bers, con cui ha avuto 13 figli. La coppia ha trascorso gran parte della loro vita insieme nella tenuta di famiglia, dove Tolstoy ha condotto esperimenti sociali, religiosi e pedagogici. Ha abbracciato una forma radicale di cristianesimo, basata sulla non-violenza, la resistenza passiva e la renuncia ai beni materiali. Tolstoy ha continuato a scrivere romanzi, racconti, saggi e opere filosofiche per il resto della sua vita, tra cui "Anna Karenina" (1877), "La morte di Ivan Il'ic" (1886) e "Resurrezione" (1899). Ha anche pubblicato diverse opere sul cristianesimo, tra cui "Il Regno di Dio è in Voi" (1894), che ha influenzato molti attivisti per la non-violenza, tra cui Mahatma Gandhi e Martin Luther King Jr. Tolstoy è morto il 20 novembre 1910, a 82 anni, nella sua tenuta di campagna, a causa di una polmonite. La sua eredità letteraria e filosofica continua ad influenzare il pensiero e la cultura contemporanei.</p>
-<h2> </h2>
-<h5>Elenco opere</h5>
-<p>(click sull'immagine relativa al formato scelto disponibile per il download)</p>
-<p> </p>
-<div class="books-container">
-<div class="book">
-<h4>• Denaro falso</h4>
-<div class="formats"><a title="Download" href="images/Files/Biblioteca-EPUB/tolstoj_denaro_falso.epub" download="tolstoj_denaro_falso.epub"> <img src="images/Componenti/epub.png" alt="epub" width="30" height="39" loading="lazy" data-path="local-images:/Componenti/epub.jpg"> </a></div>
-</div>
-<hr class="ab-hr">
-<div class="book">
-<h4>• La morte di Ivan Il'ič</h4>
-<div class="formats"><a title="Download" href="images/Files/Biblioteca-EPUB/tolstoj_la_morte_di_ivan_ilijc%201.epub" download="tolstoj_la_morte_di_ivan_ilijc.epub"> <img src="images/Componenti/epub.png" alt="epub" width="30" height="39" loading="lazy" data-path="local-images:/Componenti/epub.png"> </a></div>
-</div>
-<hr class="ab-hr">
-<div class="book">
-<h4>• Anna Karenina</h4>
-<div class="formats"><a title="Download" href="images/Files/Biblioteca-EPUB/tolstoj_anna_karenina.epub" download="tolstoj_anna_karenina.epub"> <img src="images/Componenti/epub.png" alt="epub" width="30" height="39" loading="lazy" data-path="local-images:/Componenti/epub.png"> </a></div>
-</div>
-<hr class="ab-hr">
-<div class="book">
-<h4>• Devoto a Tolstoj - Victor Lebrun</h4>
-<div class="formats"><a title="Download" href="images/Files/Biblioteca-Mobi-gd/Devoto%20a%20Tolstoj%20-%20Victor%20Lebrun.azw3" download="Devoto a Tolstoj - Victor Lebrun.azw"> <img src="images/Componenti/mobi-4.png" alt="mobi" width="30" height="39" loading="lazy" data-path="local-images:/Componenti/mobi-4.png"> </a></div>
-</div>
-<hr class="ab-hr"></div>
-<hr class="custom-hr">         </div>
+<!-- Libreria Ebook Lev Tolstoj -->
+<div class="biblioteca-ebook">
+    <div class="ebook-intro">
+        <h5 style="font-weight: 600; margin-bottom: 1rem;">Elenco opere disponibili</h5>
+        <p style="color: #4b5563; margin-bottom: 2rem; font-size: 0.95rem;">Clicca sul formato desiderato per avviare il download gratuito dell'ebook.</p>
+    </div>
+    
+    <div class="ebook-grid">
+        
+        <!-- Card: Denaro falso (EPUB) -->
+        <div class="ebook-card">
+            <div class="ebook-info">
+                <div class="ebook-title">Denaro falso</div>
+                <span class="ebook-badge">Racconto</span>
+            </div>
+            <div class="ebook-formats">
+                <a class="download-btn" href="images/Files/Biblioteca-EPUB/tolstoj_denaro_falso.epub" target="_blank" rel="noopener" download="tolstoj_denaro_falso.epub">
+                    <img src="images/Componenti/epub.png" width="20" height="26" loading="lazy" alt="EPUB"> EPUB
+                </a>
+            </div>
+        </div>
+        
+        <!-- Card: La morte di Ivan Il'ič (EPUB) -->
+        <div class="ebook-card">
+            <div class="ebook-info">
+                <div class="ebook-title">La morte di Ivan Il'ič</div>
+                <span class="ebook-badge">Romanzo</span>
+            </div>
+            <div class="ebook-formats">
+                <a class="download-btn" href="images/Files/Biblioteca-EPUB/tolstoj_la_morte_di_ivan_ilijc%201.epub" target="_blank" rel="noopener" download="tolstoj_la_morte_di_ivan_ilijc.epub">
+                    <img src="images/Componenti/epub.png" width="20" height="26" loading="lazy" alt="EPUB"> EPUB
+                </a>
+            </div>
+        </div>
+        
+        <!-- Card: Anna Karenina (EPUB) -->
+        <div class="ebook-card">
+            <div class="ebook-info">
+                <div class="ebook-title">Anna Karenina</div>
+                <span class="ebook-badge">Romanzo</span>
+            </div>
+            <div class="ebook-formats">
+                <a class="download-btn" href="images/Files/Biblioteca-EPUB/tolstoj_anna_karenina.epub" target="_blank" rel="noopener" download="tolstoj_anna_karenina.epub">
+                    <img src="images/Componenti/epub.png" width="20" height="26" loading="lazy" alt="EPUB"> EPUB
+                </a>
+            </div>
+        </div>
+        
+        <!-- Card: Devoto a Tolstoj - Victor Lebrun (MOBI) -->
+        <div class="ebook-card">
+            <div class="ebook-info">
+                <div class="ebook-title">Devoto a Tolstoj - Victor Lebrun</div>
+                <span class="ebook-badge">Biografia</span>
+            </div>
+            <div class="ebook-formats">
+                <a class="download-btn" href="images/Files/Biblioteca-Mobi-gd/Devoto%20a%20Tolstoj%20-%20Victor%20Lebrun.azw3" target="_blank" rel="noopener" download="Devoto a Tolstoj - Victor Lebrun.azw">
+                    <img src="images/Componenti/mobi-4.png" width="20" height="26" loading="lazy" alt="MOBI"> MOBI
+                </a>
+            </div>
+        </div>
+        
+    </div>
+</div>         </div>
 
         
         

@@ -103,8 +103,8 @@ a:hover {
 	<style>#sp-footer{ background-image:url("images/7ok_edited_edited-gd2.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:50% 50%; }</style>
 <script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?504da4"></script>
-	<script src="media/mod_menu/js/menu.min.js?ab2fa2" type="module"></script>
-	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http:\/\/192.168.178.46\/","base":"","baseFull":"http:\/\/192.168.178.46\/"},"csrf.token":"9a2acf4fe27adf95f59a70eb61befa31"}</script>
+	<script src="media/mod_menu/js/menu.min.js?7043f4" type="module"></script>
+	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http:\/\/192.168.178.46\/","base":"","baseFull":"http:\/\/192.168.178.46\/"},"csrf.token":"077b97bbaf8e08643ecd207c386f70ac"}</script>
 	<script src="media/system/js/core.min.js?a3d8f8"></script>
 	<script src="media/vendor/bootstrap/js/alert.min.js?5.3.8" type="module"></script>
 	<script src="media/vendor/bootstrap/js/button.min.js?5.3.8" type="module"></script>
@@ -120,7 +120,7 @@ a:hover {
 	<script src="media/system/js/showon.min.js?e51227" type="module"></script>
 	<script src="media/system/js/messages.min.js?9a4811" type="module"></script>
 	<script src="cache/com_templates/templates/shaper_helixultimate/a389b878476f072b6c51a2d1962afb96.js"></script>
-	<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://192.168.178.46/#/schema/Organization/base","name":"Beneinst","url":"http://192.168.178.46/"},{"@type":"WebSite","@id":"http://192.168.178.46/#/schema/WebSite/base","url":"http://192.168.178.46/","name":"Beneinst","publisher":{"@id":"http://192.168.178.46/#/schema/Organization/base"}},{"@type":"WebPage","@id":"http://192.168.178.46/#/schema/WebPage/base","url":"http://192.168.178.46/oscar-wilde.html","name":"Oscar Wilde","description":"Esplora diari, memorie e storie umane su un sito pubblico. Condividi le tue pagine di diari e connettiti con altri.","isPartOf":{"@id":"http://192.168.178.46/#/schema/WebSite/base"},"about":{"@id":"http://192.168.178.46/#/schema/Organization/base"},"inLanguage":"it-IT"},{"@type":"Article","@id":"http://192.168.178.46/#/schema/com_content/article/134","name":"Oscar Wilde","headline":"Oscar Wilde","inLanguage":"it-IT","dateCreated":"2023-10-03T07:05:10+00:00","interactionStatistic":{"@type":"InteractionCounter","userInteractionCount":410},"isPartOf":{"@id":"http://192.168.178.46/#/schema/WebPage/base"}}]}</script>
+	<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://192.168.178.46/#/schema/Organization/base","name":"Beneinst","url":"http://192.168.178.46/"},{"@type":"WebSite","@id":"http://192.168.178.46/#/schema/WebSite/base","url":"http://192.168.178.46/","name":"Beneinst","publisher":{"@id":"http://192.168.178.46/#/schema/Organization/base"}},{"@type":"WebPage","@id":"http://192.168.178.46/#/schema/WebPage/base","url":"http://192.168.178.46/oscar-wilde.html","name":"Oscar Wilde","description":"Esplora diari, memorie e storie umane su un sito pubblico. Condividi le tue pagine di diari e connettiti con altri.","isPartOf":{"@id":"http://192.168.178.46/#/schema/WebSite/base"},"about":{"@id":"http://192.168.178.46/#/schema/Organization/base"},"inLanguage":"it-IT"},{"@type":"Article","@id":"http://192.168.178.46/#/schema/com_content/article/134","name":"Oscar Wilde","headline":"Oscar Wilde","inLanguage":"it-IT","dateCreated":"2023-10-03T07:05:10+00:00","interactionStatistic":{"@type":"InteractionCounter","userInteractionCount":412},"isPartOf":{"@id":"http://192.168.178.46/#/schema/WebPage/base"}}]}</script>
 	<script><script>
 (() => {
   const BASE = 'https://beneinst.eu';
@@ -1082,6 +1082,151 @@ border-bottom: 1px solid #9e9e9e;
   }
 }
 
+/* Biblioteca CSS - Download Ebook */
+/* Queste classi non interferiscono con il template Helix Ultimate */
+
+/* Contenitore principale della biblioteca */
+.biblioteca-ebook {
+    padding: 2rem 0;
+    font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+}
+
+/* Layout a griglia responsive per i libri */
+.ebook-grid {
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: 1fr;
+    margin: 2rem 0;
+}
+
+/* Card del singolo ebook */
+.ebook-card {
+    background: #fff;
+    border-radius: 16px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 1rem 1.5rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    border: 1px solid #eef2f6;
+}
+
+/* Effetto hover sulla card */
+.ebook-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
+    border-color: #dce4ec;
+}
+
+/* Contenitore titolo e metadati */
+.ebook-info {
+    flex: 1;
+    min-width: 200px;
+}
+
+/* Titolo del libro */
+.ebook-title {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin: 0 0 0.25rem 0;
+    color: #1a2c3e;
+    line-height: 1.4;
+}
+
+/* Badge per il formato (es. PDF, EPUB) */
+.ebook-badge {
+    font-size: 0.7rem;
+    background: #f0f4f9;
+    color: #4a627a;
+    display: inline-block;
+    padding: 0.2rem 0.6rem;
+    border-radius: 20px;
+    font-weight: 500;
+}
+
+/* Area dei formati di download */
+.ebook-formats {
+    display: flex;
+    gap: 0.75rem;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+/* Stile dei pulsanti download */
+.download-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: #f8fafc;
+    padding: 8px 16px;
+    border-radius: 40px;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 0.85rem;
+    transition: all 0.2s;
+    border: 1px solid #e2e8f0;
+    color: #1e293b;
+}
+
+.download-btn:hover {
+    background: #f1f5f9;
+    border-color: #cbd5e1;
+    transform: translateY(-1px);
+}
+
+.download-btn img {
+    width: 20px;
+    height: auto;
+    transition: transform 0.2s;
+}
+
+.download-btn:hover img {
+    transform: scale(1.05);
+}
+
+/* separatore delicato */
+.ebook-divider {
+    margin: 2rem 0 1rem;
+    border: 0;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, #e2e8f0, transparent);
+}
+
+/* --- Responsività --- */
+@media (min-width: 640px) {
+    .ebook-card {
+        flex-wrap: nowrap;
+    }
+}
+
+@media (max-width: 640px) {
+    .ebook-card {
+        flex-direction: column;
+        text-align: center;
+        gap: 1rem;
+        padding: 1.5rem;
+    }
+    
+    .ebook-formats {
+        justify-content: center;
+    }
+    
+    .download-btn {
+        padding: 6px 14px;
+    }
+}
+/* Sfondo bianco standard */
+.ebook-card {
+    background: #fff;
+}
+
+/* Hover con panna chiarissimo */
+.ebook-card:hover {
+    background: #faf7f0; /* o #faf7f0 */
+}
 </style>
 			</head>
 	<body class="site helix-ultimate hu com_content com-content view-article layout-default task-none itemid-438 it-it ltr sticky-header layout-fluid offcanvas-init offcanvs-position-left">
@@ -1238,8 +1383,8 @@ function googleTranslateElementInit() {
 			
 		
 					<span class="hits">
-	<meta itemprop="interactionCount" content="UserPageVisits:410">
-	Visite: 410</span>
+	<meta itemprop="interactionCount" content="UserPageVisits:412">
+	Visite: 412</span>
 				
 			</div>
     
@@ -1283,43 +1428,98 @@ function googleTranslateElementInit() {
 <p style="text-align: justify;">Nel 1890, Wilde scrisse la sua opera più famosa, "The Picture of Dorian Gray", un romanzo che suscitò molte polemiche per la sua tematica immorale. Successivamente scrisse numerose commedie di grande successo, tra cui "Lady Windermere's Fan" (1892), "A Woman of No Importance" (1893) e "The Importance of Being Earnest" (1895).</p>
 <p style="text-align: justify;">Wilde era famoso per la sua personalità eccentrica e per il suo stile di vita sfarzoso e mondano. Nel 1895, fu condannato a due anni di reclusione con l'accusa di omosessualità, considerata all'epoca un reato. Durante la sua reclusione, Wilde scrisse "De Profundis", una lettera aperta alla sua ex-amante Lord Alfred Douglas.</p>
 <p style="text-align: justify;">Dopo il suo rilascio dalla prigione nel 1897, Wilde si trasferì a Parigi, dove visse in povertà fino alla sua morte nel 1900, all'età di 46 anni, a causa di una meningite. La sua fama e il suo prestigio letterario sono cresciuti costantemente dopo la sua morte, e oggi è considerato uno dei più grandi scrittori e pensatori dell'epoca vittoriana.</p>
-<h2> </h2>
-<h5>Elenco opere</h5>
-<p>(click sull'immagine relativa al formato scelto disponibile per il download)</p>
-<p> </p>
-<div class="books-container">
-<div class="book">
-<h4>• Il ritratto di Dorian Gray</h4>
-<div class="formats"><a title="Download" href="images/Files/Biblioteca-PDF/Wilde%20O.%20-%20il%20ritratto%20di%20Dorian%20Gray.pdf" rel="noopener" download="Oscar Wilde - il ritratto di Dorian Gray.pdf"> <img src="images/Componenti/pdfeN.png" width="30" height="39" loading="lazy" data-path="local-images:/Componenti/pdfeN.png"> </a></div>
-</div>
-<hr class="ab-hr">
-<div class="book">
-<h4>• De profundis</h4>
-<div class="formats"><a style="color: #0000cc; text-decoration-line: underline;" title="Download" href="images/Files/Biblioteca-PDF/wilde_de_profundis.pdf" rel="noopener" download="Oscar Wilde - De profundis.pdf"> <img src="images/Componenti/pdfeN.png" width="30" height="39" loading="lazy" data-path="local-images:/Componenti/pdfeN.png"> </a> <a title="Download" href="images/Files/Biblioteca-Mobi-gd/De%20profundis%20-%20Oscar%20Wilde.azw3" download="De profundis - Oscar Wilde. azw3"> <img src="images/Componenti/mobi-4.png" alt="mobi" width="30" height="39" loading="lazy" data-path="local-images:/Componenti/mobi-4.jpg"> </a></div>
-</div>
-<hr class="ab-hr">
-<div class="book">
-<h4>• Il delitto di lord Arturo Savile</h4>
-<div class="formats"><a title="Download" href="images/Files/Biblioteca-PDF/wilde_il_delitto_di_lord_arturo_savile.pdf" rel="noopener" download=""> <img src="images/Componenti/pdfeN.png" width="30" height="39" loading="lazy" data-path="local-images:/Componenti/pdfeN.png"> </a></div>
-</div>
-<hr class="ab-hr">
-<div class="book">
-<h4>• La casa dei melograni</h4>
-<div class="formats"><a title="Download" href="images/Files/Biblioteca-PDF/wilde_la_casa_dei_melograni.pdf" rel="noopener" download=""> <img src="images/Componenti/pdfeN.png" width="30" height="39" loading="lazy" data-path="local-images:/Componenti/pdfeN.png"> </a></div>
-</div>
-<hr class="ab-hr">
-<div class="book">
-<h4>• Intenzioni</h4>
-<div class="formats"><a title="Download" href="images/Files/Biblioteca-PDF/wilde_intenzioni.pdf" rel="noopener" download=""> <img src="images/Componenti/pdfeN.png" width="30" height="39" loading="lazy" data-path="local-images:/Componenti/pdfeN.png"> </a></div>
-</div>
-<hr class="ab-hr">
-<div class="book">
-<h4>• Un Marito Ideale</h4>
-<div class="formats"><a title="Download" href="images/Files/Biblioteca-Mobi-gd/Un%20Marito%20Ideale%20-%20Oscar%20Wilde.azw3" download="Un Marito Ideale - Oscar Wilde. azw3"> <img src="images/Componenti/mobi-4.png" alt="mobi" width="30" height="39" loading="lazy" data-path="local-images:/Componenti/mobi-4.png"> </a></div>
-</div>
-<hr class="ab-hr"></div>
-</div>
-<hr class="custom-hr">         </div>
+<!-- Libreria Ebook Oscar Wilde -->
+<div class="biblioteca-ebook">
+    <div class="ebook-intro">
+        <h5 style="font-weight: 600; margin-bottom: 1rem;">Elenco opere disponibili</h5>
+        <p style="color: #4b5563; margin-bottom: 2rem; font-size: 0.95rem;">Clicca sul formato desiderato per avviare il download gratuito dell'ebook.</p>
+    </div>
+    
+    <div class="ebook-grid">
+        
+        <!-- Card: Il ritratto di Dorian Gray -->
+        <div class="ebook-card">
+            <div class="ebook-info">
+                <div class="ebook-title">Il ritratto di Dorian Gray</div>
+                <span class="ebook-badge">Romanzo</span>
+            </div>
+            <div class="ebook-formats">
+                <a class="download-btn" href="images/Files/Biblioteca-PDF/Wilde%20O.%20-%20il%20ritratto%20di%20Dorian%20Gray.pdf" target="_blank" rel="noopener" download="Oscar Wilde - il ritratto di Dorian Gray.pdf">
+                    <img src="images/Componenti/pdfeN.png" width="20" height="26" loading="lazy" alt="PDF"> PDF
+                </a>
+            </div>
+        </div>
+        
+        <!-- Card: De profundis (doppio formato: PDF + MOBI) -->
+        <div class="ebook-card">
+            <div class="ebook-info">
+                <div class="ebook-title">De profundis</div>
+                <span class="ebook-badge">Epistolario</span>
+            </div>
+            <div class="ebook-formats">
+                <a class="download-btn" href="images/Files/Biblioteca-PDF/wilde_de_profundis.pdf" target="_blank" rel="noopener" download="Oscar Wilde - De profundis.pdf">
+                    <img src="images/Componenti/pdfeN.png" width="20" height="26" loading="lazy" alt="PDF"> PDF
+                </a>
+                <a class="download-btn" href="images/Files/Biblioteca-Mobi-gd/De%20profundis%20-%20Oscar%20Wilde.azw3" target="_blank" rel="noopener" download="De profundis - Oscar Wilde.azw3">
+                    <img src="images/Componenti/mobi-4.png" width="20" height="26" loading="lazy" alt="MOBI"> MOBI
+                </a>
+            </div>
+        </div>
+        
+        <!-- Card: Il delitto di lord Arturo Savile -->
+        <div class="ebook-card">
+            <div class="ebook-info">
+                <div class="ebook-title">Il delitto di lord Arturo Savile</div>
+                <span class="ebook-badge">Racconto</span>
+            </div>
+            <div class="ebook-formats">
+                <a class="download-btn" href="images/Files/Biblioteca-PDF/wilde_il_delitto_di_lord_arturo_savile.pdf" target="_blank" rel="noopener" download="">
+                    <img src="images/Componenti/pdfeN.png" width="20" height="26" loading="lazy" alt="PDF"> PDF
+                </a>
+            </div>
+        </div>
+        
+        <!-- Card: La casa dei melograni -->
+        <div class="ebook-card">
+            <div class="ebook-info">
+                <div class="ebook-title">La casa dei melograni</div>
+                <span class="ebook-badge">Fiaba</span>
+            </div>
+            <div class="ebook-formats">
+                <a class="download-btn" href="images/Files/Biblioteca-PDF/wilde_la_casa_dei_melograni.pdf" target="_blank" rel="noopener" download="">
+                    <img src="images/Componenti/pdfeN.png" width="20" height="26" loading="lazy" alt="PDF"> PDF
+                </a>
+            </div>
+        </div>
+        
+        <!-- Card: Intenzioni -->
+        <div class="ebook-card">
+            <div class="ebook-info">
+                <div class="ebook-title">Intenzioni</div>
+                <span class="ebook-badge">Saggio</span>
+            </div>
+            <div class="ebook-formats">
+                <a class="download-btn" href="images/Files/Biblioteca-PDF/wilde_intenzioni.pdf" target="_blank" rel="noopener" download="">
+                    <img src="images/Componenti/pdfeN.png" width="20" height="26" loading="lazy" alt="PDF"> PDF
+                </a>
+            </div>
+        </div>
+        
+        <!-- Card: Un Marito Ideale (solo MOBI) -->
+        <div class="ebook-card">
+            <div class="ebook-info">
+                <div class="ebook-title">Un Marito Ideale</div>
+                <span class="ebook-badge">Commedia</span>
+            </div>
+            <div class="ebook-formats">
+                <a class="download-btn" href="images/Files/Biblioteca-Mobi-gd/Un%20Marito%20Ideale%20-%20Oscar%20Wilde.azw3" target="_blank" rel="noopener" download="Un Marito Ideale - Oscar Wilde.azw3">
+                    <img src="images/Componenti/mobi-4.png" width="20" height="26" loading="lazy" alt="MOBI"> MOBI
+                </a>
+            </div>
+        </div>
+        
+    </div>
+</div>         </div>
 
         
         
@@ -1462,7 +1662,7 @@ function googleTranslateElementInit() {
 											</div>
 				</div>
 						
-	</section>
+	</div></section>
 
 <section id="sp-section-4">
 

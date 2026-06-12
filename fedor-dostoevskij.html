@@ -103,8 +103,8 @@ a:hover {
 	<style>#sp-footer{ background-image:url("images/7ok_edited_edited-gd2.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:50% 50%; }</style>
 <script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?504da4"></script>
-	<script src="media/mod_menu/js/menu.min.js?ab2fa2" type="module"></script>
-	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http:\/\/192.168.178.46\/","base":"","baseFull":"http:\/\/192.168.178.46\/"},"csrf.token":"9a2acf4fe27adf95f59a70eb61befa31"}</script>
+	<script src="media/mod_menu/js/menu.min.js?7043f4" type="module"></script>
+	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http:\/\/192.168.178.46\/","base":"","baseFull":"http:\/\/192.168.178.46\/"},"csrf.token":"077b97bbaf8e08643ecd207c386f70ac"}</script>
 	<script src="media/system/js/core.min.js?a3d8f8"></script>
 	<script src="media/vendor/bootstrap/js/alert.min.js?5.3.8" type="module"></script>
 	<script src="media/vendor/bootstrap/js/button.min.js?5.3.8" type="module"></script>
@@ -1082,6 +1082,151 @@ border-bottom: 1px solid #9e9e9e;
   }
 }
 
+/* Biblioteca CSS - Download Ebook */
+/* Queste classi non interferiscono con il template Helix Ultimate */
+
+/* Contenitore principale della biblioteca */
+.biblioteca-ebook {
+    padding: 2rem 0;
+    font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+}
+
+/* Layout a griglia responsive per i libri */
+.ebook-grid {
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: 1fr;
+    margin: 2rem 0;
+}
+
+/* Card del singolo ebook */
+.ebook-card {
+    background: #fff;
+    border-radius: 16px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 1rem 1.5rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    border: 1px solid #eef2f6;
+}
+
+/* Effetto hover sulla card */
+.ebook-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
+    border-color: #dce4ec;
+}
+
+/* Contenitore titolo e metadati */
+.ebook-info {
+    flex: 1;
+    min-width: 200px;
+}
+
+/* Titolo del libro */
+.ebook-title {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin: 0 0 0.25rem 0;
+    color: #1a2c3e;
+    line-height: 1.4;
+}
+
+/* Badge per il formato (es. PDF, EPUB) */
+.ebook-badge {
+    font-size: 0.7rem;
+    background: #f0f4f9;
+    color: #4a627a;
+    display: inline-block;
+    padding: 0.2rem 0.6rem;
+    border-radius: 20px;
+    font-weight: 500;
+}
+
+/* Area dei formati di download */
+.ebook-formats {
+    display: flex;
+    gap: 0.75rem;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+/* Stile dei pulsanti download */
+.download-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: #f8fafc;
+    padding: 8px 16px;
+    border-radius: 40px;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 0.85rem;
+    transition: all 0.2s;
+    border: 1px solid #e2e8f0;
+    color: #1e293b;
+}
+
+.download-btn:hover {
+    background: #f1f5f9;
+    border-color: #cbd5e1;
+    transform: translateY(-1px);
+}
+
+.download-btn img {
+    width: 20px;
+    height: auto;
+    transition: transform 0.2s;
+}
+
+.download-btn:hover img {
+    transform: scale(1.05);
+}
+
+/* separatore delicato */
+.ebook-divider {
+    margin: 2rem 0 1rem;
+    border: 0;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, #e2e8f0, transparent);
+}
+
+/* --- Responsività --- */
+@media (min-width: 640px) {
+    .ebook-card {
+        flex-wrap: nowrap;
+    }
+}
+
+@media (max-width: 640px) {
+    .ebook-card {
+        flex-direction: column;
+        text-align: center;
+        gap: 1rem;
+        padding: 1.5rem;
+    }
+    
+    .ebook-formats {
+        justify-content: center;
+    }
+    
+    .download-btn {
+        padding: 6px 14px;
+    }
+}
+/* Sfondo bianco standard */
+.ebook-card {
+    background: #fff;
+}
+
+/* Hover con panna chiarissimo */
+.ebook-card:hover {
+    background: #faf7f0; /* o #faf7f0 */
+}
 </style>
 			</head>
 	<body class="site helix-ultimate hu com_content com-content view-article layout-default task-none itemid-404 it-it ltr sticky-header layout-fluid offcanvas-init offcanvs-position-left">
@@ -1278,30 +1423,75 @@ function googleTranslateElementInit() {
 <p style="text-align: justify;">Dopo il suo ritorno dalla Siberia, Dostoevskij continuò a scrivere e pubblicò alcune delle sue opere più importanti, tra cui "Memorie dal sottosuolo", "Delitto e castigo", "L'idiota", "I demoni" e "I fratelli Karamazov".</p>
 <p style="text-align: justify;">Le opere di Dostoevskij sono caratterizzate dalla loro profondità psicologica, dalla loro attenzione alle sfumature della vita interiore dei personaggi, e dalla loro riflessione sulla condizione umana. Nel suo lavoro, Dostoevskij esplora i temi della religione, della morale, della filosofia, della politica e della società, offrendo un ritratto complesso e coinvolgente della Russia del suo tempo.</p>
 <p style="text-align: justify;">Dostoevskij morì a San Pietroburgo nel 1881 e fu sepolto nel monastero di Aleksandr Nevskij. La sua eredità letteraria è stata enorme e ha influenzato molti scrittori russi e internazionali, tra cui Franz Kafka, Albert Camus e James Joyce.</p>
-<p> </p>
 <h5>Elenco opere</h5>
 <p>(click sull'immagine relativa al formato scelto disponibile per il download)</p>
-<p> </p>
-<div class="book">
-<h4>• Le notti bianche</h4>
-<div class="formats"><a title="Download" href="images/Files/Biblioteca-PDF/dostoevskij_le_notti_bianche.pdf" rel="noopener" download=""><img src="images/Componenti/pdfeN.png" width="30" height="39" loading="lazy" data-path="local-images:/Componenti/pdfeN.png"></a></div>
-</div>
-<hr class="ab-hr">
-<div class="book">
-<h4>• L’adolescente</h4>
-<div class="formats"><a title="Download" href="images/Files/Biblioteca-PDF/dostoevskij_l_adolescente.pdf" rel="noopener" download=""><img src="images/Componenti/pdfeN.png" width="30" height="39" loading="lazy" data-path="local-images:/Componenti/pdfeN.png"></a></div>
-</div>
-<hr class="ab-hr">
-<div class="book">
-<h4>• L'idiota</h4>
-<div class="formats"><a title="Download" href="images/Files/Biblioteca-PDF/dostoevskij_l_idiota.pdf" rel="noopener" download=""><img src="images/Componenti/pdfeN.png" width="30" height="39" loading="lazy" data-path="local-images:/Componenti/pdfeN.png"></a> <a title="Download" href="images/Files/Biblioteca-Mobi-gd/Lidiota%20-%20Fedor%20Dostoevskij.azw3" download="L'idiota - Fedor Dostoevskij.azw3"> <img src="images/Componenti/mobi-4.png" alt="mobi" width="30" height="39" loading="lazy" data-path="local-images:/Componenti/mobi-4.png"></a></div>
-</div>
-<hr class="ab-hr">
-<div class="book">
-<h4>• Delitto e castigo</h4>
-<div class="formats"><a title="Download" href="images/Files/Biblioteca-PDF/dostoevskij_delitto_e_castigo.pdf" rel="noopener" download=""><img src="images/Componenti/pdfeN.png" width="30" height="39" loading="lazy" data-path="local-images:/Componenti/pdfeN.png"></a></div>
-</div>
-<hr class="ab-hr"><hr class="custom-hr">         </div>
+
+<!-- Libreria Ebook Fëdor Dostoevskij -->
+<div class="biblioteca-ebook">
+    <div class="ebook-intro">
+        <h5 style="font-weight: 600; margin-bottom: 1rem;">Elenco opere disponibili</h5>
+        <p style="color: #4b5563; margin-bottom: 2rem; font-size: 0.95rem;">Clicca sul formato desiderato per avviare il download gratuito dell'ebook.</p>
+    </div>
+    
+    <div class="ebook-grid">
+        
+        <!-- Card: Le notti bianche (solo PDF) -->
+        <div class="ebook-card">
+            <div class="ebook-info">
+                <div class="ebook-title">Le notti bianche</div>
+                <span class="ebook-badge">Romanzo</span>
+            </div>
+            <div class="ebook-formats">
+                <a class="download-btn" href="images/Files/Biblioteca-PDF/dostoevskij_le_notti_bianche.pdf" target="_blank" rel="noopener" download="">
+                    <img src="images/Componenti/pdfeN.png" width="20" height="26" loading="lazy" alt="PDF"> PDF
+                </a>
+            </div>
+        </div>
+        
+        <!-- Card: L'adolescente (solo PDF) -->
+        <div class="ebook-card">
+            <div class="ebook-info">
+                <div class="ebook-title">L'adolescente</div>
+                <span class="ebook-badge">Romanzo</span>
+            </div>
+            <div class="ebook-formats">
+                <a class="download-btn" href="images/Files/Biblioteca-PDF/dostoevskij_l_adolescente.pdf" target="_blank" rel="noopener" download="">
+                    <img src="images/Componenti/pdfeN.png" width="20" height="26" loading="lazy" alt="PDF"> PDF
+                </a>
+            </div>
+        </div>
+        
+        <!-- Card: L'idiota (PDF + MOBI) -->
+        <div class="ebook-card">
+            <div class="ebook-info">
+                <div class="ebook-title">L'idiota</div>
+                <span class="ebook-badge">Romanzo</span>
+            </div>
+            <div class="ebook-formats">
+                <a class="download-btn" href="images/Files/Biblioteca-PDF/dostoevskij_l_idiota.pdf" target="_blank" rel="noopener" download="">
+                    <img src="images/Componenti/pdfeN.png" width="20" height="26" loading="lazy" alt="PDF"> PDF
+                </a>
+                <a class="download-btn" href="images/Files/Biblioteca-Mobi-gd/Lidiota%20-%20Fedor%20Dostoevskij.azw3" target="_blank" rel="noopener" download="L'idiota - Fedor Dostoevskij.azw3">
+                    <img src="images/Componenti/mobi-4.png" width="20" height="26" loading="lazy" alt="MOBI"> MOBI
+                </a>
+            </div>
+        </div>
+        
+        <!-- Card: Delitto e castigo (solo PDF) -->
+        <div class="ebook-card">
+            <div class="ebook-info">
+                <div class="ebook-title">Delitto e castigo</div>
+                <span class="ebook-badge">Romanzo</span>
+            </div>
+            <div class="ebook-formats">
+                <a class="download-btn" href="images/Files/Biblioteca-PDF/dostoevskij_delitto_e_castigo.pdf" target="_blank" rel="noopener" download="">
+                    <img src="images/Componenti/pdfeN.png" width="20" height="26" loading="lazy" alt="PDF"> PDF
+                </a>
+            </div>
+        </div>
+        
+    </div>
+</div>         </div>
 
         
         
