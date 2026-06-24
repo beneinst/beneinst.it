@@ -1674,6 +1674,10 @@ Uri: http://192.168.178.46/images/2026/06/21/poe_ritratto (1) (1).jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\06\21\poe_ritratto (1) (1).jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.178.46/images/2026/06/24/1782288479-1.png
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\06\24\1782288479-1.png
+Content Type: image/png
+
 Uri: http://192.168.178.46/images/7ok_edited_edited-gd2.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\7ok_edited_edited-gd2.jpg
 Content Type: image/jpeg
@@ -3738,8 +3742,16 @@ Uri: http://fonts.gstatic.com/s/homenaje/v17/FwZY7-Q-xVAi_l-6Le6H6Mw.ttf
 File Name: C:\Downloaded Web Sites\192.168.178.46\s\homenaje\v17\FwZY7-Q-xVAi_l-6Le6H6Mw.ttf
 Content Type: font/ttf
 
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/Dans l'Inextricable Toile des Relations.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En français\Dans l'Inextricable Toile des Relations.pdf
+Content Type: application/pdf
+
 Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/Individu Sans Temporalité.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\En français\Individu Sans Temporalité.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/Reflets de l'Existence.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En français\Reflets de l'Existence.pdf
 Content Type: application/pdf
 
 Uri: https://beneinst.eu/images/Files/Biblioteca-EPUB/grasso_2038_la_rivolta.epub
@@ -4096,6 +4108,14 @@ Content Type: application/pdf
 
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/plato_fedone.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\plato_fedone.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/poe-manoscritto_trovato_in_una_bottiglia.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\poe-manoscritto_trovato_in_una_bottiglia.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/poe-una_discesa_nel_maelstrom.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\poe-una_discesa_nel_maelstrom.pdf
 Content Type: application/pdf
 
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/princi_p.pdf
