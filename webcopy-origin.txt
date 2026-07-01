@@ -3742,6 +3742,38 @@ Uri: http://fonts.gstatic.com/s/homenaje/v17/FwZY7-Q-xVAi_l-6Le6H6Mw.ttf
 File Name: C:\Downloaded Web Sites\192.168.178.46\s\homenaje\v17\FwZY7-Q-xVAi_l-6Le6H6Mw.ttf
 Content Type: font/ttf
 
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En español/Historia lunática.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En español\Historia lunática.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En español/Lo que es el bien no se supera.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En español\Lo que es el bien no se supera.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En español/Los sueños, el tiempo.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En español\Los sueños, el tiempo.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En español/Observa el Danzar de los Sueños Eclipsados.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En español\Observa el Danzar de los Sueños Eclipsados.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En español/Pintaría tu vida con colores únicos.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En español\Pintaría tu vida con colores únicos.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En español/Polvo de un mundo devastado.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En español\Polvo de un mundo devastado.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En español/Tengo muchas creencias.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En español\Tengo muchas creencias.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/Changements Excessifs et Rapides.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En français\Changements Excessifs et Rapides.pdf
+Content Type: application/pdf
+
 Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/Dans l'Inextricable Toile des Relations.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\En français\Dans l'Inextricable Toile des Relations.pdf
 Content Type: application/pdf
@@ -3750,8 +3782,52 @@ Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dw
 File Name: C:\Downloaded Web Sites\192.168.178.46\En français\Individu Sans Temporalité.pdf
 Content Type: application/pdf
 
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/La Gratitude.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En français\La Gratitude.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/Montre-moi que tu me aimes.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En français\Montre-moi que tu me aimes.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/Motivations Authentiques.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En français\Motivations Authentiques.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/Observe la Danse des Rêves Éclipsés.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\En français\Observe la Danse des Rêves Éclipsés.pdf
+Content Type: application/pdf
+
 Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/En français/Reflets de l'Existence.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\En français\Reflets de l'Existence.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/In English/A man without a timetable.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\In English\A man without a timetable.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/In English/Excessive and Rapid Changes.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\In English\Excessive and Rapid Changes.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/In English/Memory^J experiences.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\In English\Memory^J experiences.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/In English/The dynamics of the pancreas.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\In English\The dynamics of the pancreas.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/In English/The Hippocratic War.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\In English\The Hippocratic War.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/In English/The real weight of things.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\In English\The real weight of things.pdf
+Content Type: application/pdf
+
+Uri: https://bafybeiefdgreogvdjkvzt6lngcv65z6ewmzj63xhtju5j7eiggd4oq6y5i.ipfs.dweb.link/In English/What changes.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\In English\What changes.pdf
 Content Type: application/pdf
 
 Uri: https://beneinst.eu/images/Files/Biblioteca-EPUB/grasso_2038_la_rivolta.epub
@@ -4110,12 +4186,20 @@ Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/plato_fedone.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\plato_fedone.pdf
 Content Type: application/pdf
 
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/poe-ligeia.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\poe-ligeia.pdf
+Content Type: application/pdf
+
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/poe-manoscritto_trovato_in_una_bottiglia.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\poe-manoscritto_trovato_in_una_bottiglia.pdf
 Content Type: application/pdf
 
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/poe-una_discesa_nel_maelstrom.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\poe-una_discesa_nel_maelstrom.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/poe_morella.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\poe_morella.pdf
 Content Type: application/pdf
 
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/princi_p.pdf
@@ -4298,52 +4382,52 @@ Uri: https://fonts.googleapis.com/css?family=Biryani:100,100italic,200,200italic
 File Name: C:\Downloaded Web Sites\192.168.178.46\css-5
 Content Type: text/css
 
-Uri: https://fonts.gstatic.com/s/alegreya/v39/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNG9hU4-6qm.ttf
-File Name: C:\Downloaded Web Sites\192.168.178.46\s\alegreya\v39\4UacrEBBsBhlBjvfkQjt71kZfyBzPgNG9hU4-6qm.ttf
+Uri: https://fonts.gstatic.com/s/alegreya/v41/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNG9hU4-6qm.ttf
+File Name: C:\Downloaded Web Sites\192.168.178.46\s\alegreya\v41\4UacrEBBsBhlBjvfkQjt71kZfyBzPgNG9hU4-6qm.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.gstatic.com/s/alegreya/v39/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGdhI4-6qm.ttf
-File Name: C:\Downloaded Web Sites\192.168.178.46\s\alegreya\v39\4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGdhI4-6qm.ttf
+Uri: https://fonts.gstatic.com/s/alegreya/v41/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGdhI4-6qm.ttf
+File Name: C:\Downloaded Web Sites\192.168.178.46\s\alegreya\v41\4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGdhI4-6qm.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.gstatic.com/s/alegreya/v39/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGERI4-6qm.ttf
-File Name: C:\Downloaded Web Sites\192.168.178.46\s\alegreya\v39\4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGERI4-6qm.ttf
+Uri: https://fonts.gstatic.com/s/alegreya/v41/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGERI4-6qm.ttf
+File Name: C:\Downloaded Web Sites\192.168.178.46\s\alegreya\v41\4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGERI4-6qm.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.gstatic.com/s/alegreya/v39/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGKBI4-6qm.ttf
-File Name: C:\Downloaded Web Sites\192.168.178.46\s\alegreya\v39\4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGKBI4-6qm.ttf
+Uri: https://fonts.gstatic.com/s/alegreya/v41/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGKBI4-6qm.ttf
+File Name: C:\Downloaded Web Sites\192.168.178.46\s\alegreya\v41\4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGKBI4-6qm.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.gstatic.com/s/alegreya/v39/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGxBU4-6qm.ttf
-File Name: C:\Downloaded Web Sites\192.168.178.46\s\alegreya\v39\4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGxBU4-6qm.ttf
+Uri: https://fonts.gstatic.com/s/alegreya/v41/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGxBU4-6qm.ttf
+File Name: C:\Downloaded Web Sites\192.168.178.46\s\alegreya\v41\4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGxBU4-6qm.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.gstatic.com/s/alegreya/v39/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGXxI4-6qm.ttf
-File Name: C:\Downloaded Web Sites\192.168.178.46\s\alegreya\v39\4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGXxI4-6qm.ttf
+Uri: https://fonts.gstatic.com/s/alegreya/v41/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGXxI4-6qm.ttf
+File Name: C:\Downloaded Web Sites\192.168.178.46\s\alegreya\v41\4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGXxI4-6qm.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.gstatic.com/s/alegreya/v39/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlbgv5qhmSA.ttf
-File Name: C:\Downloaded Web Sites\192.168.178.46\s\alegreya\v39\4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlbgv5qhmSA.ttf
+Uri: https://fonts.gstatic.com/s/alegreya/v41/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlbgv5qhmSA.ttf
+File Name: C:\Downloaded Web Sites\192.168.178.46\s\alegreya\v41\4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlbgv5qhmSA.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.gstatic.com/s/alegreya/v39/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlbSv5qhmSA.ttf
-File Name: C:\Downloaded Web Sites\192.168.178.46\s\alegreya\v39\4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlbSv5qhmSA.ttf
+Uri: https://fonts.gstatic.com/s/alegreya/v41/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlbSv5qhmSA.ttf
+File Name: C:\Downloaded Web Sites\192.168.178.46\s\alegreya\v41\4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlbSv5qhmSA.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.gstatic.com/s/alegreya/v39/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlY-uJqhmSA.ttf
-File Name: C:\Downloaded Web Sites\192.168.178.46\s\alegreya\v39\4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlY-uJqhmSA.ttf
+Uri: https://fonts.gstatic.com/s/alegreya/v41/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlY-uJqhmSA.ttf
+File Name: C:\Downloaded Web Sites\192.168.178.46\s\alegreya\v41\4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlY-uJqhmSA.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.gstatic.com/s/alegreya/v39/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlYHuJqhmSA.ttf
-File Name: C:\Downloaded Web Sites\192.168.178.46\s\alegreya\v39\4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlYHuJqhmSA.ttf
+Uri: https://fonts.gstatic.com/s/alegreya/v41/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlYHuJqhmSA.ttf
+File Name: C:\Downloaded Web Sites\192.168.178.46\s\alegreya\v41\4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlYHuJqhmSA.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.gstatic.com/s/alegreya/v39/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlZguJqhmSA.ttf
-File Name: C:\Downloaded Web Sites\192.168.178.46\s\alegreya\v39\4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlZguJqhmSA.ttf
+Uri: https://fonts.gstatic.com/s/alegreya/v41/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlZguJqhmSA.ttf
+File Name: C:\Downloaded Web Sites\192.168.178.46\s\alegreya\v41\4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlZguJqhmSA.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.gstatic.com/s/alegreya/v39/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlZJuJqhmSA.ttf
-File Name: C:\Downloaded Web Sites\192.168.178.46\s\alegreya\v39\4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlZJuJqhmSA.ttf
+Uri: https://fonts.gstatic.com/s/alegreya/v41/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlZJuJqhmSA.ttf
+File Name: C:\Downloaded Web Sites\192.168.178.46\s\alegreya\v41\4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlZJuJqhmSA.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/audiowide/v22/l7gdbjpo0cum0ckerWCtkQ.ttf
