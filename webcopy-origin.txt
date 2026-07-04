@@ -1678,6 +1678,10 @@ Uri: http://192.168.178.46/images/2026/06/24/1782288479-1.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\06\24\1782288479-1.png
 Content Type: image/png
 
+Uri: http://192.168.178.46/images/2026/07/04/di_giacomo_ritratto (1).jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\07\04\di_giacomo_ritratto (1).jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.178.46/images/7ok_edited_edited-gd2.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\7ok_edited_edited-gd2.jpg
 Content Type: image/jpeg
@@ -3426,7 +3430,7 @@ Uri: http://192.168.178.46/maksim-gor-kij.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\maksim-gor-kij.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?577f54
+Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?3210f8
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -3434,7 +3438,7 @@ Uri: http://192.168.178.46/media/legacy/js/jquery-noconflict.min.js?504da4
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\legacy\js\jquery-noconflict.min.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?577f54
+Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?3210f8
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_menu\js\menu.min.js
 Content Type: text/javascript
 
@@ -3624,6 +3628,10 @@ Content Type: text/html
 
 Uri: http://192.168.178.46/risonanze-dellanima.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\risonanze-dellanima.html
+Content Type: text/html
+
+Uri: http://192.168.178.46/salvatore-di-giacomo.html
+File Name: C:\Downloaded Web Sites\192.168.178.46\salvatore-di-giacomo.html
 Content Type: text/html
 
 Uri: http://192.168.178.46/san-francesco-di-assisi.html
@@ -4142,10 +4150,6 @@ Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/paolieri/novell_selvagge.pd
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\paolieri\novell_selvagge.pdf
 Content Type: application/pdf
 
-Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/paolieri/novell_toscane.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\paolieri\novell_toscane.pdf
-Content Type: application/pdf
-
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/paolieri/paolieri_uomini_bestie_paesi.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\paolieri\paolieri_uomini_bestie_paesi.pdf
 Content Type: application/pdf
@@ -4186,8 +4190,32 @@ Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/plato_fedone.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\plato_fedone.pdf
 Content Type: application/pdf
 
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/poe-gli_assassinii_della_rue_morgue.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\poe-gli_assassinii_della_rue_morgue.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/poe-hop_frog.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\poe-hop_frog.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/poe-il_gatto_nero.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\poe-il_gatto_nero.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/poe-il_pozzo_e_il_pendolo.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\poe-il_pozzo_e_il_pendolo.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/poe-la_verita_sul_caso_di_mister_valdemar.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\poe-la_verita_sul_caso_di_mister_valdemar.pdf
+Content Type: application/pdf
+
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/poe-ligeia.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\poe-ligeia.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/poe-lo_scarabeo_d_oro.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\poe-lo_scarabeo_d_oro.pdf
 Content Type: application/pdf
 
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/poe-manoscritto_trovato_in_una_bottiglia.pdf
