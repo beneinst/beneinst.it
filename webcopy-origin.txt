@@ -1642,10 +1642,6 @@ Uri: http://192.168.178.46/images/2026/03/27/plato1.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\03\27\plato1.png
 Content Type: image/png
 
-Uri: http://192.168.178.46/images/2026/03/29/Immagine3w1(1).jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\03\29\Immagine3w1(1).jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.178.46/images/2026/03/31/gorkij_ritratto_123.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\03\31\gorkij_ritratto_123.jpg
 Content Type: image/jpeg
@@ -1680,6 +1676,10 @@ Content Type: image/png
 
 Uri: http://192.168.178.46/images/2026/07/04/di_giacomo_ritratto (1).jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\07\04\di_giacomo_ritratto (1).jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.178.46/images/2026/07/07/pirandello-beneinst.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\07\07\pirandello-beneinst.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/7ok_edited_edited-gd2.jpg
@@ -3982,6 +3982,18 @@ Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/deledda/l_eder_p.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\deledda\l_eder_p.pdf
 Content Type: application/pdf
 
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/di_giacomo-assunta_spina.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\di_giacomo-assunta_spina.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/di_giacomo-mattinate_napoletane.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\di_giacomo-mattinate_napoletane.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/di_giacomo-novelle_napolitane.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\di_giacomo-novelle_napolitane.pdf
+Content Type: application/pdf
+
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/donna__p.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\donna__p.pdf
 Content Type: application/pdf
@@ -4148,6 +4160,10 @@ Content Type: application/pdf
 
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/paolieri/novell_selvagge.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\paolieri\novell_selvagge.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/paolieri/novell_toscane.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\paolieri\novell_toscane.pdf
 Content Type: application/pdf
 
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/paolieri/paolieri_uomini_bestie_paesi.pdf
