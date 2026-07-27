@@ -1650,16 +1650,16 @@ Uri: http://192.168.178.46/images/2026/07/07/pirandello-beneinst.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\07\07\pirandello-beneinst.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.178.46/images/2026/07/27/1785144042 1.png
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\07\27\1785144042 1.png
+Content Type: image/png
+
 Uri: http://192.168.178.46/images/2026/07/27/1q.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\07\27\1q.png
 Content Type: image/png
 
 Uri: http://192.168.178.46/images/2026/07/27/2q.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\07\27\2q.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2026/07/27/3q.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\07\27\3q.png
 Content Type: image/png
 
 Uri: http://192.168.178.46/images/2026/07/27/4q.png
@@ -1846,12 +1846,12 @@ Uri: http://192.168.178.46/images/Copertine/1w.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Copertine\1w.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/Copertine/2w.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Copertine\2w.jpg
+Uri: http://192.168.178.46/images/Copertine/2q3.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Copertine\2q3.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/Copertine/3w.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Copertine\3w.jpg
+Uri: http://192.168.178.46/images/Copertine/2w.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Copertine\2w.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/Copertine/4w.jpg
