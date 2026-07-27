@@ -106,12 +106,12 @@ Uri: http://192.168.178.46/cache/com_templates/templates/shaper_helixultimate/21
 File Name: C:\Downloaded Web Sites\192.168.178.46\cache\com_templates\templates\shaper_helixultimate\21f9472012de8fb7e771a274b24c8b8d.css
 Content Type: text/css
 
-Uri: http://192.168.178.46/cache/com_templates/templates/shaper_helixultimate/2aadf67effb4fa11684538bc1d6fb929.js
-File Name: C:\Downloaded Web Sites\192.168.178.46\cache\com_templates\templates\shaper_helixultimate\2aadf67effb4fa11684538bc1d6fb929.js
+Uri: http://192.168.178.46/cache/com_templates/templates/shaper_helixultimate/b5d7e5855d9d93e47c2613b6bea8300a.js
+File Name: C:\Downloaded Web Sites\192.168.178.46\cache\com_templates\templates\shaper_helixultimate\b5d7e5855d9d93e47c2613b6bea8300a.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/cache/com_templates/templates/shaper_helixultimate/a389b878476f072b6c51a2d1962afb96.js
-File Name: C:\Downloaded Web Sites\192.168.178.46\cache\com_templates\templates\shaper_helixultimate\a389b878476f072b6c51a2d1962afb96.js
+Uri: http://192.168.178.46/cache/com_templates/templates/shaper_helixultimate/f2b0305c38d8e9d145abbf2681f3e990.js
+File Name: C:\Downloaded Web Sites\192.168.178.46\cache\com_templates\templates\shaper_helixultimate\f2b0305c38d8e9d145abbf2681f3e990.js
 Content Type: text/javascript
 
 Uri: http://192.168.178.46/cache/com_templates/templates/shaper_helixultimate/fb817c72c8b2deba9a3408628bfaf71f.css
@@ -138,11 +138,11 @@ Uri: http://192.168.178.46/charles-baudelaire.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\charles-baudelaire.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/animate.min.css?143fb2b8f5d98f82feb246ecc61db33d
+Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/animate.min.css?22df91a964c1a33e741fe7d3a53f3fec
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\css\animate.min.css
 Content Type: text/css
 
-Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/dynamic-content.css?143fb2b8f5d98f82feb246ecc61db33d
+Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/dynamic-content.css?22df91a964c1a33e741fe7d3a53f3fec
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\css\dynamic-content.css
 Content Type: text/css
 
@@ -150,7 +150,7 @@ Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/magnific-popu
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\css\magnific-popup.css
 Content Type: text/css
 
-Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/sppagebuilder.css?143fb2b8f5d98f82feb246ecc61db33d
+Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/sppagebuilder.css?22df91a964c1a33e741fe7d3a53f3fec
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\css\sppagebuilder.css
 Content Type: text/css
 
@@ -166,7 +166,7 @@ Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/common.js
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\js\common.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/dynamic-content.js?143fb2b8f5d98f82feb246ecc61db33d
+Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/dynamic-content.js?22df91a964c1a33e741fe7d3a53f3fec
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\js\dynamic-content.js
 Content Type: text/javascript
 
@@ -174,11 +174,11 @@ Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/jquery.magnifi
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\js\jquery.magnific-popup.min.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/jquery.parallax.js?143fb2b8f5d98f82feb246ecc61db33d
+Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/jquery.parallax.js?22df91a964c1a33e741fe7d3a53f3fec
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\js\jquery.parallax.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/sppagebuilder.js?143fb2b8f5d98f82feb246ecc61db33d
+Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/sppagebuilder.js?22df91a964c1a33e741fe7d3a53f3fec
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\js\sppagebuilder.js
 Content Type: text/javascript
 
@@ -1470,38 +1470,6 @@ Uri: http://192.168.178.46/images/2025/02/28/thq1.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\28\thq1.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2025/04/07/1as.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\04\07\1as.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/04/07/2a.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\04\07\2a.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/04/07/3a.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\04\07\3a.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/04/07/4a.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\04\07\4a.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/04/07/5a.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\04\07\5a.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/04/07/6a.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\04\07\6a.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/04/07/7a.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\04\07\7a.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/04/07/8a.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\04\07\8a.png
-Content Type: image/png
-
 Uri: http://192.168.178.46/images/2025/05/07/qwedqwe33.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\05\07\qwedqwe33.jpg
 Content Type: image/jpeg
@@ -1682,6 +1650,38 @@ Uri: http://192.168.178.46/images/2026/07/07/pirandello-beneinst.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\07\07\pirandello-beneinst.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.178.46/images/2026/07/27/1q.png
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\07\27\1q.png
+Content Type: image/png
+
+Uri: http://192.168.178.46/images/2026/07/27/2q.png
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\07\27\2q.png
+Content Type: image/png
+
+Uri: http://192.168.178.46/images/2026/07/27/3q.png
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\07\27\3q.png
+Content Type: image/png
+
+Uri: http://192.168.178.46/images/2026/07/27/4q.png
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\07\27\4q.png
+Content Type: image/png
+
+Uri: http://192.168.178.46/images/2026/07/27/5a.png
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\07\27\5a.png
+Content Type: image/png
+
+Uri: http://192.168.178.46/images/2026/07/27/6q.png
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\07\27\6q.png
+Content Type: image/png
+
+Uri: http://192.168.178.46/images/2026/07/27/7q.png
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\07\27\7q.png
+Content Type: image/png
+
+Uri: http://192.168.178.46/images/2026/07/27/8q.png
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\07\27\8q.png
+Content Type: image/png
+
 Uri: http://192.168.178.46/images/7ok_edited_edited-gd2.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\7ok_edited_edited-gd2.jpg
 Content Type: image/jpeg
@@ -1842,37 +1842,37 @@ Uri: http://192.168.178.46/images/Componenti/rounded-in-photoretrica-27.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\rounded-in-photoretrica-27.png
 Content Type: image/png
 
-Uri: http://192.168.178.46/images/Copertine/103.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Copertine\103.jpg
+Uri: http://192.168.178.46/images/Copertine/1w.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Copertine\1w.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/Copertine/173.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Copertine\173.jpg
+Uri: http://192.168.178.46/images/Copertine/2w.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Copertine\2w.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/Copertine/213.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Copertine\213.jpg
+Uri: http://192.168.178.46/images/Copertine/3w.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Copertine\3w.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/Copertine/23.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Copertine\23.jpg
+Uri: http://192.168.178.46/images/Copertine/4w.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Copertine\4w.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/Copertine/243.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Copertine\243.jpg
+Uri: http://192.168.178.46/images/Copertine/5w.png
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Copertine\5w.png
+Content Type: image/png
+
+Uri: http://192.168.178.46/images/Copertine/6w.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Copertine\6w.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/Copertine/43.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Copertine\43.jpg
+Uri: http://192.168.178.46/images/Copertine/7w.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Copertine\7w.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/Copertine/63.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Copertine\63.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/Copertine/93.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Copertine\93.jpg
-Content Type: image/jpeg
+Uri: http://192.168.178.46/images/Copertine/8w.png
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Copertine\8w.png
+Content Type: image/png
 
 Uri: http://192.168.178.46/images/Copertine/AudioCop/4.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Copertine\AudioCop\4.jpg
@@ -3430,7 +3430,7 @@ Uri: http://192.168.178.46/maksim-gor-kij.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\maksim-gor-kij.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?8783a5
+Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?1d9773
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -3438,7 +3438,7 @@ Uri: http://192.168.178.46/media/legacy/js/jquery-noconflict.min.js?504da4
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\legacy\js\jquery-noconflict.min.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?8783a5
+Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?1d9773
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_menu\js\menu.min.js
 Content Type: text/javascript
 
@@ -4189,6 +4189,10 @@ Content Type: application/pdf
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/pascoli/pascoli_myricae.epub
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\pascoli\pascoli_myricae.epub
 Content Type: application/epub+zip
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/piran/pirandello-novelle_per_un_anno.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\piran\pirandello-novelle_per_un_anno.pdf
+Content Type: application/pdf
 
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/pirandello_arte_e_scienza.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\pirandello_arte_e_scienza.pdf
