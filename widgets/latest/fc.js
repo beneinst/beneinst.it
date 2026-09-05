@@ -103,6 +103,7 @@
         el_a.href = get_lang_href(lang);
         el_a.title = lang_array[lang];
         el_a.setAttribute('data-gt-lang', lang);
+        el_a.setAttribute('aria-label', lang_array[lang]);
         el_a.classList.add('glink', 'nturl', 'notranslate');
         lang == current_lang && el_a.classList.add('gt-current-lang');
 
