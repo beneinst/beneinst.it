@@ -878,10 +878,6 @@ Uri: http://192.168.178.46/images/2024/02/13/OIG1-(1)f.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2024\02\13\OIG1-(1)f.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2024/02/27/planimetrie-ed-edificio.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2024\02\27\planimetrie-ed-edificio.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.178.46/images/2024/12/09/1en6.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2024\12\09\1en6.jpg
 Content Type: image/jpeg
@@ -1382,10 +1378,6 @@ Uri: http://192.168.178.46/images/2025/02/21/image033.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\21\image033.png
 Content Type: image/png
 
-Uri: http://192.168.178.46/images/2025/02/21/inviaased.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\21\inviaased.png
-Content Type: image/png
-
 Uri: http://192.168.178.46/images/2025/02/21/OIG1-(8)g_edited.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\21\OIG1-(8)g_edited.png
 Content Type: image/png
@@ -1400,10 +1392,6 @@ Content Type: image/png
 
 Uri: http://192.168.178.46/images/2025/02/21/OIG4-_1__edited-removebg-preview1.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\21\OIG4-_1__edited-removebg-preview1.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/28/111q1.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\28\111q1.png
 Content Type: image/png
 
 Uri: http://192.168.178.46/images/2025/02/28/1a1.png
@@ -1429,10 +1417,6 @@ Content Type: image/png
 Uri: http://192.168.178.46/images/2025/02/28/3eb.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\28\3eb.png
 Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/28/thq1.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\28\thq1.jpg
-Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/2025/08/30/1a7chiaro4.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\08\30\1a7chiaro4.png
@@ -1469,10 +1453,6 @@ Content Type: image/png
 Uri: http://192.168.178.46/images/2025/08/30/8w.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\08\30\8w.png
 Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/08/30/audiob2t2.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\08\30\audiob2t2.jpg
-Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/2025/08/30/c2olo2.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\08\30\c2olo2.jpg
@@ -1634,25 +1614,41 @@ Uri: http://192.168.178.46/images/2026/07/27/8q.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\07\27\8q.png
 Content Type: image/png
 
-Uri: http://192.168.178.46/images/2026/09/06/beneinst-ebook-gratuiti-header.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\06\beneinst-ebook-gratuiti-header.png
-Content Type: image/png
+Uri: http://192.168.178.46/images/2026/09/06/beneinst-anteprime-audio-header1.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\06\beneinst-anteprime-audio-header1.jpg
+Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2026/09/06/beneinst-home-header.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\06\beneinst-home-header.png
-Content Type: image/png
+Uri: http://192.168.178.46/images/2026/09/06/beneinst-condividi-sed-etiam-header1.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\06\beneinst-condividi-sed-etiam-header1.jpg
+Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2026/09/06/beneinst-lettere-header.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\06\beneinst-lettere-header.png
-Content Type: image/png
+Uri: http://192.168.178.46/images/2026/09/06/beneinst-ebook-gratuiti-header1.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\06\beneinst-ebook-gratuiti-header1.jpg
+Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2026/09/06/beneinst-opere-condivise-header.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\06\beneinst-opere-condivise-header.png
-Content Type: image/png
+Uri: http://192.168.178.46/images/2026/09/06/beneinst-home-header1.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\06\beneinst-home-header1.jpg
+Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2026/09/06/beneinst-percorsi-letterari-header.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\06\beneinst-percorsi-letterari-header.png
-Content Type: image/png
+Uri: http://192.168.178.46/images/2026/09/06/beneinst-lettere-header1.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\06\beneinst-lettere-header1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.178.46/images/2026/09/06/beneinst-licenza-cc-by-nc-header1.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\06\beneinst-licenza-cc-by-nc-header1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.178.46/images/2026/09/06/beneinst-opere-condivise-header1.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\06\beneinst-opere-condivise-header1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.178.46/images/2026/09/06/beneinst-percorsi-letterari-header1.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\06\beneinst-percorsi-letterari-header1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.178.46/images/2026/09/06/beneinst-privacy-cookie-policy-header1.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\06\beneinst-privacy-cookie-policy-header1.jpg
+Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/2026/09/06/gerardoacqu4er33erello-1.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\06\gerardoacqu4er33erello-1.jpg
@@ -1665,10 +1661,6 @@ Content Type: image/jpeg
 Uri: http://192.168.178.46/images/Componenti/1ff.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\1ff.jpg
 Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/Componenti/ccty.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\ccty.png
-Content Type: image/png
 
 Uri: http://192.168.178.46/images/Componenti/consigliati/bizantina.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\consigliati\bizantina.jpg
