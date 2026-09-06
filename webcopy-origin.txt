@@ -1366,14 +1366,6 @@ Uri: http://192.168.178.46/images/2025/02/21/a21.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\21\a21.png
 Content Type: image/png
 
-Uri: http://192.168.178.46/images/2025/02/21/diarihp.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\21\diarihp.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/21/ebook-tit.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\21\ebook-tit.png
-Content Type: image/png
-
 Uri: http://192.168.178.46/images/2025/02/21/image03.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\21\image03.png
 Content Type: image/png
@@ -1394,10 +1386,6 @@ Uri: http://192.168.178.46/images/2025/02/21/inviaased.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\21\inviaased.png
 Content Type: image/png
 
-Uri: http://192.168.178.46/images/2025/02/21/letterep.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\21\letterep.png
-Content Type: image/png
-
 Uri: http://192.168.178.46/images/2025/02/21/OIG1-(8)g_edited.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\21\OIG1-(8)g_edited.png
 Content Type: image/png
@@ -1412,10 +1400,6 @@ Content Type: image/png
 
 Uri: http://192.168.178.46/images/2025/02/21/OIG4-_1__edited-removebg-preview1.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\21\OIG4-_1__edited-removebg-preview1.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/21/sedp2.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\21\sedp2.png
 Content Type: image/png
 
 Uri: http://192.168.178.46/images/2025/02/28/111q1.png
@@ -1448,10 +1432,6 @@ Content Type: image/png
 
 Uri: http://192.168.178.46/images/2025/02/28/thq1.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\28\thq1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2025/06/17/logohome.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\06\17\logohome.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/2025/08/30/1a7chiaro4.png
@@ -1654,8 +1634,28 @@ Uri: http://192.168.178.46/images/2026/07/27/8q.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\07\27\8q.png
 Content Type: image/png
 
-Uri: http://192.168.178.46/images/2026/08/18/gerardoacqu4er33erello.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\08\18\gerardoacqu4er33erello.jpg
+Uri: http://192.168.178.46/images/2026/09/06/beneinst-ebook-gratuiti-header.png
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\06\beneinst-ebook-gratuiti-header.png
+Content Type: image/png
+
+Uri: http://192.168.178.46/images/2026/09/06/beneinst-home-header.png
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\06\beneinst-home-header.png
+Content Type: image/png
+
+Uri: http://192.168.178.46/images/2026/09/06/beneinst-lettere-header.png
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\06\beneinst-lettere-header.png
+Content Type: image/png
+
+Uri: http://192.168.178.46/images/2026/09/06/beneinst-opere-condivise-header.png
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\06\beneinst-opere-condivise-header.png
+Content Type: image/png
+
+Uri: http://192.168.178.46/images/2026/09/06/beneinst-percorsi-letterari-header.png
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\06\beneinst-percorsi-letterari-header.png
+Content Type: image/png
+
+Uri: http://192.168.178.46/images/2026/09/06/gerardoacqu4er33erello-1.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\06\gerardoacqu4er33erello-1.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/7ok_edited_edited-gd2.jpg
