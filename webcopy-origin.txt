@@ -1466,10 +1466,6 @@ Uri: http://192.168.178.46/images/2025/02/28/thq1.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\28\thq1.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2025/05/07/qwedqwe33.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\05\07\qwedqwe33.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.178.46/images/2025/06/17/logohome.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\06\17\logohome.jpg
 Content Type: image/jpeg
@@ -1634,10 +1630,6 @@ Uri: http://192.168.178.46/images/2026/06/21/poe_ritratto (1) (1).jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\06\21\poe_ritratto (1) (1).jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2026/06/24/1782288479-1.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\06\24\1782288479-1.png
-Content Type: image/png
-
 Uri: http://192.168.178.46/images/2026/07/04/di_giacomo_ritratto (1).jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\07\04\di_giacomo_ritratto (1).jpg
 Content Type: image/jpeg
@@ -1697,6 +1689,18 @@ Content Type: image/jpeg
 Uri: http://192.168.178.46/images/Componenti/ccty.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\ccty.png
 Content Type: image/png
+
+Uri: http://192.168.178.46/images/Componenti/consigliati/bizantina.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\consigliati\bizantina.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.178.46/images/Componenti/consigliati/coscienza.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\consigliati\coscienza.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.178.46/images/Componenti/consigliati/siamo.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\consigliati\siamo.jpg
+Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/Componenti/Contwe.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\Contwe.png
@@ -3211,7 +3215,7 @@ File Name: C:\Downloaded Web Sites\192.168.178.46\in-italiano\te-lo-colorerei.ht
 Content Type: text/html
 
 Uri: http://192.168.178.46/index.php
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php-5.html
+File Name: C:\Downloaded Web Sites\192.168.178.46\index.php-1.html
 Content Type: text/html
 
 Uri: http://192.168.178.46/index.php/di-anna-maria-tarantino
@@ -3338,22 +3342,6 @@ Uri: http://192.168.178.46/index.php?option=com_sppagebuilder&view=page&id=3
 File Name: C:\Downloaded Web Sites\192.168.178.46\index.php.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/index.php?option=com_sppagebuilder&view=page&id=4
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php-1.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/index.php?option=com_sppagebuilder&view=page&id=6
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php-3.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/index.php?option=com_sppagebuilder&view=page&id=7
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php-4.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/index.php?option=com_sppagebuilder&view=page&id=8
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php-2.html
-Content Type: text/html
-
 Uri: http://192.168.178.46/invia-a-sed-etiam.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\invia-a-sed-etiam.html
 Content Type: text/html
@@ -3426,7 +3414,7 @@ Uri: http://192.168.178.46/maksim-gor-kij.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\maksim-gor-kij.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?6ddc35
+Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?ddb26d
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -3434,7 +3422,7 @@ Uri: http://192.168.178.46/media/legacy/js/jquery-noconflict.min.js?504da4
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\legacy\js\jquery-noconflict.min.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?6ddc35
+Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?ddb26d
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_menu\js\menu.min.js
 Content Type: text/javascript
 
@@ -4322,10 +4310,6 @@ Uri: https://fonts.googleapis.com/css?family=Averia Libre:100,100italic,200,200i
 File Name: C:\Downloaded Web Sites\192.168.178.46\css-4
 Content Type: text/css
 
-Uri: https://fonts.googleapis.com/css?family=Biryani:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
-File Name: C:\Downloaded Web Sites\192.168.178.46\css-5
-Content Type: text/css
-
 Uri: https://fonts.gstatic.com/s/alegreya/v41/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNG9hU4-6qm.ttf
 File Name: C:\Downloaded Web Sites\192.168.178.46\s\alegreya\v41\4UacrEBBsBhlBjvfkQjt71kZfyBzPgNG9hU4-6qm.ttf
 Content Type: font/ttf
@@ -4396,34 +4380,6 @@ Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/averialibre/v16/2V0HKIcMGZEnV6xygz7eNjESAJFxanTu0pU.ttf
 File Name: C:\Downloaded Web Sites\192.168.178.46\s\averialibre\v16\2V0HKIcMGZEnV6xygz7eNjESAJFxanTu0pU.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/biryani/v15/hv-TlzNxIFoO84Yddcg0KTdYVw.ttf
-File Name: C:\Downloaded Web Sites\192.168.178.46\s\biryani\v15\hv-TlzNxIFoO84Yddcg0KTdYVw.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/biryani/v15/hv-TlzNxIFoO84YddeAxKTdYVw.ttf
-File Name: C:\Downloaded Web Sites\192.168.178.46\s\biryani\v15\hv-TlzNxIFoO84YddeAxKTdYVw.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/biryani/v15/hv-TlzNxIFoO84Yddew1KTdYVw.ttf
-File Name: C:\Downloaded Web Sites\192.168.178.46\s\biryani\v15\hv-TlzNxIFoO84Yddew1KTdYVw.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/biryani/v15/hv-TlzNxIFoO84YddfA2KTdYVw.ttf
-File Name: C:\Downloaded Web Sites\192.168.178.46\s\biryani\v15\hv-TlzNxIFoO84YddfA2KTdYVw.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/biryani/v15/hv-TlzNxIFoO84YddYQyKTdYVw.ttf
-File Name: C:\Downloaded Web Sites\192.168.178.46\s\biryani\v15\hv-TlzNxIFoO84YddYQyKTdYVw.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/biryani/v15/hv-TlzNxIFoO84YddZQ3KTdYVw.ttf
-File Name: C:\Downloaded Web Sites\192.168.178.46\s\biryani\v15\hv-TlzNxIFoO84YddZQ3KTdYVw.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/biryani/v15/hv-WlzNxIFoO84YdfUsTOQ.ttf
-File Name: C:\Downloaded Web Sites\192.168.178.46\s\biryani\v15\hv-WlzNxIFoO84YdfUsTOQ.ttf
 Content Type: font/ttf
 
 Uri: https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit
