@@ -109,7 +109,7 @@ a:hover {
 	<style>@media(max-width: 576px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}</style>
 	<style>#sp-bottom{ background-image:url("images/7ok_edited_edited-gd2.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:50% 50%; }</style>
 	<style>#sp-footer{ background-image:url("images/7ok_edited_edited-gd2.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:50% 50%; }</style>
-<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http:\/\/192.168.178.46\/","base":"","baseFull":"http:\/\/192.168.178.46\/"},"csrf.token":"3314e3349f8fc89461ff9c01aeb38532"}</script>
+<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http:\/\/192.168.178.46\/","base":"","baseFull":"http:\/\/192.168.178.46\/"},"csrf.token":"e46e7c554ef138c8957f1cca341ae529"}</script>
 	<script src="media/system/js/core.min.js?a3d8f8"></script>
 	<script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?504da4"></script>
@@ -125,7 +125,7 @@ a:hover {
 	<script src="media/vendor/bootstrap/js/tab.min.js?5.3.8" type="module"></script>
 	<script src="media/vendor/bootstrap/js/toast.min.js?5.3.8" type="module"></script>
 	<script src="media/system/js/showon.min.js?e51227" type="module"></script>
-	<script src="media/mod_menu/js/menu.min.js?ddb26d" type="module"></script>
+	<script src="media/mod_menu/js/menu.min.js?b73ca9" type="module"></script>
 	<script src="media/system/js/messages.min.js?9a4811" type="module"></script>
 	<script src="components/com_sppagebuilder/assets/js/common.js"></script>
 	<script src="components/com_sppagebuilder/assets/js/dynamic-content.js?fba6c85d81d0c68346fb69189fc1e35e"></script>
@@ -1489,7 +1489,7 @@ a:hover {
   transform: none !important;
 }
 
-/* Spazi più contenuti sui dispositivi mobili */
+/* Spazi più contenuti su tablet e smartphone */
 @media (max-width: 991px) {
   #sp-bottom {
     padding-top: 32px !important;
@@ -1500,12 +1500,40 @@ a:hover {
     padding-top: 18px !important;
     padding-bottom: 28px !important;
   }
+}
+
 /* Nasconde lo spazio aggiuntivo sotto i 480 px */
 @media (max-width: 479.98px) {
   .spazio-footer-desktop {
     display: none !important;
   }
+}
 
+/* Linea nera animata sotto le voci del menu desktop */
+@media (min-width: 992px) {
+  #sp-header .sp-megamenu-parent > li.sp-menu-item {
+    position: relative;
+  }
+
+  #sp-header .sp-megamenu-parent > li.sp-menu-item::after {
+    content: "";
+    position: absolute;
+    bottom: 18px;
+    left: 50%;
+    width: 0;
+    height: 2px;
+    border-radius: 2px;
+    background-color: #000;
+    pointer-events: none;
+    transform: translateX(-50%);
+    transition: width 0.25s ease;
+  }
+
+  #sp-header .sp-megamenu-parent > li.sp-menu-item:hover::after,
+  #sp-header .sp-megamenu-parent > li.sp-menu-item:focus-within::after {
+    width: calc(100% - 30px);
+  }
+}
 </html></style>
 
 <!-- Contatore visite: conservato dalla versione originale. -->
