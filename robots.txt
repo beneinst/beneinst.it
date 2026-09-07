@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://beneinst.eu/sitemap.xml
