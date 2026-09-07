@@ -1,0 +1,1277 @@
+﻿  /* =========================================================
+     1. FONT LOCALI
+     ========================================================= */
+
+  @font-face {
+    font-family: 'Titillium Web';
+    src: url('../../../images/Componenti/Fonts/TitilliumWeb-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'DM Serif Display';
+    src: url('../../../images/Componenti/Fonts/DMSerifDisplay-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'Chelsea Market';
+    src: url('../../../images/Componenti/Fonts/ChelseaMarket-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'Arbutus Slab';
+    src: url('../../../images/Componenti/Fonts/ArbutusSlab-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'Annie Use Your Telescope';
+    src: url('../../../images/Componenti/Fonts/AnnieUseYourTelescope-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'Averia Libre';
+    src: url('../../../images/Componenti/Fonts/AveriaLibre-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'Big Shoulders Text';
+    src: url('../../../images/Componenti/Fonts/BigShouldersText-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'Alegreya';
+    src: url('../../../images/Componenti/Fonts/Alegreya-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'Homenaje';
+    src: url('../../../images/Componenti/Fonts/Homenaje-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'Mynerve';
+    src: url('../../../images/Componenti/Fonts/Mynerve-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'Ancizar Sans';
+    src: url('../../../images/Componenti/Fonts/AncizarSans-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  /* =========================================================
+     2. TESTO GENERALE E SILLABAZIONE
+     La lingua va dichiarata con <html lang="it">, non nel CSS.
+     ========================================================= */
+
+  html {
+    overflow-wrap: break-word;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+  }
+
+  body,
+  .sppb-addon-text,
+  .sppb-addon-content,
+  .sppb-panel-title {
+    font-family: 'Titillium Web', sans-serif;
+  }
+
+  body {
+    top: 0 !important;
+    font-size: 19.5px;
+    line-height: 1.8;
+  }
+
+  p {
+    overflow-wrap: break-word;
+  }
+
+  @media (max-width: 670px) {
+    body {
+      font-size: clamp(18.6px, 5.3vw, 19.5px);
+      line-height: 1.7;
+    }
+
+    p,
+    .sppb-addon-content {
+      overflow-wrap: anywhere;
+      word-break: normal;
+    }
+  }
+
+  .sillabato::after {
+    content: '\00AD';
+    visibility: hidden;
+  }
+
+  .debug-sillabazione {
+    border: 1px solid red;
+  }
+
+  /* =========================================================
+     3. TITOLI E STILI TIPOGRAFICI
+     ========================================================= */
+
+  h1,
+  h1.bubblegum-text,
+  .bubblegum-text {
+    font-family: 'Chelsea Market', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 1.2;
+  }
+
+  h4 {
+    font-family: 'Chelsea Market', sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 1.25;
+  }
+
+  .sppb-panel-title,
+  .createdby {
+    font-family: 'Chelsea Market', sans-serif !important;
+    font-size: 16px !important;
+    font-weight: 400 !important;
+  }
+
+  .sppb-addon .sppb-addon-title h2,
+  .sppb-addon .sppb-addon-title .sppb-feature-box-title,
+  .sppb-addon .sppb-addon-title .sppb-media-heading,
+  .sppb-addon .sppb-addon-title .annie-use-your-telescope {
+    font-family: 'Annie Use Your Telescope', sans-serif;
+    font-size: 16px !important;
+  }
+
+  .sppb-addon-title h6,
+  .sppb-addon-title a {
+    font-family: 'Averia Libre', sans-serif;
+  }
+
+  .sppb-addon-content span,
+  .sppb-addon-title h6,
+  .sppb-addon-title a {
+    font-size: 23px !important;
+  }
+
+  .sppb-addon-title h4 {
+    font-family: 'Big Shoulders Text', sans-serif;
+  }
+
+  .sppb-addon-content span {
+    font-family: 'Alegreya', sans-serif;
+  }
+
+  .related-article-title h3,
+  .article-header h2 {
+    font-family: 'Homenaje', sans-serif;
+  }
+
+  .p-u1,
+  p-u1,
+  .desktop-13 {
+    font-family: 'Mynerve', sans-serif;
+  }
+
+  .speasyimagegallery-gallery-item-title {
+    font-family: 'Annie Use Your Telescope', sans-serif;
+    font-size: 16px;
+  }
+
+  .titolop {
+    margin: 0;
+    padding: 0;
+    color: #000;
+    font-family: 'Ancizar Sans', sans-serif;
+    font-size: 36px;
+    line-height: 1.05;
+  }
+
+  /* =========================================================
+     4. BLOCCO DI BENVENUTO
+     ========================================================= */
+
+  .welcome-container {
+    max-width: 800px;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: rgba(255, 255, 255, 0.45);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .welcome-title {
+    margin: 0 0 15px;
+    padding: 5px;
+    color: #222;
+    font-family: 'DM Serif Display', serif;
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 1.2;
+  }
+
+  .welcome-text {
+    padding: 5px;
+    color: #111;
+    font-family: 'Annie Use Your Telescope', cursive;
+    font-size: 25px;
+    font-weight: 600;
+    font-style: italic;
+    line-height: 1.6;
+  }
+
+  /* =========================================================
+     5. HEADER, LOGO E MENU
+     ========================================================= */
+
+  header#sp-header {
+    background-color: rgba(20, 108, 67, 0.35) !important;
+  }
+
+  .navigation,
+  .offcanvas-menu,
+  .menu.nav-pills,
+  .offcanvas-menu.border-menu,
+  .border-menu,
+  .sp-header,
+  .sp-megamenu-wrapper.d-flex {
+    font-family: 'Arbutus Slab', serif;
+  }
+
+  .offcanvas-menu.border-menu {
+    opacity: 0.97 !important;
+  }
+
+  .logo-image {
+    width: auto;
+    content: url('../../../images/logosretina3mini2.png') !important;
+  }
+
+  .logo {
+    position: relative;
+    left: 125%;
+    transform: translateX(-150%);
+  }
+
+  .offcanvas-menu a > img.logo-image {
+    height: 57.8px;
+  }
+
+  .menu.nav-pills > li.item-145 > a,
+  .menu.nav-pills > li.item-146 > span.nav-header,
+  .menu.nav-pills > li.item-153 > span.nav-header,
+  .menu.nav-pills > li.item-578 > span.nav-header {
+    line-height: 2.4;
+  }
+
+  .offcanvas-menu .offcanvas-inner ul.menu > li > a,
+  .offcanvas-menu .offcanvas-inner ul.menu > li > span,
+  .offcanvas-menu .offcanvas-inner ul.menu > li ul.menu-child li a {
+    font-size: 18px;
+  }
+
+  .offcanvas-menu .offcanvas-inner ul.menu > li ul.menu-child li a {
+    line-height: 2.2;
+  }
+
+  /* Evita la sovrapposizione del megamenu tra 996 e 1124 px. */
+  @media (min-width: 996px) and (max-width: 1124px) {
+    .sp-megamenu-wrapper.d-flex,
+    [class*='menu-with-offcanvas'],
+    [class*='sp-megamenu-parent'] {
+      display: none !important;
+    }
+  }
+
+  @media (min-width: 900px) {
+    #sp-header:not(.header-sticky) {
+      height: 114px !important;
+      padding-top: 19.3px !important;
+      border-bottom: 1px solid #9e9e9e;
+      background: rgba(20, 108, 67, 0.4) !important;
+      transition: height 0.3s ease, background 0.3s ease;
+    }
+
+    #sp-header:not(.header-sticky) .logo-image {
+      transform: scale(1.2);
+      transform-origin: left center;
+      transition: transform 0.3s ease;
+    }
+
+    #sp-header:not(.header-sticky) .sp-megamenu-parent > li > a {
+      font-size: 0.8em !important;
+      transition: font-size 0.3s ease;
+    }
+
+    #sp-header.header-sticky {
+      height: var(--header-sticky-height, 79px) !important;
+      border-bottom: 1px solid #9e9e9e;
+      background: rgba(20, 108, 67, 0.4) !important;
+    }
+
+    #sp-header.header-sticky .logo-image {
+      transform: scale(1);
+    }
+
+    #sp-header.header-sticky .sp-megamenu-parent > li > a {
+      font-size: 0.81em !important;
+    }
+  }
+
+  @media (max-width: 489px) {
+    .menu.nav-pills > li.item-145 > a,
+    .menu.nav-pills > li.item-146 > span.nav-header,
+    .menu.nav-pills > li.item-153 > span.nav-header,
+    .menu.nav-pills > li.item-578 > span.nav-header {
+      font-size: 97%;
+    }
+  }
+
+  @media (max-width: 479px) {
+    header#sp-header {
+      height: 63px !important;
+    }
+
+    .offcanvas-menu a > img.logo-image {
+      height: 59.2px;
+    }
+  }
+
+  @media (max-width: 405px) {
+    #sp-header {
+      padding-top: 2px !important;
+    }
+  }
+
+  /* =========================================================
+     6. FOOTER PRINCIPALE COMPATTO - NUOVE IMPOSTAZIONI
+     Per il risultato migliore, in Helix usare Bottom 8 + 4
+     ed eliminare la posizione vuota bottom2.
+     ========================================================= */
+
+  #sp-bottom {
+    padding-top: 32px;
+    padding-bottom: 18px;
+  }
+
+  #sp-bottom .sp-module {
+    margin-bottom: 12px;
+  }
+
+  #sp-bottom .sp-module:last-child {
+    margin-bottom: 0;
+  }
+
+  #sp-bottom2 {
+    display: none;
+  }
+
+  @media (min-width: 992px) {
+    #sp-bottom3 {
+      flex: 0 0 66.666667%;
+      width: 66.666667%;
+      max-width: 66.666667%;
+    }
+
+    #sp-bottom4 {
+      flex: 0 0 33.333333%;
+      width: 33.333333%;
+      max-width: 33.333333%;
+    }
+  }
+
+  /* Titoli dei moduli Cerca nel sito e Presenze. */
+  #mod-custom126 > div,
+  #mod-custom452 > div {
+    margin-bottom: 4px !important;
+  }
+
+  #mod-custom126 p,
+  #mod-custom452 p {
+    margin-bottom: 0 !important;
+    line-height: 1.5 !important;
+  }
+
+  /* Motore di ricerca Google più compatto. */
+  #sp-bottom4 .gsc-control-cse {
+    padding-top: 8px !important;
+    padding-bottom: 8px !important;
+  }
+
+  /* Presenze e icone centrate anche prima della riscrittura HTML. */
+  #mod-custom452,
+  #mod-custom451 {
+    text-align: center;
+  }
+
+  #mod-custom451 table {
+    margin-right: auto !important;
+    margin-left: auto !important;
+  }
+
+  /* Pronto per il futuro contenitore senza tabella delle icone. */
+  .footer-socials {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+
+  .footer-socials a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .footer-socials img {
+    width: auto;
+    height: 34px;
+    object-fit: contain;
+  }
+
+  /* Pillole di pensiero più compatte. */
+  #sp-bottom3 .mod-custom > div:first-of-type {
+    margin-bottom: 8px !important;
+  }
+
+  #sp-bottom3 .mod-custom > div:first-of-type p {
+    margin-bottom: 0 !important;
+    line-height: 1.6 !important;
+  }
+
+  #sp-bottom3 blockquote.quote,
+  #sp-bottom3 blockquote.quote p {
+    margin-bottom: 0;
+  }
+
+  #sp-bottom3 .mod-custom > p:last-child:empty {
+    display: none;
+  }
+
+  /* Fascia finale copyright e logo più bassa. */
+  #sp-footer .container-inner {
+    padding-top: 14px;
+    padding-bottom: 14px;
+  }
+
+  #sp-footer2 .responsive-img {
+    width: 52px !important;
+    height: auto !important;
+  }
+
+  @media (max-width: 991.98px) {
+    #sp-bottom {
+      padding-top: 24px;
+      padding-bottom: 12px;
+    }
+
+    #sp-bottom .sp-module {
+      margin-bottom: 10px;
+    }
+
+    #sp-bottom4 {
+      margin-top: 10px;
+    }
+  }
+
+  @media (max-width: 768px) {
+    #sp-footer2 .responsive-img {
+      margin: 8px auto 0 !important;
+      padding-bottom: 0 !important;
+    }
+  }
+
+  /* =========================================================
+     7. ELEMENTI GENERALI, ARTICOLI E ICONE
+     ========================================================= */
+
+  .image {
+    width: 37px;
+    height: 37px;
+    transition: transform 0.3s ease;
+  }
+
+  .image-link:hover .image {
+    transform: scale(1.2);
+  }
+
+  blockquote {
+    padding: 10px;
+    border-left: 5px solid #5fc9bf !important;
+  }
+
+  .tre {
+    padding: 10px;
+    border-left: 5px solid #ff8c00;
+    background-color: rgba(144, 238, 144, 0.99);
+  }
+
+  .dashed-hr {
+    margin: 20px 0;
+    border: 0;
+    border-top: 1px dashed #000;
+  }
+
+  .ab-hr {
+    margin: 20px 0;
+    border: 0;
+    border-top: 1px dashed #717171;
+  }
+
+  hr.custom-hr {
+    display: none !important;
+  }
+
+  .article-info {
+    padding-bottom: 12px !important;
+  }
+
+  .article-details .article-ratings-social-share {
+    margin-bottom: 1rem;
+    padding: 1rem 0;
+    border-top: 1px dashed #ccc !important;
+    border-bottom: 1px dashed #ccc !important;
+  }
+
+  .article-list .article {
+    position: relative;
+    margin-bottom: 30px;
+    padding: 20px;
+    border: 1px dashed #ccc !important;
+    border-radius: 3px;
+  }
+
+  .sppb-addon-single-image-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+
+  .sppb-img-responsive {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .table.table-responsive.table-bordered {
+    background-color: rgba(20, 108, 67, 0.14) !important;
+  }
+
+  .gt_switcher_wrapper span {
+    color: #333;
+    transition: color 0.3s ease;
+  }
+
+  .gt_switcher_wrapper span:hover {
+    color: #e57373;
+  }
+
+  .iubenda-tp-btn.iubenda-cs-preferences-link {
+    opacity: 0.8 !important;
+  }
+
+  /* =========================================================
+     8. GOOGLE: RICERCA PERSONALIZZATA E TRANSLATE
+     ========================================================= */
+
+  .gs-title a.gs-title,
+  .gs-title a.gs-title b {
+    color: #0c7d45 !important;
+    font-family: 'Chelsea Market', sans-serif !important;
+    font-size: 22px !important;
+    font-weight: 400 !important;
+    line-height: 1.2 !important;
+    text-decoration: none !important;
+  }
+
+  .gs-title a.gs-title:hover,
+  .gs-title a.gs-title b:hover {
+    color: #cd5c5c !important;
+  }
+
+  .gsc-control-cse,
+  .gsc-results-wrapper-overlay,
+  .gsc-modal-background-image {
+    background: transparent !important;
+  }
+
+  .gsc-input {
+    color: #000 !important;
+  }
+
+  .gsc-url-top,
+  .gsc-url-bottom,
+  .gcsc-find-more-on-google {
+    display: none !important;
+  }
+
+  .gsc-results-wrapper-overlay.gsc-results-wrapper-visible,
+  .gsc-cursor-box.gs-bidi-start-align {
+    background-color: #fffaf7 !important;
+    opacity: 0.99 !important;
+  }
+
+  @media (max-width: 768px) {
+    .gsc-results-wrapper-overlay.gsc-results-wrapper-visible {
+      right: 0 !important;
+      left: 0 !important;
+      width: 100% !important;
+      max-width: none !important;
+    }
+
+    .gs-title {
+      font-size: 26px !important;
+      line-height: 1.2 !important;
+    }
+  }
+
+  body:not(.homepage) .skiptranslate,
+  body:not(.homepage) .goog-te-banner-frame,
+  body:not(.homepage) .goog-logo-link,
+  body:not(.homepage) .goog-te-gadget {
+    display: none !important;
+  }
+
+  body:not(.homepage) .skiptranslate,
+  body:not(.homepage) .goog-te-banner-frame {
+    visibility: hidden;
+    height: 0 !important;
+    overflow: hidden;
+  }
+
+  /* =========================================================
+     9. VECCHIO ELENCO E-BOOK CON FLEX
+     ========================================================= */
+
+  .books-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .book {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .book h6 {
+    margin: 0;
+  }
+
+  .formats {
+    display: flex;
+    gap: 50px;
+  }
+
+  .formats a {
+    display: flex;
+    align-items: center;
+  }
+
+  div.formats img {
+    width: 43px;
+    height: 60px;
+  }
+
+  /* =========================================================
+     10. BIBLIOTECA E-BOOK
+     ========================================================= */
+
+  .biblioteca-ebook {
+    padding: 2rem 0;
+    font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+  }
+
+  .ebook-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    margin: 2rem 0;
+  }
+
+  .ebook-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 1rem 1.5rem;
+    overflow: hidden;
+    border: 1px solid #eef2f6;
+    border-radius: 16px;
+    background: #fff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s ease, box-shadow 0.3s ease,
+      border-color 0.3s ease, background-color 0.3s ease;
+  }
+
+  .ebook-card:hover {
+    border-color: #dce4ec;
+    background: #faf7f0;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
+    transform: translateY(-2px);
+  }
+
+  .ebook-info {
+    flex: 1;
+    min-width: 200px;
+  }
+
+  .ebook-title {
+    margin: 0 0 0.25rem;
+    color: #1a2c3e;
+    font-size: 1.2rem;
+    font-weight: 600;
+    line-height: 1.4;
+  }
+
+  .ebook-badge {
+    display: inline-block;
+    padding: 0.2rem 0.6rem;
+    border-radius: 20px;
+    background: #f0f4f9;
+    color: #4a627a;
+    font-size: 0.7rem;
+    font-weight: 500;
+  }
+
+  .ebook-formats {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+  }
+
+  .download-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 16px;
+    border: 1px solid #e2e8f0;
+    border-radius: 40px;
+    background: #f8fafc;
+    color: #1e293b;
+    font-size: 0.85rem;
+    font-weight: 500;
+    text-decoration: none;
+    transition: transform 0.2s ease, background-color 0.2s ease,
+      border-color 0.2s ease;
+  }
+
+  .download-btn:hover {
+    border-color: #cbd5e1;
+    background: #f1f5f9;
+    transform: translateY(-1px);
+  }
+
+  .download-btn img {
+    width: 20px;
+    height: auto;
+    transition: transform 0.2s ease;
+  }
+
+  .download-btn:hover img {
+    transform: scale(1.05);
+  }
+
+  .ebook-divider {
+    height: 1px;
+    margin: 2rem 0 1rem;
+    border: 0;
+    background: linear-gradient(90deg, transparent, #e2e8f0, transparent);
+  }
+
+  @media (min-width: 640px) {
+    .ebook-card {
+      flex-wrap: nowrap;
+    }
+  }
+
+  @media (max-width: 639.98px) {
+    .ebook-card {
+      flex-direction: column;
+      gap: 1rem;
+      padding: 1.5rem;
+      text-align: center;
+    }
+
+    .ebook-formats {
+      justify-content: center;
+    }
+
+    .download-btn {
+      padding: 6px 14px;
+    }
+  }
+  
+  /* ==========================================================
+   FASCIA COPYRIGHT E ICONE SOCIAL
+   ========================================================== */
+
+/*
+ * La linea grafica è il bordo superiore di .container-inner.
+ * I 42 px vengono applicati qui, quindi rimangono anche
+ * senza il logo o altri contenuti nel footer2.
+ */
+#sp-footer .container-inner {
+  padding-top: 20px !important;
+  padding-bottom: 22px !important;
+}
+
+/* Allinea verticalmente copyright e icone */
+#sp-footer .row {
+  align-items: center !important;
+}
+
+/* Elimina margini prodotti automaticamente dai moduli */
+#sp-footer .sp-module,
+#sp-footer .sp-module-content,
+#sp-footer .mod-custom,
+#sp-footer p {
+  margin: 0 !important;
+}
+
+/* Copyright */
+.footer-copy {
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.footer-copy a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.footer-copy a:hover {
+  color: #5fc9bf;
+}
+
+/*
+ * Tutti i contenitori del modulo destro devono occupare
+ * l'intera colonna affinché le icone raggiungano il margine.
+ */
+#sp-footer2 .sp-column,
+#sp-footer2 .sp-module,
+#sp-footer2 .sp-module-content,
+#sp-footer2 .mod-custom {
+  width: 100%;
+}
+
+/* Gruppo icone completamente a destra */
+.footer-social {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 18px;
+  margin-left: auto;
+}
+
+/* Regole comuni */
+.footer-social a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+}
+
+.footer-social img {
+  display: block;
+  width: auto;
+  object-fit: contain;
+  filter: brightness(0.8);
+  transition: filter 0.2s ease, transform 0.2s ease;
+}
+
+/* Ogni icona ridotta esattamente di 2 px */
+.footer-social .icon-youtube {
+  height: 23px;
+}
+
+.footer-social .icon-pinterest {
+  height: 26px;
+}
+
+.footer-social .icon-amazon {
+  height: 33px;
+}
+
+.footer-social .icon-medium {
+  height: 25px;
+}
+
+.footer-social .icon-google-play {
+  height: 35px;
+}
+
+.footer-social a:hover img {
+  filter: brightness(1.15);
+  transform: translateY(-2px);
+}
+
+/* Tablet e smartphone */
+@media (max-width: 991px) {
+  #sp-footer .container-inner {
+    padding-top: 18px !important;
+    padding-bottom: 24px !important;
+  }
+
+  .footer-copy {
+    text-align: center;
+  }
+
+  .footer-social {
+    justify-content: center;
+    margin-top: 16px;
+  }
+}
+
+/* Ripristino barra sul bordo inferiore */
+.progress-container {
+  bottom: 8px !important;
+  transform: none !important;
+
+}
+
+/* 2 px aggiuntivi sotto i titoli del Bottom */
+#mod-custom124 > div:first-of-type {
+  margin-bottom: 20px !important; /* prima 18px */
+}
+
+#mod-custom126 > div:first-of-type {
+  margin-bottom: 17px !important; /* prima 15px */
+}
+/* =========================================================
+   SISTEMAZIONE DEFINITIVA BOTTOM E FOOTER
+   ========================================================= */
+
+/* Più respiro all'intera area Bottom */
+#sp-bottom {
+  padding-top: 48px !important;
+  padding-bottom: 30px !important;
+}
+
+/* Centra verticalmente Bottom 3 e Bottom 4 su desktop */
+@media (min-width: 992px) {
+  #sp-bottom > .container > .container-inner > .row {
+    align-items: center !important;
+  }
+}
+
+/* Copyright e icone: distanza equilibrata dalla linea */
+#sp-footer .container-inner {
+  padding-top: 20px !important;
+  padding-bottom: 26px !important;
+}
+
+/* Barra sotto copyright e icone, senza sovrapposizione */
+.progress-container {
+  bottom: 8px !important;
+  transform: none !important;
+}
+
+/* Spazi più contenuti su tablet e smartphone */
+@media (max-width: 991px) {
+  #sp-bottom {
+    padding-top: 32px !important;
+    padding-bottom: 24px !important;
+  }
+
+  #sp-footer .container-inner {
+    padding-top: 18px !important;
+    padding-bottom: 28px !important;
+  }
+}
+
+/* Nasconde lo spazio aggiuntivo sotto i 480 px */
+@media (max-width: 479.98px) {
+  .spazio-footer-desktop {
+    display: none !important;
+  }
+}
+
+/* Linea nera animata sotto le voci del menu desktop */
+@media (min-width: 992px) {
+  #sp-header .sp-megamenu-parent > li.sp-menu-item {
+    position: relative;
+  }
+
+  #sp-header .sp-megamenu-parent > li.sp-menu-item::after {
+    content: "";
+    position: absolute;
+    bottom: 18px;
+    left: 50%;
+    width: 0;
+    height: 2px;
+    border-radius: 2px;
+    background-color: #000;
+    pointer-events: none;
+    transform: translateX(-50%);
+    transition: width 0.25s ease;
+  }
+
+  #sp-header .sp-megamenu-parent > li.sp-menu-item:hover::after,
+  #sp-header .sp-megamenu-parent > li.sp-menu-item:focus-within::after {
+    width: calc(100% - 30px);
+  }
+}
+/* =========================================================
+   E-BOOK GRATUITI – INDICE ALFABETICO VERDE
+   Limitato alla pagina itemid-158
+   ========================================================= */
+
+/* Voci alfabetiche non selezionate */
+body.itemid-158 .sppb-nav-tabs > li > a {
+  background-color: #E7EFE5 !important;
+  color: #2E4A3B !important;
+  border-color: #C6D8CA !important;
+  transition:
+    background-color 0.25s ease,
+    color 0.25s ease !important;
+}
+
+/* Passaggio del mouse */
+body.itemid-158 .sppb-nav-tabs > li > a:hover,
+body.itemid-158 .sppb-nav-tabs > li > a:focus {
+  background-color: #D3E5D8 !important;
+  color: #1F513A !important;
+}
+
+/* Gruppo alfabetico attivo */
+body.itemid-158 .sppb-nav-tabs > li.active > a,
+body.itemid-158 .sppb-nav-tabs > li.active > a:hover,
+body.itemid-158 .sppb-nav-tabs > li.active > a:focus {
+  background-color: #BFD8C8 !important;
+  color: #183C2C !important;
+  border-color: #91B19D !important;
+}
+
+/* Fasce con 📚 A, 📖 B, ✒️ C ecc. */
+/* Fasce di tutte le lettere: A, B, C, D, E, F... */
+body.itemid-158
+.sppb-tab-content
+table td[style*="linear-gradient"] {
+  background:
+    linear-gradient(
+      135deg,
+      rgba(231, 239, 229, 0.98) 0%,
+      rgba(207, 224, 213, 0.90) 100%
+    ) !important;
+
+  color: #263B30 !important;
+  border-bottom: 3px solid #6F8F7C !important;
+}
+/* =========================================================
+   PAGINA AUTORE – SCHEDE VERDI
+   Breve biografia, Contatti, Web Social e secondo gruppo
+   ========================================================= */
+
+/* Schede non selezionate */
+body.itemid-159 .sppb-nav-tabs > li > a {
+  background-color: #E7EFE5 !important;
+  color: #2E4A3B !important;
+  border-color: #C6D8CA !important;
+  transition:
+    background-color 0.25s ease,
+    color 0.25s ease,
+    border-color 0.25s ease !important;
+}
+
+/* Passaggio del mouse */
+body.itemid-159 .sppb-nav-tabs > li > a:hover,
+body.itemid-159 .sppb-nav-tabs > li > a:focus {
+  background-color: #D3E5D8 !important;
+  color: #1F513A !important;
+  border-color: #A9C5B1 !important;
+}
+
+/* Scheda selezionata */
+body.itemid-159 .sppb-nav-tabs > li.active > a,
+body.itemid-159 .sppb-nav-tabs > li.active > a:hover,
+body.itemid-159 .sppb-nav-tabs > li.active > a:focus {
+  background-color: #BFD8C8 !important;
+  color: #183C2C !important;
+  border-color: #91B19D !important;
+}
+/* =========================================================
+   MENU LATERALE COMPATTO CON EFFETTO GLASS
+   ========================================================= */
+
+.offcanvas-menu,
+.offcanvas-menu.border-menu {
+  background: rgba(220, 238, 229, 0.88) !important;
+  opacity: 1 !important;
+
+  -webkit-backdrop-filter: blur(14px) saturate(115%);
+  backdrop-filter: blur(14px) saturate(115%);
+
+  border-right: 1px solid rgba(20, 108, 67, 0.16);
+  box-shadow: 8px 0 28px rgba(25, 55, 42, 0.16);
+}
+
+/* Riduce lo spazio intorno al logo */
+.offcanvas-menu > .d-flex:first-child {
+  padding: 16px 18px 8px !important;
+}
+
+/* Logo più piccolo */
+.offcanvas-menu a > img.logo-image {
+  width: auto !important;
+  height: 49px !important;
+  max-width: 190px !important;
+  object-fit: contain;
+}
+
+/* Riduce lo spazio prima dell’elenco */
+.offcanvas-menu .offcanvas-inner {
+  padding: 8px 20px 22px !important;
+}
+
+.offcanvas-menu .offcanvas-inner > .header-modules {
+  min-height: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+/* Voci principali */
+.offcanvas-menu .offcanvas-inner ul.menu > li > a,
+.offcanvas-menu .offcanvas-inner ul.menu > li > span {
+  padding: 11px 28px 11px 8px !important;
+
+  color: #263b32 !important;
+  font-family: 'Arbutus Slab', serif !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
+  line-height: 1.3 !important;
+  letter-spacing: 0 !important;
+  opacity: 0.92 !important;
+}
+
+/* Sottomenu */
+.offcanvas-menu .offcanvas-inner ul.menu-child li a {
+  padding-top: 8px !important;
+  padding-bottom: 8px !important;
+
+  color: #354b41 !important;
+  font-family: 'Arbutus Slab', serif !important;
+  font-size: 15px !important;
+  font-weight: 400 !important;
+  line-height: 1.35 !important;
+}
+
+/* Linee divisorie più delicate */
+.offcanvas-menu.border-menu .offcanvas-inner ul.menu > li {
+  border-bottom-color: rgba(38, 75, 58, 0.12) !important;
+}
+
+/* Evidenziazione della voce selezionata */
+.offcanvas-menu .offcanvas-inner ul.menu > li.active > a,
+.offcanvas-menu .offcanvas-inner ul.menu > li.active > span {
+  color: #126a45 !important;
+  font-weight: 500 !important;
+}
+
+/* =========================================================
+   TITOLI PRINCIPALI DELLE PAGINE
+   ========================================================= */
+
+#sp-page-builder h1.sppb-addon-title,
+.article-details .article-header h1 {
+  font-family: 'Chelsea Market', sans-serif !important;
+  font-size: 30px !important;
+  font-weight: 400 !important;
+  line-height: 1.22 !important;
+  letter-spacing: 0 !important;
+}
+
+@media (max-width: 575.98px) {
+  #sp-page-builder h1.sppb-addon-title,
+  .article-details .article-header h1 {
+    font-size: 26px !important;
+    line-height: 1.25 !important;
+  }
+}
+
+.page-hero {
+  min-height: 190px;
+  border-bottom: 1px solid rgba(20, 108, 67, 0.12);
+  background-color: #fffaf7;
+  background-position: right center !important;
+  background-repeat: no-repeat !important;
+  background-size: contain !important;
+}
+/* =========================================================
+   CORREZIONE LOGO E FONT DEL MENU LATERALE
+   ========================================================= */
+
+/* Annulla lo spostamento globale del logo nell'offcanvas */
+.offcanvas-menu .logo {
+  position: relative !important;
+  left: 0 !important;
+  transform: none !important;
+  margin: 0 !important;
+}
+
+/* Mantiene logo a sinistra e chiusura a destra */
+.offcanvas-menu > div:first-child {
+  justify-content: space-between !important;
+  padding: 16px 18px 8px !important;
+}
+
+/* Logo piccolo ma correttamente allineato */
+.offcanvas-menu a > img.logo-image {
+  width: auto !important;
+  height: 49px !important;
+  max-width: 190px !important;
+  transform: none !important;
+}
+
+/* Ripristina il carattere precedente, in versione più leggera */
+.offcanvas-menu .offcanvas-inner ul.menu > li > a,
+.offcanvas-menu .offcanvas-inner ul.menu > li > span {
+  font-family: 'Chelsea Market', sans-serif !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
+  line-height: 1.3 !important;
+}
+
+/* Sottomenu leggermente più piccoli */
+.offcanvas-menu .offcanvas-inner ul.menu-child li a {
+  font-family: 'Chelsea Market', sans-serif !important;
+  font-size: 14px !important;
+  font-weight: 400 !important;
+  line-height: 1.35 !important;
+}

@@ -78,10 +78,6 @@ Uri: http://192.168.178.46/augusto-de-angelis.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\augusto-de-angelis.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/autore-2.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\autore-2.html
-Content Type: text/html
-
 Uri: http://192.168.178.46/autore.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\autore.html
 Content Type: text/html
@@ -458,20 +454,12 @@ Uri: http://192.168.178.46/di-valerio-pazzi.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\di-valerio-pazzi.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/diari-2.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\diari-2.html
-Content Type: text/html
-
 Uri: http://192.168.178.46/diari.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\diari.html
 Content Type: text/html
 
 Uri: http://192.168.178.46/dillo-tu-te-stesso.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\dillo-tu-te-stesso.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/e-book-gratis-2.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\e-book-gratis-2.html
 Content Type: text/html
 
 Uri: http://192.168.178.46/e-book-gratis.html
@@ -636,10 +624,6 @@ Content Type: text/html
 
 Uri: http://192.168.178.46/hermann-hesse.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\hermann-hesse.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/home-2.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\home-2.html
 Content Type: text/html
 
 Uri: http://192.168.178.46/honore-balzac.html
@@ -3278,10 +3262,6 @@ Uri: http://192.168.178.46/lettera-alla-nipote.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\lettera-alla-nipote.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/lettere-4.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\lettere-4.html
-Content Type: text/html
-
 Uri: http://192.168.178.46/lettere.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\lettere.html
 Content Type: text/html
@@ -3310,7 +3290,7 @@ Uri: http://192.168.178.46/maksim-gor-kij.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\maksim-gor-kij.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?07447e
+Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?3d4622
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -3318,7 +3298,7 @@ Uri: http://192.168.178.46/media/legacy/js/jquery-noconflict.min.js?504da4
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\legacy\js\jquery-noconflict.min.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?07447e
+Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?3d4622
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_menu\js\menu.min.js
 Content Type: text/javascript
 
@@ -3526,10 +3506,6 @@ Uri: http://192.168.178.46/scipio-sighele.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\scipio-sighele.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/sed-etiam-2.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\sed-etiam-2.html
-Content Type: text/html
-
 Uri: http://192.168.178.46/sed-etiam.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\sed-etiam.html
 Content Type: text/html
@@ -3549,6 +3525,10 @@ Content Type: text/html
 Uri: http://192.168.178.46/silvia-masaracchio.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\silvia-masaracchio.html
 Content Type: text/html
+
+Uri: http://192.168.178.46/templates/shaper_helixultimate/css/custom.css?v=1788759922
+File Name: C:\Downloaded Web Sites\192.168.178.46\templates\shaper_helixultimate\css\custom.css
+Content Type: text/css
 
 Uri: http://192.168.178.46/templates/shaper_helixultimate/favicon.ico
 File Name: C:\Downloaded Web Sites\192.168.178.46\templates\shaper_helixultimate\favicon.ico
