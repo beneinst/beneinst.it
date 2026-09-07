@@ -4242,3 +4242,7 @@ Uri: https://www.googletagmanager.com/gtag/js?id=G-37P9KCN6WS
 File Name: C:\Downloaded Web Sites\192.168.178.46\gtag\js
 Content Type: application/javascript
 
+Uri: https://www.hoepli.it/cerca/libri.aspx?query=GErardo+d'orrico&filterCategoryPathROOT=
+File Name: C:\Downloaded Web Sites\192.168.178.46\cerca\libri.aspx
+Content Type: text/html
+
