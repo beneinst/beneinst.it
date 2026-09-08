@@ -130,11 +130,11 @@ Uri: http://192.168.178.46/charles-baudelaire.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\charles-baudelaire.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/animate.min.css?fba6c85d81d0c68346fb69189fc1e35e
+Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/animate.min.css?5bba7d604ea9ca5d2ee486d01d3fbd85
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\css\animate.min.css
 Content Type: text/css
 
-Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/dynamic-content.css?fba6c85d81d0c68346fb69189fc1e35e
+Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/dynamic-content.css?5bba7d604ea9ca5d2ee486d01d3fbd85
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\css\dynamic-content.css
 Content Type: text/css
 
@@ -142,7 +142,7 @@ Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/magnific-popu
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\css\magnific-popup.css
 Content Type: text/css
 
-Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/sppagebuilder.css?fba6c85d81d0c68346fb69189fc1e35e
+Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/sppagebuilder.css?5bba7d604ea9ca5d2ee486d01d3fbd85
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\css\sppagebuilder.css
 Content Type: text/css
 
@@ -158,7 +158,7 @@ Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/common.js
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\js\common.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/dynamic-content.js?fba6c85d81d0c68346fb69189fc1e35e
+Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/dynamic-content.js?5bba7d604ea9ca5d2ee486d01d3fbd85
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\js\dynamic-content.js
 Content Type: text/javascript
 
@@ -166,11 +166,11 @@ Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/jquery.magnifi
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\js\jquery.magnific-popup.min.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/jquery.parallax.js?fba6c85d81d0c68346fb69189fc1e35e
+Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/jquery.parallax.js?5bba7d604ea9ca5d2ee486d01d3fbd85
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\js\jquery.parallax.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/sppagebuilder.js?fba6c85d81d0c68346fb69189fc1e35e
+Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/sppagebuilder.js?5bba7d604ea9ca5d2ee486d01d3fbd85
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\js\sppagebuilder.js
 Content Type: text/javascript
 
@@ -3290,7 +3290,7 @@ Uri: http://192.168.178.46/maksim-gor-kij.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\maksim-gor-kij.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?3d4622
+Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?749a50
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -3298,7 +3298,7 @@ Uri: http://192.168.178.46/media/legacy/js/jquery-noconflict.min.js?504da4
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\legacy\js\jquery-noconflict.min.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?3d4622
+Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?749a50
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_menu\js\menu.min.js
 Content Type: text/javascript
 
@@ -4241,8 +4241,4 @@ Content Type: image/svg+xml
 Uri: https://www.googletagmanager.com/gtag/js?id=G-37P9KCN6WS
 File Name: C:\Downloaded Web Sites\192.168.178.46\gtag\js
 Content Type: application/javascript
-
-Uri: https://www.hoepli.it/cerca/libri.aspx?query=GErardo+d'orrico&filterCategoryPathROOT=
-File Name: C:\Downloaded Web Sites\192.168.178.46\cerca\libri.aspx
-Content Type: text/html
 
