@@ -1,0 +1,29 @@
+# ----------------------------------------------------------------------
+# 1. REINDIRIZZAMENTO PERSONALIZZATO (Modifica questo valore)
+# ----------------------------------------------------------------------
+# Se vuoi mandare il vecchio URL a una nuova pagina:
+Redirect 301 /index28ef.html https://beneinst.eu/e-book-gratis.html
+# Se invece vuoi indicare a Google che la pagina è stata ELIMINATA (Codice 410 Gone):
+# Redirect 410 /index28ef.html
+
+
+# ----------------------------------------------------------------------
+# 2. REGOLE STANDARD DI JOOMLA (Routing e SEF)
+# ----------------------------------------------------------------------
+RewriteEngine On
+
+# Imposta la directory base (lascia / se il sito è nella root)
+RewriteBase /
+
+# Blocco degli attacchi comuni e protezione file
+RewriteCond %{QUERY_STRING} base64_encode[^(]*\([^)]*\) [OR]
+RewriteCond %{QUERY_STRING} (<|%3C)([^s]*s)+cript.*(>|%3E) [NC,OR]
+RewriteCond %{QUERY_STRING} GLOBALS(=|\[|\%20) [OR]
+RewriteCond %{QUERY_STRING} _REQUEST(=|\[|\%20)
+RewriteRule .* index.php [F]
+
+# Reindirizza le richieste a index.php se non si tratta di file o cartelle reali
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !^/index\.php
+RewriteRule .* index.php [L]
