@@ -130,11 +130,11 @@ Uri: http://192.168.178.46/charles-baudelaire.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\charles-baudelaire.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/animate.min.css?5bba7d604ea9ca5d2ee486d01d3fbd85
+Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/animate.min.css?db0eb064dd605d51126ac7a52bb9f826
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\css\animate.min.css
 Content Type: text/css
 
-Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/dynamic-content.css?5bba7d604ea9ca5d2ee486d01d3fbd85
+Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/dynamic-content.css?db0eb064dd605d51126ac7a52bb9f826
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\css\dynamic-content.css
 Content Type: text/css
 
@@ -142,7 +142,7 @@ Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/magnific-popu
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\css\magnific-popup.css
 Content Type: text/css
 
-Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/sppagebuilder.css?5bba7d604ea9ca5d2ee486d01d3fbd85
+Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/sppagebuilder.css?db0eb064dd605d51126ac7a52bb9f826
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\css\sppagebuilder.css
 Content Type: text/css
 
@@ -158,7 +158,7 @@ Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/common.js
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\js\common.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/dynamic-content.js?5bba7d604ea9ca5d2ee486d01d3fbd85
+Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/dynamic-content.js?db0eb064dd605d51126ac7a52bb9f826
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\js\dynamic-content.js
 Content Type: text/javascript
 
@@ -166,11 +166,11 @@ Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/jquery.magnifi
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\js\jquery.magnific-popup.min.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/jquery.parallax.js?5bba7d604ea9ca5d2ee486d01d3fbd85
+Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/jquery.parallax.js?db0eb064dd605d51126ac7a52bb9f826
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\js\jquery.parallax.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/sppagebuilder.js?5bba7d604ea9ca5d2ee486d01d3fbd85
+Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/sppagebuilder.js?db0eb064dd605d51126ac7a52bb9f826
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\js\sppagebuilder.js
 Content Type: text/javascript
 
@@ -472,6 +472,10 @@ Content Type: text/html
 
 Uri: http://192.168.178.46/edgar-allan-poe.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\edgar-allan-poe.html
+Content Type: text/html
+
+Uri: http://192.168.178.46/edgar-wallace.html
+File Name: C:\Downloaded Web Sites\192.168.178.46\edgar-wallace.html
 Content Type: text/html
 
 Uri: http://192.168.178.46/en-espanol/accion-de-reciclar.html
@@ -1636,6 +1640,10 @@ Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/2026/09/06/gerardoacqu4er33erello-1.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\06\gerardoacqu4er33erello-1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.178.46/images/2026/09/14/wallace_edgar_ritratto 1 1 1.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\14\wallace_edgar_ritratto 1 1 1.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/7ok_edited_edited-gd2.jpg
@@ -3290,7 +3298,7 @@ Uri: http://192.168.178.46/maksim-gor-kij.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\maksim-gor-kij.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?749a50
+Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?c7da31
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -3298,7 +3306,7 @@ Uri: http://192.168.178.46/media/legacy/js/jquery-noconflict.min.js?504da4
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\legacy\js\jquery-noconflict.min.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?749a50
+Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?c7da31
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_menu\js\menu.min.js
 Content Type: text/javascript
 
