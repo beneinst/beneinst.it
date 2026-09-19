@@ -1,4 +1,4 @@
-/* Beneinst Dark Mode 1.1.6 | GPL-2.0-or-later */
+/* Beneinst Dark Mode 1.1.7 | GPL-2.0-or-later */
 :root { --bdm-background:#151b1e; --bdm-surface:#202a2f; --bdm-foreground:#edf2f2; --bdm-link:#79dfd1; --bdm-bottom:24px; }
 .bdm-control[hidden] { display:none !important; }
 .bdm-control { display:inline-flex; flex-wrap:wrap; align-items:center; gap:.25rem .8rem; padding:2px 0; font:inherit; max-width:100%; }
@@ -40,6 +40,15 @@ html.bdm-dark body .sppb-addon-feature:not(:where(.bdm-preserve,.bdm-preserve *,
 html.bdm-dark body :is(hr,.dashed-hr,.ab-hr,.sppb-divider,.sppb-divider-border):not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { border-color:#526c71 !important; background-color:transparent !important; opacity:1; }
 html.bdm-dark body .sppb-panel-heading:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)):is(:hover,:focus-visible,[aria-expanded="true"]) { background-color:#293e42 !important; }
 @media print { .bdm-control { display:none !important; } }
+/* Ebook downloads on individual author pages. */
+html.bdm-dark body .ebook-card:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { background:var(--bdm-surface) !important; color:var(--bdm-foreground) !important; border-color:#526c71 !important; box-shadow:0 3px 12px #0002; }
+html.bdm-dark body .ebook-card :is(.ebook-info,.ebook-formats):not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { background:transparent !important; }
+html.bdm-dark body .ebook-card .ebook-title:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { color:var(--bdm-foreground) !important; }
+html.bdm-dark body .ebook-card :is(.ebook-badge,.download-btn):not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { background:var(--bdm-background) !important; color:var(--bdm-link) !important; border-color:#526c71 !important; }
+html.bdm-dark body .ebook-card .download-btn:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)):is(:hover,:focus-visible) { border-color:var(--bdm-link) !important; outline:2px solid var(--bdm-link); outline-offset:3px; }
+/* Shared privacy and Creative Commons notice boxes. */
+html.bdm-dark .beneinst-license-note:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { background:var(--bdm-background) !important; color:var(--bdm-foreground) !important; border-left-color:var(--bdm-link) !important; }
+html.bdm-dark .beneinst-license-note :is(p,strong,em,b,span):not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *,a *)) { color:var(--bdm-foreground) !important; }
 /* A page-heading column must have one continuous surface, including its empty spacers. */
 html.bdm-dark body #sp-page-builder .sppb-column:is(:has(h1.sppb-addon-title),:has(.bth-header),.bdm-title-clean):not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) > .sppb-column-overlay { background:transparent !important; opacity:0 !important; }
 html.bdm-dark body #sp-page-builder .sppb-column:is(:has(h1.sppb-addon-title),:has(.bth-header),.bdm-title-clean) .sppb-addon-text-block:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { background:transparent !important; }

@@ -3294,7 +3294,7 @@ Uri: http://192.168.178.46/maksim-gor-kij.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\maksim-gor-kij.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?2aa772
+Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?00a44b
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -3302,15 +3302,15 @@ Uri: http://192.168.178.46/media/legacy/js/jquery-noconflict.min.js?504da4
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\legacy\js\jquery-noconflict.min.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/media/mod_beneinst_darkmode/css/darkmode.css?v=1.1.6
+Uri: http://192.168.178.46/media/mod_beneinst_darkmode/css/darkmode.css?v=1.1.7
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_beneinst_darkmode\css\darkmode.css
 Content Type: text/css
 
-Uri: http://192.168.178.46/media/mod_beneinst_darkmode/js/darkmode.js?v=1.1.6
+Uri: http://192.168.178.46/media/mod_beneinst_darkmode/js/darkmode.js?v=1.1.7
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_beneinst_darkmode\js\darkmode.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?2aa772
+Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?00a44b
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_menu\js\menu.min.js
 Content Type: text/javascript
 
