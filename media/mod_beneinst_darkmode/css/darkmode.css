@@ -1,0 +1,69 @@
+/* Beneinst Dark Mode 1.1.6 | GPL-2.0-or-later */
+:root { --bdm-background:#151b1e; --bdm-surface:#202a2f; --bdm-foreground:#edf2f2; --bdm-link:#79dfd1; --bdm-bottom:24px; }
+.bdm-control[hidden] { display:none !important; }
+.bdm-control { display:inline-flex; flex-wrap:wrap; align-items:center; gap:.25rem .8rem; padding:2px 0; font:inherit; max-width:100%; }
+.bdm-control .bdm-toggle { display:inline-flex; align-items:center; justify-content:center; gap:3px; min-height:30px; padding:2px; border:1px solid #72928d; border-radius:999px; background:rgba(240,250,247,.65); color:#173a35; font:inherit; font-size:14px; line-height:1.4; cursor:pointer; }
+.bdm-control .bdm-choice { display:inline-flex; align-items:center; justify-content:center; gap:6px; padding:1px 10px; border:1px solid transparent; border-radius:999px; }
+.bdm-control .bdm-choice svg { width:16px; height:16px; flex:none; stroke:currentColor; stroke-width:1.7; fill:none; stroke-linecap:round; stroke-linejoin:round; }
+.bdm-control .bdm-choice span { color:inherit !important; font:inherit !important; }
+.bdm-control [aria-pressed="false"] .bdm-choice--day { background:#fff8df; color:#483400; border-color:#b49a4e; font-weight:700; }
+.bdm-control [aria-pressed="true"] .bdm-choice--night { background:#244c46; color:#edfff9; border-color:#79bfb1; font-weight:700; }
+.bdm-control .bdm-auto { min-height:30px; padding:2px .3rem; background:transparent; color:inherit; border:0; font:inherit; font-size:.8rem; line-height:1.4; cursor:pointer; text-decoration:underline; text-underline-offset:3px; }
+.bdm-control .bdm-auto[aria-pressed="true"] { font-weight:700; text-decoration-thickness:3px; }
+.bdm-control button:focus-visible { outline:3px solid #009b88; outline-offset:4px; }
+.bdm-control--floating { position:fixed; left:16px; bottom:calc(var(--bdm-bottom) + env(safe-area-inset-bottom, 0px)); z-index:1030; max-width:calc(100vw - 32px); padding:.6rem .8rem; border:1px solid #91aaa7; border-radius:18px; background:rgba(243,250,248,.88); color:#173a35; box-shadow:0 4px 20px #0003; }
+/* Exclude an entire subtree with bdm-preserve or data-bdm-preserve. No image inversion. */
+html.bdm-dark { color-scheme:dark; background:var(--bdm-background); }
+html.bdm-dark body:not(.bdm-preserve):not([data-bdm-preserve]) { background-color:var(--bdm-background) !important; color:var(--bdm-foreground) !important; }
+html.bdm-dark :is(.body-wrapper,.body-innerwrapper,#sp-main-body,#sp-page-builder,.sp-page-builder,.page-content,main,.container-component):not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { background-color:var(--bdm-background) !important; color:var(--bdm-foreground) !important; }
+html.bdm-dark :is(#sp-header,#sp-top-bar,#sp-bottom,#sp-footer,.offcanvas-menu,.sp-dropdown-inner,.sppb-section,.sppb-column,.sppb-addon-text-block,.sppb-addon-accordion,.sppb-panel,.sppb-panel-heading,.sppb-panel-body,.article-list .article,.article-details,.card,.card-body,.well,.list-group-item,.dropdown-menu,.modal-content,.moduletable,.sp-module-content):not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { background-color:var(--bdm-surface) !important; color:var(--bdm-foreground) !important; border-color:#52646a !important; }
+/* Helix footer has a background photograph: remove only that decorative background for legibility. */
+html.bdm-dark :is(#sp-bottom,#sp-footer):not(:where(.bdm-preserve,[data-bdm-preserve])) { background-image:none !important; }
+html.bdm-dark :is(h1,h2,h3,h4,h5,h6,p,li,dt,dd,blockquote,figcaption,label,legend,small,.article-info,.sppb-addon-title,.sppb-addon-content,.sp-copyright):not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { color:var(--bdm-foreground) !important; }
+html.bdm-dark :is(.sppb-addon-text-block,.article-details,.mod-custom) :is(span,strong,em,b,i):not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *,a *,button *)) { color:inherit !important; background-color:transparent !important; }
+html.bdm-dark a:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *,.btn,.sppb-btn)) { color:var(--bdm-link) !important; }
+html.bdm-dark a:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)):hover { text-decoration:underline; }
+html.bdm-dark :is(input:not([type="checkbox"]):not([type="radio"]):not([type="range"]):not([type="color"]):not([type="submit"]):not([type="button"]),textarea,select,.form-control,.form-select,pre,code,table,th,td):not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { background-color:var(--bdm-background) !important; color:var(--bdm-foreground) !important; border-color:#71848c !important; }
+html.bdm-dark :is(input,textarea):not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *))::placeholder { color:#b8c6cb !important; opacity:1; }
+html.bdm-dark .bdm-control .bdm-toggle,html.bdm-dark .bdm-control--floating { background:rgba(24,34,37,.65); color:var(--bdm-foreground); border-color:#71848c; }
+.bdm-control.bdm-control--transparent .bdm-toggle,.bdm-control--floating.bdm-control--transparent { background:transparent !important; }
+html.bdm-dark .bdm-control button:focus-visible { outline-color:var(--bdm-link); }
+/* SP Page Builder uses nested spans and icon fonts with their own colors. */
+html.bdm-dark body :is(.sppb-panel-title,.sppb-panel-title *, .sppb-toggle-direction,.sppb-toggle-direction *, .sppb-feature-box-title,.sppb-feature-box-title *, .titolop,.sppb-addon-title,.article-header h2):not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { color:var(--bdm-foreground) !important; -webkit-text-fill-color:currentColor !important; }
+html.bdm-dark body .sppb-addon-feature :is(.sppb-icon-container,.sppb-icon-container i):not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { color:var(--bdm-link) !important; }
+html.bdm-dark body :is(a,a:visited) :is(span,strong,b,em,i):not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *,.btn *,.sppb-btn *)) { color:inherit !important; -webkit-text-fill-color:currentColor !important; }
+html.bdm-dark body :is(.sppb-addon-title,.article-header,.sppb-panel-title,.titolop) a:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { color:var(--bdm-link) !important; }
+/* Keep title bands and builder overlays dark, even under page-specific ID rules. */
+html.bdm-dark body .sp-page-builder .page-content [id^="section-id-"].sppb-section:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { background-color:var(--bdm-surface) !important; }
+html.bdm-dark body :is(.sppb-section,.sppb-column) > :is(.sppb-section-overlay,.sppb-column-overlay):not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { background-color:rgba(21,27,30,.65) !important; }
+html.bdm-dark body .sppb-addon-feature:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { background-color:transparent !important; }
+html.bdm-dark body :is(hr,.dashed-hr,.ab-hr,.sppb-divider,.sppb-divider-border):not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { border-color:#526c71 !important; background-color:transparent !important; opacity:1; }
+html.bdm-dark body .sppb-panel-heading:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)):is(:hover,:focus-visible,[aria-expanded="true"]) { background-color:#293e42 !important; }
+@media print { .bdm-control { display:none !important; } }
+/* A page-heading column must have one continuous surface, including its empty spacers. */
+html.bdm-dark body #sp-page-builder .sppb-column:is(:has(h1.sppb-addon-title),:has(.bth-header),.bdm-title-clean):not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) > .sppb-column-overlay { background:transparent !important; opacity:0 !important; }
+html.bdm-dark body #sp-page-builder .sppb-column:is(:has(h1.sppb-addon-title),:has(.bth-header),.bdm-title-clean) .sppb-addon-text-block:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { background:transparent !important; }
+html.bdm-dark .beneinst-sed-cta:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { background:var(--bdm-background) !important; color:var(--bdm-foreground) !important; border-color:#526c71 !important; }
+html.bdm-dark img[src*="images/2026/01/23/available_at_amazon_it_cc_horizontal_clr.png"]:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { filter:brightness(0) invert(1) !important; }
+html.bdm-dark #sp-header .sp-megamenu-parent > li.sp-menu-item::after { background-color:var(--bdm-link) !important; }
+.bdm-control--inline { padding-top:12px; padding-bottom:16px; }
+html.bdm-dark img.logo-image[src*="images/logosretina3mini2.png"]:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { filter:brightness(0) invert(1) !important; }
+/* Custom homepage/audio sliders have their own surfaces, outside the builder palette. */
+html.bdm-dark :is(.beneinst-home-slider,.beneinst-books-slider,.beneinst-audio-slider):not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { background:var(--bdm-surface) !important; color:var(--bdm-foreground) !important; border-color:#526c71 !important; }
+html.bdm-dark :is(.beneinst-home-slider__viewport,.beneinst-books-slider__viewport,.beneinst-audio-slider__viewport):not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { background:var(--bdm-background) !important; border-color:#526c71 !important; }
+html.bdm-dark :is(.beneinst-home-slider__icon,.beneinst-books-slider__format,.beneinst-audio-slider__track):not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { background:var(--bdm-surface) !important; color:var(--bdm-foreground) !important; border-color:#526c71 !important; box-shadow:none; }
+html.bdm-dark :is(.beneinst-home-slider__eyebrow,.beneinst-books-slider__edition,.beneinst-books-slider__kicker,.beneinst-books-slider__counter,.beneinst-audio-slider__edition,.beneinst-audio-slider__eyebrow,.beneinst-audio-slider__counter):not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { color:var(--bdm-link) !important; }
+html.bdm-dark :is(.beneinst-home-slider__arrow,.beneinst-books-slider__arrow,.beneinst-audio-slider__arrow):not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { background:var(--bdm-background) !important; color:var(--bdm-foreground) !important; border-color:#526c71 !important; }
+html.bdm-dark :is(.beneinst-home-slider__dot,.beneinst-books-slider__dot,.beneinst-audio-slider__dot):not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { background:#71848c !important; }
+html.bdm-dark :is(.beneinst-home-slider__dot,.beneinst-books-slider__dot,.beneinst-audio-slider__dot)[aria-current="true"]:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { background:var(--bdm-link) !important; }
+/* Let the existing title photograph remain continuous behind the text. */
+html.bdm-dark body #sp-page-builder #column-id-1733476969804 .sppb-addon-text-block:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { background:transparent !important; }
+/* Full articles share the page canvas instead of appearing as an unpadded card. */
+html.bdm-dark body.view-article #sp-component .article-details:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { background-color:var(--bdm-background) !important; }
+/* Only the monochrome back arrow is recolored, never photographs or cover images. */
+html.bdm-dark img:is([src$="/images/Componenti/reply-all1.png"],[src$="images/Componenti/reply-all1.png"],[src*="images/Componenti/reply-all1.png?"]):not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { filter:brightness(0) invert(1) !important; }
+/* Override both the inline gradients and the existing light-theme !important rules. */
+html.bdm-dark body.itemid-158 #sp-page-builder .sppb-tab-content table td[style*="linear-gradient" i]:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { background:var(--bdm-alphabet,#192326) !important; color:var(--bdm-foreground) !important; border-bottom-color:#526c71 !important; }
+html.bdm-dark body.itemid-158 #sp-page-builder .sppb-nav-tabs > li > a:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { background:var(--bdm-alphabet,#192326) !important; color:var(--bdm-foreground) !important; border-color:#526c71 !important; }
+html.bdm-dark body.itemid-158 #sp-page-builder .sppb-nav-tabs > li.active > a:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)),
+html.bdm-dark body.itemid-158 #sp-page-builder .sppb-nav-tabs > li > a:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)):is(:hover,:focus-visible) { background:var(--bdm-surface) !important; color:var(--bdm-link) !important; border-color:var(--bdm-link) !important; box-shadow:inset 0 -2px var(--bdm-link); }

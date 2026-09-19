@@ -1454,10 +1454,6 @@ Uri: http://192.168.178.46/images/2025/08/30/OIG3-(3)_edited777chiaro.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\08\30\OIG3-(3)_edited777chiaro.png
 Content Type: image/png
 
-Uri: http://192.168.178.46/images/2025/09/29/sfondo-topgf1.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\09\29\sfondo-topgf1.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.178.46/images/2026/01/09/Paul_Verlaine(1).png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\01\09\Paul_Verlaine(1).png
 Content Type: image/png
@@ -1570,10 +1566,6 @@ Uri: http://192.168.178.46/images/2026/07/07/pirandello-beneinst.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\07\07\pirandello-beneinst.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2026/07/27/1785144042 1.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\07\27\1785144042 1.png
-Content Type: image/png
-
 Uri: http://192.168.178.46/images/2026/07/27/1q.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\07\27\1q.png
 Content Type: image/png
@@ -1646,6 +1638,10 @@ Uri: http://192.168.178.46/images/2026/09/14/wallace_edgar_ritratto 1 1 1.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\14\wallace_edgar_ritratto 1 1 1.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.178.46/images/2026/09/19/1789801821 1.png
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\19\1789801821 1.png
+Content Type: image/png
+
 Uri: http://192.168.178.46/images/7ok_edited_edited-gd2.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\7ok_edited_edited-gd2.jpg
 Content Type: image/jpeg
@@ -1654,16 +1650,16 @@ Uri: http://192.168.178.46/images/Componenti/1ff.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\1ff.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.178.46/images/Componenti/consigliati/2q3a.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\consigliati\2q3a.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.178.46/images/Componenti/consigliati/bizantina.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\consigliati\bizantina.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/Componenti/consigliati/coscienza.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\consigliati\coscienza.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/Componenti/consigliati/siamo.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\consigliati\siamo.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/Componenti/epub.png
@@ -1778,8 +1774,8 @@ Uri: http://192.168.178.46/images/Copertine/1w.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Copertine\1w.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/Copertine/2q3.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Copertine\2q3.jpg
+Uri: http://192.168.178.46/images/Copertine/2q3a.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Copertine\2q3a.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/Copertine/2w.jpg
@@ -3298,7 +3294,7 @@ Uri: http://192.168.178.46/maksim-gor-kij.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\maksim-gor-kij.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?c7da31
+Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?2aa772
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -3306,7 +3302,15 @@ Uri: http://192.168.178.46/media/legacy/js/jquery-noconflict.min.js?504da4
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\legacy\js\jquery-noconflict.min.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?c7da31
+Uri: http://192.168.178.46/media/mod_beneinst_darkmode/css/darkmode.css?v=1.1.6
+File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_beneinst_darkmode\css\darkmode.css
+Content Type: text/css
+
+Uri: http://192.168.178.46/media/mod_beneinst_darkmode/js/darkmode.js?v=1.1.6
+File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_beneinst_darkmode\js\darkmode.js
+Content Type: text/javascript
+
+Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?2aa772
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_menu\js\menu.min.js
 Content Type: text/javascript
 
@@ -4128,6 +4132,18 @@ Content Type: application/pdf
 
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/voltaire_zadig.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\voltaire_zadig.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/wallace_il_duca_nel_sobborgo.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\wallace_il_duca_nel_sobborgo.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/wallace_il_libro_della_potenza.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\wallace_il_libro_della_potenza.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/wallace_la_porta_dalle_sette_chiavi.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\wallace_la_porta_dalle_sette_chiavi.pdf
 Content Type: application/pdf
 
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/wilde_il_delitto_di_lord_arturo_savile.pdf
