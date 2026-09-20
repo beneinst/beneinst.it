@@ -104,8 +104,8 @@ a:hover {
 	<style>#sp-footer{ background-image:url("images/7ok_edited_edited-gd2.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:50% 50%; }</style>
 <script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?504da4"></script>
-	<script src="media/mod_menu/js/menu.min.js?00a44b" type="module"></script>
-	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http:\/\/192.168.178.46\/","base":"","baseFull":"http:\/\/192.168.178.46\/"},"csrf.token":"f0d8154a0a0bc5ce099d55931824b71b"}</script>
+	<script src="media/mod_menu/js/menu.min.js?4c3249" type="module"></script>
+	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http:\/\/192.168.178.46\/","base":"","baseFull":"http:\/\/192.168.178.46\/"},"csrf.token":"7482fe90fcc6ab4a5df7b3add176a3e5"}</script>
 	<script src="media/system/js/core.min.js?a3d8f8"></script>
 	<script src="media/vendor/bootstrap/js/alert.min.js?5.3.8" type="module"></script>
 	<script src="media/vendor/bootstrap/js/button.min.js?5.3.8" type="module"></script>
@@ -120,6 +120,7 @@ a:hover {
 	<script src="media/vendor/bootstrap/js/toast.min.js?5.3.8" type="module"></script>
 	<script src="media/system/js/showon.min.js?e51227" type="module"></script>
 	<script src="media/system/js/messages.min.js?9a4811" type="module"></script>
+	<script src="widgets/latest/fc.js" data-gt-orig-url="/di-luigi-cardarelli.html" data-gt-orig-domain="192.168.178.46" data-gt-widget-id="413" defer=""></script>
 	<script src="cache/com_templates/templates/shaper_helixultimate/f2b0305c38d8e9d145abbf2681f3e990.js"></script>
 	<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://192.168.178.46/#/schema/Organization/base","name":"Beneinst","url":"http://192.168.178.46/"},{"@type":"WebSite","@id":"http://192.168.178.46/#/schema/WebSite/base","url":"http://192.168.178.46/","name":"Beneinst","publisher":{"@id":"http://192.168.178.46/#/schema/Organization/base"}},{"@type":"WebPage","@id":"http://192.168.178.46/#/schema/WebPage/base","url":"http://192.168.178.46/di-luigi-cardarelli.html","name":"Nosy be 1997, oceano indiano","description":"Esplora diari, memorie e storie umane su un sito pubblico. Condividi le tue pagine di diari e connettiti con altri.","isPartOf":{"@id":"http://192.168.178.46/#/schema/WebSite/base"},"about":{"@id":"http://192.168.178.46/#/schema/Organization/base"},"inLanguage":"it-IT"},{"@type":"Article","@id":"http://192.168.178.46/#/schema/com_content/article/237","name":"Nosy be 1997, oceano indiano","headline":"Nosy be 1997, oceano indiano","inLanguage":"it-IT","author":{"@type":"Person","name":"Luigi Cardarelli"},"isPartOf":{"@id":"http://192.168.178.46/#/schema/WebPage/base"}}]}</script>
 	<script><script>
@@ -153,6 +154,9 @@ a:hover {
      ===================================================== */
   const initBackLinks = () => {
     document.querySelectorAll('a.back-to-index').forEach(link => {
+      if (link.dataset.backBound) return;      // evita listener duplicati
+      link.dataset.backBound = '1';
+
       link.addEventListener('click', e => {
         e.preventDefault();
         window.history.length > 1
@@ -162,7 +166,7 @@ a:hover {
     });
   };
 
- /* =====================================================
+  /* =====================================================
      FIX LOGO & LOCAL VM PATHS (HTTrack / Ubuntu VM)
      ===================================================== */
   const fixLogoPath = () => {
@@ -176,7 +180,7 @@ a:hover {
       if (src && src.match(localDomain)) {
         img.src = src.replace(localDomain, '');
       }
-      
+
       // Pulisce l'attributo SRCSET (fondamentale per Retina/Helix)
       const srcset = img.getAttribute('srcset');
       if (srcset && srcset.match(localDomain)) {
@@ -194,24 +198,51 @@ a:hover {
   /* =====================================================
      GOOGLE TRANSLATE – lingua persistente
      ===================================================== */
-  const applySavedLanguage = () => {
-    const savedLang = localStorage.getItem('selectedLanguage');
-    if (!savedLang) return;
 
-    const link = document.querySelector(
-      `.gtranslate_wrapper a[href$="#${savedLang}"]`
-    );
+  // Ricava il codice lingua da un link del modulo GTranslate:
+  // supporta data-gt-lang, href="#en" e onclick="doGTranslate('it|en')"
+  const langOf = link =>
+    link.dataset.gtLang ||
+    (link.getAttribute('href') || '').split('#')[1] ||
+    ((link.getAttribute('onclick') || '').match(/\|([\w-]+)/) || [])[1] ||
+    '';
 
-    if (link) setTimeout(() => link.click(), 300);
-  };
+  const findLangLink = lang =>
+    [...document.querySelectorAll('.gtranslate_wrapper a')]
+      .find(a => langOf(a) === lang);
 
+  // Google aggiunge questa classe a <html> quando la pagina è tradotta
+  const isTranslated = () =>
+    document.documentElement.classList.contains('translated-ltr') ||
+    document.documentElement.classList.contains('translated-rtl');
+
+  // Salva la lingua scelta (i link vengono agganciati una sola volta)
   const saveLanguageSelection = () => {
     document.querySelectorAll('.gtranslate_wrapper a').forEach(link => {
+      if (link.dataset.langBound) return;
+      link.dataset.langBound = '1';
+
       link.addEventListener('click', () => {
-        const lang = link.getAttribute('href').split('#')[1];
+        const lang = langOf(link);
         if (lang) localStorage.setItem('selectedLanguage', lang);
       });
     });
+  };
+
+  // Riapplica la lingua salvata: riprova finché la pagina non risulta tradotta
+  const applySavedLanguage = () => {
+    const savedLang = localStorage.getItem('selectedLanguage');
+    if (!savedLang || savedLang === 'it') return;
+
+    let tries = 0;
+    const timer = setInterval(() => {
+      if (isTranslated() || ++tries > 8) {
+        clearInterval(timer);
+        return;
+      }
+      const link = findLangLink(savedLang);
+      if (link) link.click();
+    }, 1500);
   };
 
   const hideTranslationElements = () => {
@@ -245,16 +276,22 @@ a:hover {
     fixLogoPath();
 
     setTimeout(() => {
-      applySavedLanguage();
       saveLanguageSelection();
+      applySavedLanguage();
       hideTranslationElements();
     }, 1000);
 
     setInterval(hideGoogleTranslateBar, 500);
 
+    // Debounce: Google Translate modifica il DOM di continuo
+    let t;
     new MutationObserver(() => {
-      fixRootLinks();
-      initBackLinks();
+      clearTimeout(t);
+      t = setTimeout(() => {
+        fixRootLinks();
+        initBackLinks();
+        saveLanguageSelection();
+      }, 200);
     }).observe(document.body, {
       childList: true,
       subtree: true
@@ -267,9 +304,9 @@ a:hover {
 
 })();
 </script>
+
 <script>
 (() => {
-
   /* =====================================================
      IPFS – CID warming (gateway fetch)
      ===================================================== */
@@ -318,6 +355,7 @@ a:hover {
 })();
 </script>
 	<script>template="shaper_helixultimate";</script>
+	<script>window.gtranslateSettings = window.gtranslateSettings || {};window.gtranslateSettings['413'] = {"default_language":"it","languages":["en","fr","de","it","es"],"url_structure":"none","wrapper_selector":"#gt-wrapper-413","globe_size":60,"flag_size":32,"flag_style":"3d","custom_domains":null,"float_switcher_open_direction":"top","switcher_open_direction":"top","native_language_names":0,"add_new_line":1,"select_language_label":"Select Language","detect_browser_language":1,"custom_css":".gtranslate_wrapper.gt_container-u6wkaq {\r\n    text-align: left;\r\n}\r\n\r\n\/* Nasconde i codici delle lingue *\/\r\n.gtranslate_wrapper.gt_container-u6wkaq a span {\r\n    display: none;\r\n}\r\n<script type=\"text\/javascript\">\r\nfunction googleTranslateElementInit() {\r\n    new google.translate.TranslateElement({\r\n        pageLanguage: 'it',\r\n        layout: google.translate.TranslateElement.InlineLayout.SIMPLE\r\n    }, 'google_translate_element');\r\n\r\n    \/\/ Nasconde la barra di Google Translate\r\n    setTimeout(function() {\r\n        var translateBar = document.querySelector(\".skiptranslate\");\r\n        if (translateBar) {\r\n            translateBar.style.display = \"none\";\r\n            document.body.style.top = \"0px\";\r\n        }\r\n    }, 500);\r\n}\r\n<\/script>\r\n","alt_flags":[],"switcher_horizontal_position":"left","switcher_vertical_position":"bottom","horizontal_position":"inline","vertical_position":"inline"};</script>
 <!-- =========================================================
      BENEINST.EU - CODICE HEAD PULITO
      Sostituisce integralmente il vecchio codice personalizzato.
@@ -1546,7 +1584,17 @@ body.itemid-159 .sppb-nav-tabs > li.active > a:focus {
   color: #183C2C !important;
   border-color: #91B19D !important;
 }
+@media (max-width: 479.98px) {
+  .bdm-center { text-align: center !important; }
+  .bdm-center .bdm-toggle {
+    display: flex !important;
+    width: fit-content !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+}
 
+}
 </html></style>
 
 <!-- Contatore visite: conservato dalla versione originale. -->
@@ -2063,8 +2111,8 @@ function googleTranslateElementInit() {
     Privacy e Cookie Policy
   </a>
 </p></div>
-</div></div><div class="sp-module "><div class="sp-module-content"><link rel="stylesheet" href="media/mod_beneinst_darkmode/css/darkmode.css?v=1.1.7">
-<div class="bdm-control bdm-control--inline bdm-control--soft " data-bdm-control="" data-bdm-config="{&quot;initial&quot;:&quot;light&quot;,&quot;colors&quot;:{&quot;background&quot;:&quot;#151b1e&quot;,&quot;surface&quot;:&quot;#202a2f&quot;,&quot;foreground&quot;:&quot;#edf2f2&quot;,&quot;link&quot;:&quot;#79dfd1&quot;,&quot;alphabet&quot;:&quot;#192326&quot;},&quot;bottom&quot;:200}">
+</div></div><div class="sp-module  bdm-center"><div class="sp-module-content"><link rel="stylesheet" href="media/mod_beneinst_darkmode/css/darkmode.css?v=1.1.7">
+<div class="bdm-control bdm-control--inline bdm-control--soft  bdm-center" data-bdm-control="" data-bdm-config="{&quot;initial&quot;:&quot;light&quot;,&quot;colors&quot;:{&quot;background&quot;:&quot;#151b1e&quot;,&quot;surface&quot;:&quot;#202a2f&quot;,&quot;foreground&quot;:&quot;#edf2f2&quot;,&quot;link&quot;:&quot;#79dfd1&quot;,&quot;alphabet&quot;:&quot;#192326&quot;},&quot;bottom&quot;:200}">
     <button type="button" class="bdm-toggle" data-bdm-toggle="" disabled="" aria-pressed="false" aria-label="Modalità scura">
         <span class="bdm-choice bdm-choice--day"><svg aria-hidden="true" viewbox="0 0 24 24"><circle cx="12" cy="12" r="4"></circle><path d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.5 1.5m11 11L19 19M5 19l1.5-1.5m11-11L19 5"></path></svg><span>Giorno</span></span>
         <span class="bdm-choice bdm-choice--night"><svg aria-hidden="true" viewbox="0 0 24 24"><path d="M20.5 14A8.5 8.5 0 0 1 10 3.5 8.5 8.5 0 1 0 20.5 14Z"></path></svg><span>Notte</span></span>
@@ -2167,7 +2215,7 @@ jQuery(document).ready(function ($) {
 }
 </style>
 
-		
+		<div class="gtranslate_wrapper" id="gt-wrapper-413"></div>
 <div id="mod-custom416" class="mod-custom custom">
     <script type="text/javascript">
 jQuery(document).ready(function($) {
