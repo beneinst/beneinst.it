@@ -1,11 +1,24 @@
 # ----------------------------------------------------------------------
-# 1. REINDIRIZZAMENTO PERSONALIZZATO (Modifica questo valore)
+# 1. REINDIRIZZAMENTI PERSONALIZZATI (301 e 410)
 # ----------------------------------------------------------------------
-# Se vuoi mandare il vecchio URL a una nuova pagina:
-Redirect 301 /index28ef.html https://beneinst.eu/e-book-gratis.html
-# Se invece vuoi indicare a Google che la pagina è stata ELIMINATA (Codice 410 Gone):
-# Redirect 410 /index28ef.html
+# Reindirizzamento Home Page index.html -> Root
+Redirect 301 /index.html https://beneinst.eu/
 
+# Reindirizzamenti specifici per vecchi URL
+Redirect 301 /index28ef.html https://beneinst.eu/e-book-gratis.html
+
+# Se desideri restituire 410 Gone per pagine eliminate definitivamente:
+# Redirect 410 /vecchia-pagina-eliminata.html
+# Pagine eliminate definitivamente (Codice 410 Gone)
+Redirect 410 /emily-dickinson.html
+Redirect 410 /fyodor-tyutchev.html
+Redirect 410 /fedro.html
+Redirect 410 /indexff2b.html
+Redirect 410 /index306c.html
+Redirect 410 /di-luigi-cardarellib5c2.html
+Redirect 410 /di-salvatore-messina3204.html
+Redirect 410 /di-franco-bazzarellib620.html
+Redirect 410 /di-franco-bazzarelli4047.html
 
 # ----------------------------------------------------------------------
 # 2. REGOLE STANDARD DI JOOMLA (Routing e SEF)
