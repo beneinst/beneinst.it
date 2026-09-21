@@ -1,4 +1,4 @@
-/* Beneinst Dark Mode 1.1.7 | GPL-2.0-or-later */
+/* Beneinst Dark Mode 1.1.9 | GPL-2.0-or-later */
 (() => {
     'use strict';
     function boot() {
