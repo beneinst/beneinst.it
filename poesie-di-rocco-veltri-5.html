@@ -104,8 +104,8 @@ a:hover {
 	<style>#sp-footer{ background-image:url("images/7ok_edited_edited-gd2.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:50% 50%; }</style>
 <script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?504da4"></script>
-	<script src="media/mod_menu/js/menu.min.js?4c3249" type="module"></script>
-	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http:\/\/192.168.178.46\/","base":"","baseFull":"http:\/\/192.168.178.46\/"},"csrf.token":"7482fe90fcc6ab4a5df7b3add176a3e5"}</script>
+	<script src="media/mod_menu/js/menu.min.js?ee1aa7" type="module"></script>
+	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http:\/\/192.168.178.46\/","base":"","baseFull":"http:\/\/192.168.178.46\/"},"csrf.token":"8d21d0767136ffb7e4b3af52ce561fab"}</script>
 	<script src="media/system/js/core.min.js?a3d8f8"></script>
 	<script src="media/vendor/bootstrap/js/alert.min.js?5.3.8" type="module"></script>
 	<script src="media/vendor/bootstrap/js/button.min.js?5.3.8" type="module"></script>
@@ -123,8 +123,7 @@ a:hover {
 	<script src="widgets/latest/fc.js" data-gt-orig-url="/poesie-di-rocco-veltri.html" data-gt-orig-domain="192.168.178.46" data-gt-widget-id="413" defer=""></script>
 	<script src="cache/com_templates/templates/shaper_helixultimate/f2b0305c38d8e9d145abbf2681f3e990.js"></script>
 	<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://192.168.178.46/#/schema/Organization/base","name":"Beneinst","url":"http://192.168.178.46/"},{"@type":"WebSite","@id":"http://192.168.178.46/#/schema/WebSite/base","url":"http://192.168.178.46/","name":"Beneinst","publisher":{"@id":"http://192.168.178.46/#/schema/Organization/base"}},{"@type":"WebPage","@id":"http://192.168.178.46/#/schema/WebPage/base","url":"http://192.168.178.46/poesie-di-rocco-veltri.html?view=article\u0026amp;id=137:purtroppo-ero-solo\u0026amp;catid=33","name":"Purtroppo ero solo","description":"Esplora diari, memorie e storie umane su un sito pubblico. Condividi le tue pagine di diari e connettiti con altri.","isPartOf":{"@id":"http://192.168.178.46/#/schema/WebSite/base"},"about":{"@id":"http://192.168.178.46/#/schema/Organization/base"},"inLanguage":"it-IT"},{"@type":"Article","@id":"http://192.168.178.46/#/schema/com_content/article/137","name":"Purtroppo ero solo","headline":"Purtroppo ero solo","inLanguage":"it-IT","author":{"@type":"Person","name":"Rocco Veltri"},"isPartOf":{"@id":"http://192.168.178.46/#/schema/WebPage/base"}}]}</script>
-	<script><script>
-(() => {
+	<script>(() => {
   const BASE = 'https://beneinst.eu';
 
   /* =====================================================
@@ -245,16 +244,17 @@ a:hover {
     }, 1500);
   };
 
+  // Fuori dalla home nasconde il selettore lingue (modulo in posizione debug).
+  // Nascondere il contenitore non impedisce al widget di applicare la lingua salvata.
   const hideTranslationElements = () => {
-    ['gt-wrapper-413', 'gt-wrapper-414'].forEach(id => {
-      const el = document.getElementById(id);
-      if (!el) return;
+    const p = location.pathname;
+    const isHome = p === '/' || p === '/index.htm' || p === '/index.html' || p === '/index.php';
+    if (isHome || document.getElementById('gt-hide-style')) return;
 
-      const info = el.getAttribute('data-jmodtip');
-      if (info && info.includes('Posizione: debug')) {
-        el.style.display = 'none';
-      }
-    });
+    const st = document.createElement('style');
+    st.id = 'gt-hide-style';
+    st.textContent = '.gtranslate_wrapper { display: none !important; }';
+    document.head.appendChild(st);
   };
 
   const hideGoogleTranslateBar = () => {
@@ -271,6 +271,7 @@ a:hover {
      INIT
      ===================================================== */
   const init = () => {
+    hideTranslationElements();
     fixRootLinks();
     initBackLinks();
     fixLogoPath();
@@ -302,60 +303,9 @@ a:hover {
     ? document.addEventListener('DOMContentLoaded', init)
     : init();
 
-})();
-</script>
-
-<script>
-(() => {
-  /* =====================================================
-     IPFS – CID warming (gateway fetch)
-     ===================================================== */
-
-  const ipfsCIDList = [
-    "QmeptHDhTD5DAemFcDA2VKJarMsGYsYStfPJvye5iqan7Q",
-    "bafybeiatbyk7gjy5lpuqwx2ilbyuijp3dhyn3mpmjyf5ouwedlzzlq4sui",
-    "QmaTvnK9LowJ7bKEjDVExaiGdae48pFWhpQUMLcxuLXNyq",
-    "QmNMGXijKE3mkB1A4MVnu3XuHuxwVVLCJQeadQWtLc9yXw",
-    "QmXJDbzQeZbbgbJWVX5whCf3cgPk86sGXT6irkjbnwr961",
-    "QmR4QaYQoywJCsyb7FgZZm3AZjcyBm4TSnBLJrLjBxpGah",
-    "QmWsp2P7N1wNbmL4iW95fE1j9QsbqQxuVhyyjEK4wDcNFz",
-    "Qmcu4QeJdM4kaRDUD9ZHXUhpDptU3quGNSEE2daF1YhRrn"
-  ];
-
-  const gateways = [
-    'https://dweb.link/ipfs/',
-    'https://ipfs.io/ipfs/'
-  ];
-
-  /* inserimento invisibile (SEO / crawl / presenza DOM) */
-  const hidden = document.createElement('div');
-  hidden.style.display = 'none';
-
-  ipfsCIDList.forEach(cid => {
-    const a = document.createElement('a');
-    a.href = gateways[0] + cid;
-    a.textContent = cid;
-    hidden.appendChild(a);
-  });
-
-  document.body.appendChild(hidden);
-
-  /* warming gateway */
-  const warmCID = () => {
-    ipfsCIDList.forEach(cid => {
-      gateways.forEach(gw => {
-        fetch(gw + cid, { mode: 'no-cors' }).catch(() => {});
-      });
-    });
-  };
-
-  warmCID();                              // primo colpo
-  setInterval(warmCID, 6 * 60 * 60 * 1000); // ogni 6 ore
-
-})();
-</script>
+})();</script>
 	<script>template="shaper_helixultimate";</script>
-	<script>window.gtranslateSettings = window.gtranslateSettings || {};window.gtranslateSettings['413'] = {"default_language":"it","languages":["en","fr","de","it","es"],"url_structure":"none","wrapper_selector":"#gt-wrapper-413","globe_size":60,"flag_size":32,"flag_style":"3d","custom_domains":null,"float_switcher_open_direction":"top","switcher_open_direction":"top","native_language_names":0,"add_new_line":1,"select_language_label":"Select Language","detect_browser_language":1,"custom_css":".gtranslate_wrapper.gt_container-u6wkaq {\r\n    text-align: left;\r\n}\r\n\r\n\/* Nasconde i codici delle lingue *\/\r\n.gtranslate_wrapper.gt_container-u6wkaq a span {\r\n    display: none;\r\n}\r\n<script type=\"text\/javascript\">\r\nfunction googleTranslateElementInit() {\r\n    new google.translate.TranslateElement({\r\n        pageLanguage: 'it',\r\n        layout: google.translate.TranslateElement.InlineLayout.SIMPLE\r\n    }, 'google_translate_element');\r\n\r\n    \/\/ Nasconde la barra di Google Translate\r\n    setTimeout(function() {\r\n        var translateBar = document.querySelector(\".skiptranslate\");\r\n        if (translateBar) {\r\n            translateBar.style.display = \"none\";\r\n            document.body.style.top = \"0px\";\r\n        }\r\n    }, 500);\r\n}\r\n<\/script>\r\n","alt_flags":[],"switcher_horizontal_position":"left","switcher_vertical_position":"bottom","horizontal_position":"inline","vertical_position":"inline"};</script>
+	<script>window.gtranslateSettings = window.gtranslateSettings || {};window.gtranslateSettings['413'] = {"default_language":"it","languages":["en","fr","de","it","es"],"url_structure":"none","wrapper_selector":"#gt-wrapper-413","globe_size":60,"flag_size":32,"flag_style":"3d","custom_domains":null,"float_switcher_open_direction":"top","switcher_open_direction":"top","native_language_names":0,"add_new_line":1,"select_language_label":"Select Language","detect_browser_language":1,"custom_css":".gtranslate_wrapper.gt_container-u6wkaq {\r\n    text-align: left;\r\n}\r\n\r\n\/* Nasconde i codici delle lingue *\/\r\n.gtranslate_wrapper.gt_container-u6wkaq a span {\r\n    display: none;\r\n}\r\n<script type=\"text\/javascript\">\r\nfunction googleTranslateElementInit() {\r\n    new google.translate.TranslateElement({\r\n        pageLanguage: 'it',\r\n        layout: google.translate.TranslateElement.InlineLayout.SIMPLE\r\n    }, 'google_translate_element');\r\n\r\n    \/\/ Nasconde la barra di Google Translate\r\n    setTimeout(function() {\r\n        var translateBar = document.querySelector(\".skiptranslate\");\r\n        if (translateBar) {\r\n            translateBar.style.display = \"none\";\r\n            document.body.style.top = \"0px\";\r\n        }\r\n    }, 500);\r\n}\r\n<\/script>","alt_flags":[],"switcher_horizontal_position":"left","switcher_vertical_position":"bottom","horizontal_position":"inline","vertical_position":"inline"};</script>
 <!-- =========================================================
      BENEINST.EU - CODICE HEAD PULITO
      Sostituisce integralmente il vecchio codice personalizzato.
@@ -1593,7 +1543,7 @@ body.itemid-159 .sppb-nav-tabs > li.active > a:focus {
     margin-right: auto !important;
   }
 }
-
+body > .gtranslate_wrapper { display: none !important; }
 }
 </html></style>
 
@@ -2244,7 +2194,7 @@ jQuery(document).ready(function ($) {
 }
 </style>
 
-		<div class="gtranslate_wrapper" id="gt-wrapper-413"></div>
+		
 <div id="mod-custom416" class="mod-custom custom">
     <script type="text/javascript">
 jQuery(document).ready(function($) {
@@ -2270,7 +2220,7 @@ jQuery(document).ready(function($) {
     transform: scale(1.1);
 }
 </style></div>
-
+<div class="gtranslate_wrapper" id="gt-wrapper-413"></div>
 
 		<!-- Go to top -->
 					<a href="#" class="sp-scroll-up" aria-label="Scroll to top"><span class="fas fa-angle-up" aria-hidden="true"></span></a>
