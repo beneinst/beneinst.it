@@ -1,4 +1,4 @@
-/* Beneinst Dark Mode 1.1.9 | GPL-2.0-or-later */
+/* Beneinst Dark Mode 1.2.0 | GPL-2.0-or-later */
 :root { --bdm-background:#151b1e; --bdm-surface:#202a2f; --bdm-foreground:#edf2f2; --bdm-link:#79dfd1; --bdm-bottom:24px; }
 .bdm-control[hidden] { display:none !important; }
 .bdm-control { display:inline-flex; flex-wrap:wrap; align-items:center; gap:.25rem .8rem; padding:2px 0; font:inherit; max-width:100%; }
@@ -99,3 +99,94 @@ html.bdm-dark body.itemid-158 #sp-page-builder .sppb-tab-content table td[style*
 html.bdm-dark body.itemid-158 #sp-page-builder .sppb-nav-tabs > li > a:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) { background:var(--bdm-alphabet,#192326) !important; color:var(--bdm-foreground) !important; border-color:#526c71 !important; }
 html.bdm-dark body.itemid-158 #sp-page-builder .sppb-nav-tabs > li.active > a:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)),
 html.bdm-dark body.itemid-158 #sp-page-builder .sppb-nav-tabs > li > a:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)):is(:hover,:focus-visible) { background:var(--bdm-surface) !important; color:var(--bdm-link) !important; border-color:var(--bdm-link) !important; box-shadow:inset 0 -2px var(--bdm-link); }
+/* New self-contained ebook catalogue: search, alphabetical filters and expandable groups. */
+html.bdm-dark body .beneinst-ebook-catalog:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) {
+  --bec-green:var(--bdm-link);
+  --bec-green-dark:var(--bdm-foreground);
+  --bec-sage:var(--bdm-alphabet,#192326);
+  --bec-sage-light:var(--bdm-surface);
+  --bec-cream:var(--bdm-background);
+  --bec-border:#526c71;
+  --bec-text:var(--bdm-foreground);
+  color:var(--bdm-foreground) !important;
+}
+html.bdm-dark body .beneinst-ebook-catalog :is(.beneinst-ebook-catalog__intro,.beneinst-ebook-catalog__status,.beneinst-ebook-catalog__count):not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) {
+  color:#c4d0d2 !important;
+}
+html.bdm-dark body .beneinst-ebook-catalog :is(.beneinst-ebook-catalog__search,.beneinst-ebook-catalog__group,.beneinst-ebook-catalog__content,.beneinst-ebook-catalog__source):not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) {
+  background:var(--bdm-background) !important;
+  color:var(--bdm-foreground) !important;
+  border-color:#526c71 !important;
+}
+html.bdm-dark body .beneinst-ebook-catalog .beneinst-ebook-catalog__search:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) {
+  background:var(--bdm-surface) !important;
+}
+html.bdm-dark body .beneinst-ebook-catalog .beneinst-ebook-catalog__input:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) {
+  background:var(--bdm-background) !important;
+  color:var(--bdm-foreground) !important;
+  border-color:#71848c !important;
+}
+html.bdm-dark body .beneinst-ebook-catalog .beneinst-ebook-catalog__input:focus {
+  border-color:var(--bdm-link) !important;
+  box-shadow:0 0 0 3px color-mix(in srgb,var(--bdm-link) 28%,transparent) !important;
+}
+html.bdm-dark body .beneinst-ebook-catalog .beneinst-ebook-catalog__search-icon,
+html.bdm-dark body .beneinst-ebook-catalog .beneinst-ebook-catalog__search-icon::after {
+  border-color:var(--bdm-link) !important;
+  background:transparent !important;
+}
+html.bdm-dark body .beneinst-ebook-catalog .beneinst-ebook-catalog__search-icon::after { background:var(--bdm-link) !important; }
+html.bdm-dark body .beneinst-ebook-catalog :is(.beneinst-ebook-catalog__clear,.beneinst-ebook-catalog__filter):not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) {
+  background:var(--bdm-background) !important;
+  color:var(--bdm-foreground) !important;
+  border-color:#71848c !important;
+}
+html.bdm-dark body .beneinst-ebook-catalog :is(.beneinst-ebook-catalog__clear,.beneinst-ebook-catalog__filter):is(:hover,:focus-visible),
+html.bdm-dark body .beneinst-ebook-catalog .beneinst-ebook-catalog__filter[aria-pressed='true'] {
+  background:var(--bdm-link) !important;
+  color:#10211f !important;
+  border-color:var(--bdm-link) !important;
+  outline-color:var(--bdm-link) !important;
+}
+html.bdm-dark body .beneinst-ebook-catalog .beneinst-ebook-catalog__clear:disabled {
+  background:#2b363a !important;
+  color:#8d9a9e !important;
+  border-color:#52646a !important;
+}
+html.bdm-dark body .beneinst-ebook-catalog .beneinst-ebook-catalog__summary:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) {
+  background:var(--bdm-alphabet,#192326) !important;
+  color:var(--bdm-foreground) !important;
+  border-color:#526c71 !important;
+}
+html.bdm-dark body .beneinst-ebook-catalog .beneinst-ebook-catalog__summary:is(:hover,:focus-visible),
+html.bdm-dark body .beneinst-ebook-catalog .beneinst-ebook-catalog__group[open] > .beneinst-ebook-catalog__summary {
+  background:var(--bdm-surface) !important;
+  color:var(--bdm-link) !important;
+}
+html.bdm-dark body .beneinst-ebook-catalog .beneinst-ebook-catalog__summary::after {
+  background:var(--bdm-link) !important;
+  color:#10211f !important;
+}
+html.bdm-dark body .beneinst-ebook-catalog .beneinst-ebook-catalog__letter:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) {
+  background:var(--bdm-surface) !important;
+  color:var(--bdm-foreground) !important;
+  border-color:#526c71 !important;
+}
+html.bdm-dark body .beneinst-ebook-catalog .beneinst-ebook-catalog__letter-title:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) {
+  color:var(--bdm-link) !important;
+}
+html.bdm-dark body .beneinst-ebook-catalog .beneinst-ebook-catalog__author a:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) {
+  background:transparent !important;
+  color:var(--bdm-foreground) !important;
+  border-color:#526c71 !important;
+}
+html.bdm-dark body .beneinst-ebook-catalog .beneinst-ebook-catalog__author a:is(:hover,:focus-visible) {
+  background:var(--bdm-alphabet,#192326) !important;
+  color:var(--bdm-link) !important;
+  border-left-color:var(--bdm-link) !important;
+}
+html.bdm-dark body .beneinst-ebook-catalog .beneinst-ebook-catalog__empty:not(:where(.bdm-preserve,.bdm-preserve *,[data-bdm-preserve],[data-bdm-preserve] *)) {
+  background:var(--bdm-surface) !important;
+  color:var(--bdm-foreground) !important;
+  border-color:#526c71 !important;
+}

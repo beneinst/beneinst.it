@@ -1386,30 +1386,6 @@ Uri: http://192.168.178.46/images/2025/02/21/OIG4-_1__edited-removebg-preview1.p
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\21\OIG4-_1__edited-removebg-preview1.png
 Content Type: image/png
 
-Uri: http://192.168.178.46/images/2025/02/28/1a1.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\28\1a1.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/28/1as.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\28\1as.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/28/1eb.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\28\1eb.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/28/1qwe.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\28\1qwe.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/28/2eb.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\28\2eb.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/28/3eb.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\28\3eb.png
-Content Type: image/png
-
 Uri: http://192.168.178.46/images/2025/08/30/1a7chiaro4.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\08\30\1a7chiaro4.png
 Content Type: image/png
@@ -3302,7 +3278,7 @@ Uri: http://192.168.178.46/maksim-gor-kij.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\maksim-gor-kij.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?1ba23a
+Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?73b799
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -3310,15 +3286,15 @@ Uri: http://192.168.178.46/media/legacy/js/jquery-noconflict.min.js?504da4
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\legacy\js\jquery-noconflict.min.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/media/mod_beneinst_darkmode/css/darkmode.css?v=1.1.9
+Uri: http://192.168.178.46/media/mod_beneinst_darkmode/css/darkmode.css?v=1.2.0
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_beneinst_darkmode\css\darkmode.css
 Content Type: text/css
 
-Uri: http://192.168.178.46/media/mod_beneinst_darkmode/js/darkmode.js?v=1.1.9
+Uri: http://192.168.178.46/media/mod_beneinst_darkmode/js/darkmode.js?v=1.2.0
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_beneinst_darkmode\js\darkmode.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?1ba23a
+Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?73b799
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_menu\js\menu.min.js
 Content Type: text/javascript
 
@@ -4046,6 +4022,30 @@ Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/princi_p.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\princi_p.pdf
 Content Type: application/pdf
 
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/salgari/salgari_il_corsaro_nero.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\salgari\salgari_il_corsaro_nero.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/salgari/salgari_i_figli_dell_aria.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\salgari\salgari_i_figli_dell_aria.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/salgari/salgari_le_meraviglie_del_duemila.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\salgari\salgari_le_meraviglie_del_duemila.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/salgari/salgari_le_novelle_marinaresche_di_mastro_catrame.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\salgari\salgari_le_novelle_marinaresche_di_mastro_catrame.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/salgari/salgari_le_tigri_di_mompracem.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\salgari\salgari_le_tigri_di_mompracem.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/salgari/salgari_sulle_frontiere_del_far_west.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\salgari\salgari_sulle_frontiere_del_far_west.pdf
+Content Type: application/pdf
+
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/schopenhauer_il_mondo_come_volonta_e_rappresentazione.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\schopenhauer_il_mondo_come_volonta_e_rappresentazione.pdf
 Content Type: application/pdf
@@ -4140,6 +4140,14 @@ Content Type: application/pdf
 
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/voltaire_zadig.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\voltaire_zadig.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/wallace/wallace_il_libro_della_potenza.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\wallace\wallace_il_libro_della_potenza.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/wallace/wallace_la_porta_dalle_sette_chiavi.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\wallace\wallace_la_porta_dalle_sette_chiavi.pdf
 Content Type: application/pdf
 
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/wilde_il_delitto_di_lord_arturo_savile.pdf
