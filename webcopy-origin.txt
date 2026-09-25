@@ -478,6 +478,10 @@ Uri: http://192.168.178.46/edgar-wallace.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\edgar-wallace.html
 Content Type: text/html
 
+Uri: http://192.168.178.46/emilio-salgari.html
+File Name: C:\Downloaded Web Sites\192.168.178.46\emilio-salgari.html
+Content Type: text/html
+
 Uri: http://192.168.178.46/en-espanol/accion-de-reciclar.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\en-espanol\accion-de-reciclar.html
 Content Type: text/html
@@ -1634,13 +1638,17 @@ Uri: http://192.168.178.46/images/2026/09/06/gerardoacqu4er33erello-1.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\06\gerardoacqu4er33erello-1.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2026/09/14/wallace_edgar_ritratto 1 1 1.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\14\wallace_edgar_ritratto 1 1 1.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.178.46/images/2026/09/19/1789801821 1.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\19\1789801821 1.png
 Content Type: image/png
+
+Uri: http://192.168.178.46/images/2026/09/25/salgari_ritratto 1.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\25\salgari_ritratto 1.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.178.46/images/2026/09/25/wallace_edgar_ritratto_2-migliora-la-qualit-di-questo-ritratto 11.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\25\wallace_edgar_ritratto_2-migliora-la-qualit-di-questo-ritratto 11.jpg
+Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/7ok_edited_edited-gd2.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\7ok_edited_edited-gd2.jpg
@@ -3294,7 +3302,7 @@ Uri: http://192.168.178.46/maksim-gor-kij.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\maksim-gor-kij.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?0118c7
+Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?1ba23a
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -3310,7 +3318,7 @@ Uri: http://192.168.178.46/media/mod_beneinst_darkmode/js/darkmode.js?v=1.1.9
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_beneinst_darkmode\js\darkmode.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?0118c7
+Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?1ba23a
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_menu\js\menu.min.js
 Content Type: text/javascript
 
@@ -4132,18 +4140,6 @@ Content Type: application/pdf
 
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/voltaire_zadig.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\voltaire_zadig.pdf
-Content Type: application/pdf
-
-Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/wallace_il_duca_nel_sobborgo.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\wallace_il_duca_nel_sobborgo.pdf
-Content Type: application/pdf
-
-Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/wallace_il_libro_della_potenza.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\wallace_il_libro_della_potenza.pdf
-Content Type: application/pdf
-
-Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/wallace_la_porta_dalle_sette_chiavi.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\wallace_la_porta_dalle_sette_chiavi.pdf
 Content Type: application/pdf
 
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/wilde_il_delitto_di_lord_arturo_savile.pdf
