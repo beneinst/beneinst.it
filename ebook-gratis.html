@@ -109,7 +109,7 @@ a:hover {
 	<style>@media(max-width: 576px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}</style>
 	<style>#sp-bottom{ background-image:url("images/7ok_edited_edited-gd2.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:50% 50%; }</style>
 	<style>#sp-footer{ background-image:url("images/7ok_edited_edited-gd2.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:50% 50%; }</style>
-<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http:\/\/192.168.178.46\/","base":"","baseFull":"http:\/\/192.168.178.46\/"},"csrf.token":"09f4cd71ca4b47cde99af3d97f6fb41d"}</script>
+<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http:\/\/192.168.178.46\/","base":"","baseFull":"http:\/\/192.168.178.46\/"},"csrf.token":"0ed9ef7dc1eae6eed885aac0a3de609b"}</script>
 	<script src="media/system/js/core.min.js?a3d8f8"></script>
 	<script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?504da4"></script>
@@ -125,7 +125,7 @@ a:hover {
 	<script src="media/vendor/bootstrap/js/tab.min.js?5.3.8" type="module"></script>
 	<script src="media/vendor/bootstrap/js/toast.min.js?5.3.8" type="module"></script>
 	<script src="media/system/js/showon.min.js?e51227" type="module"></script>
-	<script src="media/mod_menu/js/menu.min.js?73b799" type="module"></script>
+	<script src="media/mod_menu/js/menu.min.js?04f0b6" type="module"></script>
 	<script src="media/system/js/messages.min.js?9a4811" type="module"></script>
 	<script src="components/com_sppagebuilder/assets/js/common.js"></script>
 	<script src="components/com_sppagebuilder/assets/js/dynamic-content.js?db0eb064dd605d51126ac7a52bb9f826"></script>
@@ -1770,8 +1770,11 @@ function googleTranslateElementInit() {
 
   .beneinst-ebook-catalog__search-icon {
     position: absolute;
-    top: 50%;
-    left: 15px;
+    top: 43%;
+    right: 18px !important;
+    left: auto !important;
+    inset-inline-start: auto !important;
+    inset-inline-end: 18px !important;
     width: 18px;
     height: 18px;
     border: 2px solid var(--bec-green);
@@ -1796,7 +1799,7 @@ function googleTranslateElementInit() {
   .beneinst-ebook-catalog__input {
     width: 100%;
     min-height: 48px;
-    padding: 10px 16px 10px 46px;
+    padding: 10px 50px 10px 16px;
     border: 1px solid #9fbcaa;
     border-radius: 10px;
     outline: none;
@@ -1890,11 +1893,23 @@ function googleTranslateElementInit() {
     list-style: none;
     background: var(--bec-sage);
     color: var(--bec-green-dark);
-    font-family: 'Averia Libre', 'Titillium Web', sans-serif;
+    font-family: 'Titillium Web', Arial, sans-serif !important;
     font-size: 1.08rem;
     font-weight: 700;
+    font-style: normal;
+    opacity: 1;
+    text-shadow: none;
+    -webkit-text-fill-color: currentColor;
     cursor: pointer;
     user-select: none;
+  }
+
+  .beneinst-ebook-catalog__summary > span {
+    color: inherit;
+    font-family: inherit !important;
+    font-style: inherit;
+    opacity: 1;
+    -webkit-text-fill-color: currentColor;
   }
 
   .beneinst-ebook-catalog__summary::-webkit-details-marker {
@@ -1928,8 +1943,7 @@ function googleTranslateElementInit() {
 
   .beneinst-ebook-catalog__count {
     margin-left: auto;
-    color: #607369;
-    font-family: 'Titillium Web', sans-serif;
+    color: #405047;
     font-size: 0.84rem;
     font-weight: 600;
   }
@@ -2073,8 +2087,7 @@ function googleTranslateElementInit() {
 </style>
 
 <section id="beneinst-ebook-catalog" class="beneinst-ebook-catalog" aria-labelledby="beneinst-ebook-catalog-title">
-  
-
+ 
   <div class="beneinst-ebook-catalog__search" role="search">
     <div class="beneinst-ebook-catalog__search-field">
       <span class="beneinst-ebook-catalog__search-icon" aria-hidden="true"></span>
@@ -2185,6 +2198,7 @@ function googleTranslateElementInit() {
     <li class="beneinst-ebook-catalog__author" data-surname="Wallace"><a href="edgar-wallace.html">Edgar Wallace</a></li>
     <li class="beneinst-ebook-catalog__author" data-surname="Shakespeare"><a href="william-shakespeare.html">William Shakespeare</a></li>
     <li class="beneinst-ebook-catalog__author" data-surname="Wilde"><a href="oscar-wilde.html">Oscar Wilde</a></li>
+    <li class="beneinst-ebook-catalog__author" data-surname="Melville"><a href="herman-melville.html">Herman Melville</a></li>
   </ul>
 </section>
 
@@ -2378,7 +2392,8 @@ function googleTranslateElementInit() {
 
     update();
   })();
-</script></div>
+</script>
+</div>
 </div></div></div></div></div></div></div></div></div></section><section id="section-id-1788722829457" class="sppb-section"><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-row-column  " id="column-wrap-id-1788722829456"><div id="column-id-1788722829456" class="sppb-column "><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1788722889014" class="sppb-addon-wrapper  addon-root-text-block"><div id="sppb-addon-1788722889014" class="clearfix  "><div class="sppb-addon sppb-addon-text-block "><div class="sppb-addon-content  "><!--
   BENEINST - BOX FINALE "INVIA A SED ETIAM"
   Sostituisce il vecchio paragrafo contenente il pulsante.

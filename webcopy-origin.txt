@@ -630,6 +630,10 @@ Uri: http://192.168.178.46/gustave-flaubert.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\gustave-flaubert.html
 Content Type: text/html
 
+Uri: http://192.168.178.46/herman-melville.html
+File Name: C:\Downloaded Web Sites\192.168.178.46\herman-melville.html
+Content Type: text/html
+
 Uri: http://192.168.178.46/hermann-hesse.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\hermann-hesse.html
 Content Type: text/html
@@ -1624,6 +1628,10 @@ Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/2026/09/25/wallace_edgar_ritratto_2-migliora-la-qualit-di-questo-ritratto 11.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\25\wallace_edgar_ritratto_2-migliora-la-qualit-di-questo-ritratto 11.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.178.46/images/2026/09/26/melville_ritratto 1.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\26\melville_ritratto 1.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/7ok_edited_edited-gd2.jpg
@@ -3278,7 +3286,7 @@ Uri: http://192.168.178.46/maksim-gor-kij.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\maksim-gor-kij.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?73b799
+Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?04f0b6
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -3294,7 +3302,7 @@ Uri: http://192.168.178.46/media/mod_beneinst_darkmode/js/darkmode.js?v=1.2.0
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_beneinst_darkmode\js\darkmode.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?73b799
+Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?04f0b6
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_menu\js\menu.min.js
 Content Type: text/javascript
 
