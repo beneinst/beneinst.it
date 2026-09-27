@@ -104,8 +104,8 @@ a:hover {
 	<style>#sp-footer{ background-image:url("images/7ok_edited_edited-gd2.jpg");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:50% 50%; }</style>
 <script src="media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
 	<script src="media/legacy/js/jquery-noconflict.min.js?504da4"></script>
-	<script src="media/mod_menu/js/menu.min.js?04f0b6" type="module"></script>
-	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http:\/\/192.168.178.46\/","base":"","baseFull":"http:\/\/192.168.178.46\/"},"csrf.token":"0ed9ef7dc1eae6eed885aac0a3de609b"}</script>
+	<script src="media/mod_menu/js/menu.min.js?eb12a6" type="module"></script>
+	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"ERROR":"Errore","MESSAGE":"Messaggio","NOTICE":"Avviso","WARNING":"Attenzione","JCLOSE":"Chiudi","JOK":"OK","JOPEN":"Apri"},"system.paths":{"root":"","rootFull":"http:\/\/192.168.178.46\/","base":"","baseFull":"http:\/\/192.168.178.46\/"},"csrf.token":"e806e8bf5d4335c9cba4613f305055de"}</script>
 	<script src="media/system/js/core.min.js?a3d8f8"></script>
 	<script src="media/vendor/bootstrap/js/alert.min.js?5.3.8" type="module"></script>
 	<script src="media/vendor/bootstrap/js/button.min.js?5.3.8" type="module"></script>
@@ -2080,7 +2080,60 @@ La sua produzione comprende più di ottanta romanzi e numerosi racconti. Le avve
 			
 	
 <div class="row">
-	<div id="sp-bottom4" class="col-lg-12 "><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+	<div id="sp-bottom3" class="col-lg-8 "><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+<div id="mod-custom134" class="mod-custom custom">
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* Stile per la versione desktop */
+    .testo-desktop {
+      font-size: 13px;
+      font-family: terminal, monaco, monospace;
+      color: #ecf0f1;
+    }
+
+    /* Stile per schermi con larghezza inferiore a 600px */
+    @media (max-width: 600px) {
+      .testo-desktop {
+        font-size: 13px;
+      }
+    }
+
+    /* Stile per la versione desktop con dimensione 13px */
+    .testo-desktop-13 {
+      font-size: 18px;
+      font-family: 'Mynerve', cursive;
+    }
+
+    /* Stile per schermi con larghezza inferiore a 600px con dimensione 15px */
+    @media (max-width: 600px) {
+      .testo-desktop-13 {
+        font-size: 17px;
+      }
+    }
+  </style>
+</head>
+<body>
+<div style="margin-bottom: 18px;">
+<p style="font-size: 13px; line-height: 3; border-bottom: 1px dotted #307D7E; display: inline-block; padding-bottom: 2px;"><span style="font-family: 'courier new', courier, monospace; font-size: 13px;">Pillole di pensiero</span></p>
+</div>
+
+  <blockquote class="quote">
+    <p class="testo-desktop-13">
+      <em>
+        "Tutto quel ch’è nostro e quel ch’è vostro, è normale. Costruisciti una musica artificiale: quanto costa amare un silenzio. Decidi tu cosa sarà giusto per te, morire non è mai stato facile."
+      </em>
+    </p>
+  </blockquote>
+
+  <p> </p>
+</body>
+</html>
+</div>
+</div></div></div></div><div id="sp-bottom4" class="col-lg-4 "><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
 <div id="mod-custom126" class="mod-custom custom">
     <!DOCTYPE html>
 <html lang="en">
@@ -2265,7 +2318,33 @@ jQuery(document).ready(function ($) {
 }
 </style>
 
-		<div class="gtranslate_wrapper" id="gt-wrapper-413"></div>
+		
+<div id="mod-custom418" class="mod-custom custom">
+    <script type="text/javascript">
+jQuery(document).ready(function($) {
+    var backButton = `
+        <div style="display: flex; align-items: center;">
+            <a class="back-to-index" title="Torna Indietro" href="https://beneinst.eu/e-book-gratis.html" style="display: block;">
+                <img src="/images/Componenti/reply-all1.png" alt="Torna indietro" 
+                     width="35" height="30" loading="lazy" 
+                     style="margin: 0 10px;">
+            </a>
+        </div>
+    `;
+    
+    $('.me-auto.align-self-center').html(backButton);
+});
+</script>
+
+<style>
+.back-to-index img {
+    transition: transform 0.2s ease;
+}
+.back-to-index:hover img {
+    transform: scale(1.1);
+}
+</style></div>
+<div class="gtranslate_wrapper" id="gt-wrapper-413"></div>
 
 		<!-- Go to top -->
 					<a href="#" class="sp-scroll-up" aria-label="Scroll to top"><span class="fas fa-angle-up" aria-hidden="true"></span></a>

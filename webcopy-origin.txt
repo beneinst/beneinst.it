@@ -2314,142 +2314,6 @@ Uri: http://192.168.178.46/images/Files/Biblioteca-PDF/wilde_de_profundis.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\wilde_de_profundis.pdf
 Content Type: application/pdf
 
-Uri: http://192.168.178.46/images/Files/Lettere-ITA-2024/Codici Enigmatici Equilibri Oscillanti.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Lettere-ITA-2024\Codici Enigmatici Equilibri Oscillanti.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/Lettere-ITA-2024/Condiscendenza Umana.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Lettere-ITA-2024\Condiscendenza Umana.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/Lettere-ITA-2024/Dialoghi sullUmanita.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Lettere-ITA-2024\Dialoghi sullUmanita.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/Lettere-ITA-2024/Esplorando Il Mondo Intorno a Noi.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Lettere-ITA-2024\Esplorando Il Mondo Intorno a Noi.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/Lettere-ITA-2024/I sogni il tempo.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Lettere-ITA-2024\I sogni il tempo.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/Lettere-ITA-2024/Il Potere delle Parole.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Lettere-ITA-2024\Il Potere delle Parole.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/Lettere-ITA-2024/Io ho molte credenze.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Lettere-ITA-2024\Io ho molte credenze.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/Lettere-ITA-2024/Le parole che non si possono usare.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Lettere-ITA-2024\Le parole che non si possono usare.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/Lettere-ITA-2024/Mercurio io e tu.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Lettere-ITA-2024\Mercurio io e tu.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/Lettere-ITA-2024/Osserva il Danzar dei Sogni Eclissati.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Lettere-ITA-2024\Osserva il Danzar dei Sogni Eclissati.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/Lettere-ITA-2024/Per che sempre.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Lettere-ITA-2024\Per che sempre.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/Lettere-ITA-2024/Riflessioni Iniziali.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Lettere-ITA-2024\Riflessioni Iniziali.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/Lettere-ITA-2024/Riflessioni Temporali.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Lettere-ITA-2024\Riflessioni Temporali.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/Lettere-ITA-2024/Sino Polis.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Lettere-ITA-2024\Sino Polis.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/Lettere-ITA-2024/Spettri del Passato Memorie Intramontabili.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Lettere-ITA-2024\Spettri del Passato Memorie Intramontabili.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/Lettere-ITA-2024/Te lo colorerei.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Lettere-ITA-2024\Te lo colorerei.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/SedE-Lettere/Di Arturo Pistocchi.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\SedE-Lettere\Di Arturo Pistocchi.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/SedE-Lettere/Di Filomena Rossini.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\SedE-Lettere\Di Filomena Rossini.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/SedE-Lettere/Di Franco Farina.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\SedE-Lettere\Di Franco Farina.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/SedE-Lettere/Di Luigi Cardarelli.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\SedE-Lettere\Di Luigi Cardarelli.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/SedE-Lettere/Di Maria Teresa Azzoni.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\SedE-Lettere\Di Maria Teresa Azzoni.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/SedE-Lettere/Di Massimo Vaj.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\SedE-Lettere\Di Massimo Vaj.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/SedE-Lettere/Di Rocco Veltri.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\SedE-Lettere\Di Rocco Veltri.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/SedE-Poesie/Di Anna Maria Tarantino.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\SedE-Poesie\Di Anna Maria Tarantino.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/SedE-Poesie/Di Begonia Curto.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\SedE-Poesie\Di Begonia Curto.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/SedE-Poesie/Di Chiara G. Schiavini.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\SedE-Poesie\Di Chiara G. Schiavini.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/SedE-Poesie/Di Franco Bazzarelli.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\SedE-Poesie\Di Franco Bazzarelli.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/SedE-Poesie/Di Giuseppe Ambrosecchia.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\SedE-Poesie\Di Giuseppe Ambrosecchia.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/SedE-Poesie/Di Katia Ferri.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\SedE-Poesie\Di Katia Ferri.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/SedE-Poesie/Di Marco Piluso.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\SedE-Poesie\Di Marco Piluso.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/SedE-Poesie/Di Martino Ricupero.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\SedE-Poesie\Di Martino Ricupero.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/SedE-Poesie/Di Rocco Veltri.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\SedE-Poesie\Di Rocco Veltri.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/SedE-Poesie/Di Salvatore Esposito.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\SedE-Poesie\Di Salvatore Esposito.pdf
-Content Type: application/pdf
-
-Uri: http://192.168.178.46/images/Files/SedE-Poesie/Di Salvatore Messina.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\SedE-Poesie\Di Salvatore Messina.pdf
-Content Type: application/pdf
-
 Uri: http://192.168.178.46/images/logosretina3mini2.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\logosretina3mini2.png
 Content Type: image/png
@@ -3091,7 +2955,7 @@ File Name: C:\Downloaded Web Sites\192.168.178.46\in-italiano\te-lo-colorerei.ht
 Content Type: text/html
 
 Uri: http://192.168.178.46/index.php
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php-1.html
+File Name: C:\Downloaded Web Sites\192.168.178.46\index.php.html
 Content Type: text/html
 
 Uri: http://192.168.178.46/index.php/di-anna-maria-tarantino
@@ -3214,10 +3078,6 @@ Uri: http://192.168.178.46/index.php/sedetiam-main
 File Name: C:\Downloaded Web Sites\192.168.178.46\index.php\sedetiam-main.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/index.php?option=com_sppagebuilder&view=page&id=3
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php.html
-Content Type: text/html
-
 Uri: http://192.168.178.46/invia-a-sed-etiam.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\invia-a-sed-etiam.html
 Content Type: text/html
@@ -3286,7 +3146,7 @@ Uri: http://192.168.178.46/maksim-gor-kij.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\maksim-gor-kij.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?04f0b6
+Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?eb12a6
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -3302,7 +3162,7 @@ Uri: http://192.168.178.46/media/mod_beneinst_darkmode/js/darkmode.js?v=1.2.0
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_beneinst_darkmode\js\darkmode.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?04f0b6
+Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?eb12a6
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_menu\js\menu.min.js
 Content Type: text/javascript
 
@@ -3928,6 +3788,18 @@ Content Type: application/pdf
 
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/mantegazza_l_anno_3000.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\mantegazza_l_anno_3000.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/melville_benito_cereno.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\melville_benito_cereno.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/melville_moby_dick.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\melville_moby_dick.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/melville_typee.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\melville_typee.pdf
 Content Type: application/pdf
 
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/paolieri/novell_agrodolci.pdf
