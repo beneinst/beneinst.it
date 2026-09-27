@@ -1275,3 +1275,20 @@ body.itemid-159 .sppb-nav-tabs > li.active > a:focus {
   font-weight: 400 !important;
   line-height: 1.35 !important;
 }
+
+#sp-header .fab.fa-pinterest,
+#sp-header .fab.fa-youtube {
+  display: inline-block;
+  color: #245b45 !important;
+  -webkit-text-fill-color: #245b45 !important;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+#sp-header a:hover .fab.fa-pinterest,
+#sp-header a:hover .fab.fa-youtube,
+#sp-header a:focus-visible .fab.fa-pinterest,
+#sp-header a:focus-visible .fab.fa-youtube {
+  color: #112a21 !important;
+  -webkit-text-fill-color: #112a21 !important;
+  transform: translateY(-1px);
+}

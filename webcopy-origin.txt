@@ -1414,26 +1414,6 @@ Uri: http://192.168.178.46/images/Componenti/Fonts/TitilliumWeb-Regular.ttf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\Fonts\TitilliumWeb-Regular.ttf
 Content Type: font/ttf
 
-Uri: http://192.168.178.46/images/Componenti/Icone_Social/Googleps1.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\Icone_Social\Googleps1.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/Componenti/Icone_Social/m12.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\Icone_Social\m12.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/Componenti/Icone_Social/Minimal-circular-ico1.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\Icone_Social\Minimal-circular-ico1.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/Componenti/Icone_Social/p211.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\Icone_Social\p211.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/Componenti/Icone_Social/y12.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\Icone_Social\y12.png
-Content Type: image/png
-
 Uri: http://192.168.178.46/images/Componenti/mobi-4.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\mobi-4.png
 Content Type: image/png
@@ -2594,7 +2574,7 @@ Uri: http://192.168.178.46/maksim-gor-kij.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\maksim-gor-kij.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?eb12a6
+Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?76c18d
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -2610,12 +2590,8 @@ Uri: http://192.168.178.46/media/mod_beneinst_darkmode/js/darkmode.js?v=1.2.0
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_beneinst_darkmode\js\darkmode.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?eb12a6
+Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?76c18d
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_menu\js\menu.min.js
-Content Type: text/javascript
-
-Uri: http://192.168.178.46/media/plg_system_schedulerunner/js/run-schedule.min.js?229d3b
-File Name: C:\Downloaded Web Sites\192.168.178.46\media\plg_system_schedulerunner\js\run-schedule.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.178.46/media/system/js/core.min.js?a3d8f8
@@ -2838,7 +2814,7 @@ Uri: http://192.168.178.46/silvia-masaracchio.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\silvia-masaracchio.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/templates/shaper_helixultimate/css/custom.css?v=1788759922
+Uri: http://192.168.178.46/templates/shaper_helixultimate/css/custom.css?v=1790546431
 File Name: C:\Downloaded Web Sites\192.168.178.46\templates\shaper_helixultimate\css\custom.css
 Content Type: text/css
 
