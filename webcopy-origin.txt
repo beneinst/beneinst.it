@@ -10,10 +10,6 @@ Uri: http://192.168.178.46/alessandro-manzoni.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\alessandro-manzoni.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/anteprime-audio.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\anteprime-audio.html
-Content Type: text/html
-
 Uri: http://192.168.178.46/anton-giulio-barrili.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\anton-giulio-barrili.html
 Content Type: text/html
@@ -40,38 +36,6 @@ Content Type: text/html
 
 Uri: http://192.168.178.46/arthur-schopenhauer.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\arthur-schopenhauer.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/auf-deutsch/die-bedeutung-von-ton.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\auf-deutsch\die-bedeutung-von-ton.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/auf-deutsch/die-dankbarkeit.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\auf-deutsch\die-dankbarkeit.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/auf-deutsch/mein-gut-ist-das-gute.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\auf-deutsch\mein-gut-ist-das-gute.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/auf-deutsch/nahe-staemme.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\auf-deutsch\nahe-staemme.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/auf-deutsch/ohne-gleiches-bleiben.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\auf-deutsch\ohne-gleiches-bleiben.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/auf-deutsch/schau-wie-die-uebel-sterben.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\auf-deutsch\schau-wie-die-uebel-sterben.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/auf-deutsch/was-gut-ist-wird-nicht-uebertroffen.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\auf-deutsch\was-gut-ist-wird-nicht-uebertroffen.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/auf-deutsch/zeig-mir-dass-du-mich-liebst.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\auf-deutsch\zeig-mir-dass-du-mich-liebst.html
 Content Type: text/html
 
 Uri: http://192.168.178.46/augusto-de-angelis.html
@@ -482,70 +446,6 @@ Uri: http://192.168.178.46/emilio-salgari.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\emilio-salgari.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/en-espanol/accion-de-reciclar.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\en-espanol\accion-de-reciclar.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/en-espanol/dejar-el-fascismo-para-siempre.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\en-espanol\dejar-el-fascismo-para-siempre.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/en-espanol/disco.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\en-espanol\disco.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/en-espanol/el-reconocimiento.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\en-espanol\el-reconocimiento.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/en-espanol/escenarios-de-verano.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\en-espanol\escenarios-de-verano.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/en-espanol/fisica-de-la-radiacion-luminosa.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\en-espanol\fisica-de-la-radiacion-luminosa.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/en-espanol/jupiter-el-sol-mas-grande.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\en-espanol\jupiter-el-sol-mas-grande.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/en-espanol/siempre-las-mismas-cosas.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\en-espanol\siempre-las-mismas-cosas.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/en-francais/arachnophobie.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\en-francais\arachnophobie.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/en-francais/la-gratitude.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\en-francais\la-gratitude.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/en-francais/la-qualite-du-soleil.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\en-francais\la-qualite-du-soleil.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/en-francais/le-film-que-je-tecrirai.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\en-francais\le-film-que-je-tecrirai.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/en-francais/le-vrai-poids-des-choses.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\en-francais\le-vrai-poids-des-choses.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/en-francais/montre-moi-que-tu-me-aimes.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\en-francais\montre-moi-que-tu-me-aimes.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/en-francais/obero-lacte-doppression.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\en-francais\obero-lacte-doppression.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/en-francais/sol-magnifique-et-ludique.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\en-francais\sol-magnifique-et-ludique.html
-Content Type: text/html
-
 Uri: http://192.168.178.46/erasmo-da-rotterdam.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\erasmo-da-rotterdam.html
 Content Type: text/html
@@ -830,10 +730,6 @@ Uri: http://192.168.178.46/images/2023/10/03/Villon_Francois_2.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2023\10\03\Villon_Francois_2.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2023/10/04/audiob1.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2023\10\04\audiob1.png
-Content Type: image/png
-
 Uri: http://192.168.178.46/images/2024/01/28/1-11-newrfgr.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2024\01\28\1-11-newrfgr.jpg
 Content Type: image/jpeg
@@ -872,26 +768,6 @@ Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/2024/02/13/OIG1-(1)f.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2024\02\13\OIG1-(1)f.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2024/12/09/1en6.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2024\12\09\1en6.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2024/12/09/1es6.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2024\12\09\1es6.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2024/12/09/2es.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2024\12\09\2es.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2024/12/09/3en6.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2024\12\09\3en6.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2024/12/09/4fr6.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2024\12\09\4fr6.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/2025/02/20/a2.png
@@ -960,102 +836,6 @@ Content Type: image/png
 
 Uri: http://192.168.178.46/images/2025/02/20/cd21_edited7.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\cd21_edited7.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/20/Lettere-DE.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\Lettere-DE.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/20/Lettere-DE1.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\Lettere-DE1.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/20/Lettere-DE2.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\Lettere-DE2.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/20/Lettere-DE3.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\Lettere-DE3.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/20/Lettere-DE4.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\Lettere-DE4.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/20/Lettere-DE5.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\Lettere-DE5.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/20/Lettere-DE6.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\Lettere-DE6.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/20/Lettere-DE7.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\Lettere-DE7.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/20/Lettere-EN.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\Lettere-EN.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/20/Lettere-EN1.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\Lettere-EN1.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/20/Lettere-EN2.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\Lettere-EN2.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/20/Lettere-EN3.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\Lettere-EN3.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/20/Lettere-EN4.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\Lettere-EN4.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/20/Lettere-EN5.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\Lettere-EN5.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/20/Lettere-EN6.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\Lettere-EN6.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/20/Lettere-EN7.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\Lettere-EN7.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/20/Lettere-FR2.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\Lettere-FR2.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/20/Lettere-FR21.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\Lettere-FR21.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/20/Lettere-FR22.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\Lettere-FR22.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/20/Lettere-FR23.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\Lettere-FR23.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/20/Lettere-FR24.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\Lettere-FR24.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/20/Lettere-FR25.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\Lettere-FR25.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/20/Lettere-FR26.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\Lettere-FR26.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/20/Lettere-FR27.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\Lettere-FR27.png
 Content Type: image/png
 
 Uri: http://192.168.178.46/images/2025/02/20/OIG1k77.png
@@ -1140,38 +920,6 @@ Content Type: image/png
 
 Uri: http://192.168.178.46/images/2025/02/20/OIG36_edited77.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\OIG36_edited77.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/20/OIG3_edited7.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\OIG3_edited7.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/20/OIG3_edited71.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\OIG3_edited71.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/20/OIG3_edited72.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\OIG3_edited72.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/20/OIG3_edited73.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\OIG3_edited73.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/20/OIG3_edited74.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\OIG3_edited74.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/20/OIG3_edited75.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\OIG3_edited75.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/20/OIG3_edited76.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\OIG3_edited76.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/02/20/OIG3_edited77.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\02\20\OIG3_edited77.png
 Content Type: image/png
 
 Uri: http://192.168.178.46/images/2025/02/20/OIG4-_1__edited-removebg-preview.png
@@ -1394,38 +1142,6 @@ Uri: http://192.168.178.46/images/2025/08/30/1a7chiaro4.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\08\30\1a7chiaro4.png
 Content Type: image/png
 
-Uri: http://192.168.178.46/images/2025/08/30/1w.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\08\30\1w.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/08/30/2w.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\08\30\2w.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/08/30/3w.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\08\30\3w.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/08/30/4w.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\08\30\4w.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/08/30/5w.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\08\30\5w.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/08/30/6w.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\08\30\6w.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/08/30/7w.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\08\30\7w.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2025/08/30/8w.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\08\30\8w.png
-Content Type: image/png
-
 Uri: http://192.168.178.46/images/2025/08/30/c2olo2.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2025\08\30\c2olo2.jpg
 Content Type: image/jpeg
@@ -1577,10 +1293,6 @@ Content Type: image/png
 Uri: http://192.168.178.46/images/2026/07/27/8q.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\07\27\8q.png
 Content Type: image/png
-
-Uri: http://192.168.178.46/images/2026/09/06/beneinst-anteprime-audio-header1.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\06\beneinst-anteprime-audio-header1.jpg
-Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/2026/09/06/beneinst-condividi-sed-etiam-header1.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\06\beneinst-condividi-sed-etiam-header1.jpg
@@ -1794,133 +1506,9 @@ Uri: http://192.168.178.46/images/Copertine/8w.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Copertine\8w.png
 Content Type: image/png
 
-Uri: http://192.168.178.46/images/Copertine/AudioCop/4.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Copertine\AudioCop\4.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/Copertine/AudioCop/9.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Copertine\AudioCop\9.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.178.46/images/favicon.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\favicon.png
 Content Type: image/png
-
-Uri: http://192.168.178.46/images/Files/AnteprimeAudio/11-1.mp3
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\AnteprimeAudio\11-1.mp3
-Content Type: audio/mpeg
-
-Uri: http://192.168.178.46/images/Files/AnteprimeAudio/12.AzionediRiciclo-2.mp3
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\AnteprimeAudio\12.AzionediRiciclo-2.mp3
-Content Type: audio/mpeg
-
-Uri: http://192.168.178.46/images/Files/AnteprimeAudio/1en-13.mp3
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\AnteprimeAudio\1en-13.mp3
-Content Type: audio/mpeg
-
-Uri: http://192.168.178.46/images/Files/AnteprimeAudio/1es-13.mp3
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\AnteprimeAudio\1es-13.mp3
-Content Type: audio/mpeg
-
-Uri: http://192.168.178.46/images/Files/AnteprimeAudio/1es-7.mp3
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\AnteprimeAudio\1es-7.mp3
-Content Type: audio/mpeg
-
-Uri: http://192.168.178.46/images/Files/AnteprimeAudio/2-6.mp3
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\AnteprimeAudio\2-6.mp3
-Content Type: audio/mpeg
-
-Uri: http://192.168.178.46/images/Files/AnteprimeAudio/2en-8.mp3
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\AnteprimeAudio\2en-8.mp3
-Content Type: audio/mpeg
-
-Uri: http://192.168.178.46/images/Files/AnteprimeAudio/2es-11.mp3
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\AnteprimeAudio\2es-11.mp3
-Content Type: audio/mpeg
-
-Uri: http://192.168.178.46/images/Files/AnteprimeAudio/2es-7.mp3
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\AnteprimeAudio\2es-7.mp3
-Content Type: audio/mpeg
-
-Uri: http://192.168.178.46/images/Files/AnteprimeAudio/3-3.mp3
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\AnteprimeAudio\3-3.mp3
-Content Type: audio/mpeg
-
-Uri: http://192.168.178.46/images/Files/AnteprimeAudio/4-9.mp3
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\AnteprimeAudio\4-9.mp3
-Content Type: audio/mpeg
-
-Uri: http://192.168.178.46/images/Files/AnteprimeAudio/4en-13.mp3
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\AnteprimeAudio\4en-13.mp3
-Content Type: audio/mpeg
-
-Uri: http://192.168.178.46/images/Files/AnteprimeAudio/4fr-15.mp3
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\AnteprimeAudio\4fr-15.mp3
-Content Type: audio/mpeg
-
-Uri: http://192.168.178.46/images/Files/AnteprimeAudio/4fr-5.mp3
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\AnteprimeAudio\4fr-5.mp3
-Content Type: audio/mpeg
-
-Uri: http://192.168.178.46/images/Files/AnteprimeAudio/5-1.mp3
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\AnteprimeAudio\5-1.mp3
-Content Type: audio/mpeg
-
-Uri: http://192.168.178.46/images/Files/AnteprimeAudio/5-7.mp3
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\AnteprimeAudio\5-7.mp3
-Content Type: audio/mpeg
-
-Uri: http://192.168.178.46/images/Files/AnteprimeAudio/6-6.mp3
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\AnteprimeAudio\6-6.mp3
-Content Type: audio/mpeg
-
-Uri: http://192.168.178.46/images/Files/AnteprimeAudio/7-12.mp3
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\AnteprimeAudio\7-12.mp3
-Content Type: audio/mpeg
-
-Uri: http://192.168.178.46/images/Files/AnteprimeAudio/7-2.mp3
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\AnteprimeAudio\7-2.mp3
-Content Type: audio/mpeg
-
-Uri: http://192.168.178.46/images/Files/AnteprimeAudio/7-4.mp3
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\AnteprimeAudio\7-4.mp3
-Content Type: audio/mpeg
-
-Uri: http://192.168.178.46/images/Files/AnteprimeAudio/8-1.mp3
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\AnteprimeAudio\8-1.mp3
-Content Type: audio/mpeg
-
-Uri: http://192.168.178.46/images/Files/AnteprimeAudio/8-5.mp3
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\AnteprimeAudio\8-5.mp3
-Content Type: audio/mpeg
-
-Uri: http://192.168.178.46/images/Files/AnteprimeAudio/An Ash Ceiling Diary - Remain unparalleled.mp3
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\AnteprimeAudio\An Ash Ceiling Diary - Remain unparalleled.mp3
-Content Type: audio/mpeg
-
-Uri: http://192.168.178.46/images/Files/AnteprimeAudio/Dillo tu te stesso Diario - Per ch sempre.mp3
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\AnteprimeAudio\Dillo tu te stesso Diario - Per ch sempre.mp3
-Content Type: audio/mpeg
-
-Uri: http://192.168.178.46/images/Files/AnteprimeAudio/Good and Evil Memories Diary - Show me that you love me.mp3
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\AnteprimeAudio\Good and Evil Memories Diary - Show me that you love me.mp3
-Content Type: audio/mpeg
-
-Uri: http://192.168.178.46/images/Files/AnteprimeAudio/Il bene e il male memorie Diario - Polvere di un mondo distrutto.mp3
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\AnteprimeAudio\Il bene e il male memorie Diario - Polvere di un mondo distrutto.mp3
-Content Type: audio/mpeg
-
-Uri: http://192.168.178.46/images/Files/AnteprimeAudio/Its Already Us In Ten Minutes Diary - Mercury you and I.mp3
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\AnteprimeAudio\Its Already Us In Ten Minutes Diary - Mercury you and I.mp3
-Content Type: audio/mpeg
-
-Uri: http://192.168.178.46/images/Files/AnteprimeAudio/Say It Yourself Diary - I would colour it for you.mp3
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\AnteprimeAudio\Say It Yourself Diary - I would colour it for you.mp3
-Content Type: audio/mpeg
-
-Uri: http://192.168.178.46/images/Files/AnteprimeAudio/xA0 noi tra dieci minuti Diario - Le tue camere oscure.mp3
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\AnteprimeAudio\xA0 noi tra dieci minuti Diario - Le tue camere oscure.mp3
-Content Type: audio/mpeg
 
 Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/Aristotele - Metafisica - standard.epub
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\Aristotele - Metafisica - standard.epub
@@ -2858,38 +2446,6 @@ Uri: http://192.168.178.46/images/th.jpeg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\th.jpeg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/in-english/dreams-time.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\in-english\dreams-time.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/in-english/jupiter-the-biggest-sun.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\in-english\jupiter-the-biggest-sun.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/in-english/pure-mystic.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\in-english\pure-mystic.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/in-english/real-justifications.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\in-english\real-justifications.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/in-english/the-hippocratic-war.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\in-english\the-hippocratic-war.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/in-english/the-importance-of-clay.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\in-english\the-importance-of-clay.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/in-english/the-world-people.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\in-english\the-world-people.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/in-english/what-changes.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\in-english\what-changes.html
-Content Type: text/html
-
 Uri: http://192.168.178.46/in-italiano/codici-enigmatici-equilibri-oscillanti.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\in-italiano\codici-enigmatici-equilibri-oscillanti.html
 Content Type: text/html
@@ -2958,120 +2514,12 @@ Uri: http://192.168.178.46/index.php
 File Name: C:\Downloaded Web Sites\192.168.178.46\index.php.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/index.php/di-anna-maria-tarantino
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php\di-anna-maria-tarantino.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/index.php/di-arturo-pistocchi
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php\di-arturo-pistocchi.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/index.php/di-begonia-curto
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php\di-begonia-curto.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/index.php/di-chiara-g-schiavini
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php\di-chiara-g-schiavini.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/index.php/di-felice-gualtieri
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php\di-felice-gualtieri.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/index.php/di-francesco-magli
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php\di-francesco-magli.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/index.php/di-franco-bazzarelli
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php\di-franco-bazzarelli.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/index.php/di-franco-farina
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php\di-franco-farina.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/index.php/di-giuseppe-ambrosecchia
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php\di-giuseppe-ambrosecchia.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/index.php/di-katia-ferri
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php\di-katia-ferri.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/index.php/di-luigi-cardarelli
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php\di-luigi-cardarelli.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/index.php/di-marco-piluso
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php\di-marco-piluso.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/index.php/di-maria-teresa-azzoni
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php\di-maria-teresa-azzoni.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/index.php/di-martino-ricupero
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php\di-martino-ricupero.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/index.php/di-massimo-vay
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php\di-massimo-vay.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/index.php/di-rita-matrella
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php\di-rita-matrella.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/index.php/di-rocco-veltri
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php\di-rocco-veltri.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/index.php/di-rosa-chiara-bentivenga
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php\di-rosa-chiara-bentivenga.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/index.php/di-rosario-furgiuele
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php\di-rosario-furgiuele.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/index.php/di-salvatore-esposito
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php\di-salvatore-esposito.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/index.php/di-salvatore-messina
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php\di-salvatore-messina.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/index.php/di-salvatore-tonnara
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php\di-salvatore-tonnara.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/index.php/di-valerio-pazzi
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php\di-valerio-pazzi.html
-Content Type: text/html
-
 Uri: http://192.168.178.46/index.php/diari-main
 File Name: C:\Downloaded Web Sites\192.168.178.46\index.php\diari-main.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/index.php/invia-a-sed-etiam
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php\invia-a-sed-etiam.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/index.php/lettera-alla-nipote
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php\lettera-alla-nipote.html
-Content Type: text/html
-
 Uri: http://192.168.178.46/index.php/lettere-main
 File Name: C:\Downloaded Web Sites\192.168.178.46\index.php\lettere-main.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/index.php/poesie-arturo-pistocchi
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php\poesie-arturo-pistocchi.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/index.php/poesie-di-rocco-veltri
-File Name: C:\Downloaded Web Sites\192.168.178.46\index.php\poesie-di-rocco-veltri.html
 Content Type: text/html
 
 Uri: http://192.168.178.46/index.php/sedetiam-main
@@ -3164,6 +2612,10 @@ Content Type: text/javascript
 
 Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?eb12a6
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_menu\js\menu.min.js
+Content Type: text/javascript
+
+Uri: http://192.168.178.46/media/plg_system_schedulerunner/js/run-schedule.min.js?229d3b
+File Name: C:\Downloaded Web Sites\192.168.178.46\media\plg_system_schedulerunner\js\run-schedule.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.178.46/media/system/js/core.min.js?a3d8f8
@@ -3372,10 +2824,6 @@ Content Type: text/html
 
 Uri: http://192.168.178.46/sed-etiam.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\sed-etiam.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/sedetiam-main
-File Name: C:\Downloaded Web Sites\192.168.178.46\sedetiam-main.html
 Content Type: text/html
 
 Uri: http://192.168.178.46/seneca-lucius-annaeus.html
