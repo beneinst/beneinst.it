@@ -1282,68 +1282,112 @@ Uri: http://192.168.178.46/images/2026/09/26/melville_ritratto 1.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\26\melville_ritratto 1.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2026/09/28/oig1 1.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig1 1.jpg
+Uri: http://192.168.178.46/images/2026/09/28/oig1 1vvv 2.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig1 1vvv 2.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2026/09/28/oig1 1vvv 1.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig1 1vvv 1.jpg
+Uri: http://192.168.178.46/images/2026/09/28/oig1 1vvv 2_thumbnail.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig1 1vvv 2_thumbnail.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2026/09/28/oig2 2 1.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig2 2 1.jpg
+Uri: http://192.168.178.46/images/2026/09/28/oig1 2.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig1 2.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2026/09/28/oig2 3 1.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig2 3 1.jpg
+Uri: http://192.168.178.46/images/2026/09/28/oig1 2_thumbnail.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig1 2_thumbnail.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2026/09/28/oig2 5 1.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig2 5 1.jpg
+Uri: http://192.168.178.46/images/2026/09/28/oig2 2 3.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig2 2 3.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2026/09/28/oig2 6 1.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig2 6 1.jpg
+Uri: http://192.168.178.46/images/2026/09/28/oig2 2 3_thumbnail.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig2 2 3_thumbnail.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2026/09/28/oig3 4 11.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig3 4 11.jpg
+Uri: http://192.168.178.46/images/2026/09/28/oig2 3 2.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig2 3 2.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2026/09/28/oig3 5 1.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig3 5 1.jpg
+Uri: http://192.168.178.46/images/2026/09/28/oig2 3 2_thumbnail.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig2 3 2_thumbnail.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2026/09/28/oig3.0dglacnxi2 1.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig3.0dglacnxi2 1.jpg
+Uri: http://192.168.178.46/images/2026/09/28/oig2 5 2.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig2 5 2.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2026/09/28/oig3.ftfujllagme89bkci 1.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig3.ftfujllagme89bkci 1.jpg
+Uri: http://192.168.178.46/images/2026/09/28/oig2 5 2_thumbnail.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig2 5 2_thumbnail.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2026/09/28/oig3.rgjibhl 1.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig3.rgjibhl 1.jpg
+Uri: http://192.168.178.46/images/2026/09/28/oig2 6 2.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig2 6 2.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2026/09/28/oig4 2 1.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig4 2 1.jpg
+Uri: http://192.168.178.46/images/2026/09/28/oig3 4 1 1.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig3 4 1 1.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2026/09/28/oig4 3 1.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig4 3 1.jpg
+Uri: http://192.168.178.46/images/2026/09/28/oig3 4 3.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig3 4 3.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2026/09/28/oig4 4 1.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig4 4 1.jpg
+Uri: http://192.168.178.46/images/2026/09/28/oig3 5 2.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig3 5 2.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.178.46/images/2026/09/28/oig3 5 2_thumbnail.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig3 5 2_thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.178.46/images/2026/09/28/oig3.0dglacnxi2 2.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig3.0dglacnxi2 2.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.178.46/images/2026/09/28/oig3.ftfujllagme89bkci 2.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig3.ftfujllagme89bkci 2.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.178.46/images/2026/09/28/oig3.rgjibhl 2.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig3.rgjibhl 2.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.178.46/images/2026/09/28/oig3.rgjibhl 2_thumbnail.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig3.rgjibhl 2_thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.178.46/images/2026/09/28/oig4 2 2.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig4 2 2.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.178.46/images/2026/09/28/oig4 2 2_thumbnail.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig4 2 2_thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.178.46/images/2026/09/28/oig4 3 2.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig4 3 2.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.178.46/images/2026/09/28/oig4 3 2_thumbnail.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig4 3 2_thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.178.46/images/2026/09/28/oig4 4 2.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig4 4 2.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.178.46/images/2026/09/28/oig4.zaebgzyjqg.mturye 2.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig4.zaebgzyjqg.mturye 2.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.178.46/images/2026/09/28/oig4.zaebgzyjqg.mturye 2_thumbnail.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig4.zaebgzyjqg.mturye 2_thumbnail.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/7ok_edited_edited-gd2.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\7ok_edited_edited-gd2.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/Componenti/1ff.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\1ff.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/Componenti/consigliati/2q3a.jpg
@@ -1414,36 +1458,40 @@ Uri: http://192.168.178.46/images/Componenti/pdfeN.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\pdfeN.png
 Content Type: image/png
 
-Uri: http://192.168.178.46/images/Componenti/QR-CodeDiari/7. qr-code.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\QR-CodeDiari\7. qr-code.png
+Uri: http://192.168.178.46/images/Componenti/QR-CodeDiari/bilanciando-essenza-amazon.png
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\QR-CodeDiari\bilanciando-essenza-amazon.png
 Content Type: image/png
 
-Uri: http://192.168.178.46/images/Componenti/QR-CodeDiari/7qr-code.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\QR-CodeDiari\7qr-code.png
+Uri: http://192.168.178.46/images/Componenti/QR-CodeDiari/coscienza-autentica-amazon.png
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\QR-CodeDiari\coscienza-autentica-amazon.png
 Content Type: image/png
 
-Uri: http://192.168.178.46/images/Componenti/QR-CodeDiari/8. qr-code.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\QR-CodeDiari\8. qr-code.png
+Uri: http://192.168.178.46/images/Componenti/QR-CodeDiari/dillo-tu-te-stesso-amazon.png
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\QR-CodeDiari\dillo-tu-te-stesso-amazon.png
 Content Type: image/png
 
-Uri: http://192.168.178.46/images/Componenti/QR-CodeDiari/q5r-code.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\QR-CodeDiari\q5r-code.png
+Uri: http://192.168.178.46/images/Componenti/QR-CodeDiari/il-bene-e-il-male-memorie-amazon.png
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\QR-CodeDiari\il-bene-e-il-male-memorie-amazon.png
 Content Type: image/png
 
-Uri: http://192.168.178.46/images/Componenti/QR-CodeDiari/qr-c2ode.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\QR-CodeDiari\qr-c2ode.png
+Uri: http://192.168.178.46/images/Componenti/QR-CodeDiari/pensieri-contaminati-amazon.png
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\QR-CodeDiari\pensieri-contaminati-amazon.png
 Content Type: image/png
 
-Uri: http://192.168.178.46/images/Componenti/QR-CodeDiari/qr-co3de.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\QR-CodeDiari\qr-co3de.png
+Uri: http://192.168.178.46/images/Componenti/QR-CodeDiari/risonanze-anima-amazon.png
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\QR-CodeDiari\risonanze-anima-amazon.png
 Content Type: image/png
 
-Uri: http://192.168.178.46/images/Componenti/QR-CodeDiari/qr-code.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\QR-CodeDiari\qr-code.png
+Uri: http://192.168.178.46/images/Componenti/QR-CodeDiari/tra-dieci-minuti-amazon.png
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\QR-CodeDiari\tra-dieci-minuti-amazon.png
 Content Type: image/png
 
-Uri: http://192.168.178.46/images/Componenti/QR-CodeDiari/qr4-code.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\QR-CodeDiari\qr4-code.png
+Uri: http://192.168.178.46/images/Componenti/QR-CodeDiari/un-soffitto-di-cenere-amazon.png
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\QR-CodeDiari\un-soffitto-di-cenere-amazon.png
+Content Type: image/png
+
+Uri: http://192.168.178.46/images/Componenti/reply-all1.png
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Componenti\reply-all1.png
 Content Type: image/png
 
 Uri: http://192.168.178.46/images/Copertine/1w.jpg
@@ -2466,6 +2514,10 @@ Uri: http://192.168.178.46/in-italiano/riflessioni-iniziali.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\in-italiano\riflessioni-iniziali.html
 Content Type: text/html
 
+Uri: http://192.168.178.46/in-italiano/riflessioni-temporali.html
+File Name: C:\Downloaded Web Sites\192.168.178.46\in-italiano\riflessioni-temporali.html
+Content Type: text/html
+
 Uri: http://192.168.178.46/in-italiano/sino-polis.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\in-italiano\sino-polis.html
 Content Type: text/html
@@ -2518,6 +2570,26 @@ Uri: http://192.168.178.46/joseph-conrad.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\joseph-conrad.html
 Content Type: text/html
 
+Uri: http://192.168.178.46/la-burocrazia-del-linguaggio.feed?view=category&id=12&type=atom
+File Name: C:\Downloaded Web Sites\192.168.178.46\la-burocrazia-del-linguaggio-1.feed
+Content Type: application/atom+xml
+
+Uri: http://192.168.178.46/la-burocrazia-del-linguaggio.feed?view=category&id=12&type=rss
+File Name: C:\Downloaded Web Sites\192.168.178.46\la-burocrazia-del-linguaggio.feed
+Content Type: application/rss+xml
+
+Uri: http://192.168.178.46/la-burocrazia-del-linguaggio.html
+File Name: C:\Downloaded Web Sites\192.168.178.46\la-burocrazia-del-linguaggio.html
+Content Type: text/html
+
+Uri: http://192.168.178.46/la-burocrazia-del-linguaggio.html?view=category&id=12
+File Name: C:\Downloaded Web Sites\192.168.178.46\la-burocrazia-del-linguaggio-1.html
+Content Type: text/html
+
+Uri: http://192.168.178.46/la-burocrazia-del-linguaggio.html?view=category&id=12&start=10
+File Name: C:\Downloaded Web Sites\192.168.178.46\la-burocrazia-del-linguaggio-2.html
+Content Type: text/html
+
 Uri: http://192.168.178.46/leonardo-da-vinci.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\leonardo-da-vinci.html
 Content Type: text/html
@@ -2558,7 +2630,7 @@ Uri: http://192.168.178.46/maksim-gor-kij.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\maksim-gor-kij.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?76c18d
+Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?f254c8
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -2574,7 +2646,7 @@ Uri: http://192.168.178.46/media/mod_beneinst_darkmode/js/darkmode.js?v=1.2.0
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_beneinst_darkmode\js\darkmode.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?76c18d
+Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?f254c8
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_menu\js\menu.min.js
 Content Type: text/javascript
 
@@ -2798,7 +2870,7 @@ Uri: http://192.168.178.46/silvia-masaracchio.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\silvia-masaracchio.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/templates/shaper_helixultimate/css/custom.css?v=1790618315
+Uri: http://192.168.178.46/templates/shaper_helixultimate/css/custom.css?v=1790631172
 File Name: C:\Downloaded Web Sites\192.168.178.46\templates\shaper_helixultimate\css\custom.css
 Content Type: text/css
 
@@ -2812,6 +2884,26 @@ Content Type: image/jpeg
 
 Uri: http://192.168.178.46/tommaso-campanella.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\tommaso-campanella.html
+Content Type: text/html
+
+Uri: http://192.168.178.46/un-alloggio-per-l’anima.feed?view=category&id=12&type=atom
+File Name: C:\Downloaded Web Sites\192.168.178.46\un-alloggio-per-l’anima-1.feed
+Content Type: application/atom+xml
+
+Uri: http://192.168.178.46/un-alloggio-per-l’anima.feed?view=category&id=12&type=rss
+File Name: C:\Downloaded Web Sites\192.168.178.46\un-alloggio-per-l’anima.feed
+Content Type: application/rss+xml
+
+Uri: http://192.168.178.46/un-alloggio-per-l’anima.html
+File Name: C:\Downloaded Web Sites\192.168.178.46\un-alloggio-per-l’anima.html
+Content Type: text/html
+
+Uri: http://192.168.178.46/un-alloggio-per-l’anima.html?view=category&id=12
+File Name: C:\Downloaded Web Sites\192.168.178.46\un-alloggio-per-l’anima-1.html
+Content Type: text/html
+
+Uri: http://192.168.178.46/un-alloggio-per-l’anima.html?view=category&id=12&start=10
+File Name: C:\Downloaded Web Sites\192.168.178.46\un-alloggio-per-l’anima-2.html
 Content Type: text/html
 
 Uri: http://192.168.178.46/un-soffitto-di-cenere.html

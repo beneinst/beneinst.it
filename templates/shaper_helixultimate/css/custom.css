@@ -1413,50 +1413,175 @@ html.bdm-dark .beneinst-letter-download:hover::before,
 html.bdm-dark .beneinst-letter-download:focus-visible::before {
   color: #10211f;
 }
-/* =========================================================
-   MENU BENEINST — DESKTOP E OFF-CANVAS
-   ========================================================= */
 
-/* Menu principale desktop */
-#sp-header .sp-megamenu-parent > li > a,
-#sp-header .sp-megamenu-parent > li > span,
-#sp-header .sp-megamenu-parent .sp-dropdown li > a,
-#sp-header .sp-megamenu-parent .sp-dropdown li > span {
-  font-family: 'Arbutus Slab', Georgia, serif !important;
-  font-size: 15px !important;
-  font-weight: 400 !important;
-  font-style: normal !important;
-  letter-spacing: 0.005em;
+/* Nasconde data e separatore, conserva l'autore */
+.article-details .article-info > span.published {
+  display: none !important;
+}
+/* Nasconde integralmente la data degli articoli */
+.article-info > span.published,
+.article-information > span.published {
+  display: none !important;
+}
+.offcanvas-menu span.fa-pinterest,
+.offcanvas-menu span.fa-youtube,
+.offcanvas-menu span.fab.fa-pinterest,
+.offcanvas-menu span.fab.fa-youtube {
+  display: inline-block !important;
+  width: auto !important;
+  height: auto !important;
+  font-size: 30px !important;
+  line-height: 1 !important;
   -webkit-text-fill-color: currentColor;
 }
-
-/* Menu off-canvas */
-.offcanvas-menu .offcanvas-inner ul.menu > li > a,
-.offcanvas-menu .offcanvas-inner ul.menu > li > span,
-.offcanvas-menu .offcanvas-inner ul.menu-child > li > a,
-.offcanvas-menu .offcanvas-inner ul.menu-child > li > span {
-  font-family: 'Arbutus Slab', Georgia, serif !important;
-  font-size: 17px !important;
-  font-weight: 400 !important;
-  font-style: normal !important;
-  line-height: 1.45 !important;
-  letter-spacing: 0.005em;
-  -webkit-text-fill-color: currentColor;
+/* Off-canvas uguale alla barra notifiche */
+.offcanvas-menu {
+  background-color: #ADCAB8 !important;
 }
+/* Testo giustificato anche su smartphone */
+@media (max-width: 479px) {
+  .beneinst-letter-content p {
+    text-align: justify !important;
+    text-justify: inter-word;
+    overflow-wrap: break-word;
+    word-break: normal;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+  }
 
-/* Sottomenu off-canvas leggermente più piccolo */
-.offcanvas-menu .offcanvas-inner ul.menu-child > li > a,
-.offcanvas-menu .offcanvas-inner ul.menu-child > li > span {
-  font-size: 15.5px !important;
+  .beneinst-letter-download {
+    width: 100%;
+  }
 }
+/* Correzione globale delle lettere Beneinst su mobile */
+@media (max-width: 479px) {
+  article.beneinst-letter-content > p:not(.beneinst-letter-date):not(.beneinst-letter-author) {
+    text-align: justify !important;
+    text-justify: inter-word;
+    overflow-wrap: break-word;
+    word-break: normal;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+  }
+}
+  /* =========================================================
+     1. PULSANTE TORNA INDIETRO
+     Il PNG viene utilizzato come maschera e assume il verde esatto.
+     ========================================================= */
+  a.back-to-index {
+    display: inline-block !important;
+    width: 55px;
+    height: 30px;
+    background-color: #245b45;
+    -webkit-mask-image: url('../../../images/Componenti/reply-all1.png');
+    mask-image: url('../../../images/Componenti/reply-all1.png');
+    -webkit-mask-position: center;
+    mask-position: center;
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    -webkit-mask-size: 35px 30px;
+    mask-size: 35px 30px;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+  }
 
-/* Mantiene le icone nel loro carattere originale */
-#sp-header .sp-megamenu-parent .fas,
-#sp-header .sp-megamenu-parent .fab,
-#sp-header .sp-megamenu-parent .far,
-.offcanvas-menu .fas,
-.offcanvas-menu .fab,
-.offcanvas-menu .far {
-  font-family: 'Font Awesome 5 Free', 'Font Awesome 5 Brands',
-    'FontAwesome' !important;
-}
+  a.back-to-index img {
+    display: block;
+    width: 55px !important;
+    height: 30px !important;
+    margin: 0 !important;
+    opacity: 0;
+  }
+
+  a.back-to-index:hover,
+  a.back-to-index:focus-visible {
+    background-color: #356f56;
+    outline: 3px solid rgba(36, 91, 69, 0.2);
+    outline-offset: 3px;
+    transform: scale(1.08);
+  }
+
+  /* Annulla il vecchio ingrandimento applicato al PNG invisibile. */
+  a.back-to-index:hover img {
+    transform: none !important;
+  }
+
+  /* =========================================================
+     2. ICONE SOCIAL: FACEBOOK, LINKEDIN E X
+     ========================================================= */
+  html:not(.bdm-dark) .article-social-share .social-share-icon a {
+    border-color: rgba(36, 91, 69, 0.22) !important;
+    color: #245b45 !important;
+    -webkit-text-fill-color: #245b45 !important;
+  }
+
+  html:not(.bdm-dark) .article-social-share .social-share-icon a span,
+  html:not(.bdm-dark) .article-social-share .social-share-icon a svg {
+    color: inherit !important;
+    fill: currentColor !important;
+    -webkit-text-fill-color: currentColor !important;
+  }
+
+  html:not(.bdm-dark) .article-social-share .social-share-icon a:hover,
+  html:not(.bdm-dark) .article-social-share .social-share-icon a:focus-visible {
+    border-color: #356f56 !important;
+    color: #356f56 !important;
+    -webkit-text-fill-color: #356f56 !important;
+  }
+
+  /* =========================================================
+     3. TITOLO DELLA SEZIONE E TITOLI NEI BOX CORRELATI
+     ========================================================= */
+  html:not(.bdm-dark)
+    .related-article-list-container > h3.related-article-title,
+  html:not(.bdm-dark)
+    .related-article-list .article-header h4,
+  html:not(.bdm-dark)
+    .related-article-list .article-header h4 a {
+    color: #17382c !important;
+    -webkit-text-fill-color: #17382c !important;
+  }
+
+  html:not(.bdm-dark)
+    .related-article-list .article-header h4 a:hover,
+  html:not(.bdm-dark)
+    .related-article-list .article-header h4 a:focus-visible {
+    color: #356f56 !important;
+    -webkit-text-fill-color: #356f56 !important;
+    text-decoration: underline !important;
+    text-underline-offset: 4px;
+  }
+
+  /* =========================================================
+     4. MODALITÀ SCURA
+     ========================================================= */
+  html.bdm-dark a.back-to-index {
+    background-color: var(--bdm-link, #79dfd1);
+  }
+
+  html.bdm-dark a.back-to-index:hover,
+  html.bdm-dark a.back-to-index:focus-visible {
+    background-color: #a4eadf;
+    outline-color: rgba(121, 223, 209, 0.28);
+  }
+
+  html.bdm-dark .article-social-share .social-share-icon a,
+  html.bdm-dark .article-social-share .social-share-icon a span,
+  html.bdm-dark .article-social-share .social-share-icon a svg {
+    border-color: rgba(121, 223, 209, 0.3) !important;
+    color: var(--bdm-link, #79dfd1) !important;
+    fill: currentColor !important;
+    -webkit-text-fill-color: var(--bdm-link, #79dfd1) !important;
+  }
+
+  html.bdm-dark .related-article-list-container > h3.related-article-title,
+  html.bdm-dark .related-article-list .article-header h4,
+  html.bdm-dark .related-article-list .article-header h4 a {
+    color: var(--bdm-foreground, #edf2f2) !important;
+    -webkit-text-fill-color: var(--bdm-foreground, #edf2f2) !important;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    a.back-to-index {
+      transition: none;
+    }
+  }
