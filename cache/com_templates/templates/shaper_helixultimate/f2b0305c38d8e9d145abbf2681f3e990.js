@@ -35,5 +35,7 @@ function bindKeyboardNavigation($dropdown){const $items=$dropdown.find('a, butto
 const $currentDropdown=$(this).closest('.sp-dropdown');const $parentItem=$currentDropdown.parent(' .sp-has-child, .sp-megamenu-parent > li');const isRoot=$parentItem.parent().is('.sp-megamenu-parent, .sp-megamenu-parent > ul, nav');if(isRoot){$(menuSelectors).each(function(){const $item=$(this);closeMenu($item,$item.children('.sp-dropdown'));});}else{const $trigger=$parentItem.children('a, button');closeMenu($parentItem,$currentDropdown);if($trigger.length){$trigger.focus();}}
 return;}
 if(newIndex>-1){$items.eq(newIndex).focus();}});}
-$(document).on('click',function(event){if(!$(event.target).closest(menuSelectors).length){$(menuSelectors).each(function(){const $item=$(this);closeMenu($item,$item.children('.sp-dropdown'));});}});});
+$(document).on('click',function(event){if(!$(event.target).closest(menuSelectors).length){$(menuSelectors).each(function(){const $item=$(this);closeMenu($item,$item.children('.sp-dropdown'));});}});});document.addEventListener('DOMContentLoaded',function(){const content=document.querySelector('#sp-main-body');if(!content){return;}
+const walker=document.createTreeWalker(content,NodeFilter.SHOW_TEXT);const nodes=[];while(walker.nextNode()){const node=walker.currentNode;const parent=node.parentElement;if(parent&&!parent.closest('script, style, noscript, textarea')&&node.nodeValue.includes('📕 E-Book')){nodes.push(node);}}
+nodes.forEach(function(node){node.nodeValue=node.nodeValue.replaceAll('📕 E-Book','📗 E-Book');});});
 

@@ -1292,3 +1292,171 @@ body.itemid-159 .sppb-nav-tabs > li.active > a:focus {
   -webkit-text-fill-color: #112a21 !important;
   transform: translateY(-1px);
 }
+/* =========================================================
+   NUOVA TONALITÀ DELLA BARRA MENU
+   #adcab8 con opacità 65%
+   ========================================================= */
+
+#sp-header,
+#sp-header:not(.header-sticky),
+#sp-header.header-sticky {
+  background: rgba(173, 202, 184, 0.70) !important;
+  background-color: rgba(173, 202, 184, 0.70) !important;
+}
+/* =========================================================
+   COLORI TESTUALI PRINCIPALI
+   Solo contenuto centrale e modalità chiara
+   ========================================================= */
+
+/* Testo normale */
+html:not(.bdm-dark) #sp-main-body,
+html:not(.bdm-dark) #sp-main-body p,
+html:not(.bdm-dark) #sp-main-body li,
+html:not(.bdm-dark) #sp-main-body dt,
+html:not(.bdm-dark) #sp-main-body dd,
+html:not(.bdm-dark) #sp-main-body blockquote,
+html:not(.bdm-dark) #sp-main-body figcaption {
+  color: #17382c;
+}
+
+/* Tutti gli H1 con lo stesso colore del grassetto */
+html:not(.bdm-dark) #sp-main-body h1 {
+  color: #081410 !important;
+}
+
+/* Testo in grassetto */
+html:not(.bdm-dark) #sp-main-body strong,
+html:not(.bdm-dark) #sp-main-body b {
+  color: #356f56;
+}
+
+/* Testo in corsivo */
+html:not(.bdm-dark) #sp-main-body em {
+  color: #245b45;
+}
+html:not(.bdm-dark) #sp-main-body .article-header h1,
+html:not(.bdm-dark) #sp-main-body .article-header h1[itemprop='headline'] {
+  color: #081410 !important;
+  font-weight: 600 !important;
+}
+/* =========================================================
+   DOWNLOAD PDF NELLE PAGINE DELLE LETTERE
+   ========================================================= */
+
+.beneinst-letter-download {
+  display: inline-flex;
+  min-height: 42px;
+  align-items: center;
+  justify-content: center;
+  gap: 9px;
+  padding: 9px 16px;
+
+  border: 1px solid #356f56;
+  border-radius: 7px;
+  background: #e7efe5;
+  color: #17382c !important;
+
+  font-family: 'Titillium Web', Arial, sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.3;
+  text-decoration: none !important;
+
+  transition:
+    background-color 0.2s ease,
+    color 0.2s ease,
+    transform 0.2s ease;
+}
+
+/* Icona download: non occorre inserire emoji nel codice HTML */
+.beneinst-letter-download::before {
+  content: '\f019';
+  color: #245b45;
+  font-family: 'FontAwesome';
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-text-fill-color: currentColor;
+}
+
+.beneinst-letter-download:hover,
+.beneinst-letter-download:focus-visible {
+  border-color: #17382c;
+  background: #356f56;
+  color: #ffffff !important;
+  transform: translateY(-1px);
+}
+
+.beneinst-letter-download:hover::before,
+.beneinst-letter-download:focus-visible::before {
+  color: #ffffff;
+}
+
+/* Modalità scura */
+html.bdm-dark .beneinst-letter-download {
+  border-color: var(--bdm-link, #79dfd1);
+  background: var(--bdm-surface, #202a2f);
+  color: var(--bdm-foreground, #edf2f2) !important;
+}
+
+html.bdm-dark .beneinst-letter-download::before {
+  color: var(--bdm-link, #79dfd1);
+}
+
+html.bdm-dark .beneinst-letter-download:hover,
+html.bdm-dark .beneinst-letter-download:focus-visible {
+  background: var(--bdm-link, #79dfd1);
+  color: #10211f !important;
+}
+
+html.bdm-dark .beneinst-letter-download:hover::before,
+html.bdm-dark .beneinst-letter-download:focus-visible::before {
+  color: #10211f;
+}
+/* =========================================================
+   MENU BENEINST — DESKTOP E OFF-CANVAS
+   ========================================================= */
+
+/* Menu principale desktop */
+#sp-header .sp-megamenu-parent > li > a,
+#sp-header .sp-megamenu-parent > li > span,
+#sp-header .sp-megamenu-parent .sp-dropdown li > a,
+#sp-header .sp-megamenu-parent .sp-dropdown li > span {
+  font-family: 'Arbutus Slab', Georgia, serif !important;
+  font-size: 15px !important;
+  font-weight: 400 !important;
+  font-style: normal !important;
+  letter-spacing: 0.005em;
+  -webkit-text-fill-color: currentColor;
+}
+
+/* Menu off-canvas */
+.offcanvas-menu .offcanvas-inner ul.menu > li > a,
+.offcanvas-menu .offcanvas-inner ul.menu > li > span,
+.offcanvas-menu .offcanvas-inner ul.menu-child > li > a,
+.offcanvas-menu .offcanvas-inner ul.menu-child > li > span {
+  font-family: 'Arbutus Slab', Georgia, serif !important;
+  font-size: 17px !important;
+  font-weight: 400 !important;
+  font-style: normal !important;
+  line-height: 1.45 !important;
+  letter-spacing: 0.005em;
+  -webkit-text-fill-color: currentColor;
+}
+
+/* Sottomenu off-canvas leggermente più piccolo */
+.offcanvas-menu .offcanvas-inner ul.menu-child > li > a,
+.offcanvas-menu .offcanvas-inner ul.menu-child > li > span {
+  font-size: 15.5px !important;
+}
+
+/* Mantiene le icone nel loro carattere originale */
+#sp-header .sp-megamenu-parent .fas,
+#sp-header .sp-megamenu-parent .fab,
+#sp-header .sp-megamenu-parent .far,
+.offcanvas-menu .fas,
+.offcanvas-menu .fab,
+.offcanvas-menu .far {
+  font-family: 'Font Awesome 5 Free', 'Font Awesome 5 Brands',
+    'FontAwesome' !important;
+}
