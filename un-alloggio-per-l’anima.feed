@@ -5,7 +5,7 @@
 		<title>Un alloggio per l’Anima</title>
 		<description><![CDATA[Esplora diari, memorie e storie umane su un sito pubblico. Condividi le tue pagine di diari e connettiti con altri.]]></description>
 		<link>http://192.168.178.46/un-alloggio-per-l%E2%80%99anima.html%3Fview%3Dcategory%26amp%3Bid%3D12</link>
-		<lastBuildDate>Tue, 29 Sep 2026 14:38:21 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 29 Sep 2026 22:29:18 +0000</lastBuildDate>
 		<generator>Joomla! - Open Source Content Management</generator>
 		<atom:link rel="self" type="application/rss+xml" href="http://192.168.178.46/un-alloggio-per-l’anima.feed?view=category&amp;id=12&amp;type=rss"/>
 		<language>it-it</language>
@@ -213,7 +213,7 @@
 </article>
 
 
-<hr class="ab-hr">]]></description>
+{loadmoduleid 477}]]></description>
 			<category>lettere-ita</category>
 			<pubDate>Mon, 02 Oct 2023 19:32:25 +0000</pubDate>
 		</item>
@@ -418,7 +418,7 @@
 </article>
 
 
-<hr class="ab-hr">]]></description>
+{loadmoduleid 477}]]></description>
 			<category>lettere-ita</category>
 			<pubDate>Mon, 02 Oct 2023 19:32:25 +0000</pubDate>
 		</item>
@@ -644,7 +644,7 @@
 </article>
 
 
-<hr class="ab-hr">]]></description>
+{loadmoduleid 477}]]></description>
 			<category>lettere-ita</category>
 			<pubDate>Mon, 02 Oct 2023 19:31:46 +0000</pubDate>
 		</item>
@@ -849,7 +849,7 @@
 </article>
 
 
-<hr class="ab-hr">]]></description>
+{loadmoduleid 477}]]></description>
 			<category>lettere-ita</category>
 			<pubDate>Mon, 02 Oct 2023 19:31:46 +0000</pubDate>
 		</item>
@@ -1074,7 +1074,7 @@
 </article>
 
 
-<hr class="ab-hr">]]></description>
+{loadmoduleid 477}]]></description>
 			<category>lettere-ita</category>
 			<pubDate>Mon, 02 Oct 2023 19:30:55 +0000</pubDate>
 		</item>
@@ -1283,7 +1283,7 @@
 </article>
 
 
-<hr class="ab-hr">]]></description>
+{loadmoduleid 477}]]></description>
 			<category>lettere-ita</category>
 			<pubDate>Mon, 02 Oct 2023 19:30:55 +0000</pubDate>
 		</item>
@@ -1502,7 +1502,7 @@
 </article>
 
 
-<hr class="ab-hr">]]></description>
+{loadmoduleid 477}]]></description>
 			<category>lettere-ita</category>
 			<pubDate>Mon, 02 Oct 2023 19:30:10 +0000</pubDate>
 		</item>
@@ -1701,7 +1701,7 @@
 </article>
 
 
-<hr class="ab-hr">]]></description>
+{loadmoduleid 477}]]></description>
 			<category>lettere-ita</category>
 			<pubDate>Mon, 02 Oct 2023 19:30:10 +0000</pubDate>
 		</item>
@@ -1901,7 +1901,7 @@
   </div>
 </article>
 
-<hr class="ab-hr">]]></description>
+{loadmoduleid 477}]]></description>
 			<category>lettere-ita</category>
 			<pubDate>Mon, 02 Oct 2023 19:29:03 +0000</pubDate>
 		</item>
@@ -2104,7 +2104,7 @@
 </article>
 
 
-<hr class="ab-hr">]]></description>
+{loadmoduleid 477}]]></description>
 			<category>lettere-ita</category>
 			<pubDate>Mon, 02 Oct 2023 19:29:03 +0000</pubDate>
 		</item>

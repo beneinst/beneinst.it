@@ -1545,7 +1545,7 @@ html.bdm-dark .beneinst-letter-download:focus-visible::before {
     .related-article-list .article-header h4 a:hover,
   html:not(.bdm-dark)
     .related-article-list .article-header h4 a:focus-visible {
-    color: #356f56 !important;
+    color: #17382c !important;
     -webkit-text-fill-color: #356f56 !important;
     text-decoration: underline !important;
     text-underline-offset: 4px;
@@ -1585,3 +1585,97 @@ html.bdm-dark .beneinst-letter-download:focus-visible::before {
       transition: none;
     }
   }
+  /* Testo degli articoli giustificato su smartphone */
+@media (max-width: 767px) {
+  body.view-article .article-details .article-fulltext p,
+  body.view-article .article-details .com-content-article__body p,
+  body.view-article .article-details [itemprop="articleBody"] p,
+  body.view-article .article-details .sppb-addon-content p {
+    text-align: justify !important;
+    text-justify: inter-word;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+    overflow-wrap: break-word;
+  }
+}
+
+/* =========================================================
+   ICONE SOCIAL HEADER — MODALITÀ SCURA
+   ========================================================= */
+
+html.bdm-dark #sp-header .social-icons a,
+html.bdm-dark #sp-header .social-icons a .fab,
+html.bdm-dark #sp-header .social-icons .fa-pinterest,
+html.bdm-dark #sp-header .social-icons .fa-youtube,
+body.bdm-dark #sp-header .social-icons a,
+body.bdm-dark #sp-header .social-icons a .fab {
+  color: #a8ded3 !important;
+  -webkit-text-fill-color: #a8ded3 !important;
+  opacity: 1 !important;
+}
+
+/* Hover e tastiera */
+html.bdm-dark #sp-header .social-icons a:hover,
+html.bdm-dark #sp-header .social-icons a:hover .fab,
+html.bdm-dark #sp-header .social-icons a:focus-visible,
+html.bdm-dark #sp-header .social-icons a:focus-visible .fab,
+body.bdm-dark #sp-header .social-icons a:hover,
+body.bdm-dark #sp-header .social-icons a:hover .fab {
+  color: #ffffff !important;
+  -webkit-text-fill-color: #ffffff !important;
+}
+
+/* Caroselli Beneinst: modalità scura */
+html.bdm-dark body .bi-opere {
+  color: var(--bdm-foreground, #edf2f2) !important;
+}
+
+html.bdm-dark body .bi-opere .bi-opere__eyebrow,
+html.bdm-dark body .bi-opere .bi-opere__status {
+  color: var(--bdm-link, #79dfd1) !important;
+}
+
+html.bdm-dark body .bi-opere .bi-opere__head p {
+  color: #c4d2d0 !important;
+}
+
+html.bdm-dark body .bi-opere .bi-opere__link,
+html.bdm-dark body .bi-opere .bi-opere__body {
+  background: var(--bdm-surface, #202a2f) !important;
+  border-color: #526c71 !important;
+  color: var(--bdm-foreground, #edf2f2) !important;
+}
+
+html.bdm-dark body .bi-opere .bi-opere__title {
+  color: var(--bdm-foreground, #edf2f2) !important;
+}
+
+html.bdm-dark body .bi-opere .bi-opere__author {
+  color: #c4d2d0 !important;
+}
+
+html.bdm-dark body .bi-opere .bi-opere__nav button {
+  background: var(--bdm-surface, #202a2f) !important;
+  border-color: #526c71 !important;
+  color: var(--bdm-link, #79dfd1) !important;
+}
+
+html.bdm-dark body .bi-opere .bi-opere__nav button:hover,
+html.bdm-dark body .bi-opere .bi-opere__nav button:focus-visible {
+  background: #31554f !important;
+  color: #fff !important;
+}
+
+html.bdm-dark body .bi-opere .bi-opere__nav button:disabled {
+  opacity: .45;
+}
+
+html.bdm-dark body .bi-opere .bi-opere__visual {
+  background: linear-gradient(125deg, #263b38, #202a2f) !important;
+}
+html:not(.bdm-dark) .article-details .article-header,
+html:not(.bdm-dark) .article-details .article-header h1,
+html:not(.bdm-dark) .article-details .article-info,
+html:not(.bdm-dark) .article-details .article-info span {
+  color: #17382c !important;
+}

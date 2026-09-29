@@ -286,10 +286,6 @@ Uri: http://192.168.178.46/euripide.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\euripide.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/fedor-dostoevskij.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\fedor-dostoevskij.html
-Content Type: text/html
-
 Uri: http://192.168.178.46/ferdinando-paolieri.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\ferdinando-paolieri.html
 Content Type: text/html
@@ -298,16 +294,8 @@ Uri: http://192.168.178.46/francesco-grasso.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\francesco-grasso.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/francesco-guicciardini.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\francesco-guicciardini.html
-Content Type: text/html
-
 Uri: http://192.168.178.46/francesco-petrarca.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\francesco-petrarca.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/francois-villon.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\francois-villon.html
 Content Type: text/html
 
 Uri: http://192.168.178.46/friedrich-nietzsche.html
@@ -424,10 +412,6 @@ Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/2023/10/03/Giordano-Bruno.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2023\10\03\Giordano-Bruno.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2023/10/03/guicciardini_ritratto.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2023\10\03\guicciardini_ritratto.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/2023/10/03/Iliade_(Monti)_-_Omero.jpg
@@ -558,10 +542,6 @@ Uri: http://192.168.178.46/images/2023/10/03/silvia.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2023\10\03\silvia.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2023/10/03/Villon_Francois_2.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2023\10\03\Villon_Francois_2.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.178.46/images/2024/01/28/1-11-newrfgr.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2024\01\28\1-11-newrfgr.jpg
 Content Type: image/jpeg
@@ -688,10 +668,6 @@ Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/2026/02/08/Holbein-erasmus3.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\02\08\Holbein-erasmus3.png
-Content Type: image/png
-
-Uri: http://192.168.178.46/images/2026/02/08/Immagine4c(1)(1).png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\02\08\Immagine4c(1)(1).png
 Content Type: image/png
 
 Uri: http://192.168.178.46/images/2026/02/12/paolieri_ritratto.jpg
@@ -1562,10 +1538,6 @@ Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/goldoni_l_adulatore.epub
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\goldoni_l_adulatore.epub
 Content Type: application/epub+zip
 
-Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/Guicciardini - Storie Fiorentine - standard.epub
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\Guicciardini - Storie Fiorentine - standard.epub
-Content Type: application/epub+zip
-
 Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/ilcanticodellecreature - Gerardo D Orrico.epub
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\ilcanticodellecreature - Gerardo D Orrico.epub
 Content Type: application/epub+zip
@@ -1726,10 +1698,6 @@ Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/Libro delle Tre Scrit
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\Libro delle Tre Scritture - Bonvesin de la Riva.mobi
 Content Type: 
 
-Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/Lidiota - Fedor Dostoevskij.azw3
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\Lidiota - Fedor Dostoevskij.azw3
-Content Type: application/vnd.amazon.mobi8-ebook
-
 Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/Luomo medievale - Jacques Le Goff.azw3
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\Luomo medievale - Jacques Le Goff.azw3
 Content Type: application/vnd.amazon.mobi8-ebook
@@ -1749,10 +1717,6 @@ Content Type:
 Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/Poema Paradisiaco - DAnnunzio.mobi
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\Poema Paradisiaco - DAnnunzio.mobi
 Content Type: 
-
-Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/Poesie - Francois Villon.azw3
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\Poesie - Francois Villon.azw3
-Content Type: application/vnd.amazon.mobi8-ebook
 
 Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/Rime - Dante.mobi
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\Rime - Dante.mobi
@@ -3042,7 +3006,7 @@ Uri: http://192.168.178.46/media/com_content/js/articles-list.min.js?f53819
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\com_content\js\articles-list.min.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?217fff
+Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?998b8e
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -3058,7 +3022,7 @@ Uri: http://192.168.178.46/media/mod_beneinst_darkmode/js/darkmode.js?v=1.2.0
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_beneinst_darkmode\js\darkmode.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?217fff
+Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?998b8e
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_menu\js\menu.min.js
 Content Type: text/javascript
 
@@ -3160,26 +3124,6 @@ Content Type: text/html
 
 Uri: http://192.168.178.46/omero.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\omero.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-lettere-menu/ci-sono-tante-nuvole-nel-firmamento.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-lettere-menu\ci-sono-tante-nuvole-nel-firmamento.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-lettere-menu/come-te-non-ce-nessuno.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-lettere-menu\come-te-non-ce-nessuno.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-lettere-menu/e-io-me-ne-andro.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-lettere-menu\e-io-me-ne-andro.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-lettere-menu/il-fazzoletto.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-lettere-menu\il-fazzoletto.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-lettere-menu/la-mamma-sorgente-della-sua-vocazione.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-lettere-menu\la-mamma-sorgente-della-sua-vocazione.html
 Content Type: text/html
 
 Uri: http://192.168.178.46/opere-poesie-menu.feed?type=atom
@@ -3618,7 +3562,7 @@ Uri: http://192.168.178.46/silvia-masaracchio.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\silvia-masaracchio.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/templates/shaper_helixultimate/css/custom.css?v=1790631172
+Uri: http://192.168.178.46/templates/shaper_helixultimate/css/custom.css?v=1790719942
 File Name: C:\Downloaded Web Sites\192.168.178.46\templates\shaper_helixultimate\css\custom.css
 Content Type: text/css
 
@@ -3880,22 +3824,6 @@ Content Type: application/pdf
 
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/donna__p.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\donna__p.pdf
-Content Type: application/pdf
-
-Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/dostoevskij_delitto_e_castigo.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\dostoevskij_delitto_e_castigo.pdf
-Content Type: application/pdf
-
-Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/dostoevskij_le_notti_bianche.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\dostoevskij_le_notti_bianche.pdf
-Content Type: application/pdf
-
-Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/dostoevskij_l_adolescente.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\dostoevskij_l_adolescente.pdf
-Content Type: application/pdf
-
-Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/dostoevskij_l_idiota.pdf
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\dostoevskij_l_idiota.pdf
 Content Type: application/pdf
 
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/Enrico_IV.pdf
