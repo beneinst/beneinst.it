@@ -866,72 +866,8 @@ Uri: http://192.168.178.46/images/2026/09/28/oig4 4 2.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig4 4 2.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2026/09/28/oig4 7 1.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig4 7 1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/28/oig4 7 11.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig4 7 11.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/28/oig4 7 110.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig4 7 110.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/28/oig4 7 111.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig4 7 111.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/28/oig4 7 112.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig4 7 112.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/28/oig4 7 113.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig4 7 113.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/28/oig4 7 114.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig4 7 114.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/28/oig4 7 115.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig4 7 115.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/28/oig4 7 117.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig4 7 117.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/28/oig4 7 12.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig4 7 12.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/28/oig4 7 13.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig4 7 13.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/28/oig4 7 14.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig4 7 14.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.178.46/images/2026/09/28/oig4 7 15.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig4 7 15.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/28/oig4 7 16.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig4 7 16.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/28/oig4 7 17.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig4 7 17.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/28/oig4 7 18.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig4 7 18.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/28/oig4 7 19.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\28\oig4 7 19.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/2026/09/28/oig4.zaebgzyjqg.mturye 2.jpg
@@ -946,136 +882,24 @@ Uri: http://192.168.178.46/images/2026/09/29/oig1 3 1.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig1 3 1.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2026/09/29/oig1 4 110.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig1 4 110.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig1 4 111.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig1 4 111.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.178.46/images/2026/09/29/oig1 4 12.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig1 4 12.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig1 4 13.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig1 4 13.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig1 4 14.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig1 4 14.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig1 4 15.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig1 4 15.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig1 4 16.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig1 4 16.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig1 4 17.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig1 4 17.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig1 4 18.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig1 4 18.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig1 4 19.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig1 4 19.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/2026/09/29/oig1 5 1.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig1 5 1.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2026/09/29/oig1 5 11.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig1 5 11.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.178.46/images/2026/09/29/oig1 8 1.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig1 8 1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig1 8 11.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig1 8 11.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig1 8 12.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig1 8 12.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig1 8 13.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig1 8 13.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig1 8 14.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig1 8 14.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig1 8 15.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig1 8 15.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig1 8 16.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig1 8 16.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/2026/09/29/oig1.oklnbvbgwns 1.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig1.oklnbvbgwns 1.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2026/09/29/oig1.oklnbvbgwns 11.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig1.oklnbvbgwns 11.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig1.oklnbvbgwns 12.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig1.oklnbvbgwns 12.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig1.oklnbvbgwns 13.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig1.oklnbvbgwns 13.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig1.oklnbvbgwns 14.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig1.oklnbvbgwns 14.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig1.oklnbvbgwns 15.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig1.oklnbvbgwns 15.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig1.oklnbvbgwns 16.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig1.oklnbvbgwns 16.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig1.oklnbvbgwns 17.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig1.oklnbvbgwns 17.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig1.oklnbvbgwns 18.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig1.oklnbvbgwns 18.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig1.oklnbvbgwns 19.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig1.oklnbvbgwns 19.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.178.46/images/2026/09/29/oig2 10 1.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig2 10 1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig2 10 11.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig2 10 11.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig2 10 12.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig2 10 12.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig2 10 13.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig2 10 13.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/2026/09/29/oig2 8 1.jpg
@@ -1086,240 +910,40 @@ Uri: http://192.168.178.46/images/2026/09/29/oig2 9 1.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig2 9 1.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2026/09/29/oig2 9 11.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig2 9 11.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig2.cm5i8hr2w2 1.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig2.cm5i8hr2w2 1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig2.cm5i8hr2w2 11.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig2.cm5i8hr2w2 11.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig2.cm5i8hr2w2 110.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig2.cm5i8hr2w2 110.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig2.cm5i8hr2w2 111.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig2.cm5i8hr2w2 111.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig2.cm5i8hr2w2 112.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig2.cm5i8hr2w2 112.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig2.cm5i8hr2w2 12.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig2.cm5i8hr2w2 12.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig2.cm5i8hr2w2 13.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig2.cm5i8hr2w2 13.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig2.cm5i8hr2w2 14.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig2.cm5i8hr2w2 14.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig2.cm5i8hr2w2 15.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig2.cm5i8hr2w2 15.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig2.cm5i8hr2w2 16.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig2.cm5i8hr2w2 16.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.178.46/images/2026/09/29/oig2.cm5i8hr2w2 17.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig2.cm5i8hr2w2 17.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig2.cm5i8hr2w2 18.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig2.cm5i8hr2w2 18.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig2.cm5i8hr2w2 19.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig2.cm5i8hr2w2 19.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/2026/09/29/oig2.cn.rgg.f3rmitky12 1.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig2.cn.rgg.f3rmitky12 1.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2026/09/29/oig2.cn.rgg.f3rmitky12 11.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig2.cn.rgg.f3rmitky12 11.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig2.cn.rgg.f3rmitky12 12.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig2.cn.rgg.f3rmitky12 12.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig2.cn.rgg.f3rmitky12 13.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig2.cn.rgg.f3rmitky12 13.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig2.cn.rgg.f3rmitky12 14.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig2.cn.rgg.f3rmitky12 14.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig2.cn.rgg.f3rmitky12 15.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig2.cn.rgg.f3rmitky12 15.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.178.46/images/2026/09/29/oig3 6 1.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig3 6 1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig3 6 11.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig3 6 11.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig3 6 12.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig3 6 12.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/2026/09/29/oig3 7 1.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig3 7 1.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2026/09/29/oig3 7 11.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig3 7 11.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig3 7 12.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig3 7 12.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.178.46/images/2026/09/29/oig3.u 1.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig3.u 1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig3.u 11.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig3.u 11.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig3.u 12.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig3.u 12.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/2026/09/29/oig4 11 1.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig4 11 1.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2026/09/29/oig4 11 11.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig4 11 11.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig4 11 12.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig4 11 12.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig4 11 13.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig4 11 13.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig4 11 14.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig4 11 14.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig4 11 15.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig4 11 15.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.178.46/images/2026/09/29/oig4 12 1.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig4 12 1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig4 12 11.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig4 12 11.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig4 12 12.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig4 12 12.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig4 7 1.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig4 7 1.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/2026/09/29/oig4 9 1.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig4 9 1.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.178.46/images/2026/09/29/oig4.ybrxxswz857f 1.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig4.ybrxxswz857f 1.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig4.ybrxxswz857f 11.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig4.ybrxxswz857f 11.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig4.ybrxxswz857f 110.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig4.ybrxxswz857f 110.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig4.ybrxxswz857f 111.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig4.ybrxxswz857f 111.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig4.ybrxxswz857f 112.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig4.ybrxxswz857f 112.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig4.ybrxxswz857f 113.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig4.ybrxxswz857f 113.jpg
-Content Type: image/jpeg
-
 Uri: http://192.168.178.46/images/2026/09/29/oig4.ybrxxswz857f 114.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig4.ybrxxswz857f 114.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig4.ybrxxswz857f 115.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig4.ybrxxswz857f 115.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig4.ybrxxswz857f 116.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig4.ybrxxswz857f 116.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig4.ybrxxswz857f 117.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig4.ybrxxswz857f 117.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig4.ybrxxswz857f 118.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig4.ybrxxswz857f 118.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig4.ybrxxswz857f 12.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig4.ybrxxswz857f 12.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig4.ybrxxswz857f 13.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig4.ybrxxswz857f 13.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig4.ybrxxswz857f 14.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig4.ybrxxswz857f 14.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig4.ybrxxswz857f 15.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig4.ybrxxswz857f 15.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig4.ybrxxswz857f 16.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig4.ybrxxswz857f 16.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig4.ybrxxswz857f 17.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig4.ybrxxswz857f 17.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig4.ybrxxswz857f 18.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig4.ybrxxswz857f 18.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2026/09/29/oig4.ybrxxswz857f 19.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig4.ybrxxswz857f 19.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/7ok_edited_edited-gd2.jpg
@@ -1849,10 +1473,6 @@ Content Type: application/pdf
 Uri: http://192.168.178.46/images/logosretina3mini2.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\logosretina3mini2.png
 Content Type: image/png
-
-Uri: http://192.168.178.46/images/sottotitolobenen.jpg
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\sottotitolobenen.jpg
-Content Type: image/jpeg
 
 Uri: http://192.168.178.46/images/speasyimagegallery/albums/1/images/1.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\speasyimagegallery\albums\1\images\1.png
@@ -2538,10 +2158,6 @@ Uri: http://192.168.178.46/maksim-gor-kij.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\maksim-gor-kij.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/media/com_content/js/articles-list.min.js?f53819
-File Name: C:\Downloaded Web Sites\192.168.178.46\media\com_content\js\articles-list.min.js
-Content Type: text/javascript
-
 Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?9c5ec4
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
@@ -2660,458 +2276,6 @@ Content Type: text/html
 
 Uri: http://192.168.178.46/omero.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\omero.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-disegni.feed?type=atom
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-disegni-1.feed
-Content Type: application/atom+xml
-
-Uri: http://192.168.178.46/opere-disegni.feed?type=rss
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-disegni.feed
-Content Type: application/rss+xml
-
-Uri: http://192.168.178.46/opere-disegni.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-disegni.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-lettere-menu.feed?type=atom
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-lettere-menu-1.feed
-Content Type: application/atom+xml
-
-Uri: http://192.168.178.46/opere-lettere-menu.feed?type=rss
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-lettere-menu.feed
-Content Type: application/rss+xml
-
-Uri: http://192.168.178.46/opere-lettere-menu.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-lettere-menu.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-lettere-menu.html?start=10
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-lettere-menu-1.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-lettere-menu.html?start=20
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-lettere-menu-2.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-lettere-menu/ci-sono-tante-nuvole-nel-firmamento.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-lettere-menu\ci-sono-tante-nuvole-nel-firmamento.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-lettere-menu/come-te-non-ce-nessuno.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-lettere-menu\come-te-non-ce-nessuno.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-lettere-menu/e-io-me-ne-andro.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-lettere-menu\e-io-me-ne-andro.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-lettere-menu/enero-2007,-ande-peruviane.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-lettere-menu\enero-2007,-ande-peruviane.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-lettere-menu/giudicare-una-commedia.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-lettere-menu\giudicare-una-commedia.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-lettere-menu/il-fazzoletto.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-lettere-menu\il-fazzoletto.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-lettere-menu/la-farfalla-dalle-ali-dipinte.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-lettere-menu\la-farfalla-dalle-ali-dipinte.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-lettere-menu/la-mamma-sorgente-della-sua-vocazione.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-lettere-menu\la-mamma-sorgente-della-sua-vocazione.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-lettere-menu/la-ragione-dellesistenza.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-lettere-menu\la-ragione-dellesistenza.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-lettere-menu/la-solitudine-di-angela.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-lettere-menu\la-solitudine-di-angela.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-lettere-menu/la-storia-del-pianista.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-lettere-menu\la-storia-del-pianista.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-lettere-menu/la-verita-sta-nel-mezzo-e-un-detto-mal-compreso.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-lettere-menu\la-verita-sta-nel-mezzo-e-un-detto-mal-compreso.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-lettere-menu/omaggio-a-giorgio-gaber.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-lettere-menu\omaggio-a-giorgio-gaber.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-lettere-menu/penisola-indocinese-1993.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-lettere-menu\penisola-indocinese-1993.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-lettere-menu/sentimenti.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-lettere-menu\sentimenti.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-lettere-menu/yangon-1995,-sud-est-asiatico.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-lettere-menu\yangon-1995,-sud-est-asiatico.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu.feed?type=atom
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu-1.feed
-Content Type: application/atom+xml
-
-Uri: http://192.168.178.46/opere-poesie-menu.feed?type=rss
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu.feed
-Content Type: application/rss+xml
-
-Uri: http://192.168.178.46/opere-poesie-menu.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu.html?start=10
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu-1.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu.html?start=20
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu-2.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu.html?start=30
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu-3.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu.html?start=40
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu-4.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu.html?start=50
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu-5.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu.html?start=60
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu-6.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu.html?start=70
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu-7.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu.html?start=80
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu-8.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/a-jolanda-country.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\a-jolanda-country.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/ansia.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\ansia.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/baci-ed-orgasmi.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\baci-ed-orgasmi.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/come-un-bambino.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\come-un-bambino.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/dei-figli-miei-dei-figli-vostri.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\dei-figli-miei-dei-figli-vostri.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/diversamente-abile.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\diversamente-abile.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/dovio-mappiglio.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\dovio-mappiglio.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/e-se-un-giorno.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\e-se-un-giorno.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/easter-2019.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\easter-2019.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/emozione-rubata.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\emozione-rubata.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/espressioni-cupe.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\espressioni-cupe.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/esterno.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\esterno.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/fuori.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\fuori.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/gente-di-calabria.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\gente-di-calabria.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/identita-tradita.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\identita-tradita.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/il-braille.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\il-braille.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/il-giorno-si-perpetua.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\il-giorno-si-perpetua.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/il-nonno.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\il-nonno.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/il-risveglio-dallipocrisia.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\il-risveglio-dallipocrisia.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/innocenza.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\innocenza.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/intimita.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\intimita.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/io-credo-nellamore.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\io-credo-nellamore.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/io-ti-ho-cercato.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\io-ti-ho-cercato.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/io-ti-ritrovo.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\io-ti-ritrovo.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/la-festuca-nel-becco-della-gazza.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\la-festuca-nel-becco-della-gazza.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/la-tua-ombra.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\la-tua-ombra.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/la-valle-delle-mele.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\la-valle-delle-mele.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/la-visione-dei-tuoi-occhi.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\la-visione-dei-tuoi-occhi.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/labbra-dorate.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\labbra-dorate.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/lalba.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\lalba.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/lamore-trionfa-ancora.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\lamore-trionfa-ancora.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/lasciami-il-tuo-sorriso.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\lasciami-il-tuo-sorriso.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/lasciu-la-terra-mia.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\lasciu-la-terra-mia.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/le-lucciole.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\le-lucciole.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/le-mamme-sono-il-fulcro-della-famiglia.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\le-mamme-sono-il-fulcro-della-famiglia.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/lelisir-della-vita.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\lelisir-della-vita.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/limportanza-degli-accessori.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\limportanza-degli-accessori.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/linfermo.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\linfermo.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/luce.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\luce.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/madonna.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\madonna.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/mille-emozioni.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\mille-emozioni.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/mio-figlio.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\mio-figlio.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/monito.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\monito.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/nessuno-si-salva-se-non-sa-perdonar.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\nessuno-si-salva-se-non-sa-perdonar.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/non-ce-armonia.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\non-ce-armonia.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/nostalgia.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\nostalgia.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/nota-perversa.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\nota-perversa.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/nulla-di-tutto-cio-che-hai-ti-appartiene.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\nulla-di-tutto-cio-che-hai-ti-appartiene.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/odio-quella-musica.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\odio-quella-musica.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/parlami-quando-e-sera.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\parlami-quando-e-sera.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/pennellate-di-vita.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\pennellate-di-vita.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/per-quattro-soldi.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\per-quattro-soldi.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/piu-di-te-stesso.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\piu-di-te-stesso.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/purtroppo-ero-solo.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\purtroppo-ero-solo.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/quando-busserai-alla-mia-porta.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\quando-busserai-alla-mia-porta.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/quelle-comandate-dal-cielo.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\quelle-comandate-dal-cielo.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/quello-che-sento-nel-mio-cuore.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\quello-che-sento-nel-mio-cuore.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/ricordo-valsinni.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\ricordo-valsinni.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/rimargina.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\rimargina.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/ritorna-a-brillare.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\ritorna-a-brillare.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/ritrovero-il-sole.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\ritrovero-il-sole.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/senilita.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\senilita.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/silente-e-solitario.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\silente-e-solitario.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/stella-del-mattino.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\stella-del-mattino.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/sui-risvegli-dellanima.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\sui-risvegli-dellanima.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/terra-jonia.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\terra-jonia.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/the-poem-of-adriana.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\the-poem-of-adriana.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/trudy.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\trudy.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/tu-che-non-sai.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\tu-che-non-sai.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/tu-per-me.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\tu-per-me.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/uccelli-senzali.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\uccelli-senzali.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/un-viaggio-nel-tramonto.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\un-viaggio-nel-tramonto.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/unombra-nella-corsa.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\unombra-nella-corsa.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/vecchie-conoscenze.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\vecchie-conoscenze.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/voli-di-rondinella.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\voli-di-rondinella.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/volo.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\volo.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/vorrei-vivere-felicemente.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\vorrei-vivere-felicemente.html
-Content Type: text/html
-
-Uri: http://192.168.178.46/opere-poesie-menu/zeroquarantotto.html
-File Name: C:\Downloaded Web Sites\192.168.178.46\opere-poesie-menu\zeroquarantotto.html
 Content Type: text/html
 
 Uri: http://192.168.178.46/oscar-wilde.html
