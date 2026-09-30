@@ -1,5 +1,5 @@
 BENEINST.EU - RAPPORTO GENERAZIONE SITEMAP
-Generato: 2026-09-30 22:58:21
+Generato: 2026-10-01 00:03:59
 Cartella: D:\Siti GitHub\beneinst.it
 URL inclusi: 264
 File esclusi: 203

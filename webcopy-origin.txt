@@ -2934,10 +2934,6 @@ Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/swift_viaggi_di_gulliver_ne
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\swift_viaggi_di_gulliver_nelle_lontane_regioni.pdf
 Content Type: application/pdf
 
-Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/Ufoscolo/gramsci_l_albero_del_riccio.epub
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\Ufoscolo\gramsci_l_albero_del_riccio.epub
-Content Type: application/epub+zip
-
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/Ufoscolo/gramsci_l_albero_del_riccio.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\Ufoscolo\gramsci_l_albero_del_riccio.pdf
 Content Type: application/pdf
