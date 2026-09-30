@@ -1733,3 +1733,36 @@ html.bdm-dark .iubenda-tp-btn.iubenda-cs-preferences-link {
   margin-top: 12px !important;
   padding-top: 0 !important;
 }
+
+html.bdm-dark #blockrandom-445 {
+  filter: invert(1) hue-rotate(180deg);
+  border-radius: 12px;
+}
+
+html.bdm-dark .sppb-addon-content:has(> iframe#blockrandom-445) {
+  position: relative;
+  isolation: isolate;
+  background: #202a2f !important;
+  padding: 9px !important;
+  border: 1px solid #526c71 !important;
+  border-radius: 18px;
+}
+
+html.bdm-dark .sppb-addon-content:has(> iframe#blockrandom-445)::after {
+  content: "";
+  position: absolute;
+  inset: 9px;
+  z-index: 2;
+  border-radius: 10px;
+  background: rgba(24, 70, 52, .72);
+  mix-blend-mode: screen;
+  pointer-events: none;
+}
+
+html.bdm-dark iframe#blockrandom-445 {
+  display: block;
+  position: relative;
+  z-index: 1;
+  border: 0;
+  border-radius: 10px;
+}
