@@ -1679,3 +1679,57 @@ html:not(.bdm-dark) .article-details .article-info,
 html:not(.bdm-dark) .article-details .article-info span {
   color: #17382c !important;
 }
+
+/* 1. Più respiro sotto la descrizione nelle schede */
+.bi-opere .bi-opere__link {
+  height: 238px !important;
+}
+
+.bi-opere .bi-opere__body {
+  min-height: 68px !important;
+  flex-basis: 68px !important;
+  padding-bottom: 9px !important;
+}
+
+/* 2. Avvicina il carosello al footer */
+#sp-main-body:has(.bi-opere) {
+  padding-bottom: 50px !important;
+}
+
+#sp-main-body .bi-opere {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+/* 3. Pulsante Iubenda in modalità scura: cambia solo il fondo */
+html.bdm-dark .iubenda-tp-btn.iubenda-cs-preferences-link {
+  background-color: #202a2f !important;
+  border: 1px solid #526c71 !important;
+  box-shadow: none !important;
+}
+
+/* 4. Immagini principali degli articoli su smartphone */
+@media (max-width: 640px) {
+  .article-details figure.article-full-image.item-image {
+    float: none !important;
+    display: block;
+    width: min(100%, 360px);
+    max-width: 100%;
+    margin: 0 auto 20px !important;
+  }
+
+  .article-details figure.article-full-image.item-image img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+}
+/* Avvicina l'elenco delle opere al carosello degli autori */
+.article-details:has(#bi-ebook) .ebook-grid {
+  margin-bottom: 0 !important;
+}
+
+#bi-ebook {
+  margin-top: 12px !important;
+  padding-top: 0 !important;
+}
