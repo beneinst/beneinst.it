@@ -1,8 +1,8 @@
 BENEINST.EU - RAPPORTO GENERAZIONE SITEMAP
-Generato: 2026-10-01 00:03:59
+Generato: 2026-10-01 01:23:00
 Cartella: D:\Siti GitHub\beneinst.it
-URL inclusi: 264
-File esclusi: 203
+URL inclusi: 269
+File esclusi: 213
 
 URL INCLUSI
 ============
@@ -41,30 +41,20 @@ https://beneinst.eu/di-anna-maria-tarantino.html | di-anna-maria-tarantino.html 
 https://beneinst.eu/di-antonio-bria.html | di-antonio-bria.html | percorso file statico
 https://beneinst.eu/diari.html | diari.html | percorso file statico
 https://beneinst.eu/di-arturo-pistocchi.html | di-arturo-pistocchi.html | percorso file statico
-https://beneinst.eu/di-arturo-pistocchi-1.html | di-arturo-pistocchi-1.html | percorso file statico
-https://beneinst.eu/di-arturo-pistocchi-2.html | di-arturo-pistocchi-2.html | percorso file statico
 https://beneinst.eu/di-begonia-curto.html | di-begonia-curto.html | percorso file statico
 https://beneinst.eu/di-chiara-g-schiavini.html | di-chiara-g-schiavini.html | percorso file statico
 https://beneinst.eu/di-felice-gualtieri.html | di-felice-gualtieri.html | percorso file statico
 https://beneinst.eu/di-francesco-magli.html | di-francesco-magli.html | percorso file statico
 https://beneinst.eu/di-franco-bazzarelli.html | di-franco-bazzarelli.html | percorso file statico
 https://beneinst.eu/di-franco-farina.html | di-franco-farina.html | percorso file statico
-https://beneinst.eu/di-franco-farina-1.html | di-franco-farina-1.html | percorso file statico
-https://beneinst.eu/di-franco-farina-2.html | di-franco-farina-2.html | percorso file statico
 https://beneinst.eu/di-giuseppe-ambrosecchia.html | di-giuseppe-ambrosecchia.html | percorso file statico
 https://beneinst.eu/di-katia-ferri.html | di-katia-ferri.html | percorso file statico
 https://beneinst.eu/dillo-tu-te-stesso.html | dillo-tu-te-stesso.html | percorso file statico
 https://beneinst.eu/di-luigi-cardarelli.html | di-luigi-cardarelli.html | percorso file statico
-https://beneinst.eu/di-luigi-cardarelli-1.html | di-luigi-cardarelli-1.html | percorso file statico
-https://beneinst.eu/di-luigi-cardarelli-2.html | di-luigi-cardarelli-2.html | percorso file statico
-https://beneinst.eu/di-luigi-cardarelli-3.html | di-luigi-cardarelli-3.html | percorso file statico
 https://beneinst.eu/di-marco-piluso.html | di-marco-piluso.html | percorso file statico
 https://beneinst.eu/di-maria-teresa-azzoni.html | di-maria-teresa-azzoni.html | percorso file statico
-https://beneinst.eu/di-maria-teresa-azzoni-1.html | di-maria-teresa-azzoni-1.html | percorso file statico
 https://beneinst.eu/di-martino-ricupero.html | di-martino-ricupero.html | percorso file statico
 https://beneinst.eu/di-massimo-vay.html | di-massimo-vay.html | percorso file statico
-https://beneinst.eu/di-massimo-vay-1.html | di-massimo-vay-1.html | percorso file statico
-https://beneinst.eu/di-massimo-vay-2.html | di-massimo-vay-2.html | percorso file statico
 https://beneinst.eu/di-rachele-bria.html | di-rachele-bria.html | percorso file statico
 https://beneinst.eu/di-rita-matrella.html | di-rita-matrella.html | percorso file statico
 https://beneinst.eu/di-rocco-veltri.html | di-rocco-veltri.html | percorso file statico
@@ -162,11 +152,26 @@ https://beneinst.eu/maksim-gor-kij.html | maksim-gor-kij.html | percorso file st
 https://beneinst.eu/milan-kundera.html | milan-kundera.html | percorso file statico
 https://beneinst.eu/niccolo-machiavelli.html | niccolo-machiavelli.html | percorso file statico
 https://beneinst.eu/omero.html | omero.html | percorso file statico
+https://beneinst.eu/opere-disegni.html | opere-disegni.html | percorso file statico
+https://beneinst.eu/opere-lettere-menu.html | opere-lettere-menu.html | percorso file statico
 https://beneinst.eu/opere-lettere-menu/ci-sono-tante-nuvole-nel-firmamento.html | opere-lettere-menu/ci-sono-tante-nuvole-nel-firmamento.html | percorso file statico
 https://beneinst.eu/opere-lettere-menu/come-te-non-ce-nessuno.html | opere-lettere-menu/come-te-non-ce-nessuno.html | percorso file statico
 https://beneinst.eu/opere-lettere-menu/e-io-me-ne-andro.html | opere-lettere-menu/e-io-me-ne-andro.html | percorso file statico
+https://beneinst.eu/opere-lettere-menu/enero-2007,-ande-peruviane.html | opere-lettere-menu/enero-2007,-ande-peruviane.html | percorso file statico
+https://beneinst.eu/opere-lettere-menu/giudicare-una-commedia.html | opere-lettere-menu/giudicare-una-commedia.html | percorso file statico
 https://beneinst.eu/opere-lettere-menu/il-fazzoletto.html | opere-lettere-menu/il-fazzoletto.html | percorso file statico
+https://beneinst.eu/opere-lettere-menu/la-farfalla-dalle-ali-dipinte.html | opere-lettere-menu/la-farfalla-dalle-ali-dipinte.html | percorso file statico
 https://beneinst.eu/opere-lettere-menu/la-mamma-sorgente-della-sua-vocazione.html | opere-lettere-menu/la-mamma-sorgente-della-sua-vocazione.html | percorso file statico
+https://beneinst.eu/opere-lettere-menu/la-ragione-dellesistenza.html | opere-lettere-menu/la-ragione-dellesistenza.html | percorso file statico
+https://beneinst.eu/opere-lettere-menu/la-solitudine-di-angela.html | opere-lettere-menu/la-solitudine-di-angela.html | percorso file statico
+https://beneinst.eu/opere-lettere-menu/la-storia-del-pianista.html | opere-lettere-menu/la-storia-del-pianista.html | percorso file statico
+https://beneinst.eu/opere-lettere-menu/la-verita-sta-nel-mezzo-e-un-detto-mal-compreso.html | opere-lettere-menu/la-verita-sta-nel-mezzo-e-un-detto-mal-compreso.html | percorso file statico
+https://beneinst.eu/opere-lettere-menu/omaggio-a-giorgio-gaber.html | opere-lettere-menu/omaggio-a-giorgio-gaber.html | percorso file statico
+https://beneinst.eu/opere-lettere-menu/penisola-indocinese-1993.html | opere-lettere-menu/penisola-indocinese-1993.html | percorso file statico
+https://beneinst.eu/opere-lettere-menu/sentimenti.html | opere-lettere-menu/sentimenti.html | percorso file statico
+https://beneinst.eu/opere-lettere-menu/yangon-1995,-sud-est-asiatico.html | opere-lettere-menu/yangon-1995,-sud-est-asiatico.html | percorso file statico
+https://beneinst.eu/opere-lettere-menu-1.html | opere-lettere-menu-1.html | percorso file statico
+https://beneinst.eu/opere-lettere-menu-2.html | opere-lettere-menu-2.html | percorso file statico
 https://beneinst.eu/opere-poesie-menu/a-jolanda-country.html | opere-poesie-menu/a-jolanda-country.html | percorso file statico
 https://beneinst.eu/opere-poesie-menu/ansia.html | opere-poesie-menu/ansia.html | percorso file statico
 https://beneinst.eu/opere-poesie-menu/baci-ed-orgasmi.html | opere-poesie-menu/baci-ed-orgasmi.html | percorso file statico
@@ -282,6 +287,8 @@ di-anna-maria-tarantino-3.html | Copia dell'articolo Joomla ID 158 gia presente 
 di-anna-maria-tarantino-4.html | Copia dell'articolo Joomla ID 157 gia presente in opere-poesie-menu/unombra-nella-corsa.html
 di-anna-maria-tarantino-5.html | Copia dell'articolo Joomla ID 156 gia presente in opere-poesie-menu/nota-perversa.html
 diari-2.html | File tecnico escluso
+di-arturo-pistocchi-1.html | Copia dell'articolo Joomla ID 242 gia presente in opere-lettere-menu/la-solitudine-di-angela.html
+di-arturo-pistocchi-2.html | Copia dell'articolo Joomla ID 241 gia presente in opere-lettere-menu/sentimenti.html
 di-chiara-g-schiavini-1.html | Copia dell'articolo Joomla ID 154 gia presente in opere-poesie-menu/il-braille.html
 di-chiara-g-schiavini-2.html | Copia dell'articolo Joomla ID 153 gia presente in opere-poesie-menu/a-jolanda-country.html
 di-franco-bazzarelli-1.html | Copia dell'articolo Joomla ID 201 gia presente in opere-poesie-menu/innocenza.html
@@ -289,12 +296,20 @@ di-franco-bazzarelli-2.html | Copia dell'articolo Joomla ID 200 gia presente in 
 di-franco-bazzarelli-3.html | Copia dell'articolo Joomla ID 199 gia presente in opere-poesie-menu/odio-quella-musica.html
 di-franco-bazzarelli-4.html | Copia dell'articolo Joomla ID 198 gia presente in opere-poesie-menu/io-ti-ritrovo.html
 di-franco-bazzarelli-5.html | Copia dell'articolo Joomla ID 197 gia presente in opere-poesie-menu/quando-busserai-alla-mia-porta.html
+di-franco-farina-1.html | Copia dell'articolo Joomla ID 245 gia presente in opere-lettere-menu/la-storia-del-pianista.html
+di-franco-farina-2.html | Copia dell'articolo Joomla ID 244 gia presente in opere-lettere-menu/la-farfalla-dalle-ali-dipinte.html
 di-giuseppe-ambrosecchia-1.html | Copia dell'articolo Joomla ID 211 gia presente in opere-poesie-menu/lelisir-della-vita.html
 di-giuseppe-ambrosecchia-2.html | Copia dell'articolo Joomla ID 210 gia presente in opere-poesie-menu/gente-di-calabria.html
 di-giuseppe-ambrosecchia-3.html | Copia dell'articolo Joomla ID 209 gia presente in opere-poesie-menu/uccelli-senzali.html
 di-giuseppe-ambrosecchia-4.html | Copia dell'articolo Joomla ID 208 gia presente in opere-poesie-menu/identita-tradita.html
 di-giuseppe-ambrosecchia-5.html | Copia dell'articolo Joomla ID 207 gia presente in opere-poesie-menu/piu-di-te-stesso.html
+di-luigi-cardarelli-1.html | Copia dell'articolo Joomla ID 236 gia presente in opere-lettere-menu/yangon-1995,-sud-est-asiatico.html
+di-luigi-cardarelli-2.html | Copia dell'articolo Joomla ID 235 gia presente in opere-lettere-menu/penisola-indocinese-1993.html
+di-luigi-cardarelli-3.html | Copia dell'articolo Joomla ID 234 gia presente in opere-lettere-menu/enero-2007,-ande-peruviane.html
+di-maria-teresa-azzoni-1.html | Copia dell'articolo Joomla ID 232 gia presente in opere-lettere-menu/omaggio-a-giorgio-gaber.html
 di-martino-ricupero-1.html | Copia dell'articolo Joomla ID 135 gia presente in opere-poesie-menu/rimargina.html
+di-massimo-vay-1.html | Copia dell'articolo Joomla ID 239 gia presente in opere-lettere-menu/la-verita-sta-nel-mezzo-e-un-detto-mal-compreso.html
+di-massimo-vay-2.html | Copia dell'articolo Joomla ID 238 gia presente in opere-lettere-menu/la-ragione-dellesistenza.html
 di-rocco-veltri-1.html | Copia dell'articolo Joomla ID 229 gia presente in opere-lettere-menu/come-te-non-ce-nessuno.html
 di-rocco-veltri-2.html | Copia dell'articolo Joomla ID 228 gia presente in opere-lettere-menu/il-fazzoletto.html
 di-rocco-veltri-3.html | Copia dell'articolo Joomla ID 227 gia presente in opere-lettere-menu/ci-sono-tante-nuvole-nel-firmamento.html
