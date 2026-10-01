@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://beneinst.eu/sitemap.xml
-Sitemap: https://beneinst.eu/sitemap269.xml
+Sitemap: https://beneinst.eu/sitemap-nuova.xml
