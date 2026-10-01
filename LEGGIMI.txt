@@ -1,0 +1,30 @@
+BENEINST - CORREZIONE 404 DEL RAPPORTO 30 SETTEMBRE 2026
+
+Estrarre i quattro file PS1/BAT/TXT e robots.txt direttamente nella radice
+D:\Siti GitHub\beneinst.it (non dentro una sottocartella).
+Conservare una copia del vecchio robots.txt prima di sostituirlo.
+
+1. Avviare Anteprima-404.bat: controllare report-correzione-404.csv.
+2. Avviare Applica-404.bat: crea fino a quattro pagine di reindirizzamento.
+   Non cancella file e non sovrascrive pagine esistenti diverse dai redirect previsti.
+   I quattro nomi creati devono restare esclusi dalle prossime sitemap.
+3. Non serve rigenerare sitemap-nuova.xml per questo intervento: le destinazioni
+   sono gia presenti nella sitemap accettata. Conservare i suoi 18 PDF.
+4. Controllare git status, fare commit dei quattro HTML e robots.txt, pubblicare.
+5. Provare i vecchi URL del rapporto, comprese le query string.
+
+Gli altri sei casi non vengono modificati:
+- index.html: non creare un redirect a /; GitHub Pages potrebbe usarlo come home,
+  provocando un ciclo. Valutare una copia della home con canonical a /.
+- emily-dickinson.html, fyodor-tyutchev.html, fedro.html: ripristinare le pagine
+  se desiderate, oppure mantenere il 404 quando non esiste una sostituta pertinente.
+- indexff2b.html (SP Page Builder 3) e index306c.html (SP Page Builder 4):
+  individuare le pagine originali in Joomla prima di scegliere una destinazione.
+
+Non cancellare i 42 e 105 vecchi file gia reindirizzati: servono ai vecchi link.
+Non rimuovere PDF sulla sola base del rapporto di indicizzazione.
+Per annullare i quattro nuovi redirect, usare l'elenco file-creati.csv nella
+cartella beneinst-backup-404-DATA creata accanto al repository.
+
+Lo script richiede Windows PowerShell 5.1. Non e stato eseguito su Windows
+in questo ambiente; l'anteprima controlla che le destinazioni esistano in locale.
