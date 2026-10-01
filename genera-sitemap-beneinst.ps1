@@ -12,6 +12,7 @@
   - usa l'URL canonical quando valido, altrimenti il percorso del file;
   - elimina duplicati, query string, frammenti e riferimenti locali;
   - genera sitemap.xml in UTF-8 senza BOM;
+  - omette lastmod: la data del file esportato non prova una modifica del contenuto;
   - verifica/aggiorna robots.txt;
   - crea sitemap-report.txt con il risultato dell'analisi.
 #>
@@ -272,6 +273,7 @@ try {
         if (
             $relativePath -match '(?i)^index\.php/' -or
             $relativePath -match '(?i)^index\.php-\d+\.html?$' -or
+			$relativePath -match '(?i)^di-[^/]+-\d+\.html?$' -or
             $relativePath -match '(?i)^opere-poesie-menu-\d+\.html?$' -or
             $relativePath -match '(?i)^(?:la-burocrazia-del-linguaggio|un-alloggio-per-l.anima)-\d+\.html?$'
         ) {
@@ -363,7 +365,6 @@ try {
         }
         $included.Add([pscustomobject]@{
             Url = $candidateUrl
-            LastMod = $file.LastWriteTimeUtc.ToString('yyyy-MM-dd')
             File = $relativePath
             Source = $source
         })
@@ -385,7 +386,6 @@ try {
         foreach ($entry in $orderedUrls) {
             $writer.WriteStartElement('url')
             $writer.WriteElementString('loc', $entry.Url)
-            $writer.WriteElementString('lastmod', $entry.LastMod)
             $writer.WriteEndElement()
         }
 

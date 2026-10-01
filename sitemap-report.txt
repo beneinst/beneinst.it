@@ -1,5 +1,5 @@
 BENEINST.EU - RAPPORTO GENERAZIONE SITEMAP
-Generato: 2026-10-01 09:28:06
+Generato: 2026-10-01 10:32:13
 Cartella: D:\Siti GitHub\beneinst.it
 URL inclusi: 269
 File esclusi: 213
@@ -281,49 +281,49 @@ FILE ESCLUSI
 anteprime-audio.html | File tecnico escluso
 archivio-ipfs.html | File tecnico escluso
 autore-2.html | File tecnico escluso
-di-anna-maria-tarantino-1.html | Copia dell'articolo Joomla ID 160 gia presente in opere-poesie-menu/espressioni-cupe.html
-di-anna-maria-tarantino-2.html | Copia dell'articolo Joomla ID 159 gia presente in opere-poesie-menu/emozione-rubata.html
-di-anna-maria-tarantino-3.html | Copia dell'articolo Joomla ID 158 gia presente in opere-poesie-menu/il-risveglio-dallipocrisia.html
-di-anna-maria-tarantino-4.html | Copia dell'articolo Joomla ID 157 gia presente in opere-poesie-menu/unombra-nella-corsa.html
-di-anna-maria-tarantino-5.html | Copia dell'articolo Joomla ID 156 gia presente in opere-poesie-menu/nota-perversa.html
+di-anna-maria-tarantino-1.html | Copia tecnica di una rotta Joomla index.php
+di-anna-maria-tarantino-2.html | Copia tecnica di una rotta Joomla index.php
+di-anna-maria-tarantino-3.html | Copia tecnica di una rotta Joomla index.php
+di-anna-maria-tarantino-4.html | Copia tecnica di una rotta Joomla index.php
+di-anna-maria-tarantino-5.html | Copia tecnica di una rotta Joomla index.php
 diari-2.html | File tecnico escluso
-di-arturo-pistocchi-1.html | Copia dell'articolo Joomla ID 242 gia presente in opere-lettere-menu/la-solitudine-di-angela.html
-di-arturo-pistocchi-2.html | Copia dell'articolo Joomla ID 241 gia presente in opere-lettere-menu/sentimenti.html
-di-chiara-g-schiavini-1.html | Copia dell'articolo Joomla ID 154 gia presente in opere-poesie-menu/il-braille.html
-di-chiara-g-schiavini-2.html | Copia dell'articolo Joomla ID 153 gia presente in opere-poesie-menu/a-jolanda-country.html
-di-franco-bazzarelli-1.html | Copia dell'articolo Joomla ID 201 gia presente in opere-poesie-menu/innocenza.html
-di-franco-bazzarelli-2.html | Copia dell'articolo Joomla ID 200 gia presente in opere-poesie-menu/sui-risvegli-dellanima.html
-di-franco-bazzarelli-3.html | Copia dell'articolo Joomla ID 199 gia presente in opere-poesie-menu/odio-quella-musica.html
-di-franco-bazzarelli-4.html | Copia dell'articolo Joomla ID 198 gia presente in opere-poesie-menu/io-ti-ritrovo.html
-di-franco-bazzarelli-5.html | Copia dell'articolo Joomla ID 197 gia presente in opere-poesie-menu/quando-busserai-alla-mia-porta.html
-di-franco-farina-1.html | Copia dell'articolo Joomla ID 245 gia presente in opere-lettere-menu/la-storia-del-pianista.html
-di-franco-farina-2.html | Copia dell'articolo Joomla ID 244 gia presente in opere-lettere-menu/la-farfalla-dalle-ali-dipinte.html
-di-giuseppe-ambrosecchia-1.html | Copia dell'articolo Joomla ID 211 gia presente in opere-poesie-menu/lelisir-della-vita.html
-di-giuseppe-ambrosecchia-2.html | Copia dell'articolo Joomla ID 210 gia presente in opere-poesie-menu/gente-di-calabria.html
-di-giuseppe-ambrosecchia-3.html | Copia dell'articolo Joomla ID 209 gia presente in opere-poesie-menu/uccelli-senzali.html
-di-giuseppe-ambrosecchia-4.html | Copia dell'articolo Joomla ID 208 gia presente in opere-poesie-menu/identita-tradita.html
-di-giuseppe-ambrosecchia-5.html | Copia dell'articolo Joomla ID 207 gia presente in opere-poesie-menu/piu-di-te-stesso.html
-di-luigi-cardarelli-1.html | Copia dell'articolo Joomla ID 236 gia presente in opere-lettere-menu/yangon-1995,-sud-est-asiatico.html
-di-luigi-cardarelli-2.html | Copia dell'articolo Joomla ID 235 gia presente in opere-lettere-menu/penisola-indocinese-1993.html
-di-luigi-cardarelli-3.html | Copia dell'articolo Joomla ID 234 gia presente in opere-lettere-menu/enero-2007,-ande-peruviane.html
-di-maria-teresa-azzoni-1.html | Copia dell'articolo Joomla ID 232 gia presente in opere-lettere-menu/omaggio-a-giorgio-gaber.html
-di-martino-ricupero-1.html | Copia dell'articolo Joomla ID 135 gia presente in opere-poesie-menu/rimargina.html
-di-massimo-vay-1.html | Copia dell'articolo Joomla ID 239 gia presente in opere-lettere-menu/la-verita-sta-nel-mezzo-e-un-detto-mal-compreso.html
-di-massimo-vay-2.html | Copia dell'articolo Joomla ID 238 gia presente in opere-lettere-menu/la-ragione-dellesistenza.html
-di-rocco-veltri-1.html | Copia dell'articolo Joomla ID 229 gia presente in opere-lettere-menu/come-te-non-ce-nessuno.html
-di-rocco-veltri-2.html | Copia dell'articolo Joomla ID 228 gia presente in opere-lettere-menu/il-fazzoletto.html
-di-rocco-veltri-3.html | Copia dell'articolo Joomla ID 227 gia presente in opere-lettere-menu/ci-sono-tante-nuvole-nel-firmamento.html
-di-rocco-veltri-4.html | Copia dell'articolo Joomla ID 226 gia presente in opere-lettere-menu/e-io-me-ne-andro.html
-di-rocco-veltri-5.html | Copia dell'articolo Joomla ID 225 gia presente in opere-lettere-menu/la-mamma-sorgente-della-sua-vocazione.html
-di-salvatore-esposito-1.html | Copia dell'articolo Joomla ID 191 gia presente in opere-poesie-menu/fuori.html
-di-salvatore-esposito-2.html | Copia dell'articolo Joomla ID 190 gia presente in opere-poesie-menu/labbra-dorate.html
-di-salvatore-esposito-3.html | Copia dell'articolo Joomla ID 189 gia presente in opere-poesie-menu/pennellate-di-vita.html
-di-salvatore-esposito-4.html | Copia dell'articolo Joomla ID 188 gia presente in opere-poesie-menu/ansia.html
-di-salvatore-esposito-5.html | Copia dell'articolo Joomla ID 187 gia presente in opere-poesie-menu/e-se-un-giorno.html
-di-salvatore-messina-1.html | Copia dell'articolo Joomla ID 165 gia presente in opere-poesie-menu/quelle-comandate-dal-cielo.html
-di-salvatore-messina-2.html | Copia dell'articolo Joomla ID 164 gia presente in opere-poesie-menu/silente-e-solitario.html
-di-salvatore-messina-3.html | Copia dell'articolo Joomla ID 163 gia presente in opere-poesie-menu/il-giorno-si-perpetua.html
-di-salvatore-messina-4.html | Copia dell'articolo Joomla ID 162 gia presente in opere-poesie-menu/non-ce-armonia.html
+di-arturo-pistocchi-1.html | Copia tecnica di una rotta Joomla index.php
+di-arturo-pistocchi-2.html | Copia tecnica di una rotta Joomla index.php
+di-chiara-g-schiavini-1.html | Copia tecnica di una rotta Joomla index.php
+di-chiara-g-schiavini-2.html | Copia tecnica di una rotta Joomla index.php
+di-franco-bazzarelli-1.html | Copia tecnica di una rotta Joomla index.php
+di-franco-bazzarelli-2.html | Copia tecnica di una rotta Joomla index.php
+di-franco-bazzarelli-3.html | Copia tecnica di una rotta Joomla index.php
+di-franco-bazzarelli-4.html | Copia tecnica di una rotta Joomla index.php
+di-franco-bazzarelli-5.html | Copia tecnica di una rotta Joomla index.php
+di-franco-farina-1.html | Copia tecnica di una rotta Joomla index.php
+di-franco-farina-2.html | Copia tecnica di una rotta Joomla index.php
+di-giuseppe-ambrosecchia-1.html | Copia tecnica di una rotta Joomla index.php
+di-giuseppe-ambrosecchia-2.html | Copia tecnica di una rotta Joomla index.php
+di-giuseppe-ambrosecchia-3.html | Copia tecnica di una rotta Joomla index.php
+di-giuseppe-ambrosecchia-4.html | Copia tecnica di una rotta Joomla index.php
+di-giuseppe-ambrosecchia-5.html | Copia tecnica di una rotta Joomla index.php
+di-luigi-cardarelli-1.html | Copia tecnica di una rotta Joomla index.php
+di-luigi-cardarelli-2.html | Copia tecnica di una rotta Joomla index.php
+di-luigi-cardarelli-3.html | Copia tecnica di una rotta Joomla index.php
+di-maria-teresa-azzoni-1.html | Copia tecnica di una rotta Joomla index.php
+di-martino-ricupero-1.html | Copia tecnica di una rotta Joomla index.php
+di-massimo-vay-1.html | Copia tecnica di una rotta Joomla index.php
+di-massimo-vay-2.html | Copia tecnica di una rotta Joomla index.php
+di-rocco-veltri-1.html | Copia tecnica di una rotta Joomla index.php
+di-rocco-veltri-2.html | Copia tecnica di una rotta Joomla index.php
+di-rocco-veltri-3.html | Copia tecnica di una rotta Joomla index.php
+di-rocco-veltri-4.html | Copia tecnica di una rotta Joomla index.php
+di-rocco-veltri-5.html | Copia tecnica di una rotta Joomla index.php
+di-salvatore-esposito-1.html | Copia tecnica di una rotta Joomla index.php
+di-salvatore-esposito-2.html | Copia tecnica di una rotta Joomla index.php
+di-salvatore-esposito-3.html | Copia tecnica di una rotta Joomla index.php
+di-salvatore-esposito-4.html | Copia tecnica di una rotta Joomla index.php
+di-salvatore-esposito-5.html | Copia tecnica di una rotta Joomla index.php
+di-salvatore-messina-1.html | Copia tecnica di una rotta Joomla index.php
+di-salvatore-messina-2.html | Copia tecnica di una rotta Joomla index.php
+di-salvatore-messina-3.html | Copia tecnica di una rotta Joomla index.php
+di-salvatore-messina-4.html | Copia tecnica di una rotta Joomla index.php
 ebook-gratis.html | File tecnico escluso
 e-book-gratis-2.html | File tecnico escluso
 home-2.html | File tecnico escluso
