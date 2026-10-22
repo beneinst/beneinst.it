@@ -3694,6 +3694,38 @@ Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/swift_viaggi_di_gulliver_ne
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\swift_viaggi_di_gulliver_nelle_lontane_regioni.pdf
 Content Type: application/pdf
 
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/tolstoj/tolstoi_risurrezione.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\tolstoj\tolstoi_risurrezione.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/tolstoj/tolstoj_amore_e_dovere.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\tolstoj\tolstoj_amore_e_dovere.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/tolstoj/tolstoj_anna_karenina.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\tolstoj\tolstoj_anna_karenina.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/tolstoj/tolstoj_che_cosa_e_l_arte.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\tolstoj\tolstoj_che_cosa_e_l_arte.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/tolstoj/tolstoj_confessione.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\tolstoj\tolstoj_confessione.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/tolstoj/tolstoj_la_guerra_e_la_pace.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\tolstoj\tolstoj_la_guerra_e_la_pace.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/tolstoj/tolstoj_la_morte_di_ivan_ilijc.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\tolstoj\tolstoj_la_morte_di_ivan_ilijc.pdf
+Content Type: application/pdf
+
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/tolstoj/tolstoj_la_sonata_a_kreutzer.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\tolstoj\tolstoj_la_sonata_a_kreutzer.pdf
+Content Type: application/pdf
+
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/Ufoscolo/gramsci_l_albero_del_riccio.epub
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\Ufoscolo\gramsci_l_albero_del_riccio.epub
 Content Type: application/epub+zip
