@@ -94,11 +94,11 @@ Uri: http://192.168.178.46/charles-baudelaire.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\charles-baudelaire.html
 Content Type: text/html
 
-Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/animate.min.css?db0eb064dd605d51126ac7a52bb9f826
+Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/animate.min.css?c6aa340600d92a35c7a408e46e401bb7
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\css\animate.min.css
 Content Type: text/css
 
-Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/dynamic-content.css?db0eb064dd605d51126ac7a52bb9f826
+Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/dynamic-content.css?c6aa340600d92a35c7a408e46e401bb7
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\css\dynamic-content.css
 Content Type: text/css
 
@@ -106,7 +106,7 @@ Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/magnific-popu
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\css\magnific-popup.css
 Content Type: text/css
 
-Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/sppagebuilder.css?db0eb064dd605d51126ac7a52bb9f826
+Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/sppagebuilder.css?c6aa340600d92a35c7a408e46e401bb7
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\css\sppagebuilder.css
 Content Type: text/css
 
@@ -122,7 +122,7 @@ Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/common.js
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\js\common.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/dynamic-content.js?db0eb064dd605d51126ac7a52bb9f826
+Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/dynamic-content.js?c6aa340600d92a35c7a408e46e401bb7
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\js\dynamic-content.js
 Content Type: text/javascript
 
@@ -130,11 +130,11 @@ Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/jquery.magnifi
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\js\jquery.magnific-popup.min.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/jquery.parallax.js?db0eb064dd605d51126ac7a52bb9f826
+Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/jquery.parallax.js?c6aa340600d92a35c7a408e46e401bb7
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\js\jquery.parallax.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/sppagebuilder.js?db0eb064dd605d51126ac7a52bb9f826
+Uri: http://192.168.178.46/components/com_sppagebuilder/assets/js/sppagebuilder.js?c6aa340600d92a35c7a408e46e401bb7
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\js\sppagebuilder.js
 Content Type: text/javascript
 
@@ -509,10 +509,6 @@ Content Type: image/png
 Uri: http://192.168.178.46/images/2023/10/03/Immagine91b.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2023\10\03\Immagine91b.jpg
 Content Type: image/jpeg
-
-Uri: http://192.168.178.46/images/2023/10/03/lev_tolstoj.png
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\2023\10\03\lev_tolstoj.png
-Content Type: image/png
 
 Uri: http://192.168.178.46/images/2023/10/03/Man-Ray-B98_0133.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2023\10\03\Man-Ray-B98_0133.jpg
@@ -1322,6 +1318,10 @@ Uri: http://192.168.178.46/images/2026/09/29/oig4.ybrxxswz857f 19.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\09\29\oig4.ybrxxswz857f 19.jpg
 Content Type: image/jpeg
 
+Uri: http://192.168.178.46/images/2026/10/22/tolstoj_transparent_v2 3.png
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\10\22\tolstoj_transparent_v2 3.png
+Content Type: image/png
+
 Uri: http://192.168.178.46/images/7ok_edited_edited-gd2.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\7ok_edited_edited-gd2.jpg
 Content Type: image/jpeg
@@ -1562,18 +1562,6 @@ Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/svevo_la_coscienza_di_ze
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\svevo_la_coscienza_di_zeno.epub
 Content Type: application/epub+zip
 
-Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/tolstoj_anna_karenina.epub
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\tolstoj_anna_karenina.epub
-Content Type: application/epub+zip
-
-Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/tolstoj_denaro_falso.epub
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\tolstoj_denaro_falso.epub
-Content Type: application/epub+zip
-
-Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/tolstoj_la_morte_di_ivan_ilijc 1.epub
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\tolstoj_la_morte_di_ivan_ilijc 1.epub
-Content Type: application/epub+zip
-
 Uri: http://192.168.178.46/images/Files/Biblioteca-EPUB/Viaggio al termine della notte - Louis Ferdinand Celine.epub
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-EPUB\Viaggio al termine della notte - Louis Ferdinand Celine.epub
 Content Type: application/epub+zip
@@ -1608,10 +1596,6 @@ Content Type: application/vnd.amazon.mobi8-ebook
 
 Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/De profundis - Oscar Wilde.azw3
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\De profundis - Oscar Wilde.azw3
-Content Type: application/vnd.amazon.mobi8-ebook
-
-Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/Devoto a Tolstoj - Victor Lebrun.azw3
-File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-Mobi-gd\Devoto a Tolstoj - Victor Lebrun.azw3
 Content Type: application/vnd.amazon.mobi8-ebook
 
 Uri: http://192.168.178.46/images/Files/Biblioteca-Mobi-gd/Divina Commedia v. unico - Alighieri Dante.mobi
@@ -2538,7 +2522,7 @@ Uri: http://192.168.178.46/media/com_content/js/articles-list.min.js?f53819
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\com_content\js\articles-list.min.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?39d444
+Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?1b2f8f
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -2554,7 +2538,7 @@ Uri: http://192.168.178.46/media/mod_beneinst_darkmode/js/darkmode.js?v=1.2.0
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_beneinst_darkmode\js\darkmode.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?39d444
+Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?1b2f8f
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_menu\js\menu.min.js
 Content Type: text/javascript
 
