@@ -3262,6 +3262,10 @@ Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/barrili_le_confessioni_di_f
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\barrili_le_confessioni_di_fra_gualberto.pdf
 Content Type: application/pdf
 
+Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/bronte_jane_eyre.pdf
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\bronte_jane_eyre.pdf
+Content Type: application/pdf
+
 Uri: https://beneinst.eu/images/Files/Biblioteca-PDF/bruno - de la causa principio et uno.pdf
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\Files\Biblioteca-PDF\bruno - de la causa principio et uno.pdf
 Content Type: application/pdf
