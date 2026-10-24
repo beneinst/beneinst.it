@@ -94,6 +94,10 @@ Uri: http://192.168.178.46/charles-baudelaire.html
 File Name: C:\Downloaded Web Sites\192.168.178.46\charles-baudelaire.html
 Content Type: text/html
 
+Uri: http://192.168.178.46/charlotte-brontë.html
+File Name: C:\Downloaded Web Sites\192.168.178.46\charlotte-brontë.html
+Content Type: text/html
+
 Uri: http://192.168.178.46/components/com_sppagebuilder/assets/css/animate.min.css?c6aa340600d92a35c7a408e46e401bb7
 File Name: C:\Downloaded Web Sites\192.168.178.46\components\com_sppagebuilder\assets\css\animate.min.css
 Content Type: text/css
@@ -1322,6 +1326,10 @@ Uri: http://192.168.178.46/images/2026/10/22/tolstoj_transparent_v2 3.png
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\10\22\tolstoj_transparent_v2 3.png
 Content Type: image/png
 
+Uri: http://192.168.178.46/images/2026/10/24/bronte_ritratto 1.jpg
+File Name: C:\Downloaded Web Sites\192.168.178.46\images\2026\10\24\bronte_ritratto 1.jpg
+Content Type: image/jpeg
+
 Uri: http://192.168.178.46/images/7ok_edited_edited-gd2.jpg
 File Name: C:\Downloaded Web Sites\192.168.178.46\images\7ok_edited_edited-gd2.jpg
 Content Type: image/jpeg
@@ -2522,7 +2530,7 @@ Uri: http://192.168.178.46/media/com_content/js/articles-list.min.js?f53819
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\com_content\js\articles-list.min.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?1b2f8f
+Uri: http://192.168.178.46/media/com_wrapper/js/iframe-height.min.js?78dd89
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\com_wrapper\js\iframe-height.min.js
 Content Type: text/javascript
 
@@ -2538,7 +2546,7 @@ Uri: http://192.168.178.46/media/mod_beneinst_darkmode/js/darkmode.js?v=1.2.0
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_beneinst_darkmode\js\darkmode.js
 Content Type: text/javascript
 
-Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?1b2f8f
+Uri: http://192.168.178.46/media/mod_menu/js/menu.min.js?78dd89
 File Name: C:\Downloaded Web Sites\192.168.178.46\media\mod_menu\js\menu.min.js
 Content Type: text/javascript
 
